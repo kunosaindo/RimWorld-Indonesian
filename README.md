@@ -1,27 +1,22 @@
-![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
+## **Proyek Translasi Bahasa Indonesia untuk RimWorld**  
 
-===================================================
-* Proyek translasi bahasa Indonesia untuk RimWorld.
-* An Indonesian Language translation project.
+### **Kemajuan Proyek**  
+[Dokumen daftar kemajuan](PROGRESS.md)  
 
-## Progress
-[Progress checklist document](PROGRESS.md)
+**Tujuan:**  
+☐ Menyelesaikan terjemahan sebelum 31 Desember 2018  
+☐ Menguji terjemahan dalam permainan  
+☐ Mengirimkan berkas terjemahan  
 
-Goals:
-[] Complete translations by Dec 31 2018
-[] Test translations in game
-[] Submit translation files
+### **Lisensi**  
+[Informasi lisensi](http://ludeon.com/forums/index.php?topic=2933.0)  
 
-## License
-http://ludeon.com/forums/index.php?topic=2933.0
+### **Panduan**  
+Karena RimWorld pada dasarnya adalah permainan yang berfokus pada penceritaan, kecocokan bahasa lebih penting dibandingkan dengan terjemahan harfiah. Saya memahami bahwa beberapa makna bisa hilang dalam penerjemahan, terutama dalam hal nuansa dan perbedaan cara bahasa menyampaikan sesuatu. Pastikan bahwa pesan dalam game mengalir dengan baik, meskipun itu berarti harus mengubah struktur gramatikal.  
 
-## Guide
-As Rimworld is first and foremost a storytelling game, language fit is more crucial than literal translation. I understand that things can and will get lost in traslation, especially nuances and differences in how languages convey things. Please ensure that the messages flow nicely in game, even if that means changing the grammatical structure.
+### **Penerjemah Resmi**  
+| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | [<img src="https://avatars3.githubusercontent.com/u/948279?s=460&v=4" width="100px;"/><br /><sub><b>Equan Pr.</b></sub>](https://github.com/junwatu)<br /> Pra Pangurakan |  
+|[<img src="https://avatars.githubusercontent.com/u/50169844?v=4&v=4" width="100px;"/><br /><sub><b>Fasha Muhammad Akbar.</b></sub>](https://github.com/kunosaindo))<br /> Fasha Muhammad Akbar|---|  
 
-## Official Translators
-| [<img src="https://avatars0.githubusercontent.com/u/10151729?s=460&v=4" width="100px;"/><br /><sub><b>JulianJason</b></sub>](https://github.com/JulianJason)<br /> Big Boss | [<img src="https://avatars3.githubusercontent.com/u/948279?s=460&v=4" width="100px;"/><br /><sub><b>Equan Pr.</b></sub>](https://github.com/junwatu)<br /> Pra Pangurakan |
-|---|---|
-
-## Contributing
-Please read this [contributing guide](http://ludeon.com/forums/index.php?topic=2933.0) to begin contributing. To be added to the list of translators, simply make a pull request and maintain the translations over two major releases.  
-
+### **Berkontribusi**  
+Silakan baca [panduan kontribusi](http://ludeon.com/forums/index.php?topic=2933.0) untuk mulai berkontribusi. Untuk ditambahkan ke daftar penerjemah, cukup buat pull request dan pertahankan terjemahan selama dua versi utama berturut-turut.
