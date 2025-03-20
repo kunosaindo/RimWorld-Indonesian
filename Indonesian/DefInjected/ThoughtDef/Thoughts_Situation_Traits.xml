@@ -1,96 +1,95 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MasochistPain.stages.0.label>masochist in minor pain</MasochistPain.stages.0.label>
-  <MasochistPain.stages.0.description>Ow... Heh heh heh... I could get used to this!</MasochistPain.stages.0.description>
-  <MasochistPain.stages.1.label>masochist in serious pain</MasochistPain.stages.1.label>
-  <MasochistPain.stages.1.description>Ughhh... It hurts, but I love it! Keep it coming!</MasochistPain.stages.1.description>
-  <MasochistPain.stages.2.label>masochist in intense pain</MasochistPain.stages.2.label>
-  <MasochistPain.stages.2.description>Ouch... I think something's broken... But what an exquisite feeling!</MasochistPain.stages.2.description>
-  <MasochistPain.stages.3.label>masochist in mind-shattering pain</MasochistPain.stages.3.label>
-  <MasochistPain.stages.3.description>Ahhh... Am I in heaven?</MasochistPain.stages.3.description>
+  <MasochistPain.stages.0.label>masokis dalam rasa sakit ringan</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Aw... Heh heh heh... Aku bisa terbiasa dengan ini!</MasochistPain.stages.0.description>
+  <MasochistPain.stages.1.label>masokis dalam rasa sakit serius</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Ughhh... Sakit, tapi aku suka! Teruskan!</MasochistPain.stages.1.description>
+  <MasochistPain.stages.2.label>masokis dalam rasa sakit hebat</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Aduh... Sepertinya ada yang patah... Tapi sensasinya luar biasa!</MasochistPain.stages.2.description>
+  <MasochistPain.stages.3.label>masokis dalam rasa sakit mengguncang pikiran</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>Ahhh... Apakah aku di surga?</MasochistPain.stages.3.description>
 
-  <ProsthophileNoProsthetic.stages.0.label>transhumanist frustrated</ProsthophileNoProsthetic.stages.0.label>
-  <ProsthophileNoProsthetic.stages.0.description>Flesh is so limiting. I wish I had some kind of artificial body part.</ProsthophileNoProsthetic.stages.0.description>
+  <ProsthophileNoProsthetic.stages.0.label>transhuman frustrasi</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>Daging ini sangat membatasi. Andai saja aku punya bagian tubuh buatan.</ProsthophileNoProsthetic.stages.0.description>
 
-  <ProsthophileHappy.stages.0.label>transhumanist pleased</ProsthophileHappy.stages.0.label>
-  <ProsthophileHappy.stages.0.description>This artificial part is cool. I want more.</ProsthophileHappy.stages.0.description>
-  <ProsthophileHappy.stages.1.label>transhumanist quite pleased</ProsthophileHappy.stages.1.label>
-  <ProsthophileHappy.stages.1.description>Two artificial parts are better than one. I wish I had more.</ProsthophileHappy.stages.1.description>
-  <ProsthophileHappy.stages.2.label>transhumanist delighted</ProsthophileHappy.stages.2.label>
-  <ProsthophileHappy.stages.2.description>Three artificial parts, and my weak human flesh is receding. But I still want more machine power.</ProsthophileHappy.stages.2.description>
-  <ProsthophileHappy.stages.3.label>transhumanist enchanted</ProsthophileHappy.stages.3.label>
-  <ProsthophileHappy.stages.3.description>Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing.</ProsthophileHappy.stages.3.description>
-  <ProsthophileHappy.stages.4.label>transhumanist overjoyed</ProsthophileHappy.stages.4.label>
-  <ProsthophileHappy.stages.4.description>Five artificial body parts! How could an enhanced being like me ever feel sad?</ProsthophileHappy.stages.4.description>
-  <ProsthophileHappy.stages.5.label>machine body is complete</ProsthophileHappy.stages.5.label>
-  <ProsthophileHappy.stages.5.description>I asked for this.</ProsthophileHappy.stages.5.description>
+  <ProsthophileHappy.stages.0.label>transhuman senang</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Bagian buatan ini keren. Aku ingin lebih banyak.</ProsthophileHappy.stages.0.description>
+  <ProsthophileHappy.stages.1.label>transhuman sangat senang</ProsthophileHappy.stages.1.label>
+  <ProsthophileHappy.stages.1.description>Dua bagian buatan lebih baik dari satu. Andai aku punya lebih banyak.</ProsthophileHappy.stages.1.description>
+  <ProsthophileHappy.stages.2.label>transhuman gembira</ProsthophileHappy.stages.2.label>
+  <ProsthophileHappy.stages.2.description>Tiga bagian buatan, dan daging lemahku mulai berkurang. Tapi aku masih ingin lebih banyak kekuatan mesin.</ProsthophileHappy.stages.2.description>
+  <ProsthophileHappy.stages.3.label>transhuman terpesona</ProsthophileHappy.stages.3.label>
+  <ProsthophileHappy.stages.3.description>Empat bagian tubuh buatan dan aku menjadi lebih dari manusia. Tapi masih ada daging yang perlu diganti.</ProsthophileHappy.stages.3.description>
+  <ProsthophileHappy.stages.4.label>transhuman sangat gembira</ProsthophileHappy.stages.4.label>
+  <ProsthophileHappy.stages.4.description>Lima bagian tubuh buatan! Bagaimana mungkin makhluk yang ditingkatkan sepertiku bisa merasa sedih?</ProsthophileHappy.stages.4.description>
+  <ProsthophileHappy.stages.5.label>tubuh mesin sudah lengkap</ProsthophileHappy.stages.5.label>
+  <ProsthophileHappy.stages.5.description>Inilah yang kuminta.</ProsthophileHappy.stages.5.description>
 
-  <ProsthophobeUnhappy.stages.0.label>body purist squeamish</ProsthophobeUnhappy.stages.0.label>
-  <ProsthophobeUnhappy.stages.0.description>I hate having this unnatural thing attached to me. It feels so filthy!</ProsthophobeUnhappy.stages.0.description>
-  <ProsthophobeUnhappy.stages.1.label>body purist disgusted</ProsthophobeUnhappy.stages.1.label>
-  <ProsthophobeUnhappy.stages.1.description>Two artificial parts are sullying my natural, pure body. It makes me sick to think of it.</ProsthophobeUnhappy.stages.1.description>
-  <ProsthophobeUnhappy.stages.2.label>body purist violated</ProsthophobeUnhappy.stages.2.label>
-  <ProsthophobeUnhappy.stages.2.description>Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me.</ProsthophobeUnhappy.stages.2.description>
-  <ProsthophobeUnhappy.stages.3.label>body purist horrified</ProsthophobeUnhappy.stages.3.label>
-  <ProsthophobeUnhappy.stages.3.description>I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation.</ProsthophobeUnhappy.stages.3.description>
-  <ProsthophobeUnhappy.stages.4.label>body purist nightmare</ProsthophobeUnhappy.stages.4.label>
-  <ProsthophobeUnhappy.stages.4.description>Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human?</ProsthophobeUnhappy.stages.4.description>
-  <ProsthophobeUnhappy.stages.5.label>I have become what I hate</ProsthophobeUnhappy.stages.5.label>
-  <ProsthophobeUnhappy.stages.5.description>I asked for the exact opposite of this!</ProsthophobeUnhappy.stages.5.description>
+  <ProsthophobeUnhappy.stages.0.label>puris tubuh merasa jijik</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>Aku benci memiliki benda tidak alami ini menempel padaku. Rasanya sangat kotor!</ProsthophobeUnhappy.stages.0.description>
+  <ProsthophobeUnhappy.stages.1.label>puris tubuh terganggu</ProsthophobeUnhappy.stages.1.label>
+  <ProsthophobeUnhappy.stages.1.description>Dua bagian buatan mencemari tubuh alami dan murni ku. Membuatku mual memikirkannya.</ProsthophobeUnhappy.stages.1.description>
+  <ProsthophobeUnhappy.stages.2.label>puris tubuh merasa ternodai</ProsthophobeUnhappy.stages.2.label>
+  <ProsthophobeUnhappy.stages.2.description>Tiga bagian buatan menodai daging murni tubuhku. Aku bergidik memikirkannya... dan benda-benda ini bergidik bersamaku.</ProsthophobeUnhappy.stages.2.description>
+  <ProsthophobeUnhappy.stages.3.label>puris tubuh ngeri</ProsthophobeUnhappy.stages.3.label>
+  <ProsthophobeUnhappy.stages.3.description>Aku punya empat bagian tubuh buatan; rasanya seperti aku menjadi robot. Sensasi yang mengerikan.</ProsthophobeUnhappy.stages.3.description>
+  <ProsthophobeUnhappy.stages.4.label>mimpi buruk puris tubuh</ProsthophobeUnhappy.stages.4.label>
+  <ProsthophobeUnhappy.stages.4.description>Lima bagian tubuh buatan... Apakah masih ada yang tersisa dariku? Atau aku hanya robot yang berpikir bahwa dia manusia?</ProsthophobeUnhappy.stages.4.description>
+  <ProsthophobeUnhappy.stages.5.label>Aku telah menjadi yang kubenci</ProsthophobeUnhappy.stages.5.label>
+  <ProsthophobeUnhappy.stages.5.description>Aku meminta yang sebaliknya dari ini!</ProsthophobeUnhappy.stages.5.description>
 
-  <BrawlerUnhappy.stages.0.label>brawler has ranged weapon</BrawlerUnhappy.stages.0.label>
-  <BrawlerUnhappy.stages.0.description>I hate shooting from a distance. I want to get up close and personal!</BrawlerUnhappy.stages.0.description>
+  <BrawlerUnhappy.stages.0.label>petarung membawa senjata jarak jauh</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Aku benci menembak dari jauh. Aku ingin bertarung dari dekat!</BrawlerUnhappy.stages.0.description>
 
-  <PyromaniacHappy.stages.0.label>pyromaniac has incendiary weapon</PyromaniacHappy.stages.0.label>
-  <PyromaniacHappy.stages.0.description>It makes me think of flame and fire. I'm so happy.</PyromaniacHappy.stages.0.description>
+  <PyromaniacHappy.stages.0.label>piromaniaks membawa senjata pembakar</PyromaniacHappy.stages.0.label>
+  <PyromaniacHappy.stages.0.description>Membuatku memikirkan api dan pembakaran. Aku sangat senang.</PyromaniacHappy.stages.0.description>
 
-  <ClothedNudist.stages.0.label>constraining clothes</ClothedNudist.stages.0.label>
-  <ClothedNudist.stages.0.description>I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable.</ClothedNudist.stages.0.description>
+  <ClothedNudist.stages.0.label>pakaian yang membatasi</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Aku seorang nudis tapi aku harus memakai pakaian ini. Tidak terlalu buruk - tapi aku tetap merasa terbatas dan tidak nyaman.</ClothedNudist.stages.0.description>
 
-  <HappyNude.stages.0.label>happily nude</HappyNude.stages.0.label>
-  <HappyNude.stages.0.description>I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings!</HappyNude.stages.0.description>
+  <HappyNude.stages.0.label>senang telanjang</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Aku telanjang dan menyukainya! Rasanya begitu bebas dan tidak terbatas serta menyatu dengan lingkungan!</HappyNude.stages.0.description>
 
-  <NightOwlDuringTheDay.stages.0.label>night owl in daytime</NightOwlDuringTheDay.stages.0.label>
-  <NightOwlDuringTheDay.stages.0.description>I don't like working during the day.</NightOwlDuringTheDay.stages.0.description>
+  <NightOwlDuringTheDay.stages.0.label>burung hantu di siang hari</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>Aku tidak suka bekerja di siang hari.</NightOwlDuringTheDay.stages.0.description>
 
-  <NightOwlDuringTheNight.stages.0.label>night owl at night</NightOwlDuringTheNight.stages.0.label>
-  <NightOwlDuringTheNight.stages.0.description>I feel much better at night.</NightOwlDuringTheNight.stages.0.description>
+  <NightOwlDuringTheNight.stages.0.label>burung hantu di malam hari</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Aku merasa jauh lebih baik di malam hari.</NightOwlDuringTheNight.stages.0.description>
 
-  <Greedy.stages.0.label>greedy for impressive bedroom</Greedy.stages.0.label>
-  <Greedy.stages.0.description>I'm greedy. I want a really impressive bedroom.</Greedy.stages.0.description>
-  <Greedy.stages.1.label>greedy for impressive bedroom</Greedy.stages.1.label>
-  <Greedy.stages.1.description>I'm greedy. My room is pathetic! I want a really impressive bedroom.</Greedy.stages.1.description>
-  <Greedy.stages.2.label>greedy for impressive bedroom</Greedy.stages.2.label>
-  <Greedy.stages.2.description>I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom.</Greedy.stages.2.description>
-  <Greedy.stages.3.label>greedy for impressive bedroom</Greedy.stages.3.label>
-  <Greedy.stages.3.description>I'm greedy. My room isn't good enough. I want a really impressive bedroom.</Greedy.stages.3.description>
-  <Greedy.stages.4.label>greedy for impressive bedroom</Greedy.stages.4.label>
-  <Greedy.stages.4.description>I'm greedy. My room isn't quite good enough. I want a really impressive bedroom.</Greedy.stages.4.description>
+  <Greedy.stages.0.label>serakah ingin kamar tidur mewah</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Aku serakah. Aku ingin kamar tidur yang benar-benar mewah.</Greedy.stages.0.description>
+  <Greedy.stages.1.label>serakah ingin kamar tidur mewah</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Aku serakah. Kamarku menyedihkan! Aku ingin kamar tidur yang benar-benar mewah.</Greedy.stages.1.description>
+  <Greedy.stages.2.label>serakah ingin kamar tidur mewah</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Aku serakah. Kamarku jauh dari cukup bagus. Aku ingin kamar tidur yang benar-benar mewah.</Greedy.stages.2.description>
+  <Greedy.stages.3.label>serakah ingin kamar tidur mewah</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Aku serakah. Kamarku tidak cukup bagus. Aku ingin kamar tidur yang benar-benar mewah.</Greedy.stages.3.description>
+  <Greedy.stages.4.label>serakah ingin kamar tidur mewah</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Aku serakah. Kamarku belum cukup bagus. Aku ingin kamar tidur yang benar-benar mewah.</Greedy.stages.4.description>
 
-  <Jealous.stages.0.label>jealous of {0}'s bedroom</Jealous.stages.0.label>
-  <Jealous.stages.0.description>I need to have the best one!</Jealous.stages.0.description>
+  <Jealous.stages.0.label>cemburu dengan kamar tidur {0}</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Aku harus punya yang terbaik!</Jealous.stages.0.description>
 
-  <Ascetic.stages.0.label>ascetic has awful bedroom</Ascetic.stages.0.label>
-  <Ascetic.stages.0.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.0.description>
-  <Ascetic.stages.1.label>ascetic has dull bedroom</Ascetic.stages.1.label>
-  <Ascetic.stages.1.description>My bedroom is just how I want it to be. Very humble and simple.</Ascetic.stages.1.description>
-  <Ascetic.stages.2.label>ascetic has mediocre bedroom</Ascetic.stages.2.label>
-  <Ascetic.stages.2.description>My bedroom is very humble and simple. I like it.</Ascetic.stages.2.description>
-  <Ascetic.stages.5.label>ascetic has impressive bedroom</Ascetic.stages.5.label>
-  <Ascetic.stages.5.description>I don't like having an impressive bedroom.</Ascetic.stages.5.description>
-  <Ascetic.stages.6.label>ascetic has impressive bedroom</Ascetic.stages.6.label>
-  <Ascetic.stages.6.description>I don't like having an impressive bedroom.</Ascetic.stages.6.description>
-  <Ascetic.stages.7.label>ascetic has impressive bedroom</Ascetic.stages.7.label>
-  <Ascetic.stages.7.description>I don't like having an impressive bedroom.</Ascetic.stages.7.description>
-  <Ascetic.stages.8.label>ascetic has impressive bedroom</Ascetic.stages.8.label>
-  <Ascetic.stages.8.description>I don't like having an impressive bedroom.</Ascetic.stages.8.description>
-  <Ascetic.stages.9.label>ascetic has impressive bedroom</Ascetic.stages.9.label>
-  <Ascetic.stages.9.description>I don't like having an impressive bedroom.</Ascetic.stages.9.description>
-  <Ascetic.stages.10.label>ascetic has impressive bedroom</Ascetic.stages.10.label>
-  <Ascetic.stages.10.description>I don't like having an impressive bedroom.</Ascetic.stages.10.description>
-  <Ascetic.stages.11.label>ascetic has impressive bedroom</Ascetic.stages.11.label>
-  <Ascetic.stages.11.description>I don't like having an impressive bedroom.</Ascetic.stages.11.description>
-
+  <Ascetic.stages.0.label>pertapa punya kamar tidur buruk</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Kamar tidurku persis seperti yang kuinginkan. Sangat sederhana dan rendah hati.</Ascetic.stages.0.description>
+  <Ascetic.stages.1.label>pertapa punya kamar tidur membosankan</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Kamar tidurku persis seperti yang kuinginkan. Sangat sederhana dan rendah hati.</Ascetic.stages.1.description>
+  <Ascetic.stages.2.label>pertapa punya kamar tidur biasa</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Kamar tidurku sangat sederhana dan rendah hati. Aku suka.</Ascetic.stages.2.description>
+  <Ascetic.stages.5.label>pertapa punya kamar tidur mewah</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.5.description>
+  <Ascetic.stages.6.label>pertapa punya kamar tidur mewah</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.6.description>
+  <Ascetic.stages.7.label>pertapa punya kamar tidur mewah</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.7.description>
+  <Ascetic.stages.8.label>pertapa punya kamar tidur mewah</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.8.description>
+  <Ascetic.stages.9.label>pertapa punya kamar tidur mewah</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.9.description>
+  <Ascetic.stages.10.label>pertapa punya kamar tidur mewah</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.10.description>
+  <Ascetic.stages.11.label>pertapa punya kamar tidur mewah</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>Aku tidak suka punya kamar tidur yang mewah.</Ascetic.stages.11.description>
 
 </LanguageData>

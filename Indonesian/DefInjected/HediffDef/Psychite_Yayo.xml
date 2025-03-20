@@ -1,20 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <YayoHigh.label>high on yayo</YayoHigh.label>
-  <YayoHigh.labelNoun>a yayo high</YayoHigh.labelNoun>
+  <YayoHigh.label>tinggi karena yayo</YayoHigh.label>
+  <YayoHigh.labelNoun>tinggi yayo</YayoHigh.labelNoun>
 
+  <!-- Kecanduan Psychite -->
 
-  <!-- Psychite addiction -->
+  <PsychiteTolerance.label>toleransi psychite</PsychiteTolerance.label>
+  <PsychiteTolerance.stages.0.label>kecil</PsychiteTolerance.stages.0.label>
+  <PsychiteTolerance.stages.1.label>kecil</PsychiteTolerance.stages.1.label>
+  <PsychiteTolerance.stages.2.label>besar</PsychiteTolerance.stages.2.label>
+  <PsychiteTolerance.stages.3.label>masif</PsychiteTolerance.stages.3.label>
 
-  <PsychiteTolerance.label>psychite tolerance</PsychiteTolerance.label>
-  <PsychiteTolerance.stages.0.label>small</PsychiteTolerance.stages.0.label>
-  <PsychiteTolerance.stages.1.label>small</PsychiteTolerance.stages.1.label>
-  <PsychiteTolerance.stages.2.label>large</PsychiteTolerance.stages.2.label>
-  <PsychiteTolerance.stages.3.label>massive</PsychiteTolerance.stages.3.label>
-
-  <PsychiteAddiction.label>psychite addiction</PsychiteAddiction.label>
-  <PsychiteAddiction.stages.1.label>withdrawal</PsychiteAddiction.stages.1.label>
-
+  <PsychiteAddiction.label>kecanduan psychite</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.1.label>penarikan</PsychiteAddiction.stages.1.label>
 
 </LanguageData>

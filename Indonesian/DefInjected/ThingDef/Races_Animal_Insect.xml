@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Megascarab.label>megascarab</Megascarab.label>
-  <Megascarab.description>A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.</Megascarab.description>
-  <Megascarab.tools.0.label>mandibles</Megascarab.tools.0.label>
-  <Megascarab.tools.1.label>head</Megascarab.tools.1.label>
+  <Megascarab.label>megaskarab</Megascarab.label>
+  <Megascarab.description>Kumbang besar hasil rekayasa genetika. Dulunya adalah kasta pekerja dari ekosistem buatan serangga yang dirancang untuk melawan invasi mekanoid, sekarang sering terlihat tanpa sepupu serangganya yang lebih mematikan. Namun, ukuran dan cangkang kerasnya membuatnya berbahaya saat menyerang. Sebagai makhluk eusosial, tidak dapat bereproduksi secara individual.</Megascarab.description>
+  <Megascarab.tools.0.label>rahang</Megascarab.tools.0.label>
+  <Megascarab.tools.1.label>kepala</Megascarab.tools.1.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Megaspider -->
-  <Megascarab_Corpse.label>megascarab corpse</Megascarab_Corpse.label>
-  <Megascarab_Corpse.description>megascarab corpse</Megascarab_Corpse.description>
+  <Megascarab_Corpse.label>bangkai megaskarab</Megascarab_Corpse.label>
+  <Megascarab_Corpse.description>bangkai megaskarab</Megascarab_Corpse.description>
 
   <Spelopede.label>spelopede</Spelopede.label>
-  <Spelopede.description>A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.</Spelopede.description>
-  <Spelopede.tools.0.label>head claw</Spelopede.tools.0.label>
-  <Spelopede.tools.1.label>head</Spelopede.tools.1.label>
+  <Spelopede.description>Serangga hasil rekayasa genetika berukuran sedang sebesar domba. Spelopede adalah kasta menengah dari sarang, mengurus sebagian besar pekerjaan serta bertarung dengan cakar penggalinya. Berbahaya dalam pertarungan, tapi lambat di tanah terbuka.</Spelopede.description>
+  <Spelopede.tools.0.label>cakar kepala</Spelopede.tools.0.label>
+  <Spelopede.tools.1.label>kepala</Spelopede.tools.1.label>
   <!-- Leather Amount: 0 -->
   <!-- Use Meat From: Megaspider -->
-  <Spelopede_Corpse.label>spelopede corpse</Spelopede_Corpse.label>
-  <Spelopede_Corpse.description>spelopede corpse</Spelopede_Corpse.description>
+  <Spelopede_Corpse.label>bangkai spelopede</Spelopede_Corpse.label>
+  <Spelopede_Corpse.description>bangkai spelopede</Spelopede_Corpse.description>
 
-  <Megaspider.label>megaspider</Megaspider.label>
-  <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.</Megaspider.description>
-  <Megaspider.tools.0.label>head claw</Megaspider.tools.0.label>
-  <Megaspider.tools.1.label>head</Megaspider.tools.1.label>
+  <Megaspider.label>laba-laba raksasa</Megaspider.label>
+  <Megaspider.description>Sebenarnya bukan laba-laba, laba-laba raksasa adalah serangga hasil rekayasa genetika seukuran beruang. Dirancang untuk kerja berat dan pertempuran, armor kitin tebalnya membuatnya sulit dibunuh, sementara bilah pencabiknya yang panjang membuatnya mematikan dalam pertarungan jarak dekat. Namun, cukup lambat di medan terbuka.</Megaspider.description>
+  <Megaspider.tools.0.label>cakar kepala</Megaspider.tools.0.label>
+  <Megaspider.tools.1.label>kepala</Megaspider.tools.1.label>
   <!-- Leather Amount: 0 -->
-  <Megaspider_Meat.label>insect meat</Megaspider_Meat.label>
-  <Megaspider_Meat.description>insect meat</Megaspider_Meat.description>
-  <Megaspider_Corpse.label>megaspider corpse</Megaspider_Corpse.label>
-  <Megaspider_Corpse.description>megaspider corpse</Megaspider_Corpse.description>
+  <Megaspider_Meat.label>daging serangga</Megaspider_Meat.label>
+  <Megaspider_Meat.description>daging serangga</Megaspider_Meat.description>
+  <Megaspider_Corpse.label>bangkai laba-laba raksasa</Megaspider_Corpse.label>
+  <Megaspider_Corpse.description>bangkai laba-laba raksasa</Megaspider_Corpse.description>
 
 
 </LanguageData>

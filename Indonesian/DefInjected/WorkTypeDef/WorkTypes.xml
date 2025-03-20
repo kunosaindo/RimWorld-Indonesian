@@ -1,145 +1,144 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Firefighter.label>Firefight</Firefighter.label>
-  <Firefighter.description>Extinguish fires in the colony.</Firefighter.description>
-  <Firefighter.labelShort>Firefight</Firefighter.labelShort>
-  <Firefighter.pawnLabel>Firefighter</Firefighter.pawnLabel>
-  <Firefighter.gerundLabel>firefighting</Firefighter.gerundLabel>
-  <Firefighter.verb>Extinguish</Firefighter.verb>
+  <Firefighter.label>Pemadam</Firefighter.label>
+  <Firefighter.description>Padamkan api di koloni.</Firefighter.description>
+  <Firefighter.labelShort>Pemadam</Firefighter.labelShort>
+  <Firefighter.pawnLabel>Petugas Pemadam</Firefighter.pawnLabel>
+  <Firefighter.gerundLabel>memadamkan api</Firefighter.gerundLabel>
+  <Firefighter.verb>Padamkan</Firefighter.verb>
 
-  <Patient.label>Patient</Patient.label>
-  <Patient.description>Go to a medical bed for treatment if you have an immediately life-threatening health condition.</Patient.description>
-  <Patient.labelShort>Patient</Patient.labelShort>
-  <Patient.pawnLabel>Patient</Patient.pawnLabel>
-  <Patient.gerundLabel>patienting</Patient.gerundLabel>
-  <Patient.verb>Become patient</Patient.verb>
+  <Patient.label>Pasien</Patient.label>
+  <Patient.description>Pergi ke tempat tidur medis untuk pengobatan jika kamu memiliki masalah kesehatan yang mengancam nyawa.</Patient.description>
+  <Patient.labelShort>Pasien</Patient.labelShort>
+  <Patient.pawnLabel>Pasien</Patient.pawnLabel>
+  <Patient.gerundLabel>menjadi pasien</Patient.gerundLabel>
+  <Patient.verb>Menjadi pasien</Patient.verb>
 
-  <Doctor.label>Doctor</Doctor.label>
-  <Doctor.description>Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.</Doctor.description>
-  <Doctor.labelShort>Doctor</Doctor.labelShort>
-  <Doctor.pawnLabel>Doctor</Doctor.pawnLabel>
-  <Doctor.gerundLabel>doctoring</Doctor.gerundLabel>
-  <Doctor.verb>Care for</Doctor.verb>
+  <Doctor.label>Dokter</Doctor.label>
+  <Doctor.description>Mengobati yang sakit, memberi mereka makanan, menghibur mereka, dan melakukan operasi yang ditugaskan. Dokter akan merawat kolonialis dan tahanan.</Doctor.description>
+  <Doctor.labelShort>Dokter</Doctor.labelShort>
+  <Doctor.pawnLabel>Dokter</Doctor.pawnLabel>
+  <Doctor.gerundLabel>mengobati</Doctor.gerundLabel>
+  <Doctor.verb>Merawat</Doctor.verb>
 
-  <PatientBedRest.label>Bed rest</PatientBedRest.label>
-  <PatientBedRest.description>Rest in bed to recuperate from not-immediately-life-threatening medical problems.</PatientBedRest.description>
-  <PatientBedRest.labelShort>Bed rest</PatientBedRest.labelShort>
-  <PatientBedRest.pawnLabel>Bed rester</PatientBedRest.pawnLabel>
-  <PatientBedRest.gerundLabel>resting in bed</PatientBedRest.gerundLabel>
-  <PatientBedRest.verb>Become patient</PatientBedRest.verb>
+  <PatientBedRest.label>Istirahat di Tempat Tidur</PatientBedRest.label>
+  <PatientBedRest.description>Istirahat di tempat tidur untuk memulihkan diri dari masalah medis yang tidak mengancam nyawa.</PatientBedRest.description>
+  <PatientBedRest.labelShort>Istirahat di Tempat Tidur</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>Pasien Istirahat</PatientBedRest.pawnLabel>
+  <PatientBedRest.gerundLabel>istirahat di tempat tidur</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>Menjadi pasien</PatientBedRest.verb>
 
-  <BasicWorker.label>Basic</BasicWorker.label>
-  <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
-  <BasicWorker.labelShort>Basic</BasicWorker.labelShort>
-  <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
-  <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
-  <BasicWorker.verb>Deal with</BasicWorker.verb>
+  <BasicWorker.label>Pekerja Dasar</BasicWorker.label>
+  <BasicWorker.description>Tugas yang tidak memerlukan keterampilan dan mudah. Melepaskan tahanan dan menyalakan saklar mesin.</BasicWorker.description>
+  <BasicWorker.labelShort>Dasar</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>Pekerja</BasicWorker.pawnLabel>
+  <BasicWorker.gerundLabel>menangani</BasicWorker.gerundLabel>
+  <BasicWorker.verb>Menangani</BasicWorker.verb>
 
-  <Warden.label>Warden</Warden.label>
-  <Warden.description>Manage, feed, chat with, and recruit prisoners.</Warden.description>
-  <Warden.labelShort>Warden</Warden.labelShort>
-  <Warden.pawnLabel>Warden</Warden.pawnLabel>
-  <Warden.gerundLabel>wardening</Warden.gerundLabel>
-  <Warden.verb>Handle</Warden.verb>
+  <Warden.label>Penjaga</Warden.label>
+  <Warden.description>Kelola, beri makan, ajak bicara, dan rekrut tahanan.</Warden.description>
+  <Warden.labelShort>Penjaga</Warden.labelShort>
+  <Warden.pawnLabel>Penjaga</Warden.pawnLabel>
+  <Warden.gerundLabel>menjaga</Warden.gerundLabel>
+  <Warden.verb>Menangani</Warden.verb>
 
-  <Handling.label>Handle</Handling.label>
-  <Handling.description>Tame, train, harvest resources from and slaughter animals.</Handling.description>
-  <Handling.labelShort>Handle</Handling.labelShort>
-  <Handling.pawnLabel>Handler</Handling.pawnLabel>
-  <Handling.gerundLabel>handling</Handling.gerundLabel>
-  <Handling.verb>Handle</Handling.verb>
+  <Handling.label>Penanganan</Handling.label>
+  <Handling.description>Menjinakkan, melatih, memanen sumber daya dari, dan menyembelih hewan.</Handling.description>
+  <Handling.labelShort>Penanganan</Handling.labelShort>
+  <Handling.pawnLabel>Penangan</Handling.pawnLabel>
+  <Handling.gerundLabel>menangani</Handling.gerundLabel>
+  <Handling.verb>Menangani</Handling.verb>
 
-  <Cooking.label>Cook</Cooking.label>
-  <Cooking.description>Prepare meals and butcher meat.</Cooking.description>
-  <Cooking.labelShort>Cook</Cooking.labelShort>
-  <Cooking.pawnLabel>Cook</Cooking.pawnLabel>
-  <Cooking.gerundLabel>cooking</Cooking.gerundLabel>
-  <Cooking.verb>Cook</Cooking.verb>
+  <Cooking.label>Memasak</Cooking.label>
+  <Cooking.description>Menyiapkan makanan dan memotong daging.</Cooking.description>
+  <Cooking.labelShort>Memasak</Cooking.labelShort>
+  <Cooking.pawnLabel>Koki</Cooking.pawnLabel>
+  <Cooking.gerundLabel>memasak</Cooking.gerundLabel>
+  <Cooking.verb>Memasak</Cooking.verb>
 
-  <Hunting.label>Hunt</Hunting.label>
-  <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
-  <Hunting.labelShort>Hunt</Hunting.labelShort>
-  <Hunting.pawnLabel>Hunter</Hunting.pawnLabel>
-  <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
-  <Hunting.verb>Hunt</Hunting.verb>
+  <Hunting.label>Berburu</Hunting.label>
+  <Hunting.description>Membunuh hewan yang ditunjuk untuk diburu.</Hunting.description>
+  <Hunting.labelShort>Berburu</Hunting.labelShort>
+  <Hunting.pawnLabel>Pemburu</Hunting.pawnLabel>
+  <Hunting.gerundLabel>berburu</Hunting.gerundLabel>
+  <Hunting.verb>Berburu</Hunting.verb>
 
-  <Construction.label>Construct</Construction.label>
-  <Construction.description>Build things that you've designated, and fix damaged or broken-down buildings.</Construction.description>
-  <Construction.labelShort>Construct</Construction.labelShort>
-  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
-  <Construction.gerundLabel>constructing</Construction.gerundLabel>
-  <Construction.verb>Construct</Construction.verb>
+  <Construction.label>Konstruksi</Construction.label>
+  <Construction.description>Membangun hal-hal yang telah kamu tunjukkan, dan memperbaiki bangunan yang rusak atau rusak.</Construction.description>
+  <Construction.labelShort>Konstruksi</Construction.labelShort>
+  <Construction.pawnLabel>Konstruktor</Construction.pawnLabel>
+  <Construction.gerundLabel>membangun</Construction.gerundLabel>
+  <Construction.verb>Membangun</Construction.verb>
 
-  <Growing.label>Grow</Growing.label>
-  <Growing.description>Plant seeds, harvest crops, and forage for wild plants.</Growing.description>
-  <Growing.labelShort>Grow</Growing.labelShort>
-  <Growing.pawnLabel>Grower</Growing.pawnLabel>
-  <Growing.gerundLabel>growing</Growing.gerundLabel>
-  <Growing.verb>Grow</Growing.verb>
+  <Growing.label>Bertani</Growing.label>
+  <Growing.description>Menanam benih, memanen tanaman, dan mencari tanaman liar.</Growing.description>
+  <Growing.labelShort>Bertani</Growing.labelShort>
+  <Growing.pawnLabel>Petani</Growing.pawnLabel>
+  <Growing.gerundLabel>bertani</Growing.gerundLabel>
+  <Growing.verb>Bertani</Growing.verb>
 
-  <Mining.label>Mine</Mining.label>
-  <Mining.description>Digging and drilling.</Mining.description>
-  <Mining.labelShort>Mine</Mining.labelShort>
-  <Mining.pawnLabel>Miner</Mining.pawnLabel>
-  <Mining.gerundLabel>mining</Mining.gerundLabel>
-  <Mining.verb>Mine</Mining.verb>
+  <Mining.label>Menambang</Mining.label>
+  <Mining.description>Penggalian dan pengeboran.</Mining.description>
+  <Mining.labelShort>Menambang</Mining.labelShort>
+  <Mining.pawnLabel>Penambang</Mining.pawnLabel>
+  <Mining.gerundLabel>menambang</Mining.gerundLabel>
+  <Mining.verb>Menambang</Mining.verb>
 
-  <PlantCutting.label>Plant cut</PlantCutting.label>
-  <PlantCutting.description>Cut or harvest plants as designated.</PlantCutting.description>
-  <PlantCutting.labelShort>Plant cut</PlantCutting.labelShort>
-  <PlantCutting.pawnLabel>Plant cutter</PlantCutting.pawnLabel>
-  <PlantCutting.gerundLabel>plant cutting</PlantCutting.gerundLabel>
-  <PlantCutting.verb>Cut</PlantCutting.verb>
+  <PlantCutting.label>Memotong Tanaman</PlantCutting.label>
+  <PlantCutting.description>Memotong atau memanen tanaman sesuai yang ditunjuk.</PlantCutting.description>
+  <PlantCutting.labelShort>Memotong Tanaman</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>Pemotong Tanaman</PlantCutting.pawnLabel>
+  <PlantCutting.gerundLabel>memotong tanaman</PlantCutting.gerundLabel>
+  <PlantCutting.verb>Memotong</PlantCutting.verb>
 
-  <Smithing.label>Smith</Smithing.label>
-  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
-  <Smithing.labelShort>Smith</Smithing.labelShort>
-  <Smithing.pawnLabel>Smith</Smithing.pawnLabel>
-  <Smithing.gerundLabel>smithing</Smithing.gerundLabel>
-  <Smithing.verb>Smith at</Smithing.verb>
+  <Smithing.label>Menempa</Smithing.label>
+  <Smithing.description>Membuat senjata dan alat dari bahan mentah, baik sebagai pandai besi atau dengan mesin.</Smithing.description>
+  <Smithing.labelShort>Menempa</Smithing.labelShort>
+  <Smithing.pawnLabel>Pandai Besi</Smithing.pawnLabel>
+  <Smithing.gerundLabel>menempa</Smithing.gerundLabel>
+  <Smithing.verb>Menempa di</Smithing.verb>
 
-  <Tailoring.label>Tailor</Tailoring.label>
-  <Tailoring.description>Create apparel from raw materials.</Tailoring.description>
-  <Tailoring.labelShort>Tailor</Tailoring.labelShort>
-  <Tailoring.pawnLabel>Tailor</Tailoring.pawnLabel>
-  <Tailoring.gerundLabel>tailoring</Tailoring.gerundLabel>
-  <Tailoring.verb>Tailor at</Tailoring.verb>
+  <Tailoring.label>Menjahit</Tailoring.label>
+  <Tailoring.description>Membuat pakaian dari bahan mentah.</Tailoring.description>
+  <Tailoring.labelShort>Menjahit</Tailoring.labelShort>
+  <Tailoring.pawnLabel>Penjahit</Tailoring.pawnLabel>
+  <Tailoring.gerundLabel>menjahit</Tailoring.gerundLabel>
+  <Tailoring.verb>Menjahit di</Tailoring.verb>
 
-  <Art.label>Art</Art.label>
-  <Art.description>Create beautiful works of art from raw materials.</Art.description>
-  <Art.labelShort>Art</Art.labelShort>
-  <Art.pawnLabel>Artist</Art.pawnLabel>
-  <Art.gerundLabel>art</Art.gerundLabel>
-  <Art.verb>Do art at</Art.verb>
+  <Art.label>Seni</Art.label>
+  <Art.description>Membuat karya seni yang indah dari bahan mentah.</Art.description>
+  <Art.labelShort>Seni</Art.labelShort>
+  <Art.pawnLabel>Seniman</Art.pawnLabel>
+  <Art.gerundLabel>berkarya seni</Art.gerundLabel>
+  <Art.verb>Membuat seni di</Art.verb>
 
-  <Crafting.label>Craft</Crafting.label>
-  <Crafting.description>Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.</Crafting.description>
-  <Crafting.labelShort>Craft</Crafting.labelShort>
-  <Crafting.pawnLabel>Crafter</Crafting.pawnLabel>
-  <Crafting.gerundLabel>crafting</Crafting.gerundLabel>
-  <Crafting.verb>Craft at</Crafting.verb>
+  <Crafting.label>Kerajinan</Crafting.label>
+  <Crafting.description>Melakukan pekerjaan umum yang tidak memerlukan keterampilan di stasiun kerja. Ini termasuk memotong batu, melebur, dan lainnya.</Crafting.description>
+  <Crafting.labelShort>Kerajinan</Crafting.labelShort>
+  <Crafting.pawnLabel>Pengrajin</Crafting.pawnLabel>
+  <Crafting.gerundLabel>mengrajin</Crafting.gerundLabel>
+  <Crafting.verb>Mengrajin di</Crafting.verb>
 
-  <Hauling.label>Haul</Hauling.label>
-  <Hauling.description>Carry things to where they need to be.</Hauling.description>
-  <Hauling.labelShort>Haul</Hauling.labelShort>
-  <Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
-  <Hauling.gerundLabel>hauling</Hauling.gerundLabel>
-  <Hauling.verb>Haul</Hauling.verb>
+  <Hauling.label>Mengangkut</Hauling.label>
+  <Hauling.description>Membawa barang ke tempat yang dibutuhkan.</Hauling.description>
+  <Hauling.labelShort>Mengangkut</Hauling.labelShort>
+  <Hauling.pawnLabel>Pengangkut</Hauling.pawnLabel>
+  <Hauling.gerundLabel>mengangkut</Hauling.gerundLabel>
+  <Hauling.verb>Mengangkut</Hauling.verb>
 
-  <Cleaning.label>Clean</Cleaning.label>
-  <Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
-  <Cleaning.labelShort>Clean</Cleaning.labelShort>
-  <Cleaning.pawnLabel>Cleaner</Cleaning.pawnLabel>
-  <Cleaning.gerundLabel>cleaning</Cleaning.gerundLabel>
-  <Cleaning.verb>Clean</Cleaning.verb>
+  <Cleaning.label>Membersihkan</Cleaning.label>
+  <Cleaning.description>Menyapu salju dan membersihkan lantai di area rumah.</Cleaning.description>
+  <Cleaning.labelShort>Membersihkan</Cleaning.labelShort>
+  <Cleaning.pawnLabel>Pembersih</Cleaning.pawnLabel>
+  <Cleaning.gerundLabel>membersihkan</Cleaning.gerundLabel>
+  <Cleaning.verb>Membersihkan</Cleaning.verb>
 
-  <Research.label>Research</Research.label>
-  <Research.description>Perform research work.</Research.description>
-  <Research.labelShort>Research</Research.labelShort>
-  <Research.pawnLabel>Researcher</Research.pawnLabel>
-  <Research.gerundLabel>researching</Research.gerundLabel>
-  <Research.verb>Research at</Research.verb>
-
+  <Research.label>Meneliti</Research.label>
+  <Research.description>Melakukan pekerjaan penelitian.</Research.description>
+  <Research.labelShort>Meneliti</Research.labelShort>
+  <Research.pawnLabel>Peneliti</Research.pawnLabel>
+  <Research.gerundLabel>meneliti</Research.gerundLabel>
+  <Research.verb>Meneliti di</Research.verb>
 
 </LanguageData>

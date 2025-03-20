@@ -1,32 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Caravan.label>caravan</Caravan.label>
-  <Caravan.description>A group of traveling people.</Caravan.description>
+  <Caravan.label>karavan</Caravan.label>
+  <Caravan.description>Sekelompok orang yang bepergian.</Caravan.description>
 
-  <Settlement.label>settlement</Settlement.label>
-  <Settlement.description>A base of one of the factions.</Settlement.description>
+  <Settlement.label>pemukiman</Settlement.label>
+  <Settlement.description>Basis dari salah satu faksi.</Settlement.description>
 
-  <AbandonedSettlement.label>abandoned settlement</AbandonedSettlement.label>
-  <AbandonedSettlement.description>An abandoned settlement.</AbandonedSettlement.description>
+  <AbandonedSettlement.label>pemukiman yang ditinggalkan</AbandonedSettlement.label>
+  <AbandonedSettlement.description>Sebuah pemukiman yang ditinggalkan.</AbandonedSettlement.description>
 
-  <DestroyedSettlement.label>destroyed settlement</DestroyedSettlement.label>
-  <DestroyedSettlement.description>A destroyed settlement.</DestroyedSettlement.description>
+  <DestroyedSettlement.label>pemukiman yang hancur</DestroyedSettlement.label>
+  <DestroyedSettlement.description>Sebuah pemukiman yang hancur.</DestroyedSettlement.description>
 
-  <EscapeShip.label>landed ship</EscapeShip.label>
-  <EscapeShip.description>The location of a hidden ship which can help you escape the planet.</EscapeShip.description>
+  <EscapeShip.label>kapal yang mendarat</EscapeShip.label>
+  <EscapeShip.description>Lokasi kapal tersembunyi yang dapat membantumu melarikan diri dari planet ini.</EscapeShip.description>
 
-  <AttackedNonPlayerCaravan.label>attacked caravan</AttackedNonPlayerCaravan.label>
-  <AttackedNonPlayerCaravan.description>A caravan under attack.</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.label>karavan yang diserang</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.description>Sebuah karavan yang sedang diserang.</AttackedNonPlayerCaravan.description>
 
-  <TravelingTransportPods.label>transport pods</TravelingTransportPods.label>
-  <TravelingTransportPods.description>Transport pods in flight.</TravelingTransportPods.description>
+  <TravelingTransportPods.label>pod transportasi</TravelingTransportPods.label>
+  <TravelingTransportPods.description>Pod transportasi dalam penerbangan.</TravelingTransportPods.description>
 
-  <RoutePlannerWaypoint.label>waypoint</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>A temporary waypoint.</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.label>titik jalan</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.description>Titik jalan sementara.</RoutePlannerWaypoint.description>
 
-  <PeaceTalks.label>peace talks</PeaceTalks.label>
-  <PeaceTalks.description>A site designated for peace talks.</PeaceTalks.description>
-
+  <PeaceTalks.label>perundingan damai</PeaceTalks.label>
+  <PeaceTalks.description>Sebuah situs yang ditunjuk untuk perundingan damai.</PeaceTalks.description>
 
 </LanguageData>

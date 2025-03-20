@@ -1,23 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ShipBasics.label>starflight basics</ShipBasics.label>
-  <ShipBasics.description>Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system.</ShipBasics.description>
+  <ShipBasics.label>dasar-dasar penerbangan bintang</ShipBasics.label>
+  <ShipBasics.description>Bangun elemen struktural dan pendukung dari sebuah kapal bintang. Ini adalah langkah pertama dalam membangun kapal untuk meninggalkan sistem bintang ini.</ShipBasics.description>
 
-  <ShipCryptosleep.label>vacuum cryptosleep casket</ShipCryptosleep.label>
-  <ShipCryptosleep.description>Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars.</ShipCryptosleep.description>
+  <ShipCryptosleep.label>peti cryptosleep vakum</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Bangun peti cryptosleep yang diperkeras yang cukup kuat untuk terpapar vakum, untuk mengangkut orang dalam perjalanan antar bintang yang memakan waktu bertahun-tahun.</ShipCryptosleep.description>
 
-  <ShipReactor.label>starship reactor</ShipReactor.label>
-  <ShipReactor.description>Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders.</ShipReactor.description>
+  <ShipReactor.label>reaktor kapal bintang</ShipReactor.label>
+  <ShipReactor.description>Bangun reaktor nuklir berdurasi panjang untuk memberi daya pada kapal bintang. Perhatikan bahwa reaktor memiliki proses startup yang panjang yang akan menarik penyerang.</ShipReactor.description>
 
-  <ShipEngine.label>Johnson-Tanaka drive</ShipEngine.label>
-  <ShipEngine.description>Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere.</ShipEngine.description>
+  <ShipEngine.label>mesin Johnson-Tanaka</ShipEngine.label>
+  <ShipEngine.description>Bangun mesin Johnson-Tanaka untuk sebuah kapal. Mesin JT dapat mendorong Anda ke bintang lain dengan memanfaatkan efek skala kuantum untuk memancarkan momentum ke bintang-bintang yang jauh. Tentu saja, seperti halnya semua kapal bintang, masih dibutuhkan waktu bertahun-tahun untuk sampai ke mana pun.</ShipEngine.description>
 
-  <ShipComputerCore.label>AI persuasion</ShipComputerCore.label>
-  <ShipComputerCore.description>Build a reward-signal system to persuade an existing AI persona core into serving as a ship's AI captain. Since people sleep during interstellar travel, an AI core is necessary to handle the complex decisions of a years-long starflight.</ShipComputerCore.description>
+  <ShipComputerCore.label>persuasi AI</ShipComputerCore.label>
+  <ShipComputerCore.description>Bangun sistem sinyal hadiah untuk membujuk inti persona AI yang ada untuk berfungsi sebagai kapten AI kapal. Karena orang tidur selama perjalanan antarbintang, inti AI diperlukan untuk menangani keputusan kompleks penerbangan bintang selama bertahun-tahun.</ShipComputerCore.description>
 
-  <ShipSensorCluster.label>starflight sensors</ShipSensorCluster.label>
-  <ShipSensorCluster.description>Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance.</ShipSensorCluster.description>
-
+  <ShipSensorCluster.label>sensor penerbangan bintang</ShipSensorCluster.label>
+  <ShipSensorCluster.description>Bangun sensor jarak jauh untuk sebuah kapal bintang. Sensor ini penting untuk navigasi, komunikasi, dan penghindaran ancaman.</ShipSensorCluster.description>
 
 </LanguageData>

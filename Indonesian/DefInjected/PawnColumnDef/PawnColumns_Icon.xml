@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bond.headerTip>Bond</Bond.headerTip>
-  <Info.headerTip>Info</Info.headerTip>
-
+  <Bond.headerTip>Ikatan</Bond.headerTip>
+  <Info.headerTip>Informasi</Info.headerTip>
 
 </LanguageData>

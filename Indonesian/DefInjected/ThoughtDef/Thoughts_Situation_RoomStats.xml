@@ -1,56 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PrisonCell.stages.0.label>awful prison cell</PrisonCell.stages.0.label>
-  <PrisonCell.stages.0.description>My prison cell is an awful place.</PrisonCell.stages.0.description>
-  <PrisonCell.stages.3.label>decent prison cell</PrisonCell.stages.3.label>
-  <PrisonCell.stages.3.description>My prison cell is pretty decent.</PrisonCell.stages.3.description>
-  <PrisonCell.stages.4.label>slightly impressive prison cell</PrisonCell.stages.4.label>
-  <PrisonCell.stages.4.description>My prison cell seems to be a nice place.</PrisonCell.stages.4.description>
-  <PrisonCell.stages.5.label>impressive prison cell</PrisonCell.stages.5.label>
-  <PrisonCell.stages.5.description>My prison cell is impressive. I can't believe they are keeping me in a room like this.</PrisonCell.stages.5.description>
-  <PrisonCell.stages.6.label>very impressive prison cell</PrisonCell.stages.6.label>
-  <PrisonCell.stages.6.description>My prison cell is very impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.6.description>
-  <PrisonCell.stages.7.label>extremely impressive prison cell</PrisonCell.stages.7.label>
-  <PrisonCell.stages.7.description>My prison cell is extremely impressive. I can't believe they are keeping me in a room like this. I love it!</PrisonCell.stages.7.description>
-  <PrisonCell.stages.8.label>unbelievably impressive prison cell</PrisonCell.stages.8.label>
-  <PrisonCell.stages.8.description>My prison cell is unbelievably impressive. This is the best place ever!</PrisonCell.stages.8.description>
-  <PrisonCell.stages.9.label>wondrously impressive prison cell</PrisonCell.stages.9.label>
-  <PrisonCell.stages.9.description>My prison cell is the best place one can ever imagine. I can stay here forever.</PrisonCell.stages.9.description>
+  <PrisonCell.stages.0.label>sel penjara buruk</PrisonCell.stages.0.label>
+  <PrisonCell.stages.0.description>Sel penjaraku adalah tempat yang buruk.</PrisonCell.stages.0.description>
+  <PrisonCell.stages.3.label>sel penjara layak</PrisonCell.stages.3.label>
+  <PrisonCell.stages.3.description>Sel penjaraku cukup layak.</PrisonCell.stages.3.description>
+  <PrisonCell.stages.4.label>sel penjara cukup mengesankan</PrisonCell.stages.4.label>
+  <PrisonCell.stages.4.description>Sel penjaraku sepertinya tempat yang bagus.</PrisonCell.stages.4.description>
+  <PrisonCell.stages.5.label>sel penjara mengesankan</PrisonCell.stages.5.label>
+  <PrisonCell.stages.5.description>Sel penjaraku mengesankan. Aku tidak percaya mereka menempatkanku di ruangan seperti ini.</PrisonCell.stages.5.description>
+  <PrisonCell.stages.6.label>sel penjara sangat mengesankan</PrisonCell.stages.6.label>
+  <PrisonCell.stages.6.description>Sel penjaraku sangat mengesankan. Aku tidak percaya mereka menempatkanku di ruangan seperti ini. Aku menyukainya!</PrisonCell.stages.6.description>
+  <PrisonCell.stages.7.label>sel penjara luar biasa mengesankan</PrisonCell.stages.7.label>
+  <PrisonCell.stages.7.description>Sel penjaraku luar biasa mengesankan. Aku tidak percaya mereka menempatkanku di ruangan seperti ini. Aku menyukainya!</PrisonCell.stages.7.description>
+  <PrisonCell.stages.8.label>sel penjara tidak masuk akal mengesankan</PrisonCell.stages.8.label>
+  <PrisonCell.stages.8.description>Sel penjaraku tidak masuk akal mengesankannya. Ini tempat terbaik yang pernah ada!</PrisonCell.stages.8.description>
+  <PrisonCell.stages.9.label>sel penjara menakjubkan</PrisonCell.stages.9.label>
+  <PrisonCell.stages.9.description>Sel penjaraku adalah tempat terbaik yang bisa dibayangkan. Aku bisa tinggal di sini selamanya.</PrisonCell.stages.9.description>
 
-  <PrisonBarracks.stages.0.label>awful barrack</PrisonBarracks.stages.0.label>
-  <PrisonBarracks.stages.0.description>My prison barrack is an awful place.</PrisonBarracks.stages.0.description>
-  <PrisonBarracks.stages.1.label>dull barrack</PrisonBarracks.stages.1.label>
-  <PrisonBarracks.stages.1.description>I'm living in a dull barrack.</PrisonBarracks.stages.1.description>
-  <PrisonBarracks.stages.4.label>slightly impressive barrack</PrisonBarracks.stages.4.label>
-  <PrisonBarracks.stages.4.description>My prison barrack is slightly impressive.</PrisonBarracks.stages.4.description>
-  <PrisonBarracks.stages.5.label>somewhat impressive barrack</PrisonBarracks.stages.5.label>
-  <PrisonBarracks.stages.5.description>My prison barrack is impressive. I like it.</PrisonBarracks.stages.5.description>
-  <PrisonBarracks.stages.6.label>very impressive barrack</PrisonBarracks.stages.6.label>
-  <PrisonBarracks.stages.6.description>My prison barrack is very impressive. I like it.</PrisonBarracks.stages.6.description>
-  <PrisonBarracks.stages.7.label>extremely impressive barrack</PrisonBarracks.stages.7.label>
-  <PrisonBarracks.stages.7.description>My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.7.description>
-  <PrisonBarracks.stages.8.label>unbelievably impressive barrack</PrisonBarracks.stages.8.label>
-  <PrisonBarracks.stages.8.description>My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.8.description>
-  <PrisonBarracks.stages.9.label>wondrously impressive barrack</PrisonBarracks.stages.9.label>
-  <PrisonBarracks.stages.9.description>My prison barrack is wonderful! I can't believe they are keeping me in a place like this.</PrisonBarracks.stages.9.description>
+  <PrisonBarracks.stages.0.label>barak buruk</PrisonBarracks.stages.0.label>
+  <PrisonBarracks.stages.0.description>Barak penjaraku adalah tempat yang buruk.</PrisonBarracks.stages.0.description>
+  <PrisonBarracks.stages.1.label>barak membosankan</PrisonBarracks.stages.1.label>
+  <PrisonBarracks.stages.1.description>Aku tinggal di barak yang membosankan.</PrisonBarracks.stages.1.description>
+  <PrisonBarracks.stages.4.label>barak cukup mengesankan</PrisonBarracks.stages.4.label>
+  <PrisonBarracks.stages.4.description>Barak penjaraku cukup mengesankan.</PrisonBarracks.stages.4.description>
+  <PrisonBarracks.stages.5.label>barak mengesankan</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.5.description>Barak penjaraku mengesankan. Aku menyukainya.</PrisonBarracks.stages.5.description>
+  <PrisonBarracks.stages.6.label>barak sangat mengesankan</PrisonBarracks.stages.6.label>
+  <PrisonBarracks.stages.6.description>Barak penjaraku sangat mengesankan. Aku menyukainya.</PrisonBarracks.stages.6.description>
+  <PrisonBarracks.stages.7.label>barak luar biasa mengesankan</PrisonBarracks.stages.7.label>
+  <PrisonBarracks.stages.7.description>Barak penjaraku luar biasa mengesankan. Aku tidak percaya mereka menempatkanku di tempat seperti ini.</PrisonBarracks.stages.7.description>
+  <PrisonBarracks.stages.8.label>barak tidak masuk akal mengesankan</PrisonBarracks.stages.8.label>
+  <PrisonBarracks.stages.8.description>Barak penjaraku tidak masuk akal mengesankannya. Aku tidak percaya mereka menempatkanku di tempat seperti ini.</PrisonBarracks.stages.8.description>
+  <PrisonBarracks.stages.9.label>barak menakjubkan</PrisonBarracks.stages.9.label>
+  <PrisonBarracks.stages.9.description>Barak penjaraku luar biasa! Aku tidak percaya mereka menempatkanku di tempat seperti ini.</PrisonBarracks.stages.9.description>
 
-  <HospitalPatientRoomStats.stages.0.label>awful hospital</HospitalPatientRoomStats.stages.0.label>
-  <HospitalPatientRoomStats.stages.0.description>This hospital is awful.</HospitalPatientRoomStats.stages.0.description>
-  <HospitalPatientRoomStats.stages.1.label>dull hospital</HospitalPatientRoomStats.stages.1.label>
-  <HospitalPatientRoomStats.stages.1.description>I'm stuck in a dull hospital.</HospitalPatientRoomStats.stages.1.description>
-  <HospitalPatientRoomStats.stages.4.label>slightly impressive hospital</HospitalPatientRoomStats.stages.4.label>
-  <HospitalPatientRoomStats.stages.4.description>My hospital is slightly impressive. It makes me feel a bit better.</HospitalPatientRoomStats.stages.4.description>
-  <HospitalPatientRoomStats.stages.5.label>somewhat impressive hospital</HospitalPatientRoomStats.stages.5.label>
-  <HospitalPatientRoomStats.stages.5.description>My hospital is impressive. It makes me feel better.</HospitalPatientRoomStats.stages.5.description>
-  <HospitalPatientRoomStats.stages.6.label>very impressive hospital</HospitalPatientRoomStats.stages.6.label>
-  <HospitalPatientRoomStats.stages.6.description>My hospital is very impressive. It makes me feel better.</HospitalPatientRoomStats.stages.6.description>
-  <HospitalPatientRoomStats.stages.7.label>extremely impressive hospital</HospitalPatientRoomStats.stages.7.label>
-  <HospitalPatientRoomStats.stages.7.description>My hospital is extremely impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.7.description>
-  <HospitalPatientRoomStats.stages.8.label>unbelievably impressive hospital</HospitalPatientRoomStats.stages.8.label>
-  <HospitalPatientRoomStats.stages.8.description>My hospital is unbelievably impressive. It makes me feel better already.</HospitalPatientRoomStats.stages.8.description>
-  <HospitalPatientRoomStats.stages.9.label>wondrously impressive hospital</HospitalPatientRoomStats.stages.9.label>
-  <HospitalPatientRoomStats.stages.9.description>My hospital is wonderful! It makes me feel better already.</HospitalPatientRoomStats.stages.9.description>
-
+  <HospitalPatientRoomStats.stages.0.label>rumah sakit buruk</HospitalPatientRoomStats.stages.0.label>
+  <HospitalPatientRoomStats.stages.0.description>Rumah sakit ini buruk.</HospitalPatientRoomStats.stages.0.description>
+  <HospitalPatientRoomStats.stages.1.label>rumah sakit membosankan</HospitalPatientRoomStats.stages.1.label>
+  <HospitalPatientRoomStats.stages.1.description>Aku terjebak di rumah sakit yang membosankan.</HospitalPatientRoomStats.stages.1.description>
+  <HospitalPatientRoomStats.stages.4.label>rumah sakit cukup mengesankan</HospitalPatientRoomStats.stages.4.label>
+  <HospitalPatientRoomStats.stages.4.description>Rumah sakitku cukup mengesankan. Membuatku merasa sedikit lebih baik.</HospitalPatientRoomStats.stages.4.description>
+  <HospitalPatientRoomStats.stages.5.label>rumah sakit mengesankan</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.5.description>Rumah sakitku mengesankan. Membuatku merasa lebih baik.</HospitalPatientRoomStats.stages.5.description>
+  <HospitalPatientRoomStats.stages.6.label>rumah sakit sangat mengesankan</HospitalPatientRoomStats.stages.6.label>
+  <HospitalPatientRoomStats.stages.6.description>Rumah sakitku sangat mengesankan. Membuatku merasa lebih baik.</HospitalPatientRoomStats.stages.6.description>
+  <HospitalPatientRoomStats.stages.7.label>rumah sakit luar biasa mengesankan</HospitalPatientRoomStats.stages.7.label>
+  <HospitalPatientRoomStats.stages.7.description>Rumah sakitku luar biasa mengesankan. Membuatku langsung merasa lebih baik.</HospitalPatientRoomStats.stages.7.description>
+  <HospitalPatientRoomStats.stages.8.label>rumah sakit tidak masuk akal mengesankan</HospitalPatientRoomStats.stages.8.label>
+  <HospitalPatientRoomStats.stages.8.description>Rumah sakitku tidak masuk akal mengesankannya. Membuatku langsung merasa lebih baik.</HospitalPatientRoomStats.stages.8.description>
+  <HospitalPatientRoomStats.stages.9.label>rumah sakit menakjubkan</HospitalPatientRoomStats.stages.9.label>
+  <HospitalPatientRoomStats.stages.9.description>Rumah sakitku luar biasa! Membuatku langsung merasa lebih baik.</HospitalPatientRoomStats.stages.9.description>
 
 </LanguageData>

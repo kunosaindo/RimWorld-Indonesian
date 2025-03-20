@@ -3,26 +3,25 @@
 
   <!-- Melee -->
 
-  <MeleeDPS.label>melee DPS</MeleeDPS.label>
-  <MeleeDPS.description>Average damage per second in melee combat. This stat ignores target defenses like dodging and armor.</MeleeDPS.description>
+  <MeleeDPS.label>DPS pertarungan jarak dekat</MeleeDPS.label>
+  <MeleeDPS.description>Rata-rata damage per detik dalam pertarungan jarak dekat. Statistik ini mengabaikan pertahanan target seperti menghindar dan armor.</MeleeDPS.description>
 
-  <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
-  <MeleeArmorPenetration.description>Average armor penetration of all attacks in melee combat. This stat includes currently used weapon.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.label>penetrasi armor jarak dekat</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.description>Rata-rata penetrasi armor dari semua serangan jarak dekat. Statistik ini termasuk senjata yang sedang digunakan.</MeleeArmorPenetration.description>
 
-  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
-  <MeleeHitChance.description>Chance to hit a target in melee. The target can still dodge even if we would've hit.</MeleeHitChance.description>
+  <MeleeHitChance.label>peluang mengenai target jarak dekat</MeleeHitChance.label>
+  <MeleeHitChance.description>Peluang mengenai target dalam pertarungan jarak dekat. Target masih bisa menghindar meskipun serangan akan mengenainya.</MeleeHitChance.description>
 
-  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
-  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.label>peluang menghindar jarak dekat</MeleeDodgeChance.label>
+  <MeleeDodgeChance.description>Peluang menghindar dari serangan jarak dekat yang seharusnya mengenai. Karakter tidak akan menghindar saat membidik atau menembak senjata jarak jauh.</MeleeDodgeChance.description>
 
 
   <!-- Shooting -->
 
-  <ShootingAccuracyPawn.label>shooting accuracy</ShootingAccuracyPawn.label>
-  <ShootingAccuracyPawn.description>Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target.</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.label>akurasi menembak</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.description>Peluang dasar untuk tidak meleset per sel jarak tembak. Peluang mengenai target juga dipengaruhi oleh banyak faktor lain. Penjelasan peluang mengenai target dapat dilihat dengan memilih penembak dan mengarahkan kursor ke target.</ShootingAccuracyPawn.description>
 
-  <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
-  <AimingDelayFactor.description>How long it takes to shoot after choosing a target.</AimingDelayFactor.description>
-
+  <AimingDelayFactor.label>waktu membidik</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Berapa lama waktu yang dibutuhkan untuk menembak setelah memilih target.</AimingDelayFactor.description>
 
 </LanguageData>

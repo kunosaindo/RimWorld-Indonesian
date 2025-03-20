@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Manhunters.label>manhunter pack</Manhunters.label>
-  <Manhunters.description>A pack of manhunting animals.</Manhunters.description>
-  <Manhunters.descriptionDialogue>there is a group of {0} manhunting {1} wandering nearby</Manhunters.descriptionDialogue>
-
+  <Manhunters.label>gerombolan pemburu manusia</Manhunters.label>
+  <Manhunters.description>Sekelompok hewan pemburu manusia.</Manhunters.description>
+  <Manhunters.descriptionDialogue>ada sekelompok {0} {1} pemburu manusia yang berkeliaran di dekat sini</Manhunters.descriptionDialogue>
 
 </LanguageData>

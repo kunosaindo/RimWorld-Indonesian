@@ -1,26 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_AverageDPS.label>melee damage per second</MeleeWeapon_AverageDPS.label>
-  <MeleeWeapon_AverageDPS.description>Average damage dealt per second in melee combat, if all attacks hit.</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageDPS.label>damage per detik jarak dekat</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_AverageDPS.description>Rata-rata damage yang diberikan per detik dalam pertarungan jarak dekat, jika semua serangan mengenai target.</MeleeWeapon_AverageDPS.description>
 
-  <MeleeWeapon_AverageArmorPenetration.label>melee armor penetration</MeleeWeapon_AverageArmorPenetration.label>
-  <MeleeWeapon_AverageArmorPenetration.description>Average armor penetration in melee combat.</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_AverageArmorPenetration.label>penetrasi armor jarak dekat</MeleeWeapon_AverageArmorPenetration.label>
+  <MeleeWeapon_AverageArmorPenetration.description>Rata-rata penetrasi armor dalam pertarungan jarak dekat.</MeleeWeapon_AverageArmorPenetration.description>
 
-  <MeleeWeapon_DamageMultiplier.label>melee damage multiplier</MeleeWeapon_DamageMultiplier.label>
-  <MeleeWeapon_DamageMultiplier.description>A damage multiplier applied to melee combat.</MeleeWeapon_DamageMultiplier.description>
-
+  <MeleeWeapon_DamageMultiplier.label>pengganda damage jarak dekat</MeleeWeapon_DamageMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.description>Pengganda damage yang diterapkan pada pertarungan jarak dekat.</MeleeWeapon_DamageMultiplier.description>
 
   <!-- Damage multipliers should be stats on stuffs only -->
 
-  <MeleeWeapon_CooldownMultiplier.label>melee cooldown</MeleeWeapon_CooldownMultiplier.label>
-  <MeleeWeapon_CooldownMultiplier.description>A multiplier on attack delay for weapons made of this material.</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.label>waktu jeda jarak dekat</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_CooldownMultiplier.description>Pengganda pada jeda serangan untuk senjata yang terbuat dari material ini.</MeleeWeapon_CooldownMultiplier.description>
 
-  <SharpDamageMultiplier.label>sharp damage</SharpDamageMultiplier.label>
-  <SharpDamageMultiplier.description>A multiplier on damage from sharp-type attacks for weapons made of this material.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.label>damage tajam</SharpDamageMultiplier.label>
+  <SharpDamageMultiplier.description>Pengganda pada damage dari serangan tipe tajam untuk senjata yang terbuat dari material ini.</SharpDamageMultiplier.description>
 
-  <BluntDamageMultiplier.label>blunt damage</BluntDamageMultiplier.label>
-  <BluntDamageMultiplier.description>A multiplier on damage from blunt-type attacks for weapons made of this material.</BluntDamageMultiplier.description>
-
+  <BluntDamageMultiplier.label>damage tumpul</BluntDamageMultiplier.label>
+  <BluntDamageMultiplier.description>Pengganda pada damage dari serangan tipe tumpul untuk senjata yang terbuat dari material ini.</BluntDamageMultiplier.description>
 
 </LanguageData>

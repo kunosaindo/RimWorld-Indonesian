@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DropPodIncoming.label>drop pod (incoming)</DropPodIncoming.label>
-  <DropPodLeaving.label>drop pod (leaving)</DropPodLeaving.label>
-  <ShipChunkIncoming.label>ship chunk (incoming)</ShipChunkIncoming.label>
-  <CrashedShipPartIncoming.label>crashed ship part (incoming)</CrashedShipPartIncoming.label>
-  <MeteoriteIncoming.label>meteorite (incoming)</MeteoriteIncoming.label>
-
+  <DropPodIncoming.label>kapsul jatuh (datang)</DropPodIncoming.label>
+  <DropPodLeaving.label>kapsul jatuh (pergi)</DropPodLeaving.label>
+  <ShipChunkIncoming.label>pecahan pesawat (datang)</ShipChunkIncoming.label>
+  <CrashedShipPartIncoming.label>bagian pesawat jatuh (datang)</CrashedShipPartIncoming.label>
+  <MeteoriteIncoming.label>meteorit (datang)</MeteoriteIncoming.label>
 
 </LanguageData>

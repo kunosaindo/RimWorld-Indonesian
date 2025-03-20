@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
-  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.label>lantai kayu terbakar</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.description>Lantai papan kayu yang sudah terbakar.</BurnedWoodPlankFloor.description>
 
-  <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
-  <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
-
+  <BurnedCarpet.label>karpet terbakar</BurnedCarpet.label>
+  <BurnedCarpet.description>Karpet yang sudah terbakar.</BurnedCarpet.description>
 
 </LanguageData>

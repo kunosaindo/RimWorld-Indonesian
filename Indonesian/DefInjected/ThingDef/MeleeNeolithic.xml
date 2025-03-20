@@ -1,27 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_Club.label>club</MeleeWeapon_Club.label>
-  <MeleeWeapon_Club.description>A shaped stick, heavy at one end, for bashing enemies to death. This weapon is so old it's part of human biology. Evolutionary biologists say that a major reason humans can tilt our wrists side-to-side (instead of just forward-and-back like other primates) is to be able to better swing a club.</MeleeWeapon_Club.description>
-  <MeleeWeapon_Club.tools.0.label>handle</MeleeWeapon_Club.tools.0.label>
-  <MeleeWeapon_Club.tools.1.label>head</MeleeWeapon_Club.tools.1.label>
+  <MeleeWeapon_Club.label>pentungan</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>Sebuah tongkat yang dibentuk, berat di satu ujungnya, untuk memukul musuh sampai mati. Senjata ini begitu tua sehingga sudah menjadi bagian dari biologi manusia. Ahli biologi evolusi mengatakan bahwa alasan utama manusia bisa memiringkan pergelangan tangan ke samping (tidak hanya maju-mundur seperti primata lain) adalah agar bisa lebih baik dalam mengayunkan pentungan.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.0.label>gagang</MeleeWeapon_Club.tools.0.label>
+  <MeleeWeapon_Club.tools.1.label>kepala</MeleeWeapon_Club.tools.1.label>
 
-  <MeleeWeapon_Knife.label>knife</MeleeWeapon_Knife.label>
-  <MeleeWeapon_Knife.description>One of mankind's oldest manufactured objects. The knife has taken many forms, but the concept has always remained the same: A handle for holding and a sharp edge for cutting.</MeleeWeapon_Knife.description>
-  <MeleeWeapon_Knife.tools.0.label>handle</MeleeWeapon_Knife.tools.0.label>
-  <MeleeWeapon_Knife.tools.1.label>blade</MeleeWeapon_Knife.tools.1.label>
-  <MeleeWeapon_Knife.tools.2.label>point</MeleeWeapon_Knife.tools.2.label>
+  <MeleeWeapon_Knife.label>pisau</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>Salah satu benda buatan manusia tertua. Pisau telah mengambil banyak bentuk, tapi konsepnya selalu sama: Gagang untuk memegang dan tepi tajam untuk memotong.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.0.label>gagang</MeleeWeapon_Knife.tools.0.label>
+  <MeleeWeapon_Knife.tools.1.label>bilah</MeleeWeapon_Knife.tools.1.label>
+  <MeleeWeapon_Knife.tools.2.label>ujung</MeleeWeapon_Knife.tools.2.label>
 
   <MeleeWeapon_Ikwa.label>ikwa</MeleeWeapon_Ikwa.label>
-  <MeleeWeapon_Ikwa.description>A short spearhandle attached to a long bladed point, designed to be driven into vital organs with a quick thrust.</MeleeWeapon_Ikwa.description>
-  <MeleeWeapon_Ikwa.tools.0.label>handle</MeleeWeapon_Ikwa.tools.0.label>
-  <MeleeWeapon_Ikwa.tools.1.label>head</MeleeWeapon_Ikwa.tools.1.label>
-  <MeleeWeapon_Ikwa.tools.2.label>edge</MeleeWeapon_Ikwa.tools.2.label>
+  <MeleeWeapon_Ikwa.description>Gagang tombak pendek yang dilengkapi dengan ujung bermata tajam panjang, dirancang untuk ditusukkan ke organ vital dengan dorongan cepat.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.0.label>gagang</MeleeWeapon_Ikwa.tools.0.label>
+  <MeleeWeapon_Ikwa.tools.1.label>kepala</MeleeWeapon_Ikwa.tools.1.label>
+  <MeleeWeapon_Ikwa.tools.2.label>mata</MeleeWeapon_Ikwa.tools.2.label>
 
-  <MeleeWeapon_Spear.label>spear</MeleeWeapon_Spear.label>
-  <MeleeWeapon_Spear.description>A polearm tipped with a sharp point for stabbing opponents.</MeleeWeapon_Spear.description>
-  <MeleeWeapon_Spear.tools.0.label>shaft</MeleeWeapon_Spear.tools.0.label>
-  <MeleeWeapon_Spear.tools.1.label>point</MeleeWeapon_Spear.tools.1.label>
-
+  <MeleeWeapon_Spear.label>tombak</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>Senjata bertangkai panjang dengan ujung tajam untuk menusuk lawan.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.0.label>batang</MeleeWeapon_Spear.tools.0.label>
+  <MeleeWeapon_Spear.tools.1.label>ujung</MeleeWeapon_Spear.tools.1.label>
 
 </LanguageData>

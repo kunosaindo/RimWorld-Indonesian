@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
-  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses.</MedicalTendSpeed.description>
+  <MedicalTendSpeed.label>kecepatan merawat medis</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Kecepatan karakter dalam merawat luka dan penyakit.</MedicalTendSpeed.description>
 
-  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
-  <MedicalTendQuality.description>The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on.</MedicalTendQuality.description>
+  <MedicalTendQuality.label>kualitas perawatan medis</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Kualitas dasar perawatan yang diberikan saat mengobati luka dan penyakit. Kualitas perawatan sebenarnya juga dipengaruhi oleh faktor-faktor seperti obat yang digunakan, fasilitas, kebersihan ruangan, keberuntungan, dan sebagainya.</MedicalTendQuality.description>
 
-  <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
-  <MedicalOperationSpeed.description>The speed at which the character performs medical operations.</MedicalOperationSpeed.description>
+  <MedicalOperationSpeed.label>kecepatan operasi medis</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Kecepatan karakter dalam melakukan operasi medis.</MedicalOperationSpeed.description>
 
-  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
-  <MedicalSurgerySuccessChance.description>The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation.</MedicalSurgerySuccessChance.description>
-
+  <MedicalSurgerySuccessChance.label>peluang sukses operasi medis</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>Peluang dasar karakter untuk berhasil saat melakukan operasi medis. Peluang sukses sebenarnya juga dipengaruhi oleh faktor-faktor seperti fasilitas, kebersihan ruangan, obat yang digunakan, tingkat kesulitan operasi, dan inspirasi. Seberapa tinggi pun peluang suksesnya, selalu ada kemungkinan kecil untuk gagal dalam setiap operasi.</MedicalSurgerySuccessChance.description>
 
 </LanguageData>

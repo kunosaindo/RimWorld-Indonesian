@@ -1,43 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkToBuild.label>work to build</WorkToBuild.label>
-  <WorkToBuild.description>The base amount of work it takes to build a structure, once all materials are gathered.</WorkToBuild.description>
+  <WorkToBuild.label>kerja untuk membangun</WorkToBuild.label>
+  <WorkToBuild.description>Jumlah dasar kerja yang dibutuhkan untuk membangun struktur, setelah semua bahan terkumpul.</WorkToBuild.description>
 
-  <DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
-  <DoorOpenSpeed.description>The speed at which the door opens. Slow doors will slow down everyone who uses them.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.label>kecepatan membuka pintu</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Kecepatan pintu terbuka. Pintu yang lambat akan memperlambat semua orang yang menggunakannya.</DoorOpenSpeed.description>
 
-  <BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
-  <BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.label>efektivitas istirahat</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Seberapa cepat orang mendapatkan istirahat saat tidur di sini.</BedRestEffectiveness.description>
 
-  <TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-  <TrapMeleeDamage.description>How much damage this trap does on average. The actual damage in any instance will vary randomly.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.label>damage jebakan</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Berapa banyak damage yang dihasilkan jebakan ini secara rata-rata. Damage sebenarnya akan bervariasi secara acak.</TrapMeleeDamage.description>
 
-  <TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
-  <TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+  <TrapSpringChance.label>peluang jebakan aktif</TrapSpringChance.label>
+  <TrapSpringChance.description>Kemungkinan jebakan akan aktif ketika makhluk yang tidak sadar melewatinya.</TrapSpringChance.description>
 
-  <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-  <ResearchSpeedFactor.description>The speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
-  <ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+  <ResearchSpeedFactor.label>faktor kecepatan penelitian</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Kecepatan orang melakukan penelitian dikalikan dengan nilai ini.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>Kebersihan ruangan</ResearchSpeedFactor.parts.1.customLabel>
 
-  <MedicalTendQualityOffset.label>medical tend quality offset</MedicalTendQualityOffset.label>
-  <MedicalTendQualityOffset.description>Medical tend quality is offset by this value.</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.label>pengaturan kualitas perawatan medis</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>Kualitas perawatan medis diatur oleh nilai ini.</MedicalTendQualityOffset.description>
 
-  <ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
-  <ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.label>faktor kecepatan mendapat kekebalan</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Kecepatan mendapat kekebalan dikalikan dengan nilai ini.</ImmunityGainSpeedFactor.description>
 
-  <WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
-  <WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>faktor kecepatan kerja</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Kecepatan kerja dikalikan dengan nilai ini.</WorkTableWorkSpeedFactor.description>
 
-  <WorkTableEfficiencyFactor.label>work efficiency factor</WorkTableEfficiencyFactor.label>
-  <WorkTableEfficiencyFactor.description>Work efficiency is multiplied by this value.</WorkTableEfficiencyFactor.description>
+  <WorkTableEfficiencyFactor.label>faktor efisiensi kerja</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>Efisiensi kerja dikalikan dengan nilai ini.</WorkTableEfficiencyFactor.description>
 
-  <JoyGainFactor.label>recreation power</JoyGainFactor.label>
-  <JoyGainFactor.description>How effectively this item entertains people and fulfills the need for recreation.</JoyGainFactor.description>
+  <JoyGainFactor.label>kekuatan rekreasi</JoyGainFactor.label>
+  <JoyGainFactor.description>Seberapa efektif benda ini menghibur orang dan memenuhi kebutuhan rekreasi.</JoyGainFactor.description>
 
-  <SurgerySuccessChanceFactor.label>surgery success chance factor</SurgerySuccessChanceFactor.label>
-  <SurgerySuccessChanceFactor.description>A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used.</SurgerySuccessChanceFactor.description>
-  <SurgerySuccessChanceFactor.parts.0.customLabel>Room cleanliness</SurgerySuccessChanceFactor.parts.0.customLabel>
-
+  <SurgerySuccessChanceFactor.label>faktor peluang operasi berhasil</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>Pengali untuk peluang operasi akan berhasil jika dilakukan di sini. Peluang keberhasilan operasi juga dipengaruhi oleh banyak faktor lain, termasuk kemampuan dokter bedah dan obat yang digunakan.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>Kebersihan ruangan</SurgerySuccessChanceFactor.parts.0.customLabel>
 
 </LanguageData>

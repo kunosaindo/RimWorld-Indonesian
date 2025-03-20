@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CrashedPsychicEmanatorShipPart.label>ship part (psychic)</CrashedPsychicEmanatorShipPart.label>
-  <CrashedPsychicEmanatorShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be emanating psychic waves.</CrashedPsychicEmanatorShipPart.description>
+  <CrashedPsychicEmanatorShipPart.label>bagian kapal (psikis)</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Bagian misterius dari pesawat luar angkasa yang jatuh. Bisa mengandung berbagai pertahanan mematikan dan bahan-bahan eksotis. Yang satu ini tampaknya memancarkan gelombang psikis.</CrashedPsychicEmanatorShipPart.description>
 
-  <CrashedPoisonShipPart.label>ship part (poison)</CrashedPoisonShipPart.label>
-  <CrashedPoisonShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to be killing plant life around it.</CrashedPoisonShipPart.description>
+  <CrashedPoisonShipPart.label>bagian kapal (beracun)</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Bagian misterius dari pesawat luar angkasa yang jatuh. Bisa mengandung berbagai pertahanan mematikan dan bahan-bahan eksotis. Yang satu ini tampaknya membunuh tanaman di sekitarnya.</CrashedPoisonShipPart.description>
 
 
   <!-- Misc -->
 
-  <ShipChunk.label>ship chunk</ShipChunk.label>
-  <ShipChunk.description>A chunk of a spacecraft. Can be deconstructed to yield useful resources.</ShipChunk.description>
+  <ShipChunk.label>serpihan kapal</ShipChunk.label>
+  <ShipChunk.description>Serpihan dari pesawat luar angkasa. Bisa dibongkar untuk mendapatkan sumber daya yang berguna.</ShipChunk.description>
 
 
 </LanguageData>

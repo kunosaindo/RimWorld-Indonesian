@@ -2,93 +2,93 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>higher priority</HigherPriority>
-  <LowerPriority>lower priority</LowerPriority>
-  <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
-  <CannotDoThisWork>{1_labelShort} cannot do this kind of work.</CannotDoThisWork>
-  <NoneBrackets>(none)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>E</EmergencyWorkMarker>
-  <SelectedWorkTypeWithVeryBadSkill>Warning: The average of relevant skills is very low.</SelectedWorkTypeWithVeryBadSkill>
+  <ManualPriorities>Prioritas manual</ManualPriorities>
+  <HigherPriority>prioritas lebih tinggi</HigherPriority>
+  <LowerPriority>prioritas lebih rendah</LowerPriority>
+  <RelevantSkills>Keterampilan terkait: {0}\nRata-rata keterampilan terkait: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Klik untuk pindah ke:</ClickToJumpTo>
+  <CannotDoThisWork>{1_labelShort} tidak bisa melakukan jenis pekerjaan ini.</CannotDoThisWork>
+  <NoneBrackets>(tidak ada)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Kolonis ini tidak dapat melakukan jenis pekerjaan ini karena kondisi kesehatannya.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>D</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>Peringatan: Rata-rata keterampilan terkait sangat rendah.</SelectedWorkTypeWithVeryBadSkill>
 
   <!-- Assign tab -->
-  <ManageOutfits>Manage outfits</ManageOutfits>
-  <ClearForcedApparel>Clr. forced</ClearForcedApparel>
-  <ApparelForcedLower>forced</ApparelForcedLower>
-  <ForcedApparel>Forced apparel</ForcedApparel>
+  <ManageOutfits>Kelola pakaian</ManageOutfits>
+  <ClearForcedApparel>Hapus paksa</ClearForcedApparel>
+  <ApparelForcedLower>dipaksa</ApparelForcedLower>
+  <ForcedApparel>Pakaian yang dipaksa</ForcedApparel>
   <AssignTabEdit>Edit...</AssignTabEdit>
-  <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
-  <ManageFoodRestrictions>Manage food restrictions</ManageFoodRestrictions>
+  <ManageDrugPolicies>Kelola kebijakan obat</ManageDrugPolicies>
+  <ManageFoodRestrictions>Kelola pembatasan makanan</ManageFoodRestrictions>
 
   <!-- Restrictions tab -->
-  <Copy>Copy</Copy>
-  <Paste>Paste</Paste>
-  <AllowedArea>Allowed area</AllowedArea>
+  <Copy>Salin</Copy>
+  <Paste>Tempel</Paste>
+  <AllowedArea>Area yang diizinkan</AllowedArea>
 
   <!-- Animals tab -->
-  <Master>Master</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
-  <BondedTo>Bonded to</BondedTo>
+  <Master>Majikan</Master>
+  <PregnantIconDesc>Hamil ({0} / {1})</PregnantIconDesc>
+  <BondedTo>Terikat dengan</BondedTo>
 
   <!-- Wildlife tab -->
-  <IsPredator>This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people.</IsPredator>
+  <IsPredator>Makhluk ini adalah predator. Saat lapar, ia akan memburu makhluk yang lebih kecil - termasuk manusia.</IsPredator>
 
   <!-- Factions tab -->
-  <Hostile>Hostile</Hostile>
-  <Ally>Ally</Ally>
-  <DefeatedLower>defeated</DefeatedLower>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwillTip>Current goodwill and relations status with this faction.</CurrentGoodwillTip>
-  <CurrentGoodwillTip_PermanentEnemy>This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason.</CurrentGoodwillTip_PermanentEnemy>
-  <CurrentGoodwillTip_Ally>This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral.</CurrentGoodwillTip_Ally>
-  <CurrentGoodwillTip_Neutral>This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you.</CurrentGoodwillTip_Neutral>
-  <CurrentGoodwillTip_Hostile>This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral.</CurrentGoodwillTip_Hostile>
-  <CurrentGoodwillTip_NaturalGoodwill>This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day.</CurrentGoodwillTip_NaturalGoodwill>
+  <Hostile>Bermusuhan</Hostile>
+  <Ally>Sekutu</Ally>
+  <DefeatedLower>dikalahkan</DefeatedLower>
+  <HostileTo>Musuh dari {0}</HostileTo>
+  <CurrentGoodwillTip>Status niat baik dan hubungan saat ini dengan faksi ini.</CurrentGoodwillTip>
+  <CurrentGoodwillTip_PermanentEnemy>Faksi ini selamanya bermusuhan. Mereka akan menyerang pemukiman dan karavanmu. Hubungan dengan mereka tidak akan pernah membaik dengan alasan apapun.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>Faksi ini adalah sekutu. Mereka akan mengirim pejuang untuk membantu saat mereka bisa. Jika hubungan turun di bawah {0}, mereka akan menjadi netral.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>Faksi ini netral. Mereka akan berdagang dan berbicara denganmu dengan bebas. Jika hubungan turun di bawah {0}, mereka akan menjadi bermusuhan. Jika hubungan naik di atas {1}, mereka akan menjadi sekutu dan mulai aktif membantu.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>Faksi ini bermusuhan. Mereka akan menyerang pemukiman dan karavanmu. Jika hubungan naik di atas {0}, mereka akan menjadi netral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_NaturalGoodwill>Faksi ini memiliki rentang niat baik alami dari {0} sampai {1}. Jika niat baik di atas {1}, akan turun {3} per hari. Jika niat baik di bawah {0}, akan naik {2} per hari.</CurrentGoodwillTip_NaturalGoodwill>
 
   <!-- Social tab -->
-  <Friend>Friend</Friend>
+  <Friend>Teman</Friend>
   <Rival>Rival</Rival>
-  <Acquaintance>Acquaintance</Acquaintance>
+  <Acquaintance>Kenalan</Acquaintance>
 
   <!-- History tab - subtabs -->
-  <Graph>Graph</Graph>
-  <Messages>Messages</Messages>
-  <Statistics>Statistics</Statistics>
+  <Graph>Grafik</Graph>
+  <Messages>Pesan</Messages>
+  <Statistics>Statistik</Statistics>
 
   <!-- History tab - Graphs -->
-  <SelectGraph>Select graph</SelectGraph>
-  <Last30Days>Last 30 days</Last30Days>
-  <Last100Days>Last 100 days</Last100Days>
-  <Last300Days>Last 300 days</Last300Days>
-  <AllDays>All</AllDays>
-  <Value>Value</Value>
-  <External>External</External>
+  <SelectGraph>Pilih grafik</SelectGraph>
+  <Last30Days>30 hari terakhir</Last30Days>
+  <Last100Days>100 hari terakhir</Last100Days>
+  <Last300Days>300 hari terakhir</Last300Days>
+  <AllDays>Semua</AllDays>
+  <Value>Nilai</Value>
+  <External>Eksternal</External>
 
   <!-- History tab - Messages -->
-  <ShowLetters>Show letters</ShowLetters>
-  <ShowMessages>Show messages</ShowMessages>
-  <PinArchivableTip>Pin or unpin this message.\n\nThe oldest unpinned messages will be removed automatically from the list after reaching the limit of {0} messages.</PinArchivableTip>
-  <NoMessages>no messages</NoMessages>
+  <ShowLetters>Tampilkan surat</ShowLetters>
+  <ShowMessages>Tampilkan pesan</ShowMessages>
+  <PinArchivableTip>Sematkan atau lepas sematan pesan ini.\n\nPesan tertua yang tidak disematkan akan dihapus secara otomatis dari daftar setelah mencapai batas {0} pesan.</PinArchivableTip>
+  <NoMessages>tidak ada pesan</NoMessages>
 
   <!-- History tab - Statistics -->
-  <Playtime>Play time</Playtime>
-  <Storyteller>Storyteller</Storyteller>
-  <ThisMapColonyWealthTotal>Colony wealth (this map)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>Colony wealth (items) (this map)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>Colony wealth (buildings) (this map)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthColonistsAndTameAnimals>Colony wealth (people and animals) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
-  <NumThreatBigs>Major threats</NumThreatBigs>
-  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
-  <ThisMapDamageTaken>Damage taken (this map)</ThisMapDamageTaken>
-  <ColonistsKilled>Colonists killed</ColonistsKilled>
-  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+  <Playtime>Waktu bermain</Playtime>
+  <Storyteller>Pencerita</Storyteller>
+  <ThisMapColonyWealthTotal>Kekayaan koloni (peta ini)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Kekayaan koloni (barang) (peta ini)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Kekayaan koloni (bangunan) (peta ini)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthColonistsAndTameAnimals>Kekayaan koloni (orang dan hewan) (peta ini)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <NumThreatBigs>Ancaman besar</NumThreatBigs>
+  <NumEnemyRaids>Serangan musuh</NumEnemyRaids>
+  <ThisMapDamageTaken>Kerusakan yang diterima (peta ini)</ThisMapDamageTaken>
+  <ColonistsKilled>Kolonis terbunuh</ColonistsKilled>
+  <ColonistsLaunched>Kolonis diluncurkan ke luar angkasa</ColonistsLaunched>
 
   <!-- Research tab -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ProjectTechLevel>level teknologi proyek</ProjectTechLevel>
+  <YourTechLevel>level teknologimu</YourTechLevel>
+  <ResearchCostMultiplier>pengali biaya</ResearchCostMultiplier>
+  <ResearchCostComparison>Biaya dasar proyek {0} menjadi {1} untukmu karena level teknologimu.</ResearchCostComparison>
 
 </LanguageData>

@@ -3,45 +3,45 @@
 
   <!-- Standard soils -->
 
-  <Soil.label>soil</Soil.label>
-  <Soil.tools.0.label>dirt</Soil.tools.0.label>
+  <Soil.label>tanah</Soil.label>
+  <Soil.tools.0.label>tanah</Soil.tools.0.label>
 
-  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
+  <MossyTerrain.label>tanah berlumut</MossyTerrain.label>
 
-  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
-  <MarshyTerrain.tools.0.label>mud</MarshyTerrain.tools.0.label>
+  <MarshyTerrain.label>tanah berawa</MarshyTerrain.label>
+  <MarshyTerrain.tools.0.label>lumpur</MarshyTerrain.tools.0.label>
 
 
   <!-- Rich soils -->
 
-  <SoilRich.label>rich soil</SoilRich.label>
-  <SoilRich.tools.0.label>dirt</SoilRich.tools.0.label>
+  <SoilRich.label>tanah subur</SoilRich.label>
+  <SoilRich.tools.0.label>tanah</SoilRich.tools.0.label>
 
 
   <!-- Poor soils -->
 
-  <Gravel.label>stony soil</Gravel.label>
-  <Gravel.tools.0.label>gravel</Gravel.tools.0.label>
+  <Gravel.label>tanah berbatu</Gravel.label>
+  <Gravel.tools.0.label>kerikil</Gravel.tools.0.label>
 
 
   <!-- Sand -->
 
-  <Sand.label>sand</Sand.label>
-  <Sand.tools.0.label>sand</Sand.tools.0.label>
+  <Sand.label>pasir</Sand.label>
+  <Sand.tools.0.label>pasir</Sand.tools.0.label>
 
-  <SoftSand.label>soft sand</SoftSand.label>
-  <SoftSand.tools.0.label>sand</SoftSand.tools.0.label>
+  <SoftSand.label>pasir halus</SoftSand.label>
+  <SoftSand.tools.0.label>pasir</SoftSand.tools.0.label>
 
 
   <!-- Infertile ground -->
 
-  <Mud.label>mud</Mud.label>
-  <Mud.tools.0.label>mud</Mud.tools.0.label>
+  <Mud.label>lumpur</Mud.label>
+  <Mud.tools.0.label>lumpur</Mud.tools.0.label>
 
 
   <!-- Ice -->
 
-  <Ice.label>Ice</Ice.label>
+  <Ice.label>Es</Ice.label>
 
 
 </LanguageData>

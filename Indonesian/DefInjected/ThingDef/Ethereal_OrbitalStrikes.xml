@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bombardment.label>bombardment</Bombardment.label>
-  <PowerBeam.label>power beam</PowerBeam.label>
-
+  <Bombardment.label>pengeboman</Bombardment.label>
+  <PowerBeam.label>sinar energi</PowerBeam.label>
 
 </LanguageData>

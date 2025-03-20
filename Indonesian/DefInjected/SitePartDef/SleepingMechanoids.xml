@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SleepingMechanoids.label>sleeping mechanoids</SleepingMechanoids.label>
-  <SleepingMechanoids.description>A group of sleeping mechanoids.</SleepingMechanoids.description>
-  <SleepingMechanoids.descriptionDialogue>there are {0} sleeping mechanoids in the area</SleepingMechanoids.descriptionDialogue>
-
+  <SleepingMechanoids.label>mekanoid yang tertidur</SleepingMechanoids.label>
+  <SleepingMechanoids.description>Sekelompok mekanoid yang sedang tertidur.</SleepingMechanoids.description>
+  <SleepingMechanoids.descriptionDialogue>ada {0} mekanoid yang tertidur di area ini</SleepingMechanoids.descriptionDialogue>
 
 </LanguageData>

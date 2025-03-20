@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Turrets.label>turrets</Turrets.label>
-  <Turrets.description>A group of turrets.</Turrets.description>
-  <Turrets.descriptionDialogue>{0} defend the site</Turrets.descriptionDialogue>
-
+  <Turrets.label>menara pertahanan</Turrets.label>
+  <Turrets.description>Sekelompok menara pertahanan.</Turrets.description>
+  <Turrets.descriptionDialogue>{0} melindungi lokasi ini</Turrets.descriptionDialogue>
 
 </LanguageData>

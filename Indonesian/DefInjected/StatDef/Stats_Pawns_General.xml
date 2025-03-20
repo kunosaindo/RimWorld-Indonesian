@@ -1,57 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MoveSpeed.label>move speed</MoveSpeed.label>
-  <MoveSpeed.description>Speed of movement in cells per second.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  <MoveSpeed.label>kecepatan bergerak</MoveSpeed.label>
+  <MoveSpeed.description>Kecepatan pergerakan dalam sel per detik.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} s/d</MoveSpeed.formatString>
 
-  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.label>ambang batas gangguan mental</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>Selama suasana hati seseorang berada di bawah level ini, mereka berisiko mengalami gangguan mental. Tingkat keparahan gangguan mental akan tergantung pada seberapa jauh di bawah ambang batas tersebut.</MentalBreakThreshold.description>
 
-  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones.</PsychicSensitivity.description>
+  <PsychicSensitivity.label>kepekaan psikis</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Pengali dampak fenomena psikis yang mempengaruhi orang ini. Orang yang lebih peka akan lebih menderita dari efek psikis negatif, dan mendapat manfaat lebih dari yang positif.</PsychicSensitivity.description>
 
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+  <ToxicSensitivity.label>kepekaan terhadap racun</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Pengali dampak penumpukan racun pada makhluk ini.</ToxicSensitivity.description>
 
-  <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
-  <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.label>faktor pembelajaran global</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Pengali kecepatan belajar untuk semua keterampilan.</GlobalLearningFactor.description>
 
-  <HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
-  <HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
+  <HungerRateMultiplier.label>pengali tingkat kelaparan</HungerRateMultiplier.label>
+  <HungerRateMultiplier.description>Pengali seberapa cepat makhluk menjadi lapar.</HungerRateMultiplier.description>
 
-  <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
-  <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
+  <RestRateMultiplier.label>pengali tingkat istirahat</RestRateMultiplier.label>
+  <RestRateMultiplier.description>Pengali seberapa cepat makhluk beristirahat saat tidur.</RestRateMultiplier.description>
 
-  <EatingSpeed.label>eating speed</EatingSpeed.label>
-  <EatingSpeed.description>A multiplier on eating speed.</EatingSpeed.description>
+  <EatingSpeed.label>kecepatan makan</EatingSpeed.label>
+  <EatingSpeed.description>Pengali kecepatan makan.</EatingSpeed.description>
 
-  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.label>suhu nyaman minimum</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Di bawah suhu ini, karakter akan merasa tidak nyaman. Jauh di bawah suhu ini, mereka akan mengalami hipotermia dan radang dingin dan akhirnya mati.</ComfyTemperatureMin.description>
 
-  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.label>suhu nyaman maksimum</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Di atas suhu ini, karakter akan merasa tidak nyaman. Jauh di atas suhu ini, mereka akan mengalami sengatan panas dan akhirnya mati.</ComfyTemperatureMax.description>
 
-  <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
-  <ImmunityGainSpeed.description>The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.label>kecepatan mendapat kekebalan</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Kecepatan karakter ini mendapatkan kekebalan terhadap penyakit. Jika terlalu lambat, karakter akan mati karena penyakit sebelum mengembangkan kekebalan.</ImmunityGainSpeed.description>
 
-  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
-  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
+  <CarryingCapacity.label>kapasitas membawa</CarryingCapacity.label>
+  <CarryingCapacity.description>Jumlah barang yang bisa dibawa makhluk ini di tangan, mulut, atau manipulator lainnya. Ini terpisah dari kemampuan membawa kargo dalam perjalanan jauh lintas dunia.</CarryingCapacity.description>
 
-  <MeatAmount.label>meat amount</MeatAmount.label>
-  <MeatAmount.description>The amount of meat yielded when butchering this creature.</MeatAmount.description>
+  <MeatAmount.label>jumlah daging</MeatAmount.label>
+  <MeatAmount.description>Jumlah daging yang dihasilkan saat memotong makhluk ini.</MeatAmount.description>
 
-  <LeatherAmount.label>leather amount</LeatherAmount.label>
-  <LeatherAmount.description>The amount of leather yielded when butchering this creature.</LeatherAmount.description>
+  <LeatherAmount.label>jumlah kulit</LeatherAmount.label>
+  <LeatherAmount.description>Jumlah kulit yang dihasilkan saat memotong makhluk ini.</LeatherAmount.description>
 
-  <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
-  <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.label>keterampilan penanganan minimum</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>Makhluk ini tidak dapat dijinakkan, dilatih, atau diperintah oleh siapa pun yang memiliki keterampilan hewan kurang dari ini.</MinimumHandlingSkill.description>
 
-  <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
-  <PainShockThreshold.description>The pain level at which this creature is downed from pain.</PainShockThreshold.description>
+  <PainShockThreshold.label>ambang batas syok nyeri</PainShockThreshold.label>
+  <PainShockThreshold.description>Tingkat rasa sakit dimana makhluk ini akan jatuh karena rasa sakit.</PainShockThreshold.description>
 
-  <ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
-  <ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
-
+  <ForagedNutritionPerDay.label>jumlah makanan yang dicari</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>Jumlah nutrisi yang akan otomatis dicari orang ini per hari saat bepergian dengan karavan.</ForagedNutritionPerDay.description>
 
 </LanguageData>

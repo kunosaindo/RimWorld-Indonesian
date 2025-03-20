@@ -1,319 +1,312 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Pengepung {0} dari {1} sedang menyerang koloni.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
-  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
+  <MessageRaidersBeginningAssault>{0} dari {1} mulai menyerang.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} dari {1} telah mendeteksimu dan mulai menyerang lebih awal.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} dari {1} telah memutuskan untuk menculik siapa yang mereka bisa dan pergi.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} dari {1} telah memutuskan untuk mencuri apa yang mereka bisa dan pergi.</MessageRaidersStealing>
 
-  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
-  <MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} dari {1} sedang pergi.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} dari {1} telah menyerah dan sedang pergi.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} dari {1} puas dengan kerusakan yang telah dilakukan dan sedang pergi.</MessageRaidersSatisfiedLeaving>
 
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} dari {1} sedang melarikan diri.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>{0} yang bersahabat dari {1} sedang pergi.</MessageFriendlyFightersLeaving>
 
-  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
-  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
-  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsTakingWounded>{0} dari {1} sedang membawa pengunjung yang terluka.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} dari {1} telah terjebak dan sedang menggali untuk melarikan diri.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} dari {1} meninggalkan peta karena suhu yang berbahaya.</MessageVisitorsDangerousTemperature>
 
-  <MessageWornApparelDeterioratedAway>{0} worn by {1_nameFull} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} yang dipakai oleh {1_nameFull} telah rusak hingga tidak tersisa.</MessageWornApparelDeterioratedAway>
 
-  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} telah dimulai.</MessageSeasonBegun>
 
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} telah meninggalkan jangkauan komunikasi.</MessageShipHasLeftCommsRange>
 
-  <MessageNeedBeaconToTradeWithShip>You need a powered orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Kamu membutuhkan mercusuar perdagangan orbital yang memiliki daya untuk berdagang dengan kapal.</MessageNeedBeaconToTradeWithShip>
 
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>Bill selesai: {0}.</MessageBillComplete>
 
-  <MessageFullyHealed>{1_label} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} telah sembuh sepenuhnya.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Prisoner {1_labelShort} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Tahanan {1_labelShort} sedang melarikan diri.</MessagePrisonerIsEscaping>
 
-  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} found no nearby unreserved shells for {GUN_label}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} tidak menemukan peluru yang tidak direservasi di dekat untuk {GUN_label}.</MessageOutOfNearbyShellsFor>
 
-  <MessageAnimalsGoPsychoHunted>Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth.</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalsGoPsychoHunted>Peringatan: {ANIMAL_kindBasePlural} memiliki peluang {1} untuk menyerang saat diserang dari jarak senapan. Peluang lebih tinggi jika lebih dekat, lebih rendah dengan keahlian berburu yang baik.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Peringatan: {ANIMAL_kindBasePlural} mungkin menyerang saat gagal dijinakkan (peluang {1}).</MessageAnimalManhuntsOnTameFailed>
 
-  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>{RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance).</MessageRecruitSuccess>
-  <MessageTameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <LetterLabelMessageRecruitSuccess>Rekrutan baru</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull} berhasil merekrut {RECRUITEE_nameFull} (peluang {2}).</MessageRecruitSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort} berhasil menjinakkan {1} (peluang {2}).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} berhasil menjinakkan {1} (peluang {2}) dan menamainya {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
 
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
+  <MessageColonyCannotAfford>Koloni tidak mampu membayar transaksi ini.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Kamu tidak memiliki cukup perak untuk berdagang.</MessageColonyNotEnoughSilver>
 
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Peringatan kritis: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Must designate haulable items. Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
-  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
-  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
-  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
-  <MessageMustDesignateForbiddable>Must designate unforbidden items.</MessageMustDesignateForbiddable>
-  <MessageMustDesignateUnforbiddable>Must designate forbidden items.</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateHarvestable>Harus menunjuk tanaman yang cukup tumbuh untuk dipanen.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Harus menunjuk tanaman penghasil kayu yang cukup tumbuh.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Harus menunjuk tanaman.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Harus menunjuk benda yang bisa diangkut. Beberapa benda selalu bisa diangkut dan tidak perlu ditunjuk.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Harus menunjuk bebatuan yang tidak dapat dilewati dan dapat ditambang.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Harus menunjuk hewan yang bisa diburu.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Harus menunjuk hewan yang bisa dijinakkan.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Harus menunjuk struktur buatan yang ditinggalkan.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableSurface>Harus menunjuk permukaan batu kasar.</MessageMustDesignateSmoothableSurface>
+  <MessageNothingCanRemoveThickRoofs>Tidak ada yang bisa menghapus atap tebal.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>Ini sudah dalam penyimpanan dan akan dipindahkan ke penyimpanan prioritas tinggi jika diperlukan.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Harus menunjuk mayat atau karakter tumbang dengan pakaian yang bisa dilepas.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Harus menunjuk hewan jinak yang dimiliki koloni.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Harus menunjuk kuburan penuh atau wadah.</MessageMustDesignateOpenable>
 
-  <MessageRefusedArrest>{1_labelShort} has refused to be arrested!</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} menolak untuk ditangkap!</MessageRefusedArrest>
 
-  <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
-  <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
-  <MessageTooLowMedCare>Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  <MessageNoMedicalBeds>Tidak ada tempat tidur medis yang tersedia.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Tidak ada tempat tidur hewan yang tersedia.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operasi membutuhkan {0} atau lebih baik, tapi mode perawatan medis {PAWN_labelShort} saat ini adalah "{2}".</MessageTooLowMedCare>
 
-  <PawnDiedBecauseOf>{PAWN_labelShort} has died. Cause: {1}.</PawnDiedBecauseOf>
-  <PawnDied>{1_labelShort} has died.</PawnDied>
+  <PawnDiedBecauseOf>{PAWN_labelShort} telah mati. Penyebab: {1}.</PawnDiedBecauseOf>
+  <PawnDied>{1_labelShort} telah mati.</PawnDied>
 
-  <MessageNoLongerDowned>{1_label} is no longer incapable of walking.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} tidak lagi tidak mampu berjalan.</MessageNoLongerDowned>
 
-  <MessageInvoluntarySleep>{1_labelShort} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} telah pingsan karena kelelahan ekstrem.</MessageInvoluntarySleep>
 
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} telah gagal secara kecil saat mengoperasi {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} telah gagal secara fatal saat mengoperasi {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} telah gagal secara konyol saat mengoperasi {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} telah melakukan kesalahan fatal saat mengoperasi {PATIENT_labelShort} karena tantangan khusus: {2}</MessageMedicalOperationFailureFatal>
 
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Operasi ini akan membuat marah {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageMiscarriedStarvation>{0} telah keguguran karena kelaparan.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} telah keguguran karena kesehatan yang buruk.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} telah melahirkan.</MessageGaveBirth>
 
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} telah menamakan {1} sebagai {NAMEE_nameFull} setelah bermanja-manja.</MessageNuzzledPawnGaveNameTo>
 
-  <MessageNoHandlerSkilledEnough>No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Tidak ada pawatan yang bisa menjinakkan {ANIMAL_kindBase} (butuh level {1} di {2}, pawatan terbaik {HANDLER_labelShort} memiliki {4}).</MessageNoHandlerSkilledEnough>
 
-  <MessageEatenByPredator>{EATEN_labelShort} has been eaten by {PREDATOR}.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{PREY_labelShort} is being attacked by {PREDATOR}!</MessageAttackedByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} telah dimakan oleh {PREDATOR}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} sedang diserang oleh {PREDATOR}!</MessageAttackedByPredator>
 
-  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+  <MessageHiveReproduced>Sarang serangga telah bereproduksi.</MessageHiveReproduced>
 
-  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>Karavan dagang dari {0} sedang pergi.</MessageTraderCaravanLeaving>
 
-  <MessageCantSelectDeadPawn>{1_labelShort} is dead.</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>{1_labelShort} is off the map.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} sudah mati.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} berada di luar peta.</MessageCantSelectOffMapPawn>
 
-  <MessageSocialFight>{PAWN1_labelShort} started a social fight with {PAWN2_labelShort}.</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} memulai pertengkaran sosial dengan {PAWN2_labelShort}.</MessageSocialFight>
 
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewMarriageCeremony>Para kolonis berkumpul untuk merayakan pernikahan {PAWN1_labelShort} dan {PAWN2_labelShort}.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} dan {PAWN2_labelShort} memulai upacara pernikahan mereka!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>Upacara pernikahan untuk {PAWN1_labelShort} dan {PAWN2_labelShort} telah dibatalkan.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{PAWN1_labelShort} dan {PAWN2_labelShort} telah menikah. Para kolonis sekarang merayakan acaranya.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>Upacara pernikahan untuk {PAWN1_labelShort} dan {PAWN2_labelShort} telah selesai.</MessageMarriageCeremonyAfterPartyFinished>
 
-  <MessageNewBondRelation>{HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond.</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>{HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelation>{HUMAN_labelShort} dan {ANIMAL_labelShort} telah membentuk ikatan.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} dan {1} telah membentuk ikatan. {HUMAN_labelShort} telah menamai {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
 
-  <MessageBondedAnimalMentalBreak>{ANIMAL} has a mental break because of {HUMAN_labelShort}'s death.</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death.</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {HUMAN_labelShort}'s death.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} mengalami gangguan mental karena kematian {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} bernama {ANIMAL_label} mengalami gangguan mental karena kematian {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} hewan mengalami gangguan mental karena kematian {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
 
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}.</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} telah berhasil menghilangkan {HEDIFF} {PATIENT_labelShort}.</MessageSuccessfullyRemovedHediff>
 
-  <MessageShipChunkDrop>Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Pecahan pesawat ruang angkasa telah jatuh di dekat sini. Kamu bisa membongkarnya untuk mendapatkan sumber daya.</MessageShipChunkDrop>
 
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessagePartyCalledOff>Pesta telah dibatalkan.</MessagePartyCalledOff>
+  <MessagePartyFinished>Pesta telah selesai.</MessagePartyFinished>
 
-  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} dan {PAWN2_labelShort} tidak lagi bertengkar.</MessageNoLongerSocialFighting>
 
-  <MessageConstructionFailed>{WORKER_labelShort} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} tidak lagi kecanduan {1}.</MessageNoLongerBingingOnDrug>
 
-  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} tidak lagi menghina {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
 
-  <MessageNoLongerSocialFighting>{PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting.</MessageNoLongerSocialFighting>
+  <MessageRottedAwayInStorage>{1_label} telah membusuk dalam penyimpanan.</MessageRottedAwayInStorage>
 
-  <MessageNoLongerBingingOnDrug>{2_labelShort} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+  <MessageFoodPoisoning>{PAWN_labelShort} mengalami keracunan makanan dari: {FOOD_labelShort}. Penyebab: {2}.</MessageFoodPoisoning>
 
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessagePawnLostWhileFormingCaravan>{0} telah dikeluarkan dari karavan.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan_AllLost>Proses pembentukan karavan telah dihentikan.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessageCaravanFormationPaused>Proses pembentukan karavan akan dilanjutkan ketika semua orang pulih dari gangguan mental mereka.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Kolonis-kolonismu sekarang akan melanjutkan membentuk karavan.</MessageCaravanFormationUnpaused>
 
-  <MessageRottedAwayInStorage>{1_label} has rotted away in storage.</MessageRottedAwayInStorage>
+  <MessageCaravanMemberHasExtremeMentalBreak>Salah satu anggota karavan mengalami gangguan mental.</MessageCaravanMemberHasExtremeMentalBreak>
 
-  <MessageFoodPoisoning>{PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}.</MessageFoodPoisoning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Peringatan: Menghasilkan planet secara keseluruhan dapat memakan waktu yang sangat lama.</MessageMaxPlanetCoveragePerformanceWarning>
 
-  <MessagePawnLostWhileFormingCaravan>{0} has been removed from the caravan.</MessagePawnLostWhileFormingCaravan>
-  <MessagePawnLostWhileFormingCaravan_AllLost>The caravan formation process has been terminated.</MessagePawnLostWhileFormingCaravan_AllLost>
-  <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from their mental break.</MessageCaravanFormationPaused>
-  <MessageCaravanFormationUnpaused>Your colonists will now continue forming a caravan.</MessageCaravanFormationUnpaused>
+  <MessagePlantDiedOfCold>{0} telah mati karena kedinginan.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} telah mati karena membusuk akibat tidak dipanen.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} telah mati karena terpapar cahaya.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot>{0} telah mati karena membusuk.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfPoison>{0} telah mati karena keracunan.</MessagePlantDiedOfPoison>
 
-  <MessageCaravanMemberHasExtremeMentalBreak>One of the caravan members has a mental break.</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessagePlantDiedOfBlight>{1_label} telah mati karena penyakit tanaman.</MessagePlantDiedOfBlight>
 
-  <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessagePawnBeingBurned>{1_labelShort} sedang terbakar oleh udara yang sangat panas!</MessagePawnBeingBurned>
 
-  <MessagePlantDiedOfCold>{0} has died because of cold.</MessagePlantDiedOfCold>
-  <MessagePlantDiedOfRot_LeftUnharvested>{0} has died from rotting due to being left unharvested.</MessagePlantDiedOfRot_LeftUnharvested>
-  <MessagePlantDiedOfRot_ExposedToLight>{0} has died due to being exposed to light.</MessagePlantDiedOfRot_ExposedToLight>
-  <MessagePlantDiedOfRot>{0} has died from rotting.</MessagePlantDiedOfRot>
-  <MessagePlantDiedOfPoison>{0} has died because of poison.</MessagePlantDiedOfPoison>
-  <MessagePlantDiedOfBlight>{1_label} has died because of blight.</MessagePlantDiedOfBlight>
+  <MessageAccidentalOverdose>{INGESTER} telah mengalami overdosis secara tidak sengaja saat mengkonsumsi {DRUG_labelShort}!</MessageAccidentalOverdose>
 
-  <MessagePawnBeingBurned>{1_labelShort} is being burned by superheated air!</MessagePawnBeingBurned>
+  <MessageCaravanArrivedAtDestination>{0} telah tiba di tujuan.</MessageCaravanArrivedAtDestination>
 
-  <MessageAccidentalOverdose>{INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}!</MessageAccidentalOverdose>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} telah meninggalkan area dan membentuk karavan.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Hewan-hewanmu bergerak untuk bergabung.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 
-  <MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
+  <MessageSettledInExistingMap>Kamu telah berhasil menetap di area baru.</MessageSettledInExistingMap>
 
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Your animals are moving to join it.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePermanentWoundHealed>{2} milik {PAWN_labelShort} telah sembuh. Penyebab: {0}</MessagePermanentWoundHealed>
 
-  <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
+  <MessageRescueeJoined>{1_labelShort} telah bergabung dengan kelompokmu setelah diselamatkan!</MessageRescueeJoined>
 
-  <MessagePermanentWoundHealed>{PAWN_labelShort}'s {2} has healed. Cause: {0}</MessagePermanentWoundHealed>
+  <MessageTransporterUnreachable>Beberapa kapsul transportasi tidak dapat dijangkau.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>Semua peluncur kapsul yang terhubung ke kapsul transportasi yang dipilih harus berdekatan.</MessageTransportersNotAdjacent>
 
-  <MessageRescueeJoined>{1_labelShort} has joined your group after being rescued!</MessageRescueeJoined>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Proses pemuatan telah dibatalkan karena salah satu kapsul transportasi telah dihancurkan.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Proses pemuatan telah dibatalkan karena salah satu peluncur kapsul telah dihancurkan.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
 
-  <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
-  <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+  <MessageTransportersLoadingProcessStarted>Kolonismu sekarang akan memuat barang-barang yang ditugaskan ke dalam kapsul transportasi.</MessageTransportersLoadingProcessStarted>
 
-  <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportPodsArrived>Kapsul transportasimu telah tiba.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>Kapsul transportasimu telah tiba, tetapi karena tidak ada kolonis di dalamnya, isinya hilang.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Kapsul transportasimu telah tiba. Isinya telah ditambahkan ke {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
 
-  <MessageTransportersLoadingProcessStarted>Your colonists will now load the assigned items into the transport pods.</MessageTransportersLoadingProcessStarted>
+  <MessageFinishedLoadingTransporters>Kolonismu telah selesai memuat kapsul transportasi.</MessageFinishedLoadingTransporters>
 
-  <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
-  <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageCantLoadMoreIntoTransporters>{1} tidak bisa menyelesaikan pemuatan kapsul transportasi karena beberapa barang atau orang menjadi tidak tersedia ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
 
-  <MessageFinishedLoadingTransporters>Your colonists have finished loading the transport pods.</MessageFinishedLoadingTransporters>
+  <MessageTransportPodsDestinationIsInvalid>Tujuan yang dipilih tidak valid.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Setiap peluncur kapsul akan membutuhkan setidaknya {0}x chemfuel untuk mengirim kapsul transportasi sejauh itu.</MessageTransportPodsDestinationIsTooFar>
 
-  <MessageCantLoadMoreIntoTransporters>Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageReformedCaravan>Karavan telah dibentuk kembali.</MessageReformedCaravan>
 
-  <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
-  <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
+  <MessageCantBanishLastColonist>Kamu tidak bisa mengusir kolonis terakhir.</MessageCantBanishLastColonist>
 
-  <MessageReformedCaravan>The caravan has been reformed.</MessageReformedCaravan>
+  <MessageCantEquipIncapableOfViolence>Tidak bisa melengkapi: {1_labelShort} tidak mampu melakukan kekerasan.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Tidak bisa melengkapi: tidak mampu.</MessageCantEquipIncapableOfManipulation>
 
-  <MessageCantBanishLastColonist>You can't banish the last colonist.</MessageCantBanishLastColonist>
+  <MessageSlaughteringBondedAnimal>Karena mereka terikat, menyembelih {DESIGNATED_labelShort} akan membuat {BONDED_labelShort} tidak bahagia.</MessageSlaughteringBondedAnimal>
 
-  <MessageCantEquipIncapableOfViolence>Cannot equip: {1_labelShort} is incapable of violence.</MessageCantEquipIncapableOfViolence>
-  <MessageCantEquipIncapableOfManipulation>Cannot equip: incapable.</MessageCantEquipIncapableOfManipulation>
+  <MessageCaravanRanOutOfFood>{0} kehabisan makanan ({PAWN_label}).</MessageCaravanRanOutOfFood>
 
-  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy.</MessageSlaughteringBondedAnimal>
+  <MessageSelectOwnBaseToFormCaravan>Untuk membentuk karavan, pilih koloni sendiri atau situs di mana kamu memiliki orang.</MessageSelectOwnBaseToFormCaravan>
 
-  <MessageCaravanRanOutOfFood>{0} has run out of food ({PAWN_label}).</MessageCaravanRanOutOfFood>
+  <MessageScreenResTooSmallForUIScale>Pada resolusi dan skala UI ini, antarmuka game tidak akan muat di layar. Harap kurangi skala UI atau tingkatkan resolusi.</MessageScreenResTooSmallForUIScale>
 
-  <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
+  <MessageYouHaveToReformCaravanNow>Kamu harus membentuk kembali karavan sekarang. Semua orang yang tertinggal akan ditinggalkan.</MessageYouHaveToReformCaravanNow>
 
-  <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
+  <MessageDefendersAttacking>{0} dari {1} sedang menyerang {2}-mu.</MessageDefendersAttacking>
 
-  <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
+  <MessageSelfTendUnsatisfied>Untuk merawat diri sendiri, {1_labelShort} juga harus ditugaskan untuk pekerjaan Dokter.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{1_labelShort} tidak mampu melakukan pekerjaan Dokter, dan karenanya tidak bisa merawat diri sendiri.</MessageCannotSelfTendEver>
 
-  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+  <MessageCantAddWaypointBecauseImpassable>Ubin ini tidak bisa dilewati.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>Tidak mungkin mencapai ubin ini dari titik jalan terakhir.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>Kamu tidak bisa menambahkan lebih dari {0} titik jalan.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>Kamu tidak bisa menghapus titik jalan ini.</MessageCantRemoveWaypointBecauseFirst>
 
-  <MessageSelfTendUnsatisfied>To self-tend, {1_labelShort} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
-  <MessageCannotSelfTendEver>{1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Tidak ada penjaga yang mampu melakukan kekerasan. Eksekusi tidak akan dilakukan.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
 
-  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
-  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
-  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
-  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
+  <MessageSiteCountdownBecauseNoMoreEnemies>Kamu telah mengalahkan semua musuh. Dalam {0}, karavan akan otomatis dibentuk kembali.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>Dalam {0}, karavan akan otomatis dibentuk kembali. Kamu bisa membentuk kembali karavan sekarang di layar Dunia.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantBanishDownedPawn>Tidak bisa mengusir {1_labelShort} karena {1_pronoun} tidak bisa berjalan.</MessageCantBanishDownedPawn>
 
-  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
-  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <MessageSleepingPawnsWokenUp>{0} telah bangun.</MessageSleepingPawnsWokenUp>
 
-  <MessageCantBanishDownedPawn>Cannot banish {1_labelShort} since {1_pronoun} cannot walk.</MessageCantBanishDownedPawn>
+  <MessageCompSpawnerSpawnedItem>Barang yang diproduksi: {0}.</MessageCompSpawnerSpawnedItem>
 
-  <MessageSleepingPawnsWokenUp>{0} have woken up.</MessageSleepingPawnsWokenUp>
+  <MessageHediffCuredByItem>Kondisi kesehatan sembuh: {0}.</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>Bagian tubuh dipulihkan: {0}.</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>Teknologi diberikan: {0}.</MessageResearchProjectFinishedByItem>
 
-  <MessageCompSpawnerSpawnedItem>Item produced: {0}.</MessageCompSpawnerSpawnedItem>
+  <MessagePawnResurrected>{0} telah dibangkitkan kembali!</MessagePawnResurrected>
 
-  <MessageHediffCuredByItem>Health condition healed: {0}.</MessageHediffCuredByItem>
-  <MessageBodyPartCuredByItem>Body part restored: {0}.</MessageBodyPartCuredByItem>
-  <MessageResearchProjectFinishedByItem>Technology given: {0}.</MessageResearchProjectFinishedByItem>
+  <MessageFailedToRescueRelative>Kamu telah gagal menyelamatkan {PAWN_labelShort}. Ini akan membuat {RELATIVE_labelShort} sedih.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>Kamu telah menyelamatkan {PAWN_labelShort}. Ini akan membuat {RELATIVE_labelShort} bahagia.</MessageRescuedRelative>
 
-  <MessagePawnResurrected>{0} has been brought back to life!</MessagePawnResurrected>
+  <MessageTornadoLeftMap>Angin tornado telah meninggalkan peta.</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>Angin tornado telah menghilang.</MessageTornadoDissipated>
 
-  <MessageFailedToRescueRelative>You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad.</MessageFailedToRescueRelative>
-  <MessageRescuedRelative>You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy.</MessageRescuedRelative>
+  <MessagePeaceTalksNoDiplomat>Tidak ada diplomat yang sadar dan mampu.</MessagePeaceTalksNoDiplomat>
 
-  <MessageTornadoLeftMap>The tornado has left the map.</MessageTornadoLeftMap>
-  <MessageTornadoDissipated>The tornado has dissipated.</MessageTornadoDissipated>
+  <MessageWarningCavePlantsExposedToLight>Peringatan: {0} tidak bisa hidup jika terpapar cahaya.</MessageWarningCavePlantsExposedToLight>
 
-  <MessagePeaceTalksNoDiplomat>No conscious, capable diplomat.</MessagePeaceTalksNoDiplomat>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} tidak bisa mencapai {OLDTARGET_label} jadi {PAWN_pronoun} memutuskan untuk mengarahkan kemarahannya pada {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
-  <MessageWarningCavePlantsExposedToLight>Warning: {0} cannot live when exposed to light.</MessageWarningCavePlantsExposedToLight>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} tidak bisa mencapai {OLDTARGET_label} jadi {PAWN_pronoun} memutuskan untuk mengarahkan kemarahannya pada {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} telah memutuskan untuk mengarahkan kemarahannya pada {TARGET_label}.</MessageMurderousRageChangedTarget>
 
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessagePlantIncompatibleWithRoof>{0} tidak bisa tumbuh di bawah atap.</MessagePlantIncompatibleWithRoof>
+  <MessageRoofIncompatibleWithPlant>Tidak bisa membangun atap di atas {0}.</MessageRoofIncompatibleWithPlant>
 
-  <MessageMurderousRageChangedTarget>{PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageMurderousRageChangedTarget>
+  <MessageChoseRoute>Karavan akan otomatis melakukan perjalanan ke titik jalan pertama.</MessageChoseRoute>
 
-  <MessagePlantIncompatibleWithRoof>{0} cannot grow underneath a roof.</MessagePlantIncompatibleWithRoof>
-  <MessageRoofIncompatibleWithPlant>Cannot build a roof over {0}.</MessageRoofIncompatibleWithPlant>
+  <MessageCraftedMasterwork>{WORKER_labelShort} telah membuat {CRAFTED_labelShort}.</MessageCraftedMasterwork>
 
-  <MessageChoseRoute>Caravan will automatically travel to the first waypoint.</MessageChoseRoute>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Untuk meninggalkan area, gunakan tombol 'bentuk kembali karavan' di tampilan dunia.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Kamu tidak bisa meninggalkan peta sekarang.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
-  <MessageCraftedMasterwork>{WORKER_labelShort} has created a {CRAFTED_labelShort}.</MessageCraftedMasterwork>
+  <MessageGoodwillChanged>Hubungan dengan {0} telah berubah dari {1} menjadi {2}.</MessageGoodwillChanged>
+  <MessageGoodwillChangedWithReason>Hubungan dengan {0} telah berubah dari {1} menjadi {2} ({3}).</MessageGoodwillChangedWithReason>
+  <GoodwillChangedReason_AttackedPawn>menyerang {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>menggunakan {ITEM_labelShort} pada {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_RemovedBodyPart>mengambil {0}</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>memasang {0} tanpa perlu</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_CapturedPawn>menangkap {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} hancur</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} mati</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_Traded>berdagang</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_AttackedCaravan>menyerang karavan</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_NaturallyOverTime>kecenderungan alami untuk mencapai {0} seiring waktu</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} keluar dari peta dalam keadaan sehat</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>merawat {1_labelShort}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ReceivedGift>menerima hadiah</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_FulfilledTradeRequest>memenuhi tawaran perdagangan</GoodwillChangedReason_FulfilledTradeRequest>
 
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>To leave the area, use the 'reform caravan' button in the world view.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>You can't leave the map now.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessageGiftGivenButNotAppreciated>{0} menerima hadiahmu tetapi mereka tidak menghargainya.</MessageGiftGivenButNotAppreciated>
 
-  <MessageGoodwillChanged>Relations with {0} have changed from {1} to {2}.</MessageGoodwillChanged>
-  <MessageGoodwillChangedWithReason>Relations with {0} have changed from {1} to {2} ({3}).</MessageGoodwillChangedWithReason>
-  <GoodwillChangedReason_AttackedPawn>attacked {1_labelShort}</GoodwillChangedReason_AttackedPawn>
-  <GoodwillChangedReason_UsedItem>used {ITEM_labelShort} on {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
-  <GoodwillChangedReason_RemovedBodyPart>harvested {0}</GoodwillChangedReason_RemovedBodyPart>
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>needlessly installed {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
-  <GoodwillChangedReason_CapturedPawn>captured {1_labelShort}</GoodwillChangedReason_CapturedPawn>
-  <GoodwillChangedReason_PawnCrushed>{1_labelShort} crushed</GoodwillChangedReason_PawnCrushed>
-  <GoodwillChangedReason_PawnDied>{1_labelShort} died</GoodwillChangedReason_PawnDied>
-  <GoodwillChangedReason_Traded>traded</GoodwillChangedReason_Traded>
-  <GoodwillChangedReason_AttackedCaravan>attacked a caravan</GoodwillChangedReason_AttackedCaravan>
-  <GoodwillChangedReason_NaturallyOverTime>natural tendency to reach {0} over time</GoodwillChangedReason_NaturallyOverTime>
-  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} exited the map healthy</GoodwillChangedReason_ExitedMapHealthy>
-  <GoodwillChangedReason_Tended>tended to {1_labelShort}</GoodwillChangedReason_Tended>
-  <GoodwillChangedReason_ReceivedGift>received a gift</GoodwillChangedReason_ReceivedGift>
-  <GoodwillChangedReason_FulfilledTradeRequest>fulfilled a trade offer</GoodwillChangedReason_FulfilledTradeRequest>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Karavan sudah kelebihan beban dan tidak bisa membawa apa pun lagi.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarry>Karavan tidak bisa membawa sebanyak itu. Hadiah-hadiah tersebut beratnya {0} tetapi karavan hanya bisa membawa {1} lagi.</MessageCantGiveGiftBecauseCantCarry>
 
-  <MessageGiftGivenButNotAppreciated>{0} accept your gift but they don't appreciate it.</MessageGiftGivenButNotAppreciated>
+  <MessageFormedCaravan>{0} telah terbentuk dan sekarang sedang melakukan perjalanan di peta dunia.</MessageFormedCaravan>
+  <MessageFormedCaravan_Orders>Perintah</MessageFormedCaravan_Orders>
 
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>The caravan is already encumbered and can't carry anything else.</MessageCantGiveGiftBecauseCantCarryEncumbered>
-  <MessageCantGiveGiftBecauseCantCarry>The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more.</MessageCantGiveGiftBecauseCantCarry>
+  <MessageBillValidationStoreZoneDeleted>"{0}" milik {1} tidak bisa lagi mengirim ke tumpukan barang yang dihapus {2}.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>"{0}" milik {1} tidak bisa lagi mengirim ke tumpukan barang yang tidak tersedia {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} tidak bisa lagi bekerja pada "{1}" di {2}. Pembatasan telah dihapus.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>"{0}" milik {1} tidak bisa lagi menghitung barang di tumpukan barang yang dihapus {2}.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>"{0}" milik {1} tidak bisa lagi menghitung barang di tumpukan barang yang tidak tersedia {2}.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>"{0}" milik {1} tidak bisa lagi mengirim semua produk ke tumpukan barang {2}.</MessageBillValidationStoreZoneInsufficient>
 
-  <MessageFormedCaravan>{0} has formed and is now traveling on the world map.</MessageFormedCaravan>
-  <MessageFormedCaravan_Orders>Orders</MessageFormedCaravan_Orders>
+  <MessageAnimalReturnedWild>Karena kurangnya pemeliharaan penjinakan, {1_labelShort} telah kembali ke alam liar.</MessageAnimalReturnedWild>
+  <MessageAnimalLostSkill>Karena kurangnya pelatihan pemeliharaan, {ANIMAL_labelShort} telah kehilangan keterampilan: {1}</MessageAnimalLostSkill>
 
-  <MessageBillValidationStoreZoneDeleted>{1}'s "{0}" can no longer deliver to deleted stockpile {2}.</MessageBillValidationStoreZoneDeleted>
-  <MessageBillValidationStoreZoneUnavailable>{1}'s "{0}" can no longer deliver to unavailable stockpile {2}.</MessageBillValidationStoreZoneUnavailable>
-  <MessageBillValidationPawnUnavailable>{0} can no longer work on "{1}" at {2}. The restriction has been removed.</MessageBillValidationPawnUnavailable>
-  <MessageBillValidationIncludeZoneDeleted>{1}'s "{0}" can no longer count items in deleted stockpile {2}.</MessageBillValidationIncludeZoneDeleted>
-  <MessageBillValidationIncludeZoneUnavailable>{1}'s "{0}" can no longer count items in unavailable stockpile {2}.</MessageBillValidationIncludeZoneUnavailable>
-  <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" can no longer deliver all products to stockpile {2}.</MessageBillValidationStoreZoneInsufficient>
+  <MessageTranslationReportSaved>Laporan terjemahan ditulis ke {0}</MessageTranslationReportSaved>
 
-  <MessageAnimalReturnedWild>Because of a lack of taming maintenance, {1_labelShort} has returned to the wild.</MessageAnimalReturnedWild>
-  <MessageAnimalLostSkill>Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1}</MessageAnimalLostSkill>
+  <MessageCaravanArrivalActionNoLongerValid>{0} tidak bisa mencapai tujuannya.</MessageCaravanArrivalActionNoLongerValid>
 
-  <MessageTranslationReportSaved>Translation report written to {0}</MessageTranslationReportSaved>
+  <MessageEnterCooldownBlocksEntering>Kamu tidak bisa masuk kembali selama {0} hari.</MessageEnterCooldownBlocksEntering>
 
-  <MessageCaravanArrivalActionNoLongerValid>{0} couldn't reach its destination.</MessageCaravanArrivalActionNoLongerValid>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} sedang berburu {PREY_definite} untuk makanan!</MessagePredatorHuntingPlayerAnimal>
 
-  <MessageEnterCooldownBlocksEntering>You can't re-enter for another {0} days.</MessageEnterCooldownBlocksEntering>
+  <MessagePrisonerResistanceBroken>Perlawanan tahanan {PRISONER_labelShort} telah dipatahkan oleh {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Upaya perekrutan akan dimulai.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
-  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} is hunting {PREY_definite} for food!</MessagePredatorHuntingPlayerAnimal>
+  <MessageDisableModsBeforeCleaningTranslationFiles>Nonaktifkan semua mod sebelum menggunakan alat ini.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageTranslationFilesCleanupDone>Selesai. Folder yang terpengaruh: {0}</MessageTranslationFilesCleanupDone>
 
-  <MessagePrisonerResistanceBroken>Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Recruitment attempts will begin.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Salah satu file terjemahan ({0}) tidak bisa dimuat. Semua kesalahan parsing XML harus diselesaikan terlebih dahulu.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
-  <MessageDisableModsBeforeCleaningTranslationFiles>Disable all mods before using this tool.</MessageDisableModsBeforeCleaningTranslationFiles>
-  <MessageTranslationFilesCleanupDone>Done. Affected folder: {0}</MessageTranslationFilesCleanupDone>
+  <MessageCapturingWillAngerFaction>Peringatan: Menangkap {PAWN_nameDef} akan membuat marah faksi {PAWN_possessive} {PAWN_factionName}.</MessageCapturingWillAngerFaction>
 
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
-
-  <MessageCapturingWillAngerFaction>Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}.</MessageCapturingWillAngerFaction>
-
-  <MessageCantShootInMelee>Cannot shoot in melee.</MessageCantShootInMelee>
+  <MessageCantShootInMelee>Tidak bisa menembak dalam jarak dekat.</MessageCantShootInMelee>
 
 </LanguageData>

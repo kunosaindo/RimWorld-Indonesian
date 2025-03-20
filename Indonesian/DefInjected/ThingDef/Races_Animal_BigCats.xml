@@ -1,44 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Cougar.label>cougar</Cougar.label>
-  <Cougar.description>One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</Cougar.description>
-  <Cougar.tools.0.label>left claw</Cougar.tools.0.label>
-  <Cougar.tools.1.label>right claw</Cougar.tools.1.label>
-  <Cougar.tools.3.label>head</Cougar.tools.3.label>
-  <Cougar_Leather.label>cougar leather</Cougar_Leather.label>
-  <Cougar_Leather.description>cougar leather</Cougar_Leather.description>
-  <Cougar_Leather.stuffProps.stuffAdjective>cougar leather</Cougar_Leather.stuffProps.stuffAdjective>
-  <Cougar_Meat.label>cougar meat</Cougar_Meat.label>
-  <Cougar_Meat.description>cougar meat</Cougar_Meat.description>
-  <Cougar_Corpse.label>cougar corpse</Cougar_Corpse.label>
-  <Cougar_Corpse.description>cougar corpse</Cougar_Corpse.description>
+  <Cougar.label>kugar</Cougar.label>
+  <Cougar.description>Salah satu kucing besar paling berbahaya, kugar adalah pemburu soliter dengan taring dan cakar yang panjang dan tajam. Mereka mengintai mangsa dari posisi tersembunyi sebelum menerkam.\n\nMeskipun manusia bukan makanan normal mereka, mereka tidak akan menolak daging manusia yang rentan.</Cougar.description>
+  <Cougar.tools.0.label>cakar kiri</Cougar.tools.0.label>
+  <Cougar.tools.1.label>cakar kanan</Cougar.tools.1.label>
+  <Cougar.tools.3.label>kepala</Cougar.tools.3.label>
+  <Cougar_Leather.label>kulit kugar</Cougar_Leather.label>
+  <Cougar_Leather.description>kulit kugar</Cougar_Leather.description>
+  <Cougar_Leather.stuffProps.stuffAdjective>kulit kugar</Cougar_Leather.stuffProps.stuffAdjective>
+  <Cougar_Meat.label>daging kugar</Cougar_Meat.label>
+  <Cougar_Meat.description>daging kugar</Cougar_Meat.description>
+  <Cougar_Corpse.label>bangkai kugar</Cougar_Corpse.label>
+  <Cougar_Corpse.description>bangkai kugar</Cougar_Corpse.description>
 
-  <Panther.label>panther</Panther.label>
-  <Panther.description>An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength.</Panther.description>
-  <Panther.tools.0.label>left claw</Panther.tools.0.label>
-  <Panther.tools.1.label>right claw</Panther.tools.1.label>
-  <Panther.tools.3.label>head</Panther.tools.3.label>
-  <Panther_Leather.label>panther leather</Panther_Leather.label>
-  <Panther_Leather.description>panther leather</Panther_Leather.description>
-  <Panther_Leather.stuffProps.stuffAdjective>panther leather</Panther_Leather.stuffProps.stuffAdjective>
-  <Panther_Meat.label>panther meat</Panther_Meat.label>
-  <Panther_Meat.description>panther meat</Panther_Meat.description>
-  <Panther_Corpse.label>panther corpse</Panther_Corpse.label>
-  <Panther_Corpse.description>panther corpse</Panther_Corpse.description>
+  <Panther.label>macan kumbang</Panther.label>
+  <Panther.description>Kucing besar yang gesit dan kuat asli dari hutan belantara Bumi kuno. Sebagai predator penyergap soliter, macan kumbang ahli dalam menangkap mangsa besar dan kecil. Pengamat cenderung fokus pada gerakan anggunnya, sementara mereka yang lebih dekat biasanya memperhatikan kekuatan menghancurkan tengkoraknya.</Panther.description>
+  <Panther.tools.0.label>cakar kiri</Panther.tools.0.label>
+  <Panther.tools.1.label>cakar kanan</Panther.tools.1.label>
+  <Panther.tools.3.label>kepala</Panther.tools.3.label>
+  <Panther_Leather.label>kulit macan kumbang</Panther_Leather.label>
+  <Panther_Leather.description>kulit macan kumbang</Panther_Leather.description>
+  <Panther_Leather.stuffProps.stuffAdjective>kulit macan kumbang</Panther_Leather.stuffProps.stuffAdjective>
+  <Panther_Meat.label>daging macan kumbang</Panther_Meat.label>
+  <Panther_Meat.description>daging macan kumbang</Panther_Meat.description>
+  <Panther_Corpse.label>bangkai macan kumbang</Panther_Corpse.label>
+  <Panther_Corpse.description>bangkai macan kumbang</Panther_Corpse.description>
 
-  <Lynx.label>lynx</Lynx.label>
-  <Lynx.description>A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories.</Lynx.description>
-  <Lynx.tools.0.label>left claw</Lynx.tools.0.label>
-  <Lynx.tools.1.label>right claw</Lynx.tools.1.label>
-  <Lynx.tools.3.label>head</Lynx.tools.3.label>
-  <Lynx_Leather.label>lynx leather</Lynx_Leather.label>
-  <Lynx_Leather.description>lynx leather</Lynx_Leather.description>
-  <Lynx_Leather.stuffProps.stuffAdjective>lynx leather</Lynx_Leather.stuffProps.stuffAdjective>
-  <Lynx_Meat.label>lynx meat</Lynx_Meat.label>
-  <Lynx_Meat.description>lynx meat</Lynx_Meat.description>
-  <Lynx_Corpse.label>lynx corpse</Lynx_Corpse.label>
-  <Lynx_Corpse.description>lynx corpse</Lynx_Corpse.description>
-
+  <Lynx.label>linx</Lynx.label>
+  <Lynx.description>Kucing liar yang lebih besar dari kucing rumah, tapi lebih kecil dari kugar. Linx bertahan hidup dengan memakan burung-burung kecil dan hewan-hewan. Bulu mereka yang sangat hangat melindungi mereka dari suhu dingin yang brutal di wilayah beku mereka.</Lynx.description>
+  <Lynx.tools.0.label>cakar kiri</Lynx.tools.0.label>
+  <Lynx.tools.1.label>cakar kanan</Lynx.tools.1.label>
+  <Lynx.tools.3.label>kepala</Lynx.tools.3.label>
+  <Lynx_Leather.label>kulit linx</Lynx_Leather.label>
+  <Lynx_Leather.description>kulit linx</Lynx_Leather.description>
+  <Lynx_Leather.stuffProps.stuffAdjective>kulit linx</Lynx_Leather.stuffAdjective>
+  <Lynx_Meat.label>daging linx</Lynx_Meat.label>
+  <Lynx_Meat.description>daging linx</Lynx_Meat.description>
+  <Lynx_Corpse.label>bangkai linx</Lynx_Corpse.label>
+  <Lynx_Corpse.description>bangkai linx</Lynx_Corpse.description>
 
 </LanguageData>

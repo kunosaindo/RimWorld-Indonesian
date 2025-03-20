@@ -1,43 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Cobra.label>cobra</Cobra.label>
-  <Cobra.description>A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim.</Cobra.description>
-  <Cobra.tools.0.label>venom-fangs</Cobra.tools.0.label>
-  <Cobra.tools.1.label>head</Cobra.tools.1.label>
-  <Cobra_Leather.label>cobra leather</Cobra_Leather.label>
-  <Cobra_Leather.description>cobra leather</Cobra_Leather.description>
-  <Cobra_Leather.stuffProps.stuffAdjective>cobra leather</Cobra_Leather.stuffProps.stuffAdjective>
-  <Cobra_Meat.label>cobraflesh</Cobra_Meat.label>
-  <Cobra_Meat.description>cobraflesh</Cobra_Meat.description>
-  <Cobra_Corpse.label>cobra corpse</Cobra_Corpse.label>
-  <Cobra_Corpse.description>cobra corpse</Cobra_Corpse.description>
+  <Cobra.label>ular kobra</Cobra.label>
+  <Cobra.description>Ular predator besar. Kobra bisa sangat agresif jika diprovokasi, dan gigitannya menyuntikkan racun beracun ke korban.</Cobra.description>
+  <Cobra.tools.0.label>taring beracun</Cobra.tools.0.label>
+  <Cobra.tools.1.label>kepala</Cobra.tools.1.label>
+  <Cobra_Leather.label>kulit kobra</Cobra_Leather.label>
+  <Cobra_Leather.description>kulit kobra</Cobra_Leather.description>
+  <Cobra_Leather.stuffProps.stuffAdjective>kulit kobra</Cobra_Leather.stuffProps.stuffAdjective>
+  <Cobra_Meat.label>daging kobra</Cobra_Meat.label>
+  <Cobra_Meat.description>daging kobra</Cobra_Meat.description>
+  <Cobra_Corpse.label>bangkai kobra</Cobra_Corpse.label>
+  <Cobra_Corpse.description>bangkai kobra</Cobra_Corpse.description>
 
-  <Monkey.label>monkey</Monkey.label>
-  <Monkey.description>A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks.</Monkey.description>
-  <Monkey.tools.0.label>left fist</Monkey.tools.0.label>
-  <Monkey.tools.1.label>right fist</Monkey.tools.1.label>
-  <Monkey.tools.3.label>head</Monkey.tools.3.label>
-  <Monkey_Leather.label>monkey leather</Monkey_Leather.label>
-  <Monkey_Leather.description>monkey leather</Monkey_Leather.description>
-  <Monkey_Leather.stuffProps.stuffAdjective>monkey leather</Monkey_Leather.stuffProps.stuffAdjective>
-  <Monkey_Meat.label>monkey meat</Monkey_Meat.label>
-  <Monkey_Meat.description>monkey meat</Monkey_Meat.description>
-  <Monkey_Corpse.label>monkey corpse</Monkey_Corpse.label>
-  <Monkey_Corpse.description>monkey corpse</Monkey_Corpse.description>
+  <Monkey.label>monyet</Monkey.label>
+  <Monkey.description>Primata kecil yang dapat menggunakan ekor keritingnya untuk menggenggam cabang, membiarkan tangannya bebas melakukan hal lain. Monyet bersifat egois tapi cerdas, dan dapat dilatih untuk melakukan tugas yang cukup rumit.</Monkey.description>
+  <Monkey.tools.0.label>tinju kiri</Monkey.tools.0.label>
+  <Monkey.tools.1.label>tinju kanan</Monkey.tools.1.label>
+  <Monkey.tools.3.label>kepala</Monkey.tools.3.label>
+  <Monkey_Leather.label>kulit monyet</Monkey_Leather.label>
+  <Monkey_Leather.description>kulit monyet</Monkey_Leather.description>
+  <Monkey_Leather.stuffProps.stuffAdjective>kulit monyet</Monkey_Leather.stuffProps.stuffAdjective>
+  <Monkey_Meat.label>daging monyet</Monkey_Meat.label>
+  <Monkey_Meat.description>daging monyet</Monkey_Meat.description>
+  <Monkey_Corpse.label>bangkai monyet</Monkey_Corpse.label>
+  <Monkey_Corpse.description>bangkai monyet</Monkey_Corpse.description>
 
-  <Boomalope.label>boomalope</Boomalope.label>
-  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
-  <Boomalope.tools.0.label>head</Boomalope.tools.0.label>
-  <Boomalope.tools.1.label>left hoof</Boomalope.tools.1.label>
-  <Boomalope.tools.2.label>right hoof</Boomalope.tools.2.label>
-  <Boomalope_Leather.label>boomalope leather</Boomalope_Leather.label>
-  <Boomalope_Leather.description>boomalope leather</Boomalope_Leather.description>
-  <Boomalope_Leather.stuffProps.stuffAdjective>boomalope leather</Boomalope_Leather.stuffProps.stuffAdjective>
-  <Boomalope_Meat.label>boomalope meat</Boomalope_Meat.label>
-  <Boomalope_Meat.description>boomalope meat</Boomalope_Meat.description>
-  <Boomalope_Corpse.label>boomalope corpse</Boomalope_Corpse.label>
-  <Boomalope_Corpse.description>boomalope corpse</Boomalope_Corpse.description>
-
+  <Boomalope.label>bumalop</Boomalope.label>
+  <Boomalope.description>Direkayasa untuk produksi bahan kimia, bumalop menumbuhkan kantung besar bahan kimia mudah meledak di punggungnya. Meskipun lemah dan rapuh untuk ukurannya, hewan lain telah belajar menghindarinya karena ledakan besar yang dihasilkannya saat mati. Bisa diperah untuk menghasilkan bahan bakar kimia - dengan sangat hati-hati.</Boomalope.description>
+  <Boomalope.tools.0.label>kepala</Boomalope.tools.0.label>
+  <Boomalope.tools.1.label>kaki kiri</Boomalope.tools.1.label>
+  <Boomalope.tools.2.label>kaki kanan</Boomalope.tools.2.label>
+  <Boomalope_Leather.label>kulit bumalop</Boomalope_Leather.label>
+  <Boomalope_Leather.description>kulit bumalop</Boomalope_Leather.description>
+  <Boomalope_Leather.stuffProps.stuffAdjective>kulit bumalop</Boomalope_Leather.stuffProps.stuffAdjective>
+  <Boomalope_Meat.label>daging bumalop</Boomalope_Meat.label>
+  <Boomalope_Meat.description>daging bumalop</Boomalope_Meat.description>
+  <Boomalope_Corpse.label>bangkai bumalop</Boomalope_Corpse.label>
+  <Boomalope_Corpse.description>bangkai bumalop</Boomalope_Corpse.description>
 
 </LanguageData>

@@ -1,20 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StuffPower_Armor_Sharp.label>Armor - Sharp</StuffPower_Armor_Sharp.label>
-  <StuffPower_Armor_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.label>Pelindung - Tajam</StuffPower_Armor_Sharp.label>
+  <StuffPower_Armor_Sharp.description>Pelindung terhadap kerusakan tajam seperti peluru, tusukan pisau, dan gigitan hewan.</StuffPower_Armor_Sharp.description>
 
-  <StuffPower_Armor_Blunt.label>Armor - Blunt</StuffPower_Armor_Blunt.label>
-  <StuffPower_Armor_Blunt.description>Armor against blunt damage like club impacts, rock falls, and explosions.</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Blunt.label>Pelindung - Tumpul</StuffPower_Armor_Blunt.label>
+  <StuffPower_Armor_Blunt.description>Pelindung terhadap kerusakan tumpul seperti hantaman pentungan, jatuhan batu, dan ledakan.</StuffPower_Armor_Blunt.description>
 
-  <StuffPower_Armor_Heat.label>Armor - Heat</StuffPower_Armor_Heat.label>
-  <StuffPower_Armor_Heat.description>Armor against temperature-related damage like burns.</StuffPower_Armor_Heat.description>
+  <StuffPower_Armor_Heat.label>Pelindung - Panas</StuffPower_Armor_Heat.label>
+  <StuffPower_Armor_Heat.description>Pelindung terhadap kerusakan yang berhubungan dengan suhu seperti luka bakar.</StuffPower_Armor_Heat.description>
 
-  <StuffPower_Insulation_Cold.label>Insulation - Cold</StuffPower_Insulation_Cold.label>
-  <StuffPower_Insulation_Cold.description>How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn.</StuffPower_Insulation_Cold.description>
+  <StuffPower_Insulation_Cold.label>Isolasi - Dingin</StuffPower_Insulation_Cold.label>
+  <StuffPower_Insulation_Cold.description>Seberapa banyak pakaian yang terbuat dari bahan ini meningkatkan suhu minimal yang nyaman bagi pemakainya saat dipakai.</StuffPower_Insulation_Cold.description>
 
-  <StuffPower_Insulation_Heat.label>Insulation - Heat</StuffPower_Insulation_Heat.label>
-  <StuffPower_Insulation_Heat.description>How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn.</StuffPower_Insulation_Heat.description>
-
+  <StuffPower_Insulation_Heat.label>Isolasi - Panas</StuffPower_Insulation_Heat.label>
+  <StuffPower_Insulation_Heat.description>Seberapa banyak pakaian yang terbuat dari bahan ini meningkatkan suhu maksimal yang nyaman bagi pemakainya saat dipakai.</StuffPower_Insulation_Heat.description>
 
 </LanguageData>

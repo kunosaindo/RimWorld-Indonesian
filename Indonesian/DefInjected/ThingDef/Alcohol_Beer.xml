@@ -1,15 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Beer.label>beer</Beer.label>
-  <Beer.description>The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction.</Beer.description>
-  <Beer.tools.0.label>bottle</Beer.tools.0.label>
-  <Beer.tools.1.label>neck</Beer.tools.1.label>
-  <Beer.ingestible.ingestCommandString>Drink {0}</Beer.ingestible.ingestCommandString>
-  <Beer.ingestible.ingestReportString>Drinking {0}.</Beer.ingestible.ingestReportString>
+  <Beer.label>bir</Beer.label>
+  <Beer.description>Minuman pertama selain air yang pernah diminum manusia. Bir bisa terasa enak, tapi efek utamanya adalah memabukkan. Terlalu banyak minum bir bisa menyebabkan mabuk berat dan kecanduan jika dilakukan terus-menerus.</Beer.description>
+  <Beer.tools.0.label>botol</Beer.tools.0.label>
+  <Beer.tools.1.label>leher botol</Beer.tools.1.label>
+  <Beer.ingestible.ingestCommandString>Minum {0}</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>Sedang minum {0}.</Beer.ingestible.ingestReportString>
 
-  <Wort.label>wort</Wort.label>
-  <Wort.description>Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.</Wort.description>
-
+  <Wort.label>bir mentah</Wort.label>
+  <Wort.description>Bir yang belum difermentasi. Bahan ini perlu difermentasi dalam tong fermentasi sebelum bisa diminum sebagai bir.</Wort.description>
 
 </LanguageData>

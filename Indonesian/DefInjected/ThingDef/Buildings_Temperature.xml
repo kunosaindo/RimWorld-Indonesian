@@ -1,36 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Campfire.label>campfire</Campfire.label>
-  <Campfire.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
-  <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
-  <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
-  <Campfire_Frame.description>Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire_Frame.description>
+  <Campfire.label>api unggun</Campfire.label>
+  <Campfire.description>Memasak makanan dan menghasilkan panas, akan padam setelah beberapa hari. Seperti semua sumber panas, harus ditempatkan di dalam ruangan agar dapat memanaskan ruang tertutup. Perlu bahan bakar.</Campfire.description>
+  <Campfire_Blueprint.label>api unggun (cetak biru)</Campfire_Blueprint.label>
+  <Campfire_Frame.label>api unggun (pembangunan)</Campfire_Frame.label>
+  <Campfire_Frame.description>Memasak makanan dan menghasilkan panas, akan padam setelah beberapa hari. Seperti semua sumber panas, harus ditempatkan di dalam ruangan agar dapat memanaskan ruang tertutup. Perlu bahan bakar.</Campfire_Frame.description>
 
-  <PassiveCooler.label>passive cooler</PassiveCooler.label>
-  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food.</PassiveCooler.description>
-  <PassiveCooler_Blueprint.label>passive cooler (blueprint)</PassiveCooler_Blueprint.label>
-  <PassiveCooler_Frame.label>passive cooler (building)</PassiveCooler_Frame.label>
-  <PassiveCooler_Frame.description>A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food.</PassiveCooler_Frame.description>
+  <PassiveCooler.label>pendingin pasif</PassiveCooler.label>
+  <PassiveCooler.description>Pendingin tradisional tanpa listrik yang bekerja dengan penguapan air. Harus diisi ulang secara teratur dengan kayu. Tidak cukup efisien untuk mendinginkan makanan.</PassiveCooler.description>
+  <PassiveCooler_Blueprint.label>pendingin pasif (cetak biru)</PassiveCooler_Blueprint.label>
+  <PassiveCooler_Frame.label>pendingin pasif (pembangunan)</PassiveCooler_Frame.label>
+  <PassiveCooler_Frame.description>Pendingin tradisional tanpa listrik yang bekerja dengan penguapan air. Harus diisi ulang secara teratur dengan kayu. Tidak cukup efisien untuk mendinginkan makanan.</PassiveCooler_Frame.description>
 
-  <Heater.label>heater</Heater.label>
-  <Heater.description>A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
-  <Heater_Blueprint.label>heater (blueprint)</Heater_Blueprint.label>
-  <Heater_Blueprint_Install.label>heater (blueprint)</Heater_Blueprint_Install.label>
-  <Heater_Frame.label>heater (building)</Heater_Frame.label>
-  <Heater_Frame.description>A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater_Frame.description>
+  <Heater.label>pemanas ruangan</Heater.label>
+  <Heater.description>Alat yang mengubah listrik menjadi panas. Dapat menyala atau mati secara otomatis untuk mencapai suhu target tertentu.</Heater.description>
+  <Heater_Blueprint.label>pemanas ruangan (cetak biru)</Heater_Blueprint.label>
+  <Heater_Blueprint_Install.label>pemanas ruangan (cetak biru)</Heater_Blueprint_Install.label>
+  <Heater_Frame.label>pemanas ruangan (pembangunan)</Heater_Frame.label>
+  <Heater_Frame.description>Alat yang mengubah listrik menjadi panas. Dapat menyala atau mati secara otomatis untuk mencapai suhu target tertentu.</Heater_Frame.description>
 
-  <Cooler.label>cooler</Cooler.label>
-  <Cooler.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Cooler.description>
-  <Cooler_Blueprint.label>cooler (blueprint)</Cooler_Blueprint.label>
-  <Cooler_Frame.label>cooler (building)</Cooler_Frame.label>
-  <Cooler_Frame.description>An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer.</Cooler_Frame.description>
+  <Cooler.label>pendingin ruangan</Cooler.label>
+  <Cooler.description>Mesin pendingin udara yang dipasang di dinding. Udara dingin keluar dari satu sisi, sementara pembuangan panas keluar dari sisi lain. Dapat digunakan untuk mendinginkan ruangan saat musim panas, atau untuk membuat ruang pembeku.</Cooler.description>
+  <Cooler_Blueprint.label>pendingin ruangan (cetak biru)</Cooler_Blueprint.label>
+  <Cooler_Frame.label>pendingin ruangan (pembangunan)</Cooler_Frame.label>
+  <Cooler_Frame.description>Mesin pendingin udara yang dipasang di dinding. Udara dingin keluar dari satu sisi, sementara pembuangan panas keluar dari sisi lain. Dapat digunakan untuk mendinginkan ruangan saat musim panas, atau untuk membuat ruang pembeku.</Cooler_Frame.description>
 
-  <Vent.label>vent</Vent.label>
-  <Vent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
-  <Vent_Blueprint.label>vent (blueprint)</Vent_Blueprint.label>
-  <Vent_Frame.label>vent (building)</Vent_Frame.label>
-  <Vent_Frame.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent_Frame.description>
-
+  <Vent.label>ventilasi</Vent.label>
+  <Vent.description>Ventilasi untuk menyeimbangkan suhu antara dua ruangan tanpa memungkinkan orang berjalan di antaranya.</Vent.description>
+  <Vent_Blueprint.label>ventilasi (cetak biru)</Vent_Blueprint.label>
+  <Vent_Frame.label>ventilasi (pembangunan)</Vent_Frame.label>
+  <Vent_Frame.description>Ventilasi untuk menyeimbangkan suhu antara dua ruangan tanpa memungkinkan orang berjalan di antaranya.</Vent_Frame.description>
 
 </LanguageData>

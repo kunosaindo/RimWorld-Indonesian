@@ -3,30 +3,29 @@
 
   <!-- Special mental states not from mental breaks -->
 
-  <WanderConfused.label>confused wandering</WanderConfused.label>
-  <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
-  <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
-  <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
-  <WanderConfused.baseInspectLine>Mental state: Confused and wandering</WanderConfused.baseInspectLine>
+  <WanderConfused.label>mengembara bingung</WanderConfused.label>
+  <WanderConfused.beginLetter>{0} telah mengalami gangguan dan berkeliaran dengan kebingungan.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>kebingungan</WanderConfused.beginLetterLabel>
+  <WanderConfused.recoveryMessage>{0} tidak lagi bingung.</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>Keadaan mental: Bingung dan berkeliaran</WanderConfused.baseInspectLine>
 
-  <PanicFlee.label>panic fleeing</PanicFlee.label>
-  <PanicFlee.beginLetter>{0} is fleeing in panic.</PanicFlee.beginLetter>
-  <PanicFlee.beginLetterLabel>flee</PanicFlee.beginLetterLabel>
-  <PanicFlee.recoveryMessage>{0} is no longer fleeing in panic.</PanicFlee.recoveryMessage>
-  <PanicFlee.baseInspectLine>Mental state: Fleeing in panic</PanicFlee.baseInspectLine>
+  <PanicFlee.label>lari panik</PanicFlee.label>
+  <PanicFlee.beginLetter>{0} sedang melarikan diri karena panik.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>lari</PanicFlee.beginLetterLabel>
+  <PanicFlee.recoveryMessage>{0} tidak lagi melarikan diri karena panik.</PanicFlee.recoveryMessage>
+  <PanicFlee.baseInspectLine>Keadaan mental: Melarikan diri dalam panik</PanicFlee.baseInspectLine>
 
-  <Manhunter.label>manhunter</Manhunter.label>
-  <Manhunter.beginLetter>{0} has become a manhunter!</Manhunter.beginLetter>
-  <Manhunter.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</Manhunter.recoveryMessage>
-  <Manhunter.baseInspectLine>Maddened: Manhunter</Manhunter.baseInspectLine>
+  <Manhunter.label>pemburu</Manhunter.label>
+  <Manhunter.beginLetter>{0} telah berubah menjadi pemburu!</Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>Hasrat memburu {0} telah berakhir.</Manhunter.recoveryMessage>
+  <Manhunter.baseInspectLine>Gila: Pemburu</Manhunter.baseInspectLine>
 
-  <ManhunterPermanent.label>manhunter</ManhunterPermanent.label>
-  <ManhunterPermanent.beginLetter>{0} has become a manhunter!</ManhunterPermanent.beginLetter>
-  <ManhunterPermanent.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</ManhunterPermanent.recoveryMessage>
-  <ManhunterPermanent.baseInspectLine>Maddened: Manhunter</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.label>pemburu</ManhunterPermanent.label>
+  <ManhunterPermanent.beginLetter>{0} telah berubah menjadi pemburu!</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>Hasrat memburu {0} telah berakhir.</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.baseInspectLine>Gila: Pemburu</ManhunterPermanent.baseInspectLine>
 
-  <SocialFighting.label>social fighting</SocialFighting.label>
-  <SocialFighting.baseInspectLine>Mental state: Social fighting</SocialFighting.baseInspectLine>
-
+  <SocialFighting.label>perkelahian sosial</SocialFighting.label>
+  <SocialFighting.baseInspectLine>Keadaan mental: Perkelahian sosial</SocialFighting.baseInspectLine>
 
 </LanguageData>

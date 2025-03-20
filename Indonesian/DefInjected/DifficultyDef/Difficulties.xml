@@ -2,22 +2,21 @@
 <LanguageData>
 
   <Peaceful.label>penuh kedamaian</Peaceful.label>
-  <Peaceful.description>Membangun komunitas di lingkungan aman.\n\nDisarankan untuk: Pemain yang ingin fokus ke aspek pembangunan komunitas di Rimworld.\n\nMode ini This mode disables major threatening events, but challenges like disease, mental breaks, and mad animals still occur.</Peaceful.description>
+  <Peaceful.description>Membangun komunitas di lingkungan aman.\n\nDisarankan untuk: Pemain yang ingin fokus ke aspek pembangunan komunitas di Rimworld.\n\nMode ini menonaktifkan peristiwa ancaman besar, tetapi tantangan seperti penyakit, gangguan mental, dan hewan gila masih terjadi.</Peaceful.description>
 
-  <Easy.label>builder</Easy.label>
-  <Easy.description>Build a colony, while still having a taste of danger.\n\nRecommended for: Players who are new to this kind of game, and players who want to build a perfect colony.\n\nMajor threats appear, but they're weaker than other modes. Some extremely dangerous events are disabled.</Easy.description>
+  <Easy.label>pembangun</Easy.label>
+  <Easy.description>Membangun koloni, sambil tetap merasakan sedikit bahaya.\n\nDisarankan untuk: Pemain yang baru mengenal jenis permainan ini, dan pemain yang ingin membangun koloni yang sempurna.\n\nAncaman besar muncul, tetapi mereka lebih lemah daripada mode lain. Beberapa peristiwa yang sangat berbahaya dinonaktifkan.</Easy.description>
 
-  <Medium.label>medium</Medium.label>
-  <Medium.description>Build a community while facing down dangerous threats.\n\nRecommended for: Experienced strategy game players on their first game of RimWorld, or skilled RimWorld players who want some breathing room to pursue funny or weird goals.\n\nThere's room to grow and thrive, but it's still a dangerous planet.</Medium.description>
+  <Medium.label>sedang</Medium.label>
+  <Medium.description>Membangun komunitas sambil menghadapi ancaman berbahaya.\n\nDisarankan untuk: Pemain strategi berpengalaman pada permainan pertama mereka di RimWorld, atau pemain RimWorld yang terampil yang ingin memiliki ruang bernapas untuk mengejar tujuan lucu atau aneh.\n\nAda ruang untuk tumbuh dan berkembang, tetapi tetap saja planet ini berbahaya.</Medium.description>
 
-  <Rough.label>rough</Rough.label>
-  <Rough.description>Strive to survive on a rough, tough planet.\n\nRecommended for: Players with experience with RimWorld, looking to play a rough story requiring skill to survive.\n\nThere will be good times and bad times; triumph and tragedy. It's all for the drama.</Rough.description>
+  <Rough.label>kasar</Rough.label>
+  <Rough.description>Berjuang untuk bertahan hidup di planet yang kasar dan keras.\n\nDisarankan untuk: Pemain dengan pengalaman di RimWorld, yang ingin memainkan cerita kasar yang membutuhkan keterampilan untuk bertahan hidup.\n\nAkan ada masa-masa baik dan buruk; kemenangan dan tragedi. Semuanya untuk drama.</Rough.description>
 
-  <Hard.label>savage</Hard.label>
-  <Hard.description>Face brutal survival challenges. The price of survival is blood.\n\nRecommended for: Experienced players who want to experience great tests and sacrifice.\n\nSucceeding at this level requires diverse strategies, disciplined preparation, and luck. Threats can spike and combine in vicious ways. Even if you play well, some challenges will be impossible to overcome without losses.</Hard.description>
+  <Hard.label>buas</Hard.label>
+  <Hard.description>Menghadapi tantangan bertahan hidup yang brutal. Harga bertahan hidup adalah darah.\n\nDisarankan untuk: Pemain berpengalaman yang ingin mengalami ujian besar dan pengorbanan.\n\nBerhasil pada level ini membutuhkan strategi yang beragam, persiapan yang disiplin, dan keberuntungan. Ancaman dapat meningkat dan bergabung dengan cara yang kejam. Bahkan jika Anda bermain dengan baik, beberapa tantangan akan mustahil untuk diatasi tanpa kerugian.</Hard.description>
 
-  <Extreme.label>merciless</Extreme.label>
-  <Extreme.description>Apply mastery of every RimWorld skill for just a chance to survive a harrowing trial against a merciless, unfair world.\n\nRecommended for: Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n\nThis level is about dealing with losses, because preventing them is impossible. You'll spend a lot of time fighting wounded and recovering, and you'll need to sacrifice people and things you love. Unfair challenges and capricious death may come at any time.</Extreme.description>
-
+  <Extreme.label>tanpa ampun</Extreme.label>
+  <Extreme.description>Menerapkan penguasaan setiap keterampilan RimWorld hanya untuk kesempatan bertahan hidup dalam ujian yang mengerikan melawan dunia yang tanpa ampun dan tidak adil.\n\nDisarankan untuk: Pemain berpengalaman yang ingin menghadapi tantangan brutal dan tidak adil di mana bahkan keterampilan hebat mungkin tidak mencegah kematian.\n\nLevel ini tentang menghadapi kerugian, karena mencegahnya adalah hal yang mustahil. Anda akan menghabiskan banyak waktu untuk merawat yang terluka dan memulihkan, dan Anda perlu mengorbankan orang dan hal-hal yang Anda cintai. Tantangan yang tidak adil dan kematian yang sewenang-wenang dapat datang kapan saja.</Extreme.description>
 
 </LanguageData>

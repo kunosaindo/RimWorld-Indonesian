@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AncientConcreteBarrier.label>ancient concrete barrier</AncientConcreteBarrier.label>
-  <AncientConcreteBarrier.description>A traffic management solution from long ago.</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.label>pembatas beton kuno</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.description>Solusi pengaturan lalu lintas dari masa lampau.</AncientConcreteBarrier.description>
 
-  <AncientLamppost.label>ancient lamppost</AncientLamppost.label>
-  <AncientLamppost.description>Road lighting from long ago. No longer functional.</AncientLamppost.description>
-
+  <AncientLamppost.label>tiang lampu kuno</AncientLamppost.label>
+  <AncientLamppost.description>Penerangan jalan dari masa lampau. Sudah tidak berfungsi lagi.</AncientLamppost.description>
 
 </LanguageData>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Underwall.label>underwall</Underwall.label>
+  <Underwall.label>bawah tembok</Underwall.label>
 
-  <Bridge.label>bridge</Bridge.label>
-  <Bridge.description>A flat wooden surface on supportive beams which can be built over water. You can build non-heavy structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well.</Bridge.description>
+  <Bridge.label>jembatan</Bridge.label>
+  <Bridge.description>Permukaan kayu datar dengan tiang penyangga yang bisa dibangun di atas air. Kamu bisa membangun struktur ringan di atasnya, tapi hati-hati - jembatan mudah rusak. Kalau jembatan runtuh, bangunan di atasnya juga akan ikut runtuh.</Bridge.description>
 
 
 </LanguageData>

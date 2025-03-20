@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Threats -->
+  <!-- Ancaman -->
 
   <Ambush.label>penyergapan</Ambush.label>
   <Ambush.description>penyergapan yang sedang berjalan.</Ambush.description>
-
 
 </LanguageData>

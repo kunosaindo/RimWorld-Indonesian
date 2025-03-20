@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Gun_TripleRocket.label>triple rocket launcher</Gun_TripleRocket.label>
-  <Gun_TripleRocket.description>A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_TripleRocket.description>
-  <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+  <Gun_TripleRocket.label>peluncur roket tiga</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Peluncur roket sekali pakai yang menembakkan tiga roket kaliber besar sekaligus. Bagus melawan kelompok kecil target yang tangguh.\n\nKarena ketidakpraktisannya, keterbatasan sekali pakai, dan kehancuran besar yang ditimbulkannya, dikatakan bahwa seseorang harus sedikit gila untuk menggunakan senjata ini.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>laras</Gun_TripleRocket.tools.0.label>
 
-  <Bullet_Rocket.label>rocket</Bullet_Rocket.label>
+  <Bullet_Rocket.label>roket</Bullet_Rocket.label>
 
-  <Gun_DoomsdayRocket.label>doomsday rocket launcher</Gun_DoomsdayRocket.label>
-  <Gun_DoomsdayRocket.description>A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon.</Gun_DoomsdayRocket.description>
-  <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+  <Gun_DoomsdayRocket.label>peluncur roket kiamat</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Peluncur roket sekali pakai yang menembakkan proyektil peledak besar. Bagus melawan kelompok besar target lunak. Menyebabkan kebakaran.\n\nKarena ketidakpraktisannya, keterbatasan sekali pakai, dan kehancuran besar yang ditimbulkannya, dikatakan bahwa seseorang harus sedikit gila untuk menggunakan senjata ini.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>laras</Gun_DoomsdayRocket.tools.0.label>
 
-  <Bullet_DoomsdayRocket.label>doomsday rocket</Bullet_DoomsdayRocket.label>
+  <Bullet_DoomsdayRocket.label>roket kiamat</Bullet_DoomsdayRocket.label>
 
 
 </LanguageData>

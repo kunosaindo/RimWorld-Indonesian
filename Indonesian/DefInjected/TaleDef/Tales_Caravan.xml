@@ -20,89 +20,88 @@
   <CaravanFormed.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] [PersonJob] mengawasi dari jauh.</CaravanFormed.rulePack.rulesStrings.15>
   <CaravanFormed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Animal] mengembara dengan damai.</CaravanFormed.rulePack.rulesStrings.16>
 
-  <CaravanFled.label>karavan melarikan diri fled</CaravanFled.label>
-  <CaravanFled.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</CaravanFled.rulePack.rulesStrings.0>
-  <CaravanFled.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s caravan escaping danger</CaravanFled.rulePack.rulesStrings.1>
-  <CaravanFled.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef]'s caravan narrowly escaping danger</CaravanFled.rulePack.rulesStrings.2>
-  <CaravanFled.rulePack.rulesStrings.3>tale_noun->[PAWN_nameDef]'s caravan being chased away by enemies</CaravanFled.rulePack.rulesStrings.3>
-  <CaravanFled.rulePack.rulesStrings.4>image->[PAWN_nameFull] running frantically [circumstance_group]</CaravanFled.rulePack.rulesStrings.4>
-  <CaravanFled.rulePack.rulesStrings.5>image->[PAWN_nameFull] sprinting [circumstance_group]</CaravanFled.rulePack.rulesStrings.5>
-  <CaravanFled.rulePack.rulesStrings.6>image->[PAWN_nameFull] tucked behind a [TerrainFeature], hiding [circumstance_group]</CaravanFled.rulePack.rulesStrings.6>
-  <CaravanFled.rulePack.rulesStrings.7>image->[PAWN_nameFull] putting up a fighting retreat [circumstance_group]</CaravanFled.rulePack.rulesStrings.7>
-  <CaravanFled.rulePack.rulesStrings.8>image->[PAWN_nameFull] casually strolling away [circumstance_group]</CaravanFled.rulePack.rulesStrings.8>
-  <CaravanFled.rulePack.rulesStrings.9>circumstance_phrase->as [Quantity_adjphrase] [Enemy]s chase</CaravanFled.rulePack.rulesStrings.9>
-  <CaravanFled.rulePack.rulesStrings.10>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</CaravanFled.rulePack.rulesStrings.10>
-  <CaravanFled.rulePack.rulesStrings.11>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</CaravanFled.rulePack.rulesStrings.11>
-  <CaravanFled.rulePack.rulesStrings.12>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</CaravanFled.rulePack.rulesStrings.12>
-  <CaravanFled.rulePack.rulesStrings.13>circumstance_phrase->from a [huge] [Enemy]</CaravanFled.rulePack.rulesStrings.13>
-  <CaravanFled.rulePack.rulesStrings.14>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</CaravanFled.rulePack.rulesStrings.14>
-  <CaravanFled.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</CaravanFled.rulePack.rulesStrings.15>
-  <CaravanFled.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</CaravanFled.rulePack.rulesStrings.16>
-  <CaravanFled.rulePack.rulesStrings.17>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</CaravanFled.rulePack.rulesStrings.17>
-  <CaravanFled.rulePack.rulesStrings.18>desc_sentence->[PAWN_nameDef] is sweating.</CaravanFled.rulePack.rulesStrings.18>
-  <CaravanFled.rulePack.rulesStrings.19>desc_sentence->[PAWN_nameDef] is gasping for breath.</CaravanFled.rulePack.rulesStrings.19>
+  <CaravanFled.label>karavan melarikan diri</CaravanFled.label>
+  <CaravanFled.rulePack.rulesStrings.0>tale_noun->karavan [PAWN_nameDef] melarikan diri dari bahaya</CaravanFled.rulePack.rulesStrings.0>
+  <CaravanFled.rulePack.rulesStrings.1>tale_noun->karavan [PAWN_nameDef] kabur dari bahaya</CaravanFled.rulePack.rulesStrings.1>
+  <CaravanFled.rulePack.rulesStrings.2>tale_noun->karavan [PAWN_nameDef] nyaris lolos dari bahaya</CaravanFled.rulePack.rulesStrings.2>
+  <CaravanFled.rulePack.rulesStrings.3>tale_noun->karavan [PAWN_nameDef] dikejar musuh</CaravanFled.rulePack.rulesStrings.3>
+  <CaravanFled.rulePack.rulesStrings.4>image->[PAWN_nameFull] berlari ketakutan [circumstance_group]</CaravanFled.rulePack.rulesStrings.4>
+  <CaravanFled.rulePack.rulesStrings.5>image->[PAWN_nameFull] berlari sekencang-kencangnya [circumstance_group]</CaravanFled.rulePack.rulesStrings.5>
+  <CaravanFled.rulePack.rulesStrings.6>image->[PAWN_nameFull] bersembunyi di balik [TerrainFeature] [circumstance_group]</CaravanFled.rulePack.rulesStrings.6>
+  <CaravanFled.rulePack.rulesStrings.7>image->[PAWN_nameFull] mundur sambil melawan [circumstance_group]</CaravanFled.rulePack.rulesStrings.7>
+  <CaravanFled.rulePack.rulesStrings.8>image->[PAWN_nameFull] berjalan santai menjauh [circumstance_group]</CaravanFled.rulePack.rulesStrings.8>
+  <CaravanFled.rulePack.rulesStrings.9>circumstance_phrase->saat [Quantity_adjphrase] [Enemy] mengejar</CaravanFled.rulePack.rulesStrings.9>
+  <CaravanFled.rulePack.rulesStrings.10>circumstance_phrase->sementara [Quantity_adjphrase] [Enemy] mencari</CaravanFled.rulePack.rulesStrings.10>
+  <CaravanFled.rulePack.rulesStrings.11>circumstance_phrase->dari [Quantity_adjphrase] [Enemy]</CaravanFled.rulePack.rulesStrings.11>
+  <CaravanFled.rulePack.rulesStrings.12>circumstance_phrase->dari [Quantity_adjphrase] [Animal] musuh</CaravanFled.rulePack.rulesStrings.12>
+  <CaravanFled.rulePack.rulesStrings.13>circumstance_phrase->dari [Enemy] yang [huge]</CaravanFled.rulePack.rulesStrings.13>
+  <CaravanFled.rulePack.rulesStrings.14>desc_sentence->Pengejar [PAWN_nameDef] mengacungkan [Weapon].</CaravanFled.rulePack.rulesStrings.14>
+  <CaravanFled.rulePack.rulesStrings.15>desc_sentence->Pengejar [PAWN_nameDef] diselimuti asap [Color].</CaravanFled.rulePack.rulesStrings.15>
+  <CaravanFled.rulePack.rulesStrings.16>desc_sentence->Pengejar [PAWN_nameDef] menunjukkan ekspresi [AdjectiveAngsty].</CaravanFled.rulePack.rulesStrings.16>
+  <CaravanFled.rulePack.rulesStrings.17>desc_sentence->Pengejar [PAWN_nameDef] mengacungkan [Weapon].</CaravanFled.rulePack.rulesStrings.17>
+  <CaravanFled.rulePack.rulesStrings.18>desc_sentence->[PAWN_nameDef] berkeringat.</CaravanFled.rulePack.rulesStrings.18>
+  <CaravanFled.rulePack.rulesStrings.19>desc_sentence->[PAWN_nameDef] terengah-engah mencari udara.</CaravanFled.rulePack.rulesStrings.19>
 
-  <CaravanAmbushDefeated.label>caravan ambush defeated</CaravanAmbushDefeated.label>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.0>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</CaravanAmbushDefeated.rulePack.rulesStrings.0>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</CaravanAmbushDefeated.rulePack.rulesStrings.1>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.2>image->[PAWN_nameFull] organizing resistance while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.2>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.3>image->[PAWN_nameFull] wielding a [Weapon] defensively while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.3>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.4>image->[PAWN_nameFull] retaliating with [PAWN_possessive] [Weapon] while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.4>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.5>image->[PAWN_nameFull] standing as tall as a building while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.5>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.6>image->[PAWN_nameFull] wearing a [AdjectiveBadass] expression while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.6>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.7>image->[PAWN_nameFull] wearing a [AdjectiveAngsty] expression while [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.7>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.8>circumstance_phrase->bracing against the advancing horde</CaravanAmbushDefeated.rulePack.rulesStrings.8>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.9>circumstance_phrase->circling the wagons</CaravanAmbushDefeated.rulePack.rulesStrings.9>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.10>circumstance_phrase->roaring in victory</CaravanAmbushDefeated.rulePack.rulesStrings.10>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.11>circumstance_phrase->brandishing [Weapon]s</CaravanAmbushDefeated.rulePack.rulesStrings.11>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.12>circumstance_phrase->covered in [Gore]</CaravanAmbushDefeated.rulePack.rulesStrings.12>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase] [Enemy]s advance, brandishing [Weapon]s.</CaravanAmbushDefeated.rulePack.rulesStrings.13>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.14>desc_sentence->A huge [Enemy] advances, brandishing a [Weapon].</CaravanAmbushDefeated.rulePack.rulesStrings.14>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveBadass] look in their eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.15>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Enemy]s advance with a [AdjectiveAngsty] look in their eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.16>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] [Animal]s advance with glowing [Color] eyes.</CaravanAmbushDefeated.rulePack.rulesStrings.17>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.18>desc_sentence->[Quantity_adjphrase] [Animal]s advance, covered in [Gore].</CaravanAmbushDefeated.rulePack.rulesStrings.18>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.19>desc_sentence->The ground is coated in [Gore].</CaravanAmbushDefeated.rulePack.rulesStrings.19>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.20>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</CaravanAmbushDefeated.rulePack.rulesStrings.20>
-  <CaravanAmbushDefeated.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</CaravanAmbushDefeated.rulePack.rulesStrings.21>
+  <CaravanAmbushDefeated.label>serangan mendadak karavan dikalahkan</CaravanAmbushDefeated.label>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.0>tale_noun->pertahanan sukses dari karavan [PAWN_nameDef]</CaravanAmbushDefeated.rulePack.rulesStrings.0>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.1>tale_noun->karavan [PAWN_nameDef] melawan serangan mendadak</CaravanAmbushDefeated.rulePack.rulesStrings.1>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.2>image->[PAWN_nameFull] mengatur perlawanan sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.2>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.3>image->[PAWN_nameFull] memegang [Weapon] untuk bertahan sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.3>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.4>image->[PAWN_nameFull] membalas dengan [Weapon] milik [PAWN_possessive] sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.4>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.5>image->[PAWN_nameFull] berdiri setinggi gedung sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.5>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.6>image->[PAWN_nameFull] menunjukkan ekspresi [AdjectiveBadass] sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.6>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.7>image->[PAWN_nameFull] menunjukkan ekspresi [AdjectiveAngsty] sementara [circumstance_group]</CaravanAmbushDefeated.rulePack.rulesStrings.7>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.8>circumstance_phrase->menahan serangan musuh yang mendekat</CaravanAmbushDefeated.rulePack.rulesStrings.8>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.9>circumstance_phrase->mengepung kereta</CaravanAmbushDefeated.rulePack.rulesStrings.9>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.10>circumstance_phrase->berteriak dalam kemenangan</CaravanAmbushDefeated.rulePack.rulesStrings.10>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.11>circumstance_phrase->mengacungkan [Weapon]</CaravanAmbushDefeated.rulePack.rulesStrings.11>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.12>circumstance_phrase->berlumuran [Gore]</CaravanAmbushDefeated.rulePack.rulesStrings.12>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase] [Enemy] maju, mengacungkan [Weapon].</CaravanAmbushDefeated.rulePack.rulesStrings.13>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.14>desc_sentence->Seekor [Enemy] besar maju, mengacungkan [Weapon].</CaravanAmbushDefeated.rulePack.rulesStrings.14>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] [Enemy] maju dengan tatapan [AdjectiveBadass] di mata mereka.</CaravanAmbushDefeated.rulePack.rulesStrings.15>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Enemy] maju dengan tatapan [AdjectiveAngsty] di mata mereka.</CaravanAmbushDefeated.rulePack.rulesStrings.16>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] [Animal] maju dengan mata bersinar [Color].</CaravanAmbushDefeated.rulePack.rulesStrings.17>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.18>desc_sentence->[Quantity_adjphrase] [Animal] maju, berlumuran [Gore].</CaravanAmbushDefeated.rulePack.rulesStrings.18>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.19>desc_sentence->Tanah diselimuti [Gore].</CaravanAmbushDefeated.rulePack.rulesStrings.19>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.20>desc_sentence->[Quantity_adjphrase] [PersonJob] melarikan diri dari area.</CaravanAmbushDefeated.rulePack.rulesStrings.20>
+  <CaravanAmbushDefeated.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal] melarikan diri dari area.</CaravanAmbushDefeated.rulePack.rulesStrings.21>
 
-  <CaravanRemoteMining.label>caravan remote mining</CaravanRemoteMining.label>
-  <CaravanRemoteMining.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</CaravanRemoteMining.rulePack.rulesStrings.0>
-  <CaravanRemoteMining.rulePack.rulesStrings.1>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.1>
-  <CaravanRemoteMining.rulePack.rulesStrings.2>image->[PAWN_nameFull] holding up a chunk of [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.2>
-  <CaravanRemoteMining.rulePack.rulesStrings.3>image->[PAWN_nameFull] resting against a wall of [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.3>
-  <CaravanRemoteMining.rulePack.rulesStrings.4>image->[PAWN_nameFull] coordinating an excavation team against a rich vein of [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.4>
-  <CaravanRemoteMining.rulePack.rulesStrings.5>image->[PAWN_nameFull] carefully inspecting a rich vein of [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.5>
-  <CaravanRemoteMining.rulePack.rulesStrings.6>circumstance_phrase->sweating heavily</CaravanRemoteMining.rulePack.rulesStrings.6>
-  <CaravanRemoteMining.rulePack.rulesStrings.7>circumstance_phrase->wearing a [AdjectiveFriendly] expression</CaravanRemoteMining.rulePack.rulesStrings.7>
-  <CaravanRemoteMining.rulePack.rulesStrings.8>circumstance_phrase->smiling proudly</CaravanRemoteMining.rulePack.rulesStrings.8>
-  <CaravanRemoteMining.rulePack.rulesStrings.9>circumstance_phrase->a satisfied expression on [PAWN_possessive] face</CaravanRemoteMining.rulePack.rulesStrings.9>
-  <CaravanRemoteMining.rulePack.rulesStrings.10>circumstance_phrase->looking around warily for danger</CaravanRemoteMining.rulePack.rulesStrings.10>
-  <CaravanRemoteMining.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] [ally]s assist.</CaravanRemoteMining.rulePack.rulesStrings.11>
-  <CaravanRemoteMining.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [Animal]s wander the area.</CaravanRemoteMining.rulePack.rulesStrings.12>
-  <CaravanRemoteMining.rulePack.rulesStrings.13>desc_sentence->There is a makeshift shelter in the background.</CaravanRemoteMining.rulePack.rulesStrings.13>
-  <CaravanRemoteMining.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] further veins are visible in the distance.</CaravanRemoteMining.rulePack.rulesStrings.14>
-  <CaravanRemoteMining.rulePack.rulesStrings.15>desc_sentence->A [TerrainFeature] is visible in the distance.</CaravanRemoteMining.rulePack.rulesStrings.15>
-  <CaravanRemoteMining.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</CaravanRemoteMining.rulePack.rulesStrings.16>
+  <CaravanRemoteMining.label>karavan menambang</CaravanRemoteMining.label>
+  <CaravanRemoteMining.rulePack.rulesStrings.0>tale_noun->karavan [PAWN_nameDef] menambang urat [MATERIAL_label] yang kaya di tanah asing</CaravanRemoteMining.rulePack.rulesStrings.0>
+  <CaravanRemoteMining.rulePack.rulesStrings.1>image->[PAWN_nameFull] menambang dinding [MATERIAL_label] dengan alat tambang, [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.1>
+  <CaravanRemoteMining.rulePack.rulesStrings.2>image->[PAWN_nameFull] mengangkat sebongkah [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.2>
+  <CaravanRemoteMining.rulePack.rulesStrings.3>image->[PAWN_nameFull] bersandar di dinding [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.3>
+  <CaravanRemoteMining.rulePack.rulesStrings.4>image->[PAWN_nameFull] mengatur tim penggalian di urat kaya [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.4>
+  <CaravanRemoteMining.rulePack.rulesStrings.5>image->[PAWN_nameFull] dengan hati-hati memeriksa urat kaya [MATERIAL_label], [circumstance_group]</CaravanRemoteMining.rulePack.rulesStrings.5>
+  <CaravanRemoteMining.rulePack.rulesStrings.6>circumstance_phrase->berkeringat deras</CaravanRemoteMining.rulePack.rulesStrings.6>
+  <CaravanRemoteMining.rulePack.rulesStrings.7>circumstance_phrase->menunjukkan ekspresi [AdjectiveFriendly]</CaravanRemoteMining.rulePack.rulesStrings.7>
+  <CaravanRemoteMining.rulePack.rulesStrings.8>circumstance_phrase->tersenyum bangga</CaravanRemoteMining.rulePack.rulesStrings.8>
+  <CaravanRemoteMining.rulePack.rulesStrings.9>circumstance_phrase->dengan ekspresi puas di wajah [PAWN_possessive]</CaravanRemoteMining.rulePack.rulesStrings.9>
+  <CaravanRemoteMining.rulePack.rulesStrings.10>circumstance_phrase->melihat sekeliling dengan waspada mencari bahaya</CaravanRemoteMining.rulePack.rulesStrings.10>
+  <CaravanRemoteMining.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] [ally] membantu.</CaravanRemoteMining.rulePack.rulesStrings.11>
+  <CaravanRemoteMining.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [Animal] berkeliaran di area.</CaravanRemoteMining.rulePack.rulesStrings.12>
+  <CaravanRemoteMining.rulePack.rulesStrings.13>desc_sentence->Ada tempat berteduh seadanya di latar belakang.</CaravanRemoteMining.rulePack.rulesStrings.13>
+  <CaravanRemoteMining.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] urat tambang lainnya terlihat di kejauhan.</CaravanRemoteMining.rulePack.rulesStrings.14>
+  <CaravanRemoteMining.rulePack.rulesStrings.15>desc_sentence->Sebuah [TerrainFeature] terlihat di kejauhan.</CaravanRemoteMining.rulePack.rulesStrings.15>
+  <CaravanRemoteMining.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef] berkeringat dan kotor dari bekerja.</CaravanRemoteMining.rulePack.rulesStrings.16>
 
-  <CaravanAssaultSuccessful.label>caravan assault successful</CaravanAssaultSuccessful.label>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</CaravanAssaultSuccessful.rulePack.rulesStrings.0>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.1>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.1>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.2>image->[PAWN_nameFull] wielding a [Weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.2>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.3>image->[PAWN_nameFull] swinging a [Weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.3>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.4>image->[PAWN_nameFull] standing as tall as a building, [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.4>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.5>circumstance_phrase->wearing a [AdjectiveBadass] look in [PAWN_possessive] eyes</CaravanAssaultSuccessful.rulePack.rulesStrings.5>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.6>circumstance_phrase->wearing a [AdjectiveAngsty] look in [PAWN_possessive] eyes</CaravanAssaultSuccessful.rulePack.rulesStrings.6>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.7>circumstance_phrase->roaring in victory</CaravanAssaultSuccessful.rulePack.rulesStrings.7>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.8>circumstance_phrase->covered in [Gore]</CaravanAssaultSuccessful.rulePack.rulesStrings.8>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.9>desc_sentence->[Quantity_adjphrase] [Enemy]s cower from the assault.</CaravanAssaultSuccessful.rulePack.rulesStrings.9>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Enemy]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.10>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] [Enemy]s are visibly wounded.</CaravanAssaultSuccessful.rulePack.rulesStrings.11>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.12>desc_sentence->A [Community] burns in the distance.</CaravanAssaultSuccessful.rulePack.rulesStrings.12>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.13>desc_sentence->A [Community] smokes in the distance.</CaravanAssaultSuccessful.rulePack.rulesStrings.13>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.14>desc_sentence->The ground is coated in [Gore].</CaravanAssaultSuccessful.rulePack.rulesStrings.14>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.15>
-  <CaravanAssaultSuccessful.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</CaravanAssaultSuccessful.rulePack.rulesStrings.16>
-
+  <CaravanAssaultSuccessful.label>serangan karavan berhasil</CaravanAssaultSuccessful.label>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.0>tale_noun->karavan [PAWN_nameDef] mengalahkan benteng musuh</CaravanAssaultSuccessful.rulePack.rulesStrings.0>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.1>image->[PAWN_nameFull] berlari menuju [Enemy], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.1>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.2>image->[PAWN_nameFull] menggenggam [Weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.2>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.3>image->[PAWN_nameFull] mengayunkan [Weapon], [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.3>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.4>image->[PAWN_nameFull] berdiri setinggi gedung, [circumstance_group]</CaravanAssaultSuccessful.rulePack.rulesStrings.4>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.5>circumstance_phrase->dengan tatapan [AdjectiveBadass] di mata [PAWN_possessive]</CaravanAssaultSuccessful.rulePack.rulesStrings.5>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.6>circumstance_phrase->dengan tatapan [AdjectiveAngsty] di mata [PAWN_possessive]</CaravanAssaultSuccessful.rulePack.rulesStrings.6>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.7>circumstance_phrase->berteriak dalam kemenangan</CaravanAssaultSuccessful.rulePack.rulesStrings.7>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.8>circumstance_phrase->berlumuran [Gore]</CaravanAssaultSuccessful.rulePack.rulesStrings.8>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.9>desc_sentence->[Quantity_adjphrase] [Enemy] meringkuk ketakutan dari serangan.</CaravanAssaultSuccessful.rulePack.rulesStrings.9>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Enemy] melarikan diri dari area.</CaravanAssaultSuccessful.rulePack.rulesStrings.10>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] [Enemy] terlihat terluka.</CaravanAssaultSuccessful.rulePack.rulesStrings.11>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.12>desc_sentence->Sebuah [Community] terbakar di kejauhan.</CaravanAssaultSuccessful.rulePack.rulesStrings.12>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.13>desc_sentence->Sebuah [Community] berasap di kejauhan.</CaravanAssaultSuccessful.rulePack.rulesStrings.13>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.14>desc_sentence->Tanah diselimuti [Gore].</CaravanAssaultSuccessful.rulePack.rulesStrings.14>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] [PersonJob] melarikan diri dari area.</CaravanAssaultSuccessful.rulePack.rulesStrings.15>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [Animal] melarikan diri dari area.</CaravanAssaultSuccessful.rulePack.rulesStrings.16>
 
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
 
   <Penoxycyline.label>penoxycyline</Penoxycyline.label>
-  <Penoxycyline.description>A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered.</Penoxycyline.description>
-  <Penoxycyline.ingestible.ingestCommandString>Take {0}</Penoxycyline.ingestible.ingestCommandString>
-  <Penoxycyline.ingestible.ingestReportString>Taking {0}.</Penoxycyline.ingestible.ingestReportString>
+  <Penoxycyline.description>Obat untuk mencegah infeksi sebelum menyerang. Menangkal malaria, penyakit tidur, dan wabah. Harus diminum setiap lima hari agar tetap efektif.\n\nObat ini hanya mencegah infeksi baru. Tidak menyembuhkan infeksi yang sudah ada - bahkan yang belum terdeteksi.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>Minum {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>Meminum {0}.</Penoxycyline.ingestible.ingestReportString>
 
 
 </LanguageData>

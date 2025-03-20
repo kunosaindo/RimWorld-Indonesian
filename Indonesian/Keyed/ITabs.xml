@@ -2,159 +2,158 @@
 <LanguageData>
 
   <!-- ITab titles -->
-  <TabBills>Bills</TabBills>
-  <TabGrowing>Growing</TabGrowing>
+  <TabBills>Tugas</TabBills>
+  <TabGrowing>Tanam</TabGrowing>
   <TabCharacter>Bio</TabCharacter>
-  <TabTraining>Training</TabTraining>
-  <TabPrisoner>Prisoner</TabPrisoner>
-  <TabGuest>Guest</TabGuest>
-  <TabGear>Gear</TabGear>
-  <TabNeeds>Needs</TabNeeds>
-  <TabStorage>Storage</TabStorage>
-  <TabShells>Shells</TabShells>
-  <TabHealth>Health</TabHealth>
-  <TabRace>Race</TabRace>
-  <TabBasics>Basics</TabBasics>
-  <TabStats>Stats</TabStats>
-  <TabRecords>Records</TabRecords>
-  <TabArt>Art</TabArt>
-  <TabSocial>Social</TabSocial>
+  <TabTraining>Latihan</TabTraining>
+  <TabPrisoner>Tahanan</TabPrisoner>
+  <TabGuest>Tamu</TabGuest>
+  <TabGear>Peralatan</TabGear>
+  <TabNeeds>Kebutuhan</TabNeeds>
+  <TabStorage>Penyimpanan</TabStorage>
+  <TabShells>Peluru</TabShells>
+  <TabHealth>Kesehatan</TabHealth>
+  <TabRace>Ras</TabRace>
+  <TabBasics>Dasar</TabBasics>
+  <TabStats>Statistik</TabStats>
+  <TabRecords>Catatan</TabRecords>
+  <TabArt>Seni</TabArt>
+  <TabSocial>Sosial</TabSocial>
   <TabLog>Log</TabLog>
-  <TabFormingCaravan>Caravan</TabFormingCaravan>
-  <TabTransporterContents>Contents</TabTransporterContents>
+  <TabFormingCaravan>Karavan</TabFormingCaravan>
+  <TabTransporterContents>Isi</TabTransporterContents>
 
-  <!-- Bills tab  -->
-  <AddBill>Add bill</AddBill>
-  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
-  <MinimumSkill>Min skill</MinimumSkill>
-  <SuspendedCaps>SUSPENDED</SuspendedCaps>
-  <BoundWorkerIs>Worker: {1_labelShort}</BoundWorkerIs>
-  <PlantVerb>Plant</PlantVerb>
-  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
-  <ReorderBillUpTip>Move up</ReorderBillUpTip>
-  <ReorderBillDownTip>Move down</ReorderBillDownTip>
-  <DeleteBillTip>Delete</DeleteBillTip>
-  <CopyBillTip>Copy to the clipboard</CopyBillTip>
-  <SuspendBillTip>Suspend</SuspendBillTip>
-  <PasteBillTip>Paste</PasteBillTip>
-  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
+  <!-- Bills tab -->
+  <AddBill>Tambah tugas</AddBill>
+  <RecipeRequiresSkills>Resep {0} membutuhkan keterampilan berikut. Tidak ada kolonis yang memiliki keterampilan ini, jadi tidak ada yang akan mengerjakan tugas ini.</RecipeRequiresSkills>
+  <MinimumSkill>Keterampilan min</MinimumSkill>
+  <SuspendedCaps>DITUNDA</SuspendedCaps>
+  <BoundWorkerIs>Pekerja: {1_labelShort}</BoundWorkerIs>
+  <PlantVerb>Tanam</PlantVerb>
+  <ClipboardBillNotAvailableHere>Tugas yang disalin tidak dapat ditempel di sini.</ClipboardBillNotAvailableHere>
+  <ReorderBillUpTip>Pindah ke atas</ReorderBillUpTip>
+  <ReorderBillDownTip>Pindah ke bawah</ReorderBillDownTip>
+  <DeleteBillTip>Hapus</DeleteBillTip>
+  <CopyBillTip>Salin ke clipboard</CopyBillTip>
+  <SuspendBillTip>Tunda</SuspendBillTip>
+  <PasteBillTip>Tempel</PasteBillTip>
+  <PasteBillTip_LimitReached>tidak bisa menambah lagi</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
-  <RecruitmentResistance>Resistance remaining</RecruitmentResistance>
-  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
-  <GetsFood>Gets food</GetsFood>
-  <DoctorsCare>Doctors care</DoctorsCare>
-  <GetsMedicine>Gets medicine</GetsMedicine>
-  <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
-  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+  <RecruitmentResistance>Sisa ketahanan</RecruitmentResistance>
+  <RecruitmentDifficulty>Kesulitan perekrutan</RecruitmentDifficulty>
+  <GetsFood>Mendapat makanan</GetsFood>
+  <DoctorsCare>Perawatan dokter</DoctorsCare>
+  <GetsMedicine>Mendapat obat</GetsMedicine>
+  <ShouldTryToRecruit>Coba rekrut</ShouldTryToRecruit>
+  <ConsideredGuilty>Dianggap bersalah (berakhir dalam {0})</ConsideredGuilty>
 
   <!-- Medical - general -->
-  <MoveSpeed>Move speed</MoveSpeed>
-  <Efficiency>Efficiency</Efficiency>
-  <PartEfficiency>Part efficiency</PartEfficiency>
-  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
-  <MissingBodyPart>Gone</MissingBodyPart>
-  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
-  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
-  <RemovedBodyPart>Removed</RemovedBodyPart>
-  <Healthy>Healthy</Healthy>
-  <InPain>In pain</InPain>
-  <PainLevel>Pain</PainLevel>
-  <Injured>Injured</Injured>
-  <NoHealthConditions>no health conditions</NoHealthConditions>
-  <WholeBody>Whole body</WholeBody>
-  <DataProcessing>Data processing</DataProcessing>
-  <Communication>Communication</Communication>
-  <Affects>Affects</Affects>
-  <BleedingRate>Bleeding</BleedingRate>
-  <TimeToDeath>death in {0}</TimeToDeath>
-  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
-  <HealthOverview>Overview</HealthOverview>
-  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Medical operations</MedicalOperations>
-  <Amputate>amputate</Amputate>
-  <HarvestOrgan>harvest</HarvestOrgan>
-  <RemoveOrgan>remove</RemoveOrgan>
-  <MemoryLower>memory</MemoryLower>
-  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
-  <HungerRate>Hunger rate</HungerRate>
-  <Tiredness>Tiredness</Tiredness>
-  <PainFactor>Pain</PainFactor>
-  <PreventsInfection>Prevents infection</PreventsInfection>
-  <SelfTend>Self-tend</SelfTend>
-  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+  <MoveSpeed>Kecepatan gerak</MoveSpeed>
+  <Efficiency>Efisiensi</Efficiency>
+  <PartEfficiency>Efisiensi bagian</PartEfficiency>
+  <BodyPartEfficiency>Efisiensi bagian tubuh</BodyPartEfficiency>
+  <MissingBodyPart>Hilang</MissingBodyPart>
+  <DestroyedBodyPart>Hancur</DestroyedBodyPart>
+  <ShatteredBodyPart>Remuk</ShatteredBodyPart>
+  <RemovedBodyPart>Dilepas</RemovedBodyPart>
+  <Healthy>Sehat</Healthy>
+  <InPain>Kesakitan</InPain>
+  <PainLevel>Rasa sakit</PainLevel>
+  <Injured>Terluka</Injured>
+  <NoHealthConditions>tidak ada kondisi kesehatan</NoHealthConditions>
+  <WholeBody>Seluruh tubuh</WholeBody>
+  <DataProcessing>Pemrosesan data</DataProcessing>
+  <Communication>Komunikasi</Communication>
+  <Affects>Mempengaruhi</Affects>
+  <BleedingRate>Pendarahan</BleedingRate>
+  <TimeToDeath>meninggal dalam {0}</TimeToDeath>
+  <WontBleedOutSoon>tidak ada bahaya segera</WontBleedOutSoon>
+  <HealthOverview>Ringkasan</HealthOverview>
+  <MedicalOperationsShort>Operasi ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikasi ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Operasi medis</MedicalOperations>
+  <Amputate>amputasi</Amputate>
+  <HarvestOrgan>panen organ</HarvestOrgan>
+  <RemoveOrgan>lepas</RemoveOrgan>
+  <MemoryLower>ingatan</MemoryLower>
+  <SocialInteractionsLower>interaksi sosial</SocialInteractionsLower>
+  <HungerRate>Tingkat kelaparan</HungerRate>
+  <Tiredness>Kelelahan</Tiredness>
+  <PainFactor>Rasa sakit</PainFactor>
+  <PreventsInfection>Mencegah infeksi</PreventsInfection>
+  <SelfTend>Rawat-diri</SelfTend>
+  <SelfTendTip>{0} dengan rawat-diri diaktifkan akan otomatis merawat dirinya sendiri dengan efisiensi {1} dari normal.</SelfTendTip>
 
   <!-- Medical - Body and activities condition -->
-  <None>None</None>
-  <VeryPoor>Very poor</VeryPoor>
-  <Poor>Poor</Poor>
-  <Weakened>Weakened</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Enhanced</Enhanced>
-  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
-  <Impaired>Impaired</Impaired>
-  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
-  <NoPain>None</NoPain>
-  <LittlePain>Little</LittlePain>
-  <MediumPain>Medium</MediumPain>
-  <SeverePain>Severe</SeverePain>
-  <ExtremePain>Extreme</ExtremePain>
+  <None>Tidak ada</None>
+  <VeryPoor>Sangat buruk</VeryPoor>
+  <Poor>Buruk</Poor>
+  <Weakened>Melemah</Weakened>
+  <GoodCondition>Baik</GoodCondition>
+  <Enhanced>Ditingkatkan</Enhanced>
+  <SeriouslyImpaired>Sangat terganggu</SeriouslyImpaired>
+  <Impaired>Terganggu</Impaired>
+  <SlightlyImpaired>Sedikit terganggu</SlightlyImpaired>
+  <NoPain>Tidak ada</NoPain>
+  <LittlePain>Sedikit</LittlePain>
+  <MediumPain>Sedang</MediumPain>
+  <SeverePain>Parah</SeverePain>
+  <ExtremePain>Ekstrim</ExtremePain>
 
   <!-- Training tab -->
-  <Trainability>Trainability</Trainability>
-  <CannotTrainNotSmartEnough>Requires trainability {0}.</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>{1_labelShort} is too small to train this.</CannotTrainTooSmall>
-
-  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  <Trainability>Kemampuan dilatih</Trainability>
+  <CannotTrainNotSmartEnough>Membutuhkan kemampuan dilatih {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{1_labelShort} terlalu kecil untuk dilatih ini.</CannotTrainTooSmall>
+  <TrainingNeedsPrerequisite>Prasyarat diperlukan: {0}</TrainingNeedsPrerequisite>
 
   <!-- Social tab -->
-  <NoRelationships>(no relationships)</NoRelationships>
-  <Kidnapped>Kidnapped</Kidnapped>
-  <Missing>Missing</Missing>
-  <Slave>Slave</Slave>
-  <FactionLeader>Faction leader</FactionLeader>
-  <OpinionOf>Opinion of {1_labelShort}</OpinionOf>
-  <SomeonesOpinionOfMe>{1_labelShort}'s opinion of me</SomeonesOpinionOfMe>
-  <IAmDead>I'm dead</IAmDead>
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <NoRelationships>(tidak ada hubungan)</NoRelationships>
+  <Kidnapped>Diculik</Kidnapped>
+  <Missing>Hilang</Missing>
+  <Slave>Budak</Slave>
+  <FactionLeader>Pemimpin faksi</FactionLeader>
+  <OpinionOf>Pendapat tentang {1_labelShort}</OpinionOf>
+  <SomeonesOpinionOfMe>Pendapat {1_labelShort} tentang saya</SomeonesOpinionOfMe>
+  <IAmDead>Saya sudah mati</IAmDead>
+  <IAmPsychopath>Saya psikopat</IAmPsychopath>
 
   <!-- Gear tab -->
-  <OverallArmor>Overall armor</OverallArmor>
-  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
-  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
-  <ArmorBlunt>Blunt</ArmorBlunt>
-  <ArmorSharp>Sharp</ArmorSharp>
-  <ArmorHeat>Heat</ArmorHeat>
+  <OverallArmor>Armor keseluruhan</OverallArmor>
+  <MassCarried>Beban dibawa: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>Rentang suhu nyaman</ComfyTemperatureRange>
+  <ArmorBlunt>Tumpul</ArmorBlunt>
+  <ArmorSharp>Tajam</ArmorSharp>
+  <ArmorHeat>Panas</ArmorHeat>
 
   <!-- Log tab -->
-  <ShowAll>Show all</ShowAll>
-  <ShowCombat>Show combat</ShowCombat>
-  <ShowSocial>Show social</ShowSocial>
-  <NoRecentEntries>no recent entries</NoRecentEntries>
-  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+  <ShowAll>Tampilkan semua</ShowAll>
+  <ShowCombat>Tampilkan pertempuran</ShowCombat>
+  <ShowSocial>Tampilkan sosial</ShowSocial>
+  <NoRecentEntries>tidak ada catatan terbaru</NoRecentEntries>
+  <CopyLogTip>Salin log ke clipboard.</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
-  <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
-  <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
-  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
-  <FormingCaravanStatus_GatheringDownedPawns>Gathering downed people</FormingCaravanStatus_GatheringDownedPawns>
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Gathering downed people (waiting)</FormingCaravanStatus_GatheringDownedPawns_Pause>
-  <FormingCaravanStatus_Leaving>Leaving</FormingCaravanStatus_Leaving>
-  <FormingCaravanStatus_Leaving_Pause>Leaving (waiting)</FormingCaravanStatus_Leaving_Pause>
-  <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
-  <CaravanMembers>Members</CaravanMembers>
-  <CaravanAnimals>Animals</CaravanAnimals>
-  <ItemsToLoad>Items to load</ItemsToLoad>
-  <LoadedItems>Loaded items</LoadedItems>
-  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
-  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
+  <FormingCaravanStatus_GatheringAnimals>Mengumpulkan hewan</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Mengumpulkan hewan (menunggu)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringItems>Mengumpulkan barang</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems_Pause>Mengumpulkan barang (menunggu)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringSlaves>Mengumpulkan budak</FormingCaravanStatus_GatheringSlaves>
+  <FormingCaravanStatus_GatheringSlaves_Pause>Mengumpulkan budak (menunggu)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns>Mengumpulkan orang terluka</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Mengumpulkan orang terluka (menunggu)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_Leaving>Berangkat</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving_Pause>Berangkat (menunggu)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Waiting>Menunggu</FormingCaravanStatus_Waiting>
+  <CaravanMembers>Anggota</CaravanMembers>
+  <CaravanAnimals>Hewan</CaravanAnimals>
+  <ItemsToLoad>Barang untuk dimuat</ItemsToLoad>
+  <LoadedItems>Barang dimuat</LoadedItems>
+  <PackAnimalsCountLower>hewan pembawa</PackAnimalsCountLower>
+  <InMentalStateCountLower>gangguan mental</InMentalStateCountLower>
 
   <!-- Transporter contents -->
-  <RemoveSliderText>Remove {{0}}x {0}</RemoveSliderText>
-  <ConfirmRemoveItemDialog>Do you really want to remove {0}?</ConfirmRemoveItemDialog>
+  <RemoveSliderText>Hapus {{0}}x {0}</RemoveSliderText>
+  <ConfirmRemoveItemDialog>Anda yakin ingin menghapus {0}?</ConfirmRemoveItemDialog>
 
 </LanguageData>

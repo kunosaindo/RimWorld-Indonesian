@@ -3,53 +3,53 @@
 
   <!-- Basic recipes - speed not affected by skill because there's no skill involved -->
 
-  <UnskilledLaborSpeed.label>unskilled labor speed</UnskilledLaborSpeed.label>
-  <UnskilledLaborSpeed.description>The speed at which this person carries out unskilled labor like making stone blocks, making chemfuel at a refinery or burning items.</UnskilledLaborSpeed.description>
+  <UnskilledLaborSpeed.label>kecepatan kerja kasar</UnskilledLaborSpeed.label>
+  <UnskilledLaborSpeed.description>Kecepatan orang ini dalam melakukan pekerjaan kasar seperti membuat balok batu, membuat bahan bakar kimia di kilang, atau membakar barang.</UnskilledLaborSpeed.description>
 
 
   <!-- Artistic recipes - speed not affected by skill because skill affects output quality -->
 
-  <SculptingSpeed.label>sculpting speed</SculptingSpeed.label>
-  <SculptingSpeed.description>The speed at which this person creates sculptures.\n\nThis stat only affects how fast sculptures are produced, not their quality. Quality is determined by the sculptor's artistic skill.</SculptingSpeed.description>
+  <SculptingSpeed.label>kecepatan memahat</SculptingSpeed.label>
+  <SculptingSpeed.description>Kecepatan orang ini dalam membuat patung.\n\nStat ini hanya mempengaruhi seberapa cepat patung dibuat, bukan kualitasnya. Kualitas ditentukan oleh kemampuan seni pemahat.</SculptingSpeed.description>
 
-  <TailoringSpeed.label>tailoring speed</TailoringSpeed.label>
-  <TailoringSpeed.description>The speed at which this person makes clothes.\n\nThis stat only affects how fast clothes are produced, not their quality. Quality is determined by the tailor's crafting skill.</TailoringSpeed.description>
+  <TailoringSpeed.label>kecepatan menjahit</TailoringSpeed.label>
+  <TailoringSpeed.description>Kecepatan orang ini dalam membuat pakaian.\n\nStat ini hanya mempengaruhi seberapa cepat pakaian dibuat, bukan kualitasnya. Kualitas ditentukan oleh kemampuan kerajinan penjahit.</TailoringSpeed.description>
 
-  <SmithingSpeed.label>smithing speed</SmithingSpeed.label>
-  <SmithingSpeed.description>Speed at which this person crafts weapons, machinery, and ammunition.\n\nThis stat only affects how fast items are produced, not their quality. Quality is determined by the crafter's skill.</SmithingSpeed.description>
+  <SmithingSpeed.label>kecepatan menempa</SmithingSpeed.label>
+  <SmithingSpeed.description>Kecepatan orang ini dalam membuat senjata, mesin, dan amunisi.\n\nStat ini hanya mempengaruhi seberapa cepat barang dibuat, bukan kualitasnya. Kualitas ditentukan oleh kemampuan pengrajin.</SmithingSpeed.description>
 
 
   <!-- Production recipes - speed affected by skill because there is no output quality -->
 
-  <DrugSynthesisSpeed.label>drug synthesis speed</DrugSynthesisSpeed.label>
-  <DrugSynthesisSpeed.description>How fast this character synthesizes complex chemical drugs.</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.label>kecepatan membuat obat</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>Seberapa cepat orang ini mensintesis obat-obatan kimia kompleks.</DrugSynthesisSpeed.description>
 
-  <CookSpeed.label>cooking speed</CookSpeed.label>
-  <CookSpeed.description>The speed at which this person cooks meals.</CookSpeed.description>
+  <CookSpeed.label>kecepatan memasak</CookSpeed.label>
+  <CookSpeed.description>Kecepatan orang ini dalam memasak makanan.</CookSpeed.description>
 
-  <FoodPoisonChance.label>food poison chance</FoodPoisonChance.label>
-  <FoodPoisonChance.description>The probability that this character will inadvertently poison a meal they cook. Food poison temporarily debilitates anyone it strikes.</FoodPoisonChance.description>
+  <FoodPoisonChance.label>kemungkinan meracuni makanan</FoodPoisonChance.label>
+  <FoodPoisonChance.description>Kemungkinan orang ini tanpa sengaja meracuni makanan yang mereka masak. Keracunan makanan akan melemahkan siapa pun yang terkena untuk sementara waktu.</FoodPoisonChance.description>
 
-  <DrugCookingSpeed.label>drug cooking speed</DrugCookingSpeed.label>
-  <DrugCookingSpeed.description>The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.label>kecepatan membuat minuman</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>Kecepatan orang ini dalam membuat bir dan teh, atau membuat produk obat sederhana seperti rokok daun asap.</DrugCookingSpeed.description>
 
-  <ButcheryFleshSpeed.label>butchery speed</ButcheryFleshSpeed.label>
-  <ButcheryFleshSpeed.description>The speed at which this person butchers flesh creatures.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.label>kecepatan memotong</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>Kecepatan orang ini dalam memotong makhluk hidup.</ButcheryFleshSpeed.description>
 
-  <ButcheryMechanoidSpeed.label>mechanoid disassembly speed</ButcheryMechanoidSpeed.label>
-  <ButcheryMechanoidSpeed.description>The speed at which this person can disassemble a mechanoid.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.label>kecepatan membongkar mekanoid</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>Kecepatan orang ini dalam membongkar mekanoid.</ButcheryMechanoidSpeed.description>
 
-  <ButcheryFleshEfficiency.label>butchery efficiency</ButcheryFleshEfficiency.label>
-  <ButcheryFleshEfficiency.description>The amount of meat produced when butchering flesh creatures. The actual amount is also related to the creature's size.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.label>efisiensi pemotongan</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>Jumlah daging yang dihasilkan saat memotong makhluk hidup. Jumlah sebenarnya juga terkait dengan ukuran makhluk tersebut.</ButcheryFleshEfficiency.description>
 
-  <ButcheryMechanoidEfficiency.label>mechanoid disassembly efficiency</ButcheryMechanoidEfficiency.label>
-  <ButcheryMechanoidEfficiency.description>The amount of materials yielded when this person disassembles a dead mechanoid. The actual amount is also related to the mechanoid's size.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.label>efisiensi pembongkaran mekanoid</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>Jumlah bahan yang dihasilkan saat orang ini membongkar mekanoid mati. Jumlah sebenarnya juga terkait dengan ukuran mekanoid.</ButcheryMechanoidEfficiency.description>
 
 
   <!-- Dumb recipes - not affected by skill because there's no skill component -->
 
-  <SmeltingSpeed.label>smelting speed</SmeltingSpeed.label>
-  <SmeltingSpeed.description>The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill.</SmeltingSpeed.description>
+  <SmeltingSpeed.label>kecepatan melebur</SmeltingSpeed.label>
+  <SmeltingSpeed.description>Kecepatan orang ini dalam melebur barang.\n\nKarena melebur adalah pekerjaan kasar, kecepatan melebur tidak dipengaruhi oleh kemampuan apa pun.</SmeltingSpeed.description>
 
 
 </LanguageData>

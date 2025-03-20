@@ -3,40 +3,39 @@
 
   <!-- SPECIAL: Terrains from natural stones -->
 
-  <Sandstone_Rough.label>rough sandstone</Sandstone_Rough.label>
-  <Sandstone_Rough.description>Rough, natural sandstone ground.</Sandstone_Rough.description>
-  <Sandstone_RoughHewn.label>rough-hewn sandstone</Sandstone_RoughHewn.label>
-  <Sandstone_RoughHewn.description>Roughly cut natural sandstone floor.</Sandstone_RoughHewn.description>
-  <Sandstone_Smooth.label>smooth sandstone</Sandstone_Smooth.label>
-  <Sandstone_Smooth.description>Smoothed natural sandstone floor.</Sandstone_Smooth.description>
+  <Sandstone_Rough.label>batu pasir kasar</Sandstone_Rough.label>
+  <Sandstone_Rough.description>Tanah batu pasir alami yang kasar.</Sandstone_Rough.description>
+  <Sandstone_RoughHewn.label>batu pasir pahat kasar</Sandstone_RoughHewn.label>
+  <Sandstone_RoughHewn.description>Lantai batu pasir alami yang dipotong kasar.</Sandstone_RoughHewn.description>
+  <Sandstone_Smooth.label>batu pasir halus</Sandstone_Smooth.label>
+  <Sandstone_Smooth.description>Lantai batu pasir alami yang dihaluskan.</Sandstone_Smooth.description>
 
-  <Granite_Rough.label>rough granite</Granite_Rough.label>
-  <Granite_Rough.description>Rough, natural granite ground.</Granite_Rough.description>
-  <Granite_RoughHewn.label>rough-hewn granite</Granite_RoughHewn.label>
-  <Granite_RoughHewn.description>Roughly cut natural granite floor.</Granite_RoughHewn.description>
-  <Granite_Smooth.label>smooth granite</Granite_Smooth.label>
-  <Granite_Smooth.description>Smoothed natural granite floor.</Granite_Smooth.description>
+  <Granite_Rough.label>granit kasar</Granite_Rough.label>
+  <Granite_Rough.description>Tanah granit alami yang kasar.</Granite_Rough.description>
+  <Granite_RoughHewn.label>granit pahat kasar</Granite_RoughHewn.label>
+  <Granite_RoughHewn.description>Lantai granit alami yang dipotong kasar.</Granite_RoughHewn.description>
+  <Granite_Smooth.label>granit halus</Granite_Smooth.label>
+  <Granite_Smooth.description>Lantai granit alami yang dihaluskan.</Granite_Smooth.description>
 
-  <Limestone_Rough.label>rough limestone</Limestone_Rough.label>
-  <Limestone_Rough.description>Rough, natural limestone ground.</Limestone_Rough.description>
-  <Limestone_RoughHewn.label>rough-hewn limestone</Limestone_RoughHewn.label>
-  <Limestone_RoughHewn.description>Roughly cut natural limestone floor.</Limestone_RoughHewn.description>
-  <Limestone_Smooth.label>smooth limestone</Limestone_Smooth.label>
-  <Limestone_Smooth.description>Smoothed natural limestone floor.</Limestone_Smooth.description>
+  <Limestone_Rough.label>batu kapur kasar</Limestone_Rrough.label>
+  <Limestone_Rough.description>Tanah batu kapur alami yang kasar.</Limestone_Rough.description>
+  <Limestone_RoughHewn.label>batu kapur pahat kasar</Limestone_RoughHewn.label>
+  <Limestone_RoughHewn.description>Lantai batu kapur alami yang dipotong kasar.</Limestone_RoughHewn.description>
+  <Limestone_Smooth.label>batu kapur halus</Limestone_Smooth.label>
+  <Limestone_Smooth.description>Lantai batu kapur alami yang dihaluskan.</Limestone_Smooth.description>
 
-  <Slate_Rough.label>rough slate</Slate_Rough.label>
-  <Slate_Rough.description>Rough, natural slate ground.</Slate_Rough.description>
-  <Slate_RoughHewn.label>rough-hewn slate</Slate_RoughHewn.label>
-  <Slate_RoughHewn.description>Roughly cut natural slate floor.</Slate_RoughHewn.description>
-  <Slate_Smooth.label>smooth slate</Slate_Smooth.label>
-  <Slate_Smooth.description>Smoothed natural slate floor.</Slate_Smooth.description>
+  <Slate_Rough.label>batu sabak kasar</Slate_Rough.label>
+  <Slate_Rough.description>Tanah batu sabak alami yang kasar.</Slate_Rough.description>
+  <Slate_RoughHewn.label>batu sabak pahat kasar</Slate_RoughHewn.label>
+  <Slate_RoughHewn.description>Lantai batu sabak alami yang dipotong kasar.</Slate_RoughHewn.description>
+  <Slate_Smooth.label>batu sabak halus</Slate_Smooth.label>
+  <Slate_Smooth.description>Lantai batu sabak alami yang dihaluskan.</Slate_Smooth.description>
 
-  <Marble_Rough.label>rough marble</Marble_Rough.label>
-  <Marble_Rough.description>Rough, natural marble ground.</Marble_Rough.description>
-  <Marble_RoughHewn.label>rough-hewn marble</Marble_RoughHewn.label>
-  <Marble_RoughHewn.description>Roughly cut natural marble floor.</Marble_RoughHewn.description>
-  <Marble_Smooth.label>smooth marble</Marble_Smooth.label>
-  <Marble_Smooth.description>Smoothed natural marble floor.</Marble_Smooth.description>
-
+  <Marble_Rough.label>marmer kasar</Marble_Rough.label>
+  <Marble_Rough.description>Tanah marmer alami yang kasar.</Marble_Rough.description>
+  <Marble_RoughHewn.label>marmer pahat kasar</Marble_RoughHewn.label>
+  <Marble_RoughHewn.description>Lantai marmer alami yang dipotong kasar.</Marble_RoughHewn.description>
+  <Marble_Smooth.label>marmer halus</Marble_Smooth.label>
+  <Marble_Smooth.description>Lantai marmer alami yang dihaluskan.</Marble_Smooth.description>
 
 </LanguageData>

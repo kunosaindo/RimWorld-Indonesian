@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Chicken.label>chicken</Chicken.label>
-  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
-  <Chicken.tools.0.label>claws</Chicken.tools.0.label>
-  <Chicken.tools.1.label>beak</Chicken.tools.1.label>
-  <Chicken.tools.2.label>head</Chicken.tools.2.label>
+  <Chicken.label>ayam</Chicken.label>
+  <Chicken.description>Unggas ternak paling tradisional, ayam diternakkan untuk telur dan dagingnya. Tumbuh sangat cepat dan bertelur sangat sering.</Chicken.description>
+  <Chicken.tools.0.label>cakar</Chicken.tools.0.label>
+  <Chicken.tools.1.label>paruh</Chicken.tools.1.label>
+  <Chicken.tools.2.label>kepala</Chicken.tools.2.label>
   <!-- Leather Amount: 0 -->
-  <Chicken_Meat.label>chicken meat</Chicken_Meat.label>
-  <Chicken_Meat.description>chicken meat</Chicken_Meat.description>
-  <Chicken_Corpse.label>chicken corpse</Chicken_Corpse.label>
-  <Chicken_Corpse.description>chicken corpse</Chicken_Corpse.description>
+  <Chicken_Meat.label>daging ayam</Chicken_Meat.label>
+  <Chicken_Meat.description>daging ayam</Chicken_Meat.description>
+  <Chicken_Corpse.label>bangkai ayam</Chicken_Corpse.label>
+  <Chicken_Corpse.description>bangkai ayam</Chicken_Corpse.description>
 
-  <Pig.label>pig</Pig.label>
-  <Pig.description>The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks.</Pig.description>
-  <Pig.tools.1.label>head</Pig.tools.1.label>
-  <Pig_Leather.label>pig leather</Pig_Leather.label>
-  <Pig_Leather.description>pig leather</Pig_Leather.description>
-  <Pig_Leather.stuffProps.stuffAdjective>pig leather</Pig_Leather.stuffProps.stuffAdjective>
-  <Pig_Meat.label>pork</Pig_Meat.label>
-  <Pig_Meat.description>pork</Pig_Meat.description>
-  <Pig_Corpse.label>pig corpse</Pig_Corpse.label>
-  <Pig_Corpse.description>pig corpse</Pig_Corpse.description>
+  <Pig.label>babi</Pig.label>
+  <Pig.description>Babi adalah salah satu hewan pertama yang dijinakkan manusia. Umumnya diternakkan untuk dagingnya, dan mudah diberi makan karena dietnya omnivora. Meskipun babi mementingkan diri sendiri, mereka dapat dilatih dalam tugas-tugas kompleks.</Pig.description>
+  <Pig.tools.1.label>kepala</Pig.tools.1.label>
+  <Pig_Leather.label>kulit babi</Pig_Leather.label>
+  <Pig_Leather.description>kulit babi</Pig_Leather.description>
+  <Pig_Leather.stuffProps.stuffAdjective>kulit babi</Pig_Leather.stuffProps.stuffAdjective>
+  <Pig_Meat.label>daging babi</Pig_Meat.label>
+  <Pig_Meat.description>daging babi</Pig_Meat.description>
+  <Pig_Corpse.label>bangkai babi</Pig_Corpse.label>
+  <Pig_Corpse.description>bangkai babi</Pig_Corpse.description>
 
-  <Cow.label>cow</Cow.label>
-  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
-  <Cow.tools.1.label>head</Cow.tools.1.label>
-  <Cow.tools.2.label>left hoof</Cow.tools.2.label>
-  <Cow.tools.3.label>right hoof</Cow.tools.3.label>
-  <Cow_Leather.label>cow leather</Cow_Leather.label>
-  <Cow_Leather.description>cow leather</Cow_Leather.description>
-  <Cow_Leather.stuffProps.stuffAdjective>cow leather</Cow_Leather.stuffProps.stuffAdjective>
-  <Cow_Meat.label>beef</Cow_Meat.label>
-  <Cow_Meat.description>beef</Cow_Meat.description>
-  <Cow_Corpse.label>cow corpse</Cow_Corpse.label>
-  <Cow_Corpse.description>cow corpse</Cow_Corpse.description>
+  <Cow.label>sapi</Cow.label>
+  <Cow.description>Hewan berkuku besar yang telah dijinakkan, sapi telah dibiakkan selama ribuan tahun untuk menghasilkan susu, daging, dan kulit dalam jumlah besar. Mereka adalah makhluk yang sangat lembut dan tidak akan pernah mencari balas dendam, tidak peduli berapa kali mereka disakiti. Kebanyakan dari mereka sudah begitu beradaptasi dengan kehidupan peternakan sehingga tidak bisa bertahan hidup di alam liar.</Cow.description>
+  <Cow.tools.1.label>kepala</Cow.tools.1.label>
+  <Cow.tools.2.label>kaki kiri</Cow.tools.2.label>
+  <Cow.tools.3.label>kaki kanan</Cow.tools.3.label>
+  <Cow_Leather.label>kulit sapi</Cow_Leather.label>
+  <Cow_Leather.description>kulit sapi</Cow_Leather.description>
+  <Cow_Leather.stuffProps.stuffAdjective>kulit sapi</Cow_Leather.stuffProps.stuffAdjective>
+  <Cow_Meat.label>daging sapi</Cow_Meat.label>
+  <Cow_Meat.description>daging sapi</Cow_Meat.description>
+  <Cow_Corpse.label>bangkai sapi</Cow_Corpse.label>
+  <Cow_Corpse.description>bangkai sapi</Cow_Corpse.description>
 
-  <Alpaca.label>alpaca</Alpaca.label>
-  <Alpaca.description>A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America</Alpaca.description>
-  <Alpaca.tools.0.label>left hoof</Alpaca.tools.0.label>
-  <Alpaca.tools.1.label>right hoof</Alpaca.tools.1.label>
-  <Alpaca.tools.3.label>head</Alpaca.tools.3.label>
-  <Alpaca_Leather.label>alpaca leather</Alpaca_Leather.label>
-  <Alpaca_Leather.description>alpaca leather</Alpaca_Leather.description>
-  <Alpaca_Leather.stuffProps.stuffAdjective>alpaca leather</Alpaca_Leather.stuffProps.stuffAdjective>
-  <Alpaca_Meat.label>alpaca meat</Alpaca_Meat.label>
-  <Alpaca_Meat.description>alpaca meat</Alpaca_Meat.description>
-  <Alpaca_Corpse.label>alpaca corpse</Alpaca_Corpse.label>
-  <Alpaca_Corpse.description>alpaca corpse</Alpaca_Corpse.description>
+  <Alpaca.label>alpaka</Alpaca.label>
+  <Alpaca.description>Hewan berkuku berukuran sedang yang berkerabat dekat dengan llama, alpaka biasanya diternakkan untuk wolnya yang luar biasa lembut dan mengisolasi. Alpaka juga telah digunakan sebagai hewan pengangkut sejak mereka mengangkut kargo di jalur pegunungan yang kasar di Amerika Selatan kuno.</Alpaca.description>
+  <Alpaca.tools.0.label>kaki kiri</Alpaca.tools.0.label>
+  <Alpaca.tools.1.label>kaki kanan</Alpaca.tools.1.label>
+  <Alpaca.tools.3.label>kepala</Alpaca.tools.3.label>
+  <Alpaca_Leather.label>kulit alpaka</Alpaca_Leather.label>
+  <Alpaca_Leather.description>kulit alpaka</Alpaca_Leather.description>
+  <Alpaca_Leather.stuffProps.stuffAdjective>kulit alpaka</Alpaca_Leather.stuffProps.stuffAdjective>
+  <Alpaca_Meat.label>daging alpaka</Alpaca_Meat.label>
+  <Alpaca_Meat.description>daging alpaka</Alpaca_Meat.description>
+  <Alpaca_Corpse.label>bangkai alpaka</Alpaca_Corpse.label>
+  <Alpaca_Corpse.description>bangkai alpaka</Alpaca_Corpse.description>
 
 
 </LanguageData>

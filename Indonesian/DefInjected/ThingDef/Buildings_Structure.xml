@@ -3,26 +3,26 @@
 
   <!-- Doors -->
 
-  <Door.label>door</Door.label>
-  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
-  <Door_Blueprint.label>door (blueprint)</Door_Blueprint.label>
-  <Door_Frame.label>door (building)</Door_Frame.label>
-  <Door_Frame.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door_Frame.description>
+  <Door.label>pintu</Door.label>
+  <Door.description>Memisahkan ruangan. Pintu sederhana harus dibuka secara manual, yang memperlambat orang. Seberapa besar perlambatannya tergantung dari bahan pembuatan pintu.</Door.description>
+  <Door_Blueprint.label>pintu (cetak biru)</Door_Blueprint.label>
+  <Door_Frame.label>pintu (pembangunan)</Door_Frame.label>
+  <Door_Frame.description>Memisahkan ruangan. Pintu sederhana harus dibuka secara manual, yang memperlambat orang. Seberapa besar perlambatannya tergantung dari bahan pembuatan pintu.</Door_Frame.description>
 
-  <Autodoor.label>autodoor</Autodoor.label>
-  <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
-  <Autodoor_Blueprint.label>autodoor (blueprint)</Autodoor_Blueprint.label>
-  <Autodoor_Frame.label>autodoor (building)</Autodoor_Frame.label>
-  <Autodoor_Frame.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor_Frame.description>
+  <Autodoor.label>pintu otomatis</Autodoor.label>
+  <Autodoor.description>Memisahkan ruangan. Pengoperasian dengan tenaga listrik memungkinkan orang melewati pintu tanpa diperlambat.</Autodoor.description>
+  <Autodoor_Blueprint.label>pintu otomatis (cetak biru)</Autodoor_Blueprint.label>
+  <Autodoor_Frame.label>pintu otomatis (pembangunan)</Autodoor_Frame.label>
+  <Autodoor_Frame.description>Memisahkan ruangan. Pengoperasian dengan tenaga listrik memungkinkan orang melewati pintu tanpa diperlambat.</Autodoor_Frame.description>
 
 
   <!-- Walls -->
 
-  <Wall.label>wall</Wall.label>
-  <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
-  <Wall_Blueprint.label>wall (blueprint)</Wall_Blueprint.label>
-  <Wall_Frame.label>wall (building)</Wall_Frame.label>
-  <Wall_Frame.description>An impassable wall. Capable of holding up a roof.</Wall_Frame.description>
+  <Wall.label>tembok</Wall.label>
+  <Wall.description>Tembok yang tidak dapat dilewati. Mampu menopang atap.</Wall.description>
+  <Wall_Blueprint.label>tembok (cetak biru)</Wall_Blueprint.label>
+  <Wall_Frame.label>tembok (pembangunan)</Wall_Frame.label>
+  <Wall_Frame.description>Tembok yang tidak dapat dilewati. Mampu menopang atap.</Wall_Frame.description>
 
 
 </LanguageData>

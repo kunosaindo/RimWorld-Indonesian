@@ -1,26 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling.</MealSurvivalPack.description>
+  <MealSurvivalPack.label>makanan bertahan hidup</MealSurvivalPack.label>
+  <MealSurvivalPack.description>Makanan berkualitas tinggi yang dikemas khusus untuk situasi bertahan hidup. Meski tidak akan busuk, tapi bisa rusak kalau dibiarkan di luar. Cocok untuk bepergian.</MealSurvivalPack.description>
 
-  <MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
-  <MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
+  <MealNutrientPaste.label>bubur nutrisi</MealNutrientPaste.label>
+  <MealNutrientPaste.description>Campuran sintetis protein, karbohidrat, vitamin, asam amino dan mineral. Memenuhi semua kebutuhan tubuh, tapi rasanya benar-benar tidak enak.</MealNutrientPaste.description>
 
-  <MealSimple.label>simple meal</MealSimple.label>
-  <MealSimple.description>A simple meal quickly cooked from one main ingredient.</MealSimple.description>
+  <MealSimple.label>makanan sederhana</MealSimple.label>
+  <MealSimple.description>Makanan sederhana yang dimasak dengan cepat dari satu bahan utama.</MealSimple.description>
 
-  <MealFine.label>fine meal</MealFine.label>
-  <MealFine.description>A complex dish assembled with care from a variety of ingredients.</MealFine.description>
+  <MealFine.label>makanan enak</MealFine.label>
+  <MealFine.description>Hidangan kompleks yang dibuat dengan hati-hati dari berbagai bahan.</MealFine.description>
 
-  <MealLavish.label>lavish meal</MealLavish.label>
-  <MealLavish.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish.description>
+  <MealLavish.label>makanan mewah</MealLavish.label>
+  <MealLavish.description>Mahakarya seni kuliner, makanan ini memenuhi kebutuhan tubuh, pikiran, dan jiwa.</MealLavish.description>
 
-  <Kibble.label>kibble</Kibble.label>
-  <Kibble.description>Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Kibble.label>makanan hewan</Kibble.label>
+  <Kibble.description>Makanan hewan yang terbuat dari campuran daging dan tumbuhan. Manusia bisa memakannya, tapi mereka sangat tidak suka.</Kibble.description>
 
   <Pemmican.label>pemmican</Pemmican.label>
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
-
+  <Pemmican.description>Campuran lemak dan makanan nabati yang diawetkan. Rasanya hambar tapi tidak menyebalkan. Bisa tahan sangat lama tanpa pendingin. Cocok untuk bepergian.</Pemmican.description>
 
 </LanguageData>

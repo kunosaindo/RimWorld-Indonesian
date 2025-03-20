@@ -39,13 +39,13 @@ Ben
 Benjamin
 Benji
 Bianco
-Big Boy
+Anak Besar
 Blotto
 Bob
 Bogeyman
 Bond
 Boris
-Boy
+Anak
 Bruno
 Brutus
 Bubba
@@ -67,9 +67,9 @@ Cody
 Conan
 Confucius
 Cory
-Cowboy
+Koboi
 Cyrano
-Czar
+Tsar
 Da Vinci
 Don
 Dude
@@ -94,7 +94,7 @@ Flint
 Floyd
 Frasier
 Freud
-Friar
+Biarawan
 Gatsby
 Gavin
 Gilligan
@@ -108,7 +108,7 @@ Gunther
 Gus
 Guy
 Hamlet
-Handsome
+Tampan
 Hannibal
 Hansel
 Harvey
@@ -136,14 +136,14 @@ Jed
 Jethro
 Justus
 Kobi
-Lad
+Anak Laki-laki
 Lancelot
 Lazarus
 Leo
 Levi
 Link
 Linus
-Little Guy
+Anak Kecil
 Ludwig
 Macho
 Malcolm
@@ -173,7 +173,7 @@ Patton
 Pavlov
 Perseus
 Petit
-Pharaoh
+Firaun
 Popeye
 Quasimodo
 Quixote
@@ -203,7 +203,7 @@ Siegfried
 Sigmund
 Sinbad
 Solomon
-Sorcerer
+Penyihir
 Spike
 Stetson
 Tarzan
@@ -218,12 +218,12 @@ Van Gogh
 Voltaire
 Waldo
 Warhol
-Warlock
+Penyihir Hitam
 Wilbur
 Wilfred
 Wilson
 Wiseguy
-Wizard
+Penyihir
 Wolfgang
 Xanadu
 Xanthus
@@ -233,11 +233,3 @@ Zack
 Zeke
 Zeus
 Zorro
-
-
-
-
-
-
-
-

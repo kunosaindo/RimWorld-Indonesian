@@ -2,283 +2,283 @@
 <LanguageData>
 
   <!-- Forbid -->
-  <CommandForbid>Forbid</CommandForbid>
-  <CommandAllow>Allow</CommandAllow>
-  <CommandForbiddenDesc>Forbidden: Your colonists are not allowed to interact with this. Click to allow.</CommandForbiddenDesc>
-  <CommandNotForbiddenDesc>Allowed: Your colonists are allowed to interact with this. Click to forbid.</CommandNotForbiddenDesc>
+  <CommandForbid>Larang</CommandForbid>
+  <CommandAllow>Izinkan</CommandAllow>
+  <CommandForbiddenDesc>Dilarang: Kolonis tidak diizinkan berinteraksi dengan ini. Klik untuk mengizinkan.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>Diizinkan: Kolonis diizinkan berinteraksi dengan ini. Klik untuk melarang.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Aktifkan/Matikan daya</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Aktifkan/Matikan daya.</CommandTogglePowerDesc>
 
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>Tetapkan pengalihan daya</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Tetapkan benda ini untuk dialihkan dayanya. Kolonis akan segera datang untuk menekan saklarnya.</CommandDesignateTogglePowerDesc>
 
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectLabel>Sambung ulang</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Coba sambungkan ke jaringan listrik lain dalam jangkauan koneksi. Berguna jika tersambung ke jaringan tanpa daya padahal ada jaringan bertenaga di dekatnya.</CommandTryReconnectDesc>
 
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Titik berkumpul</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktif - kolonis akan berkumpul di sekitar objek ini.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Tidak aktif - kolonis tidak akan berkumpul di sekitar objek ini.</CommandGatherSpotToggleDescInactive>
 
   <!-- Drafting -->
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{1_labelShort} cannot walk.</IsIncapped>
+  <CommandDraftLabel>Siaga</CommandDraftLabel>
+  <CommandUndraftLabel>Istirahat</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Aktifkan mode militer.\n\nOrang dalam mode siaga akan menerima perintah dan bertarung. Mereka tidak akan bekerja, makan, atau istirahat.</CommandToggleDraftDesc>
+  <IsIncapped>{1_labelShort} tidak bisa berjalan.</IsIncapped>
 
-  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
-  <CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
+  <CommandFireAtWillLabel>Menembak sesuka hati</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>Aktifkan/Nonaktifkan menembak sesuka hati.\n\nJika dinonaktifkan, karakter ini tidak akan menembak target jarak jauh secara otomatis. Tidak mempengaruhi pertempuran jarak dekat.</CommandFireAtWillDesc>
 
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWork>Hapus pekerjaan prioritas</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Hapus pekerjaan prioritas yang Anda tetapkan. Karakter akan kembali ke aktivitas mandiri biasanya.</CommandClearPrioritizedWorkDesc>
 
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Batalkan</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Batalkan konstruksi ini.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Bangun dari tempat tidur</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Bangun dari tempat tidur saat ini.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <BuildingAssign>Assign</BuildingAssign>
-  <BuildingReassign>Reassign</BuildingReassign>
-  <BuildingUnassign>Unassign</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Medical</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandBedSetOwnerLabel>Tetapkan pemilik</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Tetapkan tempat tidur ini untuk dimiliki oleh kolonis tertentu.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Tetapkan kolonis</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Tetapkan kuburan ini untuk dimiliki oleh kolonis tertentu.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Tetapkan</BuildingAssign>
+  <BuildingReassign>Tetapkan ulang</BuildingReassign>
+  <BuildingUnassign>Batalkan penetapan</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Untuk tahanan</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Apakah tempat tidur di ruangan ini harus digunakan oleh tahanan.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Hanya tempat tidur di ruang tertutup yang bisa ditetapkan untuk tahanan.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Medis</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Apakah tempat tidur ini untuk penggunaan medis.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Mengaktifkan mode tahanan mempengaruhi seluruh ruangan (karena tahanan dan kolonis tidak bisa tidur di ruangan yang sama).\n\nOrang-orang ini akan kehilangan kepemilikan tempat tidur mereka:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Menonaktifkan mode tahanan mempengaruhi seluruh ruangan (karena tahanan dan kolonis tidak bisa tidur di ruangan yang sama).\n\nOrang-orang ini akan kehilangan kepemilikan tempat tidur mereka:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Apakah Anda yakin ingin melakukan ini?</AreYouSure>
 
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Detonasi</CommandDetonateLabel>
+  <CommandDetonateDesc>Mulai hitungan mundur untuk detonasi.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Ganti nama</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Ganti nama zona ini.</CommandRenameZoneDesc>
 
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Sembunyikan</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Tampilkan</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Sembunyikan/tampilkan zona ini.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Hapus</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Hapus zona ini.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Salin pengaturan</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Salin pengaturan zona ini ke clipboard sehingga Anda bisa menempelkannya ke zona lain.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Tempel pengaturan</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Timpa pengaturan zona ini dengan yang sebelumnya disalin ke clipboard.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSow>Izinkan menanam</CommandAllowSow>
+  <CommandAllowSowDesc>Jika dinonaktifkan, kolonis tidak akan pernah menanam tanaman di zona ini. Mereka masih akan memanen.</CommandAllowSowDesc>
 
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
-  <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
-  <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
-  <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
-  <CommandStopAttackFailNotForceAttacking>Not currently force-attacking.</CommandStopAttackFailNotForceAttacking>
-  <CommandExtractShell>Extract shell</CommandExtractShell>
-  <CommandExtractShellDesc>Unloads the current shell so it can be replaced with different ammunition.</CommandExtractShellDesc>
-  <MessageTargetBeyondMaximumRange>Target beyond maximum range.</MessageTargetBeyondMaximumRange>
-  <MessageTargetBelowMinimumRange>Target below minimum range.</MessageTargetBelowMinimumRange>
-  <MessageTurretWontFireBecauseHoldFire>Warning: The mortar won't fire because it's set to "Hold fire".</MessageTurretWontFireBecauseHoldFire>
+  <CommandSetForceAttackTarget>Tetapkan target paksa</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Tetapkan target yang harus diserang oleh turret ini secara terus-menerus selama bisa.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Hentikan serangan paksa</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Hentikan serangan paksa dan biarkan turret menembak sesuka hati.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Tidak sedang melakukan serangan paksa.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Ekstrak peluru</CommandExtractShell>
+  <CommandExtractShellDesc>Keluarkan peluru saat ini sehingga bisa diganti dengan amunisi yang berbeda.</CommandExtractShellDesc>
+  <MessageTargetBeyondMaximumRange>Target di luar jangkauan maksimum.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Target di bawah jangkauan minimum.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Peringatan: Mortir tidak akan menembak karena diatur ke "Tahan tembakan".</MessageTurretWontFireBecauseHoldFire>
 
   <!-- Ship computer core -->
-  <CommandShipLaunch>Launch ship</CommandShipLaunch>
-  <CommandShipLaunchDesc>Start the ship launch sequence with the current configuration.</CommandShipLaunchDesc>
-  <CommandShipLaunchReport>Show launch report</CommandShipLaunchReport>
-  <CommandShipLaunchReportDesc>Show a readiness report about the ship's launch capability.</CommandShipLaunchReportDesc>
-  <CommandShipStartup>Start ship</CommandShipStartup>
-  <CommandShipStartupDesc>Wake up hibernating ship components.</CommandShipStartupDesc>
+  <CommandShipLaunch>Luncurkan kapal</CommandShipLaunch>
+  <CommandShipLaunchDesc>Mulai urutan peluncuran kapal dengan konfigurasi saat ini.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Tampilkan laporan peluncuran</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Tampilkan laporan kesiapan tentang kemampuan peluncuran kapal.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Mulai kapal</CommandShipStartup>
+  <CommandShipStartupDesc>Bangunkan komponen kapal yang sedang hibernasi.</CommandShipStartupDesc>
 
   <!-- Pod -->
-  <CommandPodEject>Eject sleeper</CommandPodEject>
-  <CommandPodEjectDesc>Wake up the cryptosleeper and eject them.</CommandPodEjectDesc>
-  <CommandPodEjectFailEmpty>Contains nobody.</CommandPodEjectFailEmpty>
+  <CommandPodEject>Keluarkan tidur kripto</CommandPodEject>
+  <CommandPodEjectDesc>Bangunkan tidur kripto dan keluarkan mereka.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Tidak ada siapa-siapa.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
-  <CommandToggleDoorForbid>Passage forbidden</CommandToggleDoorForbid>
-  <CommandToggleDoorForbidDesc>When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door.</CommandToggleDoorForbidDesc>
-  <CommandToggleDoorHoldOpen>Hold open</CommandToggleDoorHoldOpen>
-  <CommandToggleDoorHoldOpenDesc>When active, your colonists will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorForbid>Larangan masuk</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Jika pintu dilarang, kolonis dan sekutu tidak akan melewatinya. Ini tidak mempengaruhi bagaimana musuh atau hewan berinteraksi dengan pintu.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Tahan terbuka</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Jika aktif, kolonis Anda tidak akan menutup pintu setelah melewatinya.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
-  <CommandResetTemp>Reset</CommandResetTemp>
-  <CommandResetTempDesc>Reset the target temperature to room temperature.</CommandResetTempDesc>
-  <CommandRaiseTempDesc>Raise the target temperature.</CommandRaiseTempDesc>
-  <CommandLowerTempDesc>Lower the target temperature.</CommandLowerTempDesc>
+  <CommandResetTemp>Atur ulang</CommandResetTemp>
+  <CommandResetTempDesc>Atur ulang suhu target ke suhu ruangan.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Tingkatkan suhu target.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Turunkan suhu target.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
-  <CommandInstall>Install</CommandInstall>
-  <CommandInstallDesc>This item is currently packaged up for storage and transport. Use this command to install this item in a final location.</CommandInstallDesc>
-  <CommandReinstall>Reinstall at...</CommandReinstall>
-  <CommandReinstallDesc>Designate this item to be uninstalled and reinstalled somewhere else.</CommandReinstallDesc>
+  <CommandInstall>Pasang</CommandInstall>
+  <CommandInstallDesc>Benda ini saat ini dikemas untuk penyimpanan dan transportasi. Gunakan perintah ini untuk memasang benda ini di lokasi akhir.</CommandInstallDesc>
+  <CommandReinstall>Pasang ulang di...</CommandReinstall>
+  <CommandReinstallDesc>Tetapkan benda ini untuk dibongkar dan dipasang ulang di tempat lain.</CommandReinstallDesc>
 
   <!-- Trade beacon -->
-  <CommandMakeBeaconStockpileDesc>Create a stockpile around this building exactly matching the shape of the beacon's launch radius.</CommandMakeBeaconStockpileDesc>
-  <CommandMakeBeaconStockpileLabel>Create stockpile</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileDesc>Buat tumpukan stok di sekitar bangunan ini yang sesuai dengan bentuk radius peluncuran beacon.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Buat tumpukan stok</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
-  <CommandSunLampMakeGrowingZoneDesc>Create a growing zone around this building exactly matching the shape of the lamp's light radius.</CommandSunLampMakeGrowingZoneDesc>
-  <CommandSunLampMakeGrowingZoneLabel>Create growing zone</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneDesc>Buat zona tanam di sekitar bangunan ini yang sesuai dengan bentuk radius cahaya lampu.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Buat zona tanam</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
-  <CommandAutoRearm>Auto Rearm</CommandAutoRearm>
-  <CommandAutoRearmDesc>If this is on, this trap will automatically be replaced after it springs.</CommandAutoRearmDesc>
+  <CommandAutoRearm>Pasang ulang otomatis</CommandAutoRearm>
+  <CommandAutoRearmDesc>Jika ini aktif, jebakan ini akan otomatis diganti setelah terpicu.</CommandAutoRearmDesc>
 
   <!-- Animal control -->
-  <CommandReleaseAnimalsLabel>Release animals</CommandReleaseAnimalsLabel>
-  <CommandReleaseAnimalsDesc>While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master.</CommandReleaseAnimalsDesc>
-  <CommandReleaseAnimalsFail_NoAnimals>No animals available.</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsLabel>Lepaskan hewan</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Jika ini aktif, hewan yang dikuasai akan dikirim untuk menyerang target yang jauh. Jika dinonaktifkan, mereka akan tetap dekat dan menjaga tuannya.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsFail_NoAnimals>Tidak ada hewan yang tersedia.</CommandReleaseAnimalsFail_NoAnimals>
 
   <!-- Squad attack -->
-  <CommandSquadAttack>Attack</CommandSquadAttack>
-  <CommandSquadAttackDesc>Order selected colonists to attack designated target.</CommandSquadAttackDesc>
+  <CommandSquadAttack>Serang</CommandSquadAttack>
+  <CommandSquadAttackDesc>Perintahkan kolonis yang dipilih untuk menyerang target yang ditentukan.</CommandSquadAttackDesc>
 
   <!-- Melee attack -->
-  <CommandMeleeAttack>Melee attack</CommandMeleeAttack>
-  <CommandMeleeAttackDesc>Order selected colonists to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
+  <CommandMeleeAttack>Serangan jarak dekat</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Perintahkan kolonis yang dipilih untuk menyerang target yang ditentukan menggunakan hanya tinju dan senjata jarak dekat.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
-  <CommandHoldFire>Hold fire</CommandHoldFire>
-  <CommandHoldFireDesc>End any ongoing attacks.</CommandHoldFireDesc>
+  <CommandHoldFire>Tahan tembakan</CommandHoldFire>
+  <CommandHoldFireDesc>Akhiri serangan yang sedang berlangsung.</CommandHoldFireDesc>
 
   <!-- Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Select plant to grow</CommandSelectPlantToGrowMulti>
-  <CommandSelectPlantToGrow>Plant: {0}</CommandSelectPlantToGrow>
-  <CommandSelectPlantToGrowDesc>Determine which plant should be sown here.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowMulti>Pilih tanaman untuk ditanam</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Tanaman: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Tentukan tanaman mana yang harus ditanam di sini.</CommandSelectPlantToGrowDesc>
 
   <!-- Select mineral to scan for (long-range mineral scanner) -->
-  <CommandSelectMineralToScanFor>Tuned to</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Disetel ke</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
-  <CommandBuildCopy>Build copy</CommandBuildCopy>
-  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
+  <CommandBuildCopy>Bangun salinan</CommandBuildCopy>
+  <CommandBuildCopyDesc>Bangun salinan bangunan ini.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
-  <CommandFormCaravan>Form caravan</CommandFormCaravan>
-  <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
+  <CommandFormCaravan>Bentuk karavan</CommandFormCaravan>
+  <CommandFormCaravanDesc>Bentuk kelompok kolonis yang mampu melakukan perjalanan ke area baru. Kolonis akan mengumpulkan semua persediaan yang ditugaskan dan hewan yang menyertainya, meninggalkan area saat ini, dan menunggu perintah lebih lanjut.</CommandFormCaravanDesc>
 
   <!-- Reform caravan -->
-  <CommandReformCaravan>Reform caravan</CommandReformCaravan>
-  <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
-  <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravan>Bentuk ulang karavan</CommandReformCaravan>
+  <CommandReformCaravanDesc>Bentuk ulang kelompok kolonis. Kolonis akan meninggalkan area saat ini dan menunggu perintah lebih lanjut.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Masih ada beberapa musuh di area ini.</CommandReformCaravanFailHostilePawns>
 
   <!-- Split caravan -->
-  <CommandSplitCaravan>Split</CommandSplitCaravan>
-  <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
+  <CommandSplitCaravan>Pisahkan</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Pisahkan karavan ini menjadi dua. Karavan dapat digabungkan kembali menjadi satu selama mereka berdekatan satu sama lain.</CommandSplitCaravanDesc>
 
   <!-- Merge caravan -->
-  <CommandMergeCaravans>Merge</CommandMergeCaravans>
-  <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
-  <CommandMergeCaravansFailCaravansNotSelected>Select all caravans which should be merged. The caravans must be close to each other.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravans>Gabungkan</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Gabungkan karavan yang dipilih.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Pilih semua karavan yang harus digabungkan. Karavan harus berdekatan satu sama lain.</CommandMergeCaravansFailCaravansNotSelected>
 
   <!-- Settle -->
-  <CommandSettle>Settle</CommandSettle>
-  <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
-  <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
-  <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
-  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
-  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
+  <CommandSettle>Menetap</CommandSettle>
+  <CommandSettleDesc>Menetap di area ini. Kolonis Anda akan memasuki area ini dan Anda akan dapat mulai membangun rumah baru.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Faksi Anda hanya bisa memiliki satu basis.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Mencapai jumlah koloni maksimum.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Tidak ada siapa pun di sana untuk mengklaim area tersebut.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Ada musuh di area ini.</CommandSettleFailEnemies>
 
   <!-- Abandon home -->
-  <CommandAbandonHome>Abandon</CommandAbandonHome>
-  <CommandAbandonHomeDesc>Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
-  <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHome>Tinggalkan</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Tinggalkan area ini. Area tersebut akan menjadi tidak dapat diakses dan Anda tidak akan dapat kembali ke sini lagi. Setelah meninggalkan rumah Anda, Anda akan dapat memerintahkan salah satu karavan Anda untuk menetap di area baru.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Semua kolonis Anda ada di sana.</CommandAbandonHomeFailAllColonistsThere>
 
   <!-- Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Cancel forming caravan</CommandCancelFormingCaravan>
-  <CommandCancelFormingCaravanDesc>Terminate the caravan formation process.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravan>Batalkan pembentukan karavan</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Batalkan proses pembentukan karavan.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
-  <CommandRemoveFromCaravan>Remove from caravan</CommandRemoveFromCaravan>
-  <CommandRemoveFromCaravanDesc>Remove this person or animal from the caravan.</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravan>Hapus dari karavan</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>Hapus orang atau hewan ini dari karavan.</CommandRemoveFromCaravanDesc>
 
   <!-- Add to caravan -->
-  <CommandAddToCaravan>Add to caravan</CommandAddToCaravan>
-  <CommandAddToCaravanDesc>Add this person or animal to the forming caravan.</CommandAddToCaravanDesc>
+  <CommandAddToCaravan>Tambahkan ke karavan</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>Tambahkan orang atau hewan ini ke karavan yang sedang dibentuk.</CommandAddToCaravanDesc>
 
   <!-- Show map -->
-  <CommandShowMap>Zoom in</CommandShowMap>
-  <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
+  <CommandShowMap>Perbesar</CommandShowMap>
+  <CommandShowMapDesc>Perbesar area ini.</CommandShowMapDesc>
 
   <!-- Trade -->
-  <CommandTrade>Trade</CommandTrade>
-  <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
-  <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
+  <CommandTrade>Perdagangan</CommandTrade>
+  <CommandTradeDesc>Perdagangan dengan faksi ini.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Tidak ada negosiator yang sadar dan mampu.</CommandTradeFailNoNegotiator>
 
   <!-- Offer gifts -->
-  <CommandOfferGifts>Offer gifts</CommandOfferGifts>
-  <CommandOfferGiftsDesc>Offer gifts to this faction.</CommandOfferGiftsDesc>
+  <CommandOfferGifts>Tawarkan hadiah</CommandOfferGifts>
+  <CommandOfferGiftsDesc>Tawarkan hadiah kepada faksi ini.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
-  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
-  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
-  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
-  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOffer>Penuhi tawaran perdagangan</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Penuhi permintaan barang dari pemukiman dan klaim hadiah Anda.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Karavan Anda harus memiliki {0} untuk memenuhi tawaran perdagangan ini.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>Tawarkan {0} untuk {1}?</CommandFulfillTradeOfferConfirm>
 
   <!-- Take off -->
-  <CommandTakeOff>Take off</CommandTakeOff>
-  <CommandTakeOffDesc>Get on board the ship and escape the planet.</CommandTakeOffDesc>
-  <CommandTakeOffConfirmation>Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind.</CommandTakeOffConfirmation>
+  <CommandTakeOff>Lepas landas</CommandTakeOff>
+  <CommandTakeOffDesc>Naik ke kapal dan melarikan diri dari planet ini.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Apakah Anda yakin ingin meluncurkan kapal?\n\nSemua orang di area ini akan melarikan diri dari planet ini. Semua orang lainnya akan tertinggal.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
-  <CommandSetTargetFuelLevel>Set target fuel level</CommandSetTargetFuelLevel>
-  <CommandSetTargetFuelLevelDesc>Set the target fuel level. Colonists will attempt to fill this up to the target fuel level.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevel>Tetapkan tingkat bahan bakar target</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Tetapkan tingkat bahan bakar target. Kolonis akan mencoba mengisi ini hingga tingkat bahan bakar target.</CommandSetTargetFuelLevelDesc>
 
   <!-- Cancel load -->
-  <CommandCancelLoad>Cancel load</CommandCancelLoad>
-  <CommandCancelLoadDesc>Cancel loading this with people or items and eject everything already loaded.</CommandCancelLoadDesc>
+  <CommandCancelLoad>Batalkan muatan</CommandCancelLoad>
+  <CommandCancelLoadDesc>Batalkan pemuatan ini dengan orang atau barang dan keluarkan semuanya yang sudah dimuat.</CommandCancelLoadDesc>
 
   <!-- Launch group -->
-  <CommandLaunchGroup>Launch group</CommandLaunchGroup>
-  <CommandLaunchGroupDesc>Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together.</CommandLaunchGroupDesc>
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Some transport pods in this loading group are not connected to a fueling port.</CommandLaunchGroupFailNotConnectedToFuelingPort>
-  <CommandLaunchGroupFailNoFuel>Some pod launchers in this group have no fuel.</CommandLaunchGroupFailNoFuel>
-  <CommandLaunchGroupFailUnderRoof>Some pod launchers are under a roof.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroup>Luncurkan grup</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Memulai proses penargetan untuk meluncurkan grup pod transportasi. Langkah berikutnya adalah memilih target. Pod akan terbang dan mendarat bersama.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Beberapa pod transportasi dalam grup pemuatan ini tidak terhubung ke port pengisian bahan bakar.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Beberapa peluncur pod dalam grup ini tidak memiliki bahan bakar.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Beberapa peluncur pod berada di bawah atap.</CommandLaunchGroupFailUnderRoof>
 
   <!-- Load transporter -->
-  <CommandLoadTransporter>Load launch group of {0}</CommandLoadTransporter>
-  <CommandLoadTransporterDesc>Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterDesc>
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
-  <CommandLoadTransporterFailNoFuel>The pod launcher has no fuel.</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporter>Muat grup peluncuran {0}</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Menetapkan transporter yang dipilih sebagai grup peluncuran. Membuka dialog pemuatan sehingga Anda bisa memutuskan siapa dan apa yang harus dimuat di dalamnya.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Pod transportasi tidak terhubung ke port pengisian bahan bakar.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Peluncur pod tidak memiliki bahan bakar.</CommandLoadTransporterFailNoFuel>
 
   <!-- Select previous transporter -->
-  <CommandSelectPreviousTransporter>Select previous in launch group</CommandSelectPreviousTransporter>
-  <CommandSelectPreviousTransporterDesc>Select previous transport pod in this launch group.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporter>Pilih sebelumnya dalam grup peluncuran</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Pilih pod transportasi sebelumnya dalam grup peluncuran ini.</CommandSelectPreviousTransporterDesc>
 
   <!-- Select all transporters -->
-  <CommandSelectAllTransporters>Select launch group</CommandSelectAllTransporters>
-  <CommandSelectAllTransportersDesc>Select all transport pods in this launch group.</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransporters>Pilih grup peluncuran</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Pilih semua pod transportasi dalam grup peluncuran ini.</CommandSelectAllTransportersDesc>
 
   <!-- Select next transporter -->
-  <CommandSelectNextTransporter>Select next in launch group</CommandSelectNextTransporter>
-  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporter>Pilih berikutnya dalam grup peluncuran</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Pilih pod transportasi berikutnya dalam grup peluncuran ini.</CommandSelectNextTransporterDesc>
 
   <!-- Vent -->
-  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
-  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentLabel>Tetapkan buka/tutup</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Tetapkan ventilasi ini untuk dibuka atau ditutup. Kolonis akan segera datang untuk melakukan tugas tersebut.</CommandDesignateOpenCloseVentDesc>
 
   <!-- Remove waypoint -->
-  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
-  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointLabel>Hapus</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Hapus titik jalan ini.</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
-  <CommandPauseCaravan>Rest</CommandPauseCaravan>
-  <CommandToggleCaravanPauseDesc>Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1}</CommandToggleCaravanPauseDesc>
+  <CommandPauseCaravan>Istirahat</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>Mulai istirahat. Ini memiliki manfaat berikut:\n\n  - Orang dapat berinteraksi secara sosial\n  - Mencari makanan {0} kali lebih cepat\n  - Visibilitas dikalikan dengan {1}</CommandToggleCaravanPauseDesc>
 
   <!-- Show sellable items -->
-  <CommandShowSellableItems>Show what will buy</CommandShowSellableItems>
-  <CommandShowSellableItemsDesc>Show everything this trader wants to buy.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItems>Tampilkan apa yang akan dibeli</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>Tampilkan semua yang ingin dibeli oleh pedagang ini.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
-  <CommandAttackSettlement>Attack</CommandAttackSettlement>
-  <CommandAttackSettlementDesc>Attack this settlement.</CommandAttackSettlementDesc>
+  <CommandAttackSettlement>Serang</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>Serang pemukiman ini.</CommandAttackSettlementDesc>
 
 </LanguageData>

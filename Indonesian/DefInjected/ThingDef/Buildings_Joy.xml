@@ -1,69 +1,68 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HorseshoesPin.label>horseshoes pin</HorseshoesPin.label>
-  <HorseshoesPin.description>A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills.</HorseshoesPin.description>
-  <HorseshoesPin_Blueprint.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint.label>
-  <HorseshoesPin_Blueprint_Install.label>horseshoes pin (blueprint)</HorseshoesPin_Blueprint_Install.label>
-  <HorseshoesPin_Frame.label>horseshoes pin (building)</HorseshoesPin_Frame.label>
-  <HorseshoesPin_Frame.description>A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills.</HorseshoesPin_Frame.description>
+  <HorseshoesPin.label>pasak tapal kuda</HorseshoesPin.label>
+  <HorseshoesPin.description>Permainan kuno sederhana yang dimainkan dengan tapal kuda dan pasak besar di tanah. Pemain melempar tapal kuda untuk mencoba mendaratkannya di pasak. Menenangkan, dan melatih kemampuan menembak.</HorseshoesPin.description>
+  <HorseshoesPin_Blueprint.label>pasak tapal kuda (cetak biru)</HorseshoesPin_Blueprint.label>
+  <HorseshoesPin_Blueprint_Install.label>pasak tapal kuda (cetak biru)</HorseshoesPin_Blueprint_Install.label>
+  <HorseshoesPin_Frame.label>pasak tapal kuda (bangunan)</HorseshoesPin_Frame.label>
+  <HorseshoesPin_Frame.description>Permainan kuno sederhana yang dimainkan dengan tapal kuda dan pasak besar di tanah. Pemain melempar tapal kuda untuk mencoba mendaratkannya di pasak. Menenangkan, dan melatih kemampuan menembak.</HorseshoesPin_Frame.description>
 
-  <HoopstoneRing.label>hoopstone ring</HoopstoneRing.label>
-  <HoopstoneRing.description>A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing.description>
-  <HoopstoneRing_Blueprint.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint.label>
-  <HoopstoneRing_Blueprint_Install.label>hoopstone ring (blueprint)</HoopstoneRing_Blueprint_Install.label>
-  <HoopstoneRing_Frame.label>hoopstone ring (building)</HoopstoneRing_Frame.label>
-  <HoopstoneRing_Frame.description>A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills.</HoopstoneRing_Frame.description>
+  <HoopstoneRing.label>cincin batu lempar</HoopstoneRing.label>
+  <HoopstoneRing.description>Permainan kuno sederhana yang dimainkan dengan batu dan cincin besar di tanah. Pemain mencoba melempar batu melewati cincin dari jarak jauh. Menenangkan, dan melatih kemampuan menembak.</HoopstoneRing.description>
+  <HoopstoneRing_Blueprint.label>cincin batu lempar (cetak biru)</HoopstoneRing_Blueprint.label>
+  <HoopstoneRing_Blueprint_Install.label>cincin batu lempar (cetak biru)</HoopstoneRing_Blueprint_Install.label>
+  <HoopstoneRing_Frame.label>cincin batu lempar (bangunan)</HoopstoneRing_Frame.label>
+  <HoopstoneRing_Frame.description>Permainan kuno sederhana yang dimainkan dengan batu dan cincin besar di tanah. Pemain mencoba melempar batu melewati cincin dari jarak jauh. Menenangkan, dan melatih kemampuan menembak.</HoopstoneRing_Frame.description>
 
-  <GameOfUrBoard.label>game-of-Ur board</GameOfUrBoard.label>
-  <GameOfUrBoard.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard.description>
-  <GameOfUrBoard_Blueprint.label>game-of-Ur board (blueprint)</GameOfUrBoard_Blueprint.label>
-  <GameOfUrBoard_Blueprint_Install.label>game-of-Ur board (blueprint)</GameOfUrBoard_Blueprint_Install.label>
-  <GameOfUrBoard_Frame.label>game-of-Ur board (building)</GameOfUrBoard_Frame.label>
-  <GameOfUrBoard_Frame.description>Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills.</GameOfUrBoard_Frame.description>
+  <GameOfUrBoard.label>papan permainan Ur</GameOfUrBoard.label>
+  <GameOfUrBoard.description>Berasal dari tahun 2500 SM, permainan papan yang menyenangkan sekaligus menjengkelkan ini bisa dimainkan oleh satu atau dua orang. Melatih kemampuan intelektual.</GameOfUrBoard.description>
+  <GameOfUrBoard_Blueprint.label>papan permainan Ur (cetak biru)</GameOfUrBoard_Blueprint.label>
+  <GameOfUrBoard_Blueprint_Install.label>papan permainan Ur (cetak biru)</GameOfUrBoard_Blueprint_Install.label>
+  <GameOfUrBoard_Frame.label>papan permainan Ur (bangunan)</GameOfUrBoard_Frame.label>
+  <GameOfUrBoard_Frame.description>Berasal dari tahun 2500 SM, permainan papan yang menyenangkan sekaligus menjengkelkan ini bisa dimainkan oleh satu atau dua orang. Melatih kemampuan intelektual.</GameOfUrBoard_Frame.description>
 
-  <ChessTable.label>chess table</ChessTable.label>
-  <ChessTable.description>The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.</ChessTable.description>
-  <ChessTable_Blueprint.label>chess table (blueprint)</ChessTable_Blueprint.label>
-  <ChessTable_Blueprint_Install.label>chess table (blueprint)</ChessTable_Blueprint_Install.label>
-  <ChessTable_Frame.label>chess table (building)</ChessTable_Frame.label>
-  <ChessTable_Frame.description>The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.</ChessTable_Frame.description>
+  <ChessTable.label>meja catur</ChessTable.label>
+  <ChessTable.description>Permainan kuno para raja. Menyenangkan untuk dimainkan beberapa jam, bahkan sendirian. Melatih kemampuan intelektual.</ChessTable.description>
+  <ChessTable_Blueprint.label>meja catur (cetak biru)</ChessTable_Blueprint.label>
+  <ChessTable_Blueprint_Install.label>meja catur (cetak biru)</ChessTable_Blueprint_Install.label>
+  <ChessTable_Frame.label>meja catur (bangunan)</ChessTable_Frame.label>
+  <ChessTable_Frame.description>Permainan kuno para raja. Menyenangkan untuk dimainkan beberapa jam, bahkan sendirian. Melatih kemampuan intelektual.</ChessTable_Frame.description>
 
-  <PokerTable.label>poker table</PokerTable.label>
-  <PokerTable.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable.description>
-  <PokerTable_Blueprint.label>poker table (blueprint)</PokerTable_Blueprint.label>
-  <PokerTable_Blueprint_Install.label>poker table (blueprint)</PokerTable_Blueprint_Install.label>
-  <PokerTable_Frame.label>poker table (building)</PokerTable_Frame.label>
-  <PokerTable_Frame.description>A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.</PokerTable_Frame.description>
+  <PokerTable.label>meja poker</PokerTable.label>
+  <PokerTable.description>Meja yang dirancang untuk bermain kartu judi seperti poker. Cara yang bagus untuk menguji kemampuan strategi dan sedikit keberuntungan.</PokerTable.description>
+  <PokerTable_Blueprint.label>meja poker (cetak biru)</PokerTable_Blueprint.label>
+  <PokerTable_Blueprint_Install.label>meja poker (cetak biru)</PokerTable_Blueprint_Install.label>
+  <PokerTable_Frame.label>meja poker (bangunan)</PokerTable_Frame.label>
+  <PokerTable_Frame.description>Meja yang dirancang untuk bermain kartu judi seperti poker. Cara yang bagus untuk menguji kemampuan strategi dan sedikit keberuntungan.</PokerTable_Frame.description>
 
-  <BilliardsTable.label>billiards table</BilliardsTable.label>
-  <BilliardsTable.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</BilliardsTable.description>
-  <BilliardsTable_Blueprint.label>billiards table (blueprint)</BilliardsTable_Blueprint.label>
-  <BilliardsTable_Blueprint_Install.label>billiards table (blueprint)</BilliardsTable_Blueprint_Install.label>
-  <BilliardsTable_Frame.label>billiards table (building)</BilliardsTable_Frame.label>
-  <BilliardsTable_Frame.description>A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability.</BilliardsTable_Frame.description>
+  <BilliardsTable.label>meja biliar</BilliardsTable.label>
+  <BilliardsTable.description>Meja berlapis lembut untuk bermain berbagai jenis permainan biliar. Melatih kemampuan menembak.</BilliardsTable.description>
+  <BilliardsTable_Blueprint.label>meja biliar (cetak biru)</BilliardsTable_Blueprint.label>
+  <BilliardsTable_Blueprint_Install.label>meja biliar (cetak biru)</BilliardsTable_Blueprint_Install.label>
+  <BilliardsTable_Frame.label>meja biliar (bangunan)</BilliardsTable_Frame.label>
+  <BilliardsTable_Frame.description>Meja berlapis lembut untuk bermain berbagai jenis permainan biliar. Melatih kemampuan menembak.</BilliardsTable_Frame.description>
 
-  <TubeTelevision.label>tube television</TubeTelevision.label>
-  <TubeTelevision.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
-  <TubeTelevision_Blueprint.label>tube television (blueprint)</TubeTelevision_Blueprint.label>
-  <TubeTelevision_Blueprint_Install.label>tube television (blueprint)</TubeTelevision_Blueprint_Install.label>
-  <TubeTelevision_Frame.label>tube television (building)</TubeTelevision_Frame.label>
-  <TubeTelevision_Frame.description>A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision_Frame.description>
+  <TubeTelevision.label>televisi tabung</TubeTelevision.label>
+  <TubeTelevision.description>Layar tabung sinar katoda untuk menampilkan gambar bergerak dengan suara. Bahkan di rimworlds, sering kali ada pemancar lama yang menayangkan sesuatu yang setidaknya sedikit menarik.</TubeTelevision.description>
+  <TubeTelevision_Blueprint.label>televisi tabung (cetak biru)</TubeTelevision_Blueprint.label>
+  <TubeTelevision_Blueprint_Install.label>televisi tabung (cetak biru)</TubeTelevision_Blueprint_Install.label>
+  <TubeTelevision_Frame.label>televisi tabung (bangunan)</TubeTelevision_Frame.label>
+  <TubeTelevision_Frame.description>Layar tabung sinar katoda untuk menampilkan gambar bergerak dengan suara. Bahkan di rimworlds, sering kali ada pemancar lama yang menayangkan sesuatu yang setidaknya sedikit menarik.</TubeTelevision_Frame.description>
 
-  <FlatscreenTelevision.label>flatscreen television</FlatscreenTelevision.label>
-  <FlatscreenTelevision.description>A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards.</FlatscreenTelevision.description>
-  <FlatscreenTelevision_Blueprint.label>flatscreen television (blueprint)</FlatscreenTelevision_Blueprint.label>
-  <FlatscreenTelevision_Blueprint_Install.label>flatscreen television (blueprint)</FlatscreenTelevision_Blueprint_Install.label>
-  <FlatscreenTelevision_Frame.label>flatscreen television (building)</FlatscreenTelevision_Frame.label>
-  <FlatscreenTelevision_Frame.description>A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards.</FlatscreenTelevision_Frame.description>
+  <FlatscreenTelevision.label>televisi layar datar</FlatscreenTelevision.label>
+  <FlatscreenTelevision.description>Televisi layar datar berteknologi tinggi dengan gambar yang sangat jernih dan warna yang kaya. Menangkap transmisi dari satelit kuno dan kartu data yang ada di mana-mana.</FlatscreenTelevision.description>
+  <FlatscreenTelevision_Blueprint.label>televisi layar datar (cetak biru)</FlatscreenTelevision_Blueprint.label>
+  <FlatscreenTelevision_Blueprint_Install.label>televisi layar datar (cetak biru)</FlatscreenTelevision_Blueprint_Install.label>
+  <FlatscreenTelevision_Frame.label>televisi layar datar (bangunan)</FlatscreenTelevision_Frame.label>
+  <FlatscreenTelevision_Frame.description>Televisi layar datar berteknologi tinggi dengan gambar yang sangat jernih dan warna yang kaya. Menangkap transmisi dari satelit kuno dan kartu data yang ada di mana-mana.</FlatscreenTelevision_Frame.description>
 
-  <MegascreenTelevision.label>megascreen television</MegascreenTelevision.label>
-  <MegascreenTelevision.description>A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards.</MegascreenTelevision.description>
-  <MegascreenTelevision_Blueprint_Install.label>megascreen television (blueprint)</MegascreenTelevision_Blueprint_Install.label>
+  <MegascreenTelevision.label>televisi layar besar</MegascreenTelevision.label>
+  <MegascreenTelevision.description>Televisi berteknologi tinggi yang sangat besar. Gambar yang sangat besar dan sangat hidup hampir melompat keluar dari layar. Sangat menghibur. Menangkap transmisi dari satelit kuno dan kartu data yang ada di mana-mana.</MegascreenTelevision.description>
+  <MegascreenTelevision_Blueprint_Install.label>televisi layar besar (cetak biru)</MegascreenTelevision_Blueprint_Install.label>
 
-  <Telescope.label>telescope</Telescope.label>
-  <Telescope.description>A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors.</Telescope.description>
-  <Telescope_Blueprint_Install.label>telescope (blueprint)</Telescope_Blueprint_Install.label>
-
+  <Telescope.label>teleskop</Telescope.label>
+  <Telescope.description>Teleskop untuk melakukan astronomi amatir. Hobi yang menenangkan bagi orang tertentu. Hanya bisa digunakan di luar ruangan.</Telescope.description>
+  <Telescope_Blueprint_Install.label>teleskop (cetak biru)</Telescope_Blueprint_Install.label>
 
 </LanguageData>

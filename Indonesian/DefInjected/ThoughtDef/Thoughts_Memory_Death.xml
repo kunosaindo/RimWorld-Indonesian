@@ -3,107 +3,106 @@
 
   <!-- executions and prisoner deaths -->
 
-  <KnowGuestExecuted.stages.0.label>justified execution</KnowGuestExecuted.stages.0.label>
-  <KnowGuestExecuted.stages.0.description>A guilty prisoner or guest was executed. It was justified, but still sad.</KnowGuestExecuted.stages.0.description>
-  <KnowGuestExecuted.stages.1.label>someone was euthanized</KnowGuestExecuted.stages.1.label>
-  <KnowGuestExecuted.stages.1.description>A prisoner or guest was euthanized. It was humane, but still sad.</KnowGuestExecuted.stages.1.description>
-  <KnowGuestExecuted.stages.2.label>someone was executed</KnowGuestExecuted.stages.2.label>
-  <KnowGuestExecuted.stages.2.description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</KnowGuestExecuted.stages.2.description>
-  <KnowGuestExecuted.stages.3.label>someone was organ-murdered</KnowGuestExecuted.stages.3.label>
-  <KnowGuestExecuted.stages.3.description>A prisoner or guest died because the colony took body parts from him. It's horrible.</KnowGuestExecuted.stages.3.description>
+  <KnowGuestExecuted.stages.0.label>eksekusi yang benar</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.0.description>Seorang tahanan atau tamu yang bersalah dieksekusi. Itu benar, tapi tetap menyedihkan.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.1.label>seseorang di eutanasia</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.1.description>Seorang tahanan atau tamu di eutanasia. Itu manusiawi, tapi tetap menyedihkan.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.2.label>seseorang dieksekusi</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.2.description>Seorang tahanan atau tamu dibunuh dengan darah dingin. Itu terlihat agak jahat.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.3.label>seseorang dibunuh untuk organnya</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.3.description>Seorang tahanan atau tamu meninggal karena koloni mengambil organ tubuhnya. Ini mengerikan.</KnowGuestExecuted.stages.3.description>
 
-  <KnowColonistExecuted.stages.0.label>justified execution of colonist</KnowColonistExecuted.stages.0.label>
-  <KnowColonistExecuted.stages.0.description>A guilty colonist was executed. It was justified, but still sad.</KnowColonistExecuted.stages.0.description>
-  <KnowColonistExecuted.stages.1.label>colonist euthanized</KnowColonistExecuted.stages.1.label>
-  <KnowColonistExecuted.stages.1.description>A colonist was euthanized. It was humane, but still sad.</KnowColonistExecuted.stages.1.description>
-  <KnowColonistExecuted.stages.2.label>colonist executed</KnowColonistExecuted.stages.2.label>
-  <KnowColonistExecuted.stages.2.description>A colonist was killed in cold blood. It seemed a bit evil.</KnowColonistExecuted.stages.2.description>
-  <KnowColonistExecuted.stages.3.label>colonist organ-harvested</KnowColonistExecuted.stages.3.label>
-  <KnowColonistExecuted.stages.3.description>A colonist died because someone took body parts from him. It's horrible.</KnowColonistExecuted.stages.3.description>
+  <KnowColonistExecuted.stages.0.label>eksekusi kolonis yang benar</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>Seorang kolonis yang bersalah dieksekusi. Itu benar, tapi tetap menyedihkan.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.1.label>kolonis di eutanasia</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.1.description>Seorang kolonis di eutanasia. Itu manusiawi, tapi tetap menyedihkan.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.2.label>kolonis dieksekusi</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.2.description>Seorang kolonis dibunuh dengan darah dingin. Itu terlihat agak jahat.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.3.label>organ kolonis dipanen</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.3.description>Seorang kolonis meninggal karena seseorang mengambil organ tubuhnya. Ini mengerikan.</KnowColonistExecuted.stages.3.description>
 
-  <KnowPrisonerDiedInnocent.stages.0.label>innocent prisoner died</KnowPrisonerDiedInnocent.stages.0.label>
-  <KnowPrisonerDiedInnocent.stages.0.description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</KnowPrisonerDiedInnocent.stages.0.description>
+  <KnowPrisonerDiedInnocent.stages.0.label>tahanan tidak bersalah meninggal</KnowPrisonerDiedInnocent.stages.0.label>
+  <KnowPrisonerDiedInnocent.stages.0.description>Salah satu tahanan kami meninggal padahal tidak berbahaya. Kita seharusnya bisa menjaga tahanan. Kalau memang ingin mereka mati, setidaknya bisa melakukan eksekusi yang teratur daripada membiarkan kebiadaban ini.</KnowPrisonerDiedInnocent.stages.0.description>
 
-  <KnowColonistDied.stages.0.label>colonist died</KnowColonistDied.stages.0.label>
-  <KnowColonistDied.stages.0.description>One of our people died. We should be able to take care of our people.</KnowColonistDied.stages.0.description>
+  <KnowColonistDied.stages.0.label>kolonis meninggal</KnowColonistDied.stages.0.label>
+  <KnowColonistDied.stages.0.description>Salah satu dari kami meninggal. Kita seharusnya bisa menjaga orang-orang kita.</KnowColonistDied.stages.0.description>
 
 
   <!-- bonded animal died -->
 
-  <BondedAnimalDied.stages.0.label>bonded animal {0} died</BondedAnimalDied.stages.0.label>
-  <BondedAnimalDied.stages.0.description>Such a tender, unique animal. This universe is evil!</BondedAnimalDied.stages.0.description>
+  <BondedAnimalDied.stages.0.label>hewan terikat {0} meninggal</BondedAnimalDied.stages.0.label>
+  <BondedAnimalDied.stages.0.description>Hewan yang begitu lembut dan unik. Dunia ini kejam!</BondedAnimalDied.stages.0.description>
 
 
   <!-- friend/rival died -->
 
-  <PawnWithGoodOpinionDied.stages.0.label>my friend {0} died</PawnWithGoodOpinionDied.stages.0.label>
-  <PawnWithGoodOpinionDied.stages.0.description>Such a wonderful person, gone forever. The universe gets darker every day.</PawnWithGoodOpinionDied.stages.0.description>
+  <PawnWithGoodOpinionDied.stages.0.label>temanku {0} meninggal</PawnWithGoodOpinionDied.stages.0.label>
+  <PawnWithGoodOpinionDied.stages.0.description>Orang yang begitu baik, pergi selamanya. Dunia semakin gelap setiap hari.</PawnWithGoodOpinionDied.stages.0.description>
 
-  <PawnWithBadOpinionDied.stages.0.label>my rival {0} died</PawnWithBadOpinionDied.stages.0.label>
-  <PawnWithBadOpinionDied.stages.0.description>Serves them right. At least there's some justice in this world.</PawnWithBadOpinionDied.stages.0.description>
+  <PawnWithBadOpinionDied.stages.0.label>rivalku {0} meninggal</PawnWithBadOpinionDied.stages.0.label>
+  <PawnWithBadOpinionDied.stages.0.description>Pantas untuk mereka. Setidaknya masih ada keadilan di dunia ini.</PawnWithBadOpinionDied.stages.0.description>
 
 
   <!-- Family member died thoughts -->
 
-  <MySonDied.stages.0.label>my son {0} died</MySonDied.stages.0.label>
-  <MySonDied.stages.0.description>My son is dead. My own flesh and blood...</MySonDied.stages.0.description>
+  <MySonDied.stages.0.label>putraku {0} meninggal</MySonDied.stages.0.label>
+  <MySonDied.stages.0.description>Putraku meninggal. Darah dagingku sendiri...</MySonDied.stages.0.description>
 
-  <MyDaughterDied.stages.0.label>my daughter {0} died</MyDaughterDied.stages.0.label>
-  <MyDaughterDied.stages.0.description>My daughter is dead. My own flesh and blood...</MyDaughterDied.stages.0.description>
+  <MyDaughterDied.stages.0.label>putriku {0} meninggal</MyDaughterDied.stages.0.label>
+  <MyDaughterDied.stages.0.description>Putriku meninggal. Darah dagingku sendiri...</MyDaughterDied.stages.0.description>
 
-  <MyHusbandDied.stages.0.label>my husband {0} died</MyHusbandDied.stages.0.label>
-  <MyHusbandDied.stages.0.description>My husband is dead. I am alone.</MyHusbandDied.stages.0.description>
+  <MyHusbandDied.stages.0.label>suamiku {0} meninggal</MyHusbandDied.stages.0.label>
+  <MyHusbandDied.stages.0.description>Suamiku meninggal. Aku sendirian sekarang.</MyHusbandDied.stages.0.description>
 
-  <MyWifeDied.stages.0.label>my wife {0} died</MyWifeDied.stages.0.label>
-  <MyWifeDied.stages.0.description>My wife is dead. I am alone.</MyWifeDied.stages.0.description>
+  <MyWifeDied.stages.0.label>istriku {0} meninggal</MyWifeDied.stages.0.label>
+  <MyWifeDied.stages.0.description>Istriku meninggal. Aku sendirian sekarang.</MyWifeDied.stages.0.description>
 
-  <MyFianceDied.stages.0.label>my fiance {0} died</MyFianceDied.stages.0.label>
-  <MyFianceDied.stages.0.description>My fiance died. Such a man... my future is gone.</MyFianceDied.stages.0.description>
+  <MyFianceDied.stages.0.label>tunanganku (laki-laki) {0} meninggal</MyFianceDied.stages.0.label>
+  <MyFianceDied.stages.0.description>Tunanganku meninggal. Pria seperti itu... masa depanku hilang.</MyFianceDied.stages.0.description>
 
-  <MyFianceeDied.stages.0.label>my fiancée {0} died</MyFianceeDied.stages.0.label>
-  <MyFianceeDied.stages.0.description>My fiancée died. Such a woman... my future is gone.</MyFianceeDied.stages.0.description>
+  <MyFianceeDied.stages.0.label>tunanganku (perempuan) {0} meninggal</MyFianceeDied.stages.0.label>
+  <MyFianceeDied.stages.0.description>Tunanganku meninggal. Wanita seperti itu... masa depanku hilang.</MyFianceeDied.stages.0.description>
 
-  <MyLoverDied.stages.0.label>my lover {0} died</MyLoverDied.stages.0.label>
-  <MyLoverDied.stages.0.description>My lover died. I am so alone.</MyLoverDied.stages.0.description>
+  <MyLoverDied.stages.0.label>kekasihku {0} meninggal</MyLoverDied.stages.0.label>
+  <MyLoverDied.stages.0.description>Kekasihku meninggal. Aku sangat kesepian.</MyLoverDied.stages.0.description>
 
-  <MyBrotherDied.stages.0.label>my brother {0} died</MyBrotherDied.stages.0.label>
-  <MyBrotherDied.stages.0.description>My brother died. My own flesh and blood...</MyBrotherDied.stages.0.description>
+  <MyBrotherDied.stages.0.label>saudaraku (laki-laki) {0} meninggal</MyBrotherDied.stages.0.label>
+  <MyBrotherDied.stages.0.description>Saudaraku meninggal. Darah dagingku sendiri...</MyBrotherDied.stages.0.description>
 
-  <MySisterDied.stages.0.label>my sister {0} died</MySisterDied.stages.0.label>
-  <MySisterDied.stages.0.description>My sister died. My own flesh and blood...</MySisterDied.stages.0.description>
+  <MySisterDied.stages.0.label>saudaraku (perempuan) {0} meninggal</MySisterDied.stages.0.label>
+  <MySisterDied.stages.0.description>Saudaraku meninggal. Darah dagingku sendiri...</MySisterDied.stages.0.description>
 
-  <MyGrandchildDied.stages.0.label>my grandchild {0} died</MyGrandchildDied.stages.0.label>
-  <MyGrandchildDied.stages.0.description>My grandchild died. My own flesh and blood...</MyGrandchildDied.stages.0.description>
+  <MyGrandchildDied.stages.0.label>cucuku {0} meninggal</MyGrandchildDied.stages.0.label>
+  <MyGrandchildDied.stages.0.description>Cucuku meninggal. Darah dagingku sendiri...</MyGrandchildDied.stages.0.description>
 
-  <MyFatherDied.stages.0.label>my father {0} died</MyFatherDied.stages.0.label>
-  <MyFatherDied.stages.0.description>My father died. He's gone forever.</MyFatherDied.stages.0.description>
+  <MyFatherDied.stages.0.label>ayahku {0} meninggal</MyFatherDied.stages.0.label>
+  <MyFatherDied.stages.0.description>Ayahku meninggal. Dia telah pergi selamanya.</MyFatherDied.stages.0.description>
 
-  <MyMotherDied.stages.0.label>my mother {0} died</MyMotherDied.stages.0.label>
-  <MyMotherDied.stages.0.description>My mother died. She's gone forever.</MyMotherDied.stages.0.description>
+  <MyMotherDied.stages.0.label>ibuku {0} meninggal</MyMotherDied.stages.0.label>
+  <MyMotherDied.stages.0.description>Ibuku meninggal. Dia telah pergi selamanya.</MyMotherDied.stages.0.description>
 
-  <MyNieceDied.stages.0.label>my niece {0} died</MyNieceDied.stages.0.label>
-  <MyNieceDied.stages.0.description>My niece died. Such a wonderful child.</MyNieceDied.stages.0.description>
+  <MyNieceDied.stages.0.label>keponakanku (perempuan) {0} meninggal</MyNieceDied.stages.0.label>
+  <MyNieceDied.stages.0.description>Keponakanku meninggal. Dia anak yang sangat baik.</MyNieceDied.stages.0.description>
 
-  <MyNephewDied.stages.0.label>my nephew {0} died</MyNephewDied.stages.0.label>
-  <MyNephewDied.stages.0.description>My nephew died. Such a wonderful child.</MyNephewDied.stages.0.description>
+  <MyNephewDied.stages.0.label>keponakanku (laki-laki) {0} meninggal</MyNephewDied.stages.0.label>
+  <MyNephewDied.stages.0.description>Keponakanku meninggal. Dia anak yang sangat baik.</MyNephewDied.stages.0.description>
 
-  <MyHalfSiblingDied.stages.0.label>my half-sibling {0} died</MyHalfSiblingDied.stages.0.label>
-  <MyHalfSiblingDied.stages.0.description>My half-sibling died. My own flesh and blood...</MyHalfSiblingDied.stages.0.description>
+  <MyHalfSiblingDied.stages.0.label>saudara tiriku {0} meninggal</MyHalfSiblingDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.description>Saudara tiriku meninggal. Darah dagingku sendiri...</MyHalfSiblingDied.stages.0.description>
 
-  <MyAuntDied.stages.0.label>my aunt {0} died</MyAuntDied.stages.0.label>
-  <MyAuntDied.stages.0.description>My aunt died.</MyAuntDied.stages.0.description>
+  <MyAuntDied.stages.0.label>bibiku {0} meninggal</MyAuntDied.stages.0.label>
+  <MyAuntDied.stages.0.description>Bibiku meninggal.</MyAuntDied.stages.0.description>
 
-  <MyUncleDied.stages.0.label>my uncle {0} died</MyUncleDied.stages.0.label>
-  <MyUncleDied.stages.0.description>My uncle died.</MyUncleDied.stages.0.description>
+  <MyUncleDied.stages.0.label>pamanku {0} meninggal</MyUncleDied.stages.0.label>
+  <MyUncleDied.stages.0.description>Pamanku meninggal.</MyUncleDied.stages.0.description>
 
-  <MyGrandparentDied.stages.0.label>my grandparent {0} died</MyGrandparentDied.stages.0.label>
-  <MyGrandparentDied.stages.0.description>My grandparent died.</MyGrandparentDied.stages.0.description>
+  <MyGrandparentDied.stages.0.label>kakek/nenekku {0} meninggal</MyGrandparentDied.stages.0.label>
+  <MyGrandparentDied.stages.0.description>Kakek/nenekku meninggal.</MyGrandparentDied.stages.0.description>
 
-  <MyCousinDied.stages.0.label>my cousin {0} died</MyCousinDied.stages.0.label>
-  <MyCousinDied.stages.0.description>My cousin died. My own flesh and blood...</MyCousinDied.stages.0.description>
+  <MyCousinDied.stages.0.label>sepupuku {0} meninggal</MyCousinDied.stages.0.label>
+  <MyCousinDied.stages.0.description>Sepupuku meninggal. Darah dagingku sendiri...</MyCousinDied.stages.0.description>
 
-  <MyKinDied.stages.0.label>my kin {0} died</MyKinDied.stages.0.label>
-  <MyKinDied.stages.0.description>My kin died.</MyKinDied.stages.0.description>
-
+  <MyKinDied.stages.0.label>kerabatku {0} meninggal</MyKinDied.stages.0.label>
+  <MyKinDied.stages.0.description>Kerabatku meninggal.</MyKinDied.stages.0.description>
 
 </LanguageData>

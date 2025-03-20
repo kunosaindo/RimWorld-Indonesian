@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Outpost.label>outpost</Outpost.label>
-  <Outpost.description>A small, guarded outpost.</Outpost.description>
-  <Outpost.descriptionDialogue>there is an enemy outpost at the site guarded by {0} enemies</Outpost.descriptionDialogue>
-
+  <Outpost.label>pos terdepan</Outpost.label>
+  <Outpost.description>Sebuah pos terdepan kecil yang dijaga.</Outpost.description>
+  <Outpost.descriptionDialogue>ada pos terdepan musuh di lokasi yang dijaga oleh {0} musuh</Outpost.descriptionDialogue>
 
 </LanguageData>

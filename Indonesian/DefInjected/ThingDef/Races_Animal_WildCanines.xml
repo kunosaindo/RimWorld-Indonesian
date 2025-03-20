@@ -4,92 +4,92 @@
   <!-- Warg -->
 
   <Warg.label>warg</Warg.label>
-  <Warg.description>Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god.</Warg.description>
-  <Warg.tools.0.label>left claw</Warg.tools.0.label>
-  <Warg.tools.1.label>right claw</Warg.tools.1.label>
-  <Warg.tools.2.label>razorfangs</Warg.tools.2.label>
-  <Warg.tools.3.label>head</Warg.tools.3.label>
-  <Warg_Leather.label>warg leather</Warg_Leather.label>
-  <Warg_Leather.description>warg leather</Warg_Leather.description>
-  <Warg_Leather.stuffProps.stuffAdjective>warg leather</Warg_Leather.stuffProps.stuffAdjective>
-  <Warg_Meat.label>warg meat</Warg_Meat.label>
-  <Warg_Meat.description>warg meat</Warg_Meat.description>
-  <Warg_Corpse.label>warg corpse</Warg_Corpse.label>
-  <Warg_Corpse.description>warg corpse</Warg_Corpse.description>
+  <Warg.description>Makhluk berotot seperti serigala dengan cakar ganas tidak alami dan gigitan yang sangat kuat. Mereka hanya akan memakan daging atau mayat. Jika terganggu di alam liar, mereka sangat mungkin menyerang.\n\nPara ilmuwan mengatakan warg adalah keturunan hewan militer yang direkayasa untuk penekanan populasi. Yang percaya takhayul melihat mereka sebagai alat dewa yang marah.</Warg.description>
+  <Warg.tools.0.label>cakar kiri</Warg.tools.0.label>
+  <Warg.tools.1.label>cakar kanan</Warg.tools.1.label>
+  <Warg.tools.2.label>taring tajam</Warg.tools.2.label>
+  <Warg.tools.3.label>kepala</Warg.tools.3.label>
+  <Warg_Leather.label>kulit warg</Warg_Leather.label>
+  <Warg_Leather.description>kulit warg</Warg_Leather.description>
+  <Warg_Leather.stuffProps.stuffAdjective>kulit warg</Warg_Leather.stuffProps.stuffAdjective>
+  <Warg_Meat.label>daging warg</Warg_Meat.label>
+  <Warg_Meat.description>daging warg</Warg_Meat.description>
+  <Warg_Corpse.label>bangkai warg</Warg_Corpse.label>
+  <Warg_Corpse.description>bangkai warg</Warg_Corpse.description>
 
 
   <!-- Wolves -->
 
-  <Wolf_Timber.label>timber wolf</Wolf_Timber.label>
-  <Wolf_Timber.description>A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent.</Wolf_Timber.description>
-  <Wolf_Timber.tools.0.label>left claw</Wolf_Timber.tools.0.label>
-  <Wolf_Timber.tools.1.label>right claw</Wolf_Timber.tools.1.label>
-  <Wolf_Timber.tools.3.label>head</Wolf_Timber.tools.3.label>
-  <Wolf_Timber_Leather.label>timber wolf leather</Wolf_Timber_Leather.label>
-  <Wolf_Timber_Leather.description>timber wolf leather</Wolf_Timber_Leather.description>
-  <Wolf_Timber_Leather.stuffProps.stuffAdjective>timber wolf leather</Wolf_Timber_Leather.stuffProps.stuffAdjective>
-  <Wolf_Timber_Meat.label>wolfmeat</Wolf_Timber_Meat.label>
-  <Wolf_Timber_Meat.description>wolfmeat</Wolf_Timber_Meat.description>
-  <Wolf_Timber_Corpse.label>timber wolf corpse</Wolf_Timber_Corpse.label>
-  <Wolf_Timber_Corpse.description>timber wolf corpse</Wolf_Timber_Corpse.description>
+  <Wolf_Timber.label>serigala kayu</Wolf_Timber.label>
+  <Wolf_Timber.description>Predator tangguh yang lama ditakuti oleh banyak budaya Bumi kuno. Sebagai pemburu kawanan, serigala memiliki kehidupan sosial yang kompleks dan sangat cerdas.</Wolf_Timber.description>
+  <Wolf_Timber.tools.0.label>cakar kiri</Wolf_Timber.tools.0.label>
+  <Wolf_Timber.tools.1.label>cakar kanan</Wolf_Timber.tools.1.label>
+  <Wolf_Timber.tools.3.label>kepala</Wolf_Timber.tools.3.label>
+  <Wolf_Timber_Leather.label>kulit serigala kayu</Wolf_Timber_Leather.label>
+  <Wolf_Timber_Leather.description>kulit serigala kayu</Wolf_Timber_Leather.description>
+  <Wolf_Timber_Leather.stuffProps.stuffAdjective>kulit serigala kayu</Wolf_Timber_Leather.stuffProps.stuffAdjective>
+  <Wolf_Timber_Meat.label>daging serigala</Wolf_Timber_Meat.label>
+  <Wolf_Timber_Meat.description>daging serigala</Wolf_Timber_Meat.description>
+  <Wolf_Timber_Corpse.label>bangkai serigala kayu</Wolf_Timber_Corpse.label>
+  <Wolf_Timber_Corpse.description>bangkai serigala kayu</Wolf_Timber_Corpse.description>
 
-  <Wolf_Arctic.label>arctic wolf</Wolf_Arctic.label>
-  <Wolf_Arctic.description>An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent.</Wolf_Arctic.description>
-  <Wolf_Arctic.tools.0.label>left claw</Wolf_Arctic.tools.0.label>
-  <Wolf_Arctic.tools.1.label>right claw</Wolf_Arctic.tools.1.label>
-  <Wolf_Arctic.tools.3.label>head</Wolf_Arctic.tools.3.label>
-  <Wolf_Arctic_Leather.label>arctic wolf leather</Wolf_Arctic_Leather.label>
-  <Wolf_Arctic_Leather.description>arctic wolf leather</Wolf_Arctic_Leather.description>
-  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>arctic wolf leather</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
+  <Wolf_Arctic.label>serigala arktik</Wolf_Arctic.label>
+  <Wolf_Arctic.description>Varian arktik dari serigala Bumi kuno. Sebagai pemburu kawanan, serigala memiliki kehidupan sosial yang kompleks dan sangat cerdas.</Wolf_Arctic.description>
+  <Wolf_Arctic.tools.0.label>cakar kiri</Wolf_Arctic.tools.0.label>
+  <Wolf_Arctic.tools.1.label>cakar kanan</Wolf_Arctic.tools.1.label>
+  <Wolf_Arctic.tools.3.label>kepala</Wolf_Arctic.tools.3.label>
+  <Wolf_Arctic_Leather.label>kulit serigala arktik</Wolf_Arctic_Leather.label>
+  <Wolf_Arctic_Leather.description>kulit serigala arktik</Wolf_Arctic_Leather.description>
+  <Wolf_Arctic_Leather.stuffProps.stuffAdjective>kulit serigala arktik</Wolf_Arctic_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Wolf_Timber -->
-  <Wolf_Arctic_Corpse.label>arctic wolf corpse</Wolf_Arctic_Corpse.label>
-  <Wolf_Arctic_Corpse.description>arctic wolf corpse</Wolf_Arctic_Corpse.description>
+  <Wolf_Arctic_Corpse.label>bangkai serigala arktik</Wolf_Arctic_Corpse.label>
+  <Wolf_Arctic_Corpse.description>bangkai serigala arktik</Wolf_Arctic_Corpse.description>
 
 
   <!-- Fox fennec -->
 
-  <Fox_Fennec.label>fennec fox</Fox_Fennec.label>
-  <Fox_Fennec.description>A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat.</Fox_Fennec.description>
-  <Fox_Fennec.tools.0.label>left claw</Fox_Fennec.tools.0.label>
-  <Fox_Fennec.tools.1.label>right claw</Fox_Fennec.tools.1.label>
-  <Fox_Fennec.tools.3.label>head</Fox_Fennec.tools.3.label>
-  <Fox_Fennec_Leather.label>fennec fox leather</Fox_Fennec_Leather.label>
-  <Fox_Fennec_Leather.description>fennec fox leather</Fox_Fennec_Leather.description>
-  <Fox_Fennec_Leather.stuffProps.stuffAdjective>fennec fox leather</Fox_Fennec_Leather.stuffProps.stuffAdjective>
-  <Fox_Fennec_Meat.label>foxmeat</Fox_Fennec_Meat.label>
-  <Fox_Fennec_Meat.description>foxmeat</Fox_Fennec_Meat.description>
-  <Fox_Fennec_Corpse.label>fennec fox corpse</Fox_Fennec_Corpse.label>
-  <Fox_Fennec_Corpse.description>fennec fox corpse</Fox_Fennec_Corpse.description>
+  <Fox_Fennec.label>rubah fennec</Fox_Fennec.label>
+  <Fox_Fennec.description>Rubah kecil yang berasal dari bagian utara benua Afrika Bumi. Berburu makhluk kecil dan memiliki telinga sangat besar untuk mendinginkan diri dalam panas.</Fox_Fennec.description>
+  <Fox_Fennec.tools.0.label>cakar kiri</Fox_Fennec.tools.0.label>
+  <Fox_Fennec.tools.1.label>cakar kanan</Fox_Fennec.tools.1.label>
+  <Fox_Fennec.tools.3.label>kepala</Fox_Fennec.tools.3.label>
+  <Fox_Fennec_Leather.label>kulit rubah fennec</Fox_Fennec_Leather.label>
+  <Fox_Fennec_Leather.description>kulit rubah fennec</Fox_Fennec_Leather.description>
+  <Fox_Fennec_Leather.stuffProps.stuffAdjective>kulit rubah fennec</Fox_Fennec_Leather.stuffProps.stuffAdjective>
+  <Fox_Fennec_Meat.label>daging rubah</Fox_Fennec_Meat.label>
+  <Fox_Fennec_Meat.description>daging rubah</Fox_Fennec_Meat.description>
+  <Fox_Fennec_Corpse.label>bangkai rubah fennec</Fox_Fennec_Corpse.label>
+  <Fox_Fennec_Corpse.description>bangkai rubah fennec</Fox_Fennec_Corpse.description>
 
 
   <!-- Fox red -->
 
-  <Fox_Red.label>red fox</Fox_Red.label>
-  <Fox_Red.description>A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes.</Fox_Red.description>
-  <Fox_Red.tools.0.label>left claw</Fox_Red.tools.0.label>
-  <Fox_Red.tools.1.label>right claw</Fox_Red.tools.1.label>
-  <Fox_Red.tools.3.label>head</Fox_Red.tools.3.label>
-  <Fox_Red_Leather.label>red fox leather</Fox_Red_Leather.label>
-  <Fox_Red_Leather.description>red fox leather</Fox_Red_Leather.description>
-  <Fox_Red_Leather.stuffProps.stuffAdjective>red fox leather</Fox_Red_Leather.stuffProps.stuffAdjective>
+  <Fox_Red.label>rubah merah</Fox_Red.label>
+  <Fox_Red.description>Anjing liar kecil yang berevolusi untuk berburu mangsa kecil di iklim sedang. Peternak ayam membenci rubah karena kemampuan mereka menghancurkan seluruh kandang dalam hitungan menit.</Fox_Red.description>
+  <Fox_Red.tools.0.label>cakar kiri</Fox_Red.tools.0.label>
+  <Fox_Red.tools.1.label>cakar kanan</Fox_Red.tools.1.label>
+  <Fox_Red.tools.3.label>kepala</Fox_Red.tools.3.label>
+  <Fox_Red_Leather.label>kulit rubah merah</Fox_Red_Leather.label>
+  <Fox_Red_Leather.description>kulit rubah merah</Fox_Red_Leather.description>
+  <Fox_Red_Leather.stuffProps.stuffAdjective>kulit rubah merah</Fox_Red_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Fox_Fennec -->
-  <Fox_Red_Corpse.label>red fox corpse</Fox_Red_Corpse.label>
-  <Fox_Red_Corpse.description>red fox corpse</Fox_Red_Corpse.description>
+  <Fox_Red_Corpse.label>bangkai rubah merah</Fox_Red_Corpse.label>
+  <Fox_Red_Corpse.description>bangkai rubah merah</Fox_Red_Corpse.description>
 
 
   <!-- Fox arctic -->
 
-  <Fox_Arctic.label>arctic fox</Fox_Arctic.label>
-  <Fox_Arctic.description>A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey.</Fox_Arctic.description>
-  <Fox_Arctic.tools.0.label>left claw</Fox_Arctic.tools.0.label>
-  <Fox_Arctic.tools.1.label>right claw</Fox_Arctic.tools.1.label>
-  <Fox_Arctic.tools.3.label>head</Fox_Arctic.tools.3.label>
-  <Fox_Arctic_Leather.label>arctic fox leather</Fox_Arctic_Leather.label>
-  <Fox_Arctic_Leather.description>arctic fox leather</Fox_Arctic_Leather.description>
-  <Fox_Arctic_Leather.stuffProps.stuffAdjective>arctic fox leather</Fox_Arctic_Leather.stuffProps.stuffAdjective>
+  <Fox_Arctic.label>rubah arktik</Fox_Arctic.label>
+  <Fox_Arctic.description>Predator kecil yang beradaptasi dengan iklim dingin. Biasanya berburu hewan kecil seperti tikus dan tikus tanah, terkadang menggali melalui salju setebal satu meter untuk mencapai mangsanya.</Fox_Arctic.description>
+  <Fox_Arctic.tools.0.label>cakar kiri</Fox_Arctic.tools.0.label>
+  <Fox_Arctic.tools.1.label>cakar kanan</Fox_Arctic.tools.1.label>
+  <Fox_Arctic.tools.3.label>kepala</Fox_Arctic.tools.3.label>
+  <Fox_Arctic_Leather.label>kulit rubah arktik</Fox_Arctic_Leather.label>
+  <Fox_Arctic_Leather.description>kulit rubah arktik</Fox_Arctic_Leather.description>
+  <Fox_Arctic_Leather.stuffProps.stuffAdjective>kulit rubah arktik</Fox_Arctic_Leather.stuffProps.stuffAdjective>
   <!-- Use Meat From: Fox_Fennec -->
-  <Fox_Arctic_Corpse.label>arctic fox corpse</Fox_Arctic_Corpse.label>
-  <Fox_Arctic_Corpse.description>arctic fox corpse</Fox_Arctic_Corpse.description>
+  <Fox_Arctic_Corpse.label>bangkai rubah arktik</Fox_Arctic_Corpse.label>
+  <Fox_Arctic_Corpse.description>bangkai rubah arktik</Fox_Arctic_Corpse.description>
 
 
 </LanguageData>

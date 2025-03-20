@@ -1,22 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_Mace.label>mace</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts.</MeleeWeapon_Mace.description>
-  <MeleeWeapon_Mace.tools.0.label>handle</MeleeWeapon_Mace.tools.0.label>
-  <MeleeWeapon_Mace.tools.1.label>head</MeleeWeapon_Mace.tools.1.label>
+  <MeleeWeapon_Mace.label>gada</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.description>Pentungan yang disempurnakan, dirancang untuk ayunan efisien dan dampak mematikan.</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.tools.0.label>gagang</MeleeWeapon_Mace.tools.0.label>
+  <MeleeWeapon_Mace.tools.1.label>kepala</MeleeWeapon_Mace.tools.1.label>
 
   <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
-  <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons.</MeleeWeapon_Gladius.description>
-  <MeleeWeapon_Gladius.tools.0.label>handle</MeleeWeapon_Gladius.tools.0.label>
-  <MeleeWeapon_Gladius.tools.1.label>point</MeleeWeapon_Gladius.tools.1.label>
-  <MeleeWeapon_Gladius.tools.2.label>edge</MeleeWeapon_Gladius.tools.2.label>
+  <MeleeWeapon_Gladius.description>Pedang pendek dengan desain kuno. Bagus untuk menusuk atau menebas. Ringan dan lincah, terkadang bisa mengalahkan senjata yang lebih besar dan berat.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.tools.0.label>gagang</MeleeWeapon_Gladius.tools.0.label>
+  <MeleeWeapon_Gladius.tools.1.label>ujung</MeleeWeapon_Gladius.tools.1.label>
+  <MeleeWeapon_Gladius.tools.2.label>mata</MeleeWeapon_Gladius.tools.2.label>
 
-  <MeleeWeapon_LongSword.label>longsword</MeleeWeapon_LongSword.label>
-  <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing.</MeleeWeapon_LongSword.description>
-  <MeleeWeapon_LongSword.tools.0.label>handle</MeleeWeapon_LongSword.tools.0.label>
-  <MeleeWeapon_LongSword.tools.1.label>point</MeleeWeapon_LongSword.tools.1.label>
-  <MeleeWeapon_LongSword.tools.2.label>edge</MeleeWeapon_LongSword.tools.2.label>
-
+  <MeleeWeapon_LongSword.label>pedang panjang</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>Senjata kuno para raja, pedang panjang bisa digunakan untuk menebas atau menusuk.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.tools.0.label>gagang</MeleeWeapon_LongSword.tools.0.label>
+  <MeleeWeapon_LongSword.tools.1.label>ujung</MeleeWeapon_LongSword.tools.1.label>
+  <MeleeWeapon_LongSword.tools.2.label>mata</MeleeWeapon_LongSword.tools.2.label>
 
 </LanguageData>

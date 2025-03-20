@@ -1,40 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TalelessImages.rulePack.rulesStrings.0>image->a solitary [Character] [desc_pawn]</TalelessImages.rulePack.rulesStrings.0>
-  <TalelessImages.rulePack.rulesStrings.1>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</TalelessImages.rulePack.rulesStrings.1>
-  <TalelessImages.rulePack.rulesStrings.2>image->a solitary [Character] [desc_pawn] near a [Community]</TalelessImages.rulePack.rulesStrings.2>
-  <TalelessImages.rulePack.rulesStrings.3>image->a [Character] [desc_pawn] surrounded by [Character]s</TalelessImages.rulePack.rulesStrings.3>
-  <TalelessImages.rulePack.rulesStrings.4>image->[Character]s playing [Game]</TalelessImages.rulePack.rulesStrings.4>
-  <TalelessImages.rulePack.rulesStrings.5>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</TalelessImages.rulePack.rulesStrings.5>
-  <TalelessImages.rulePack.rulesStrings.6>image->a [Character] [desc_pawn] holding a [Weapon]</TalelessImages.rulePack.rulesStrings.6>
-  <TalelessImages.rulePack.rulesStrings.7>image->a [Character] [desc_pawn] eating a [Vegetable]</TalelessImages.rulePack.rulesStrings.7>
-  <TalelessImages.rulePack.rulesStrings.8>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</TalelessImages.rulePack.rulesStrings.8>
-  <TalelessImages.rulePack.rulesStrings.9>image->the minor celebrity [NamePerson] [desc_pawn]</TalelessImages.rulePack.rulesStrings.9>
-  <TalelessImages.rulePack.rulesStrings.10>image->a [Character] wearing a [Apparel] [desc_pawn]</TalelessImages.rulePack.rulesStrings.10>
-  <TalelessImages.rulePack.rulesStrings.11>image->a [Community]</TalelessImages.rulePack.rulesStrings.11>
-  <TalelessImages.rulePack.rulesStrings.12>image->a [TerrainFeature]</TalelessImages.rulePack.rulesStrings.12>
-  <TalelessImages.rulePack.rulesStrings.13>image->a [Weapon]</TalelessImages.rulePack.rulesStrings.13>
-  <TalelessImages.rulePack.rulesStrings.14>image->a [TreeType] tree</TalelessImages.rulePack.rulesStrings.14>
-  <TalelessImages.rulePack.rulesStrings.15>image->a [NaturalObject]</TalelessImages.rulePack.rulesStrings.15>
+  <TalelessImages.rulePack.rulesStrings.0>image->seorang [Character] [desc_pawn] yang menyendiri</TalelessImages.rulePack.rulesStrings.0>
+  <TalelessImages.rulePack.rulesStrings.1>image->seorang [Character] [desc_pawn] yang menyendiri di dekat [TerrainFeature]</TalelessImages.rulePack.rulesStrings.1>
+  <TalelessImages.rulePack.rulesStrings.2>image->seorang [Character] [desc_pawn] yang menyendiri di dekat [Community]</TalelessImages.rulePack.rulesStrings.2>
+  <TalelessImages.rulePack.rulesStrings.3>image->seorang [Character] [desc_pawn] yang dikelilingi oleh [Character]s</TalelessImages.rulePack.rulesStrings.3>
+  <TalelessImages.rulePack.rulesStrings.4>image->[Character]s bermain [Game]</TalelessImages.rulePack.rulesStrings.4>
+  <TalelessImages.rulePack.rulesStrings.5>image->seorang [Character] [desc_pawn] bermain [Game] dengan [Quantity_adjphrase] [Character]s</TalelessImages.rulePack.rulesStrings.5>
+  <TalelessImages.rulePack.rulesStrings.6>image->seorang [Character] [desc_pawn] memegang [Weapon]</TalelessImages.rulePack.rulesStrings.6>
+  <TalelessImages.rulePack.rulesStrings.7>image->seorang [Character] [desc_pawn] memakan [Vegetable]</TalelessImages.rulePack.rulesStrings.7>
+  <TalelessImages.rulePack.rulesStrings.8>image->[Quantity_adjphrase] [PersonJob]s dan [PersonJob]s makan [Vegetable]s bersama</TalelessImages.rulePack.rulesStrings.8>
+  <TalelessImages.rulePack.rulesStrings.9>image->selebriti kecil [NamePerson] [desc_pawn]</TalelessImages.rulePack.rulesStrings.9>
+  <TalelessImages.rulePack.rulesStrings.10>image->seorang [Character] mengenakan [Apparel] [desc_pawn]</TalelessImages.rulePack.rulesStrings.10>
+  <TalelessImages.rulePack.rulesStrings.11>image->sebuah [Community]</TalelessImages.rulePack.rulesStrings.11>
+  <TalelessImages.rulePack.rulesStrings.12>image->sebuah [TerrainFeature]</TalelessImages.rulePack.rulesStrings.12>
+  <TalelessImages.rulePack.rulesStrings.13>image->sebuah [Weapon]</TalelessImages.rulePack.rulesStrings.13>
+  <TalelessImages.rulePack.rulesStrings.14>image->pohon [TreeType]</TalelessImages.rulePack.rulesStrings.14>
+  <TalelessImages.rulePack.rulesStrings.15>image->sebuah [NaturalObject]</TalelessImages.rulePack.rulesStrings.15>
   <TalelessImages.rulePack.rulesStrings.16>image->[Quantity_adjphrase] [Weapon]s</TalelessImages.rulePack.rulesStrings.16>
   <TalelessImages.rulePack.rulesStrings.17>image->[Quantity_adjphrase] [Vegetable]s</TalelessImages.rulePack.rulesStrings.17>
-  <TalelessImages.rulePack.rulesStrings.18>image->an empty [Apparel]</TalelessImages.rulePack.rulesStrings.18>
-  <TalelessImages.rulePack.rulesStrings.19>image->a [Shape]</TalelessImages.rulePack.rulesStrings.19>
-  <TalelessImages.rulePack.rulesStrings.20>image->a [Shape] surrounded by [Shape]s</TalelessImages.rulePack.rulesStrings.20>
-  <TalelessImages.rulePack.rulesStrings.21>image->an abstracted rendering of [ConceptAny]</TalelessImages.rulePack.rulesStrings.21>
-  <TalelessImages.rulePack.rulesStrings.22>image->a [AdjectiveAny] abstract shape</TalelessImages.rulePack.rulesStrings.22>
+  <TalelessImages.rulePack.rulesStrings.18>image->sebuah [Apparel] kosong</TalelessImages.rulePack.rulesStrings.18>
+  <TalelessImages.rulePack.rulesStrings.19>image->sebuah [Shape]</TalelessImages.rulePack.rulesStrings.19>
+  <TalelessImages.rulePack.rulesStrings.20>image->sebuah [Shape] yang dikelilingi oleh [Shape]s</TalelessImages.rulePack.rulesStrings.20>
+  <TalelessImages.rulePack.rulesStrings.21>image->rendering abstrak dari [ConceptAny]</TalelessImages.rulePack.rulesStrings.21>
+  <TalelessImages.rulePack.rulesStrings.22>image->bentuk abstrak [AdjectiveAny]</TalelessImages.rulePack.rulesStrings.22>
   <TalelessImages.rulePack.rulesStrings.23>desc_pawn(p=12)-></TalelessImages.rulePack.rulesStrings.23>
-  <TalelessImages.rulePack.rulesStrings.24>desc_pawn->flying through the air</TalelessImages.rulePack.rulesStrings.24>
-  <TalelessImages.rulePack.rulesStrings.25>desc_pawn->suspended in the air</TalelessImages.rulePack.rulesStrings.25>
-  <TalelessImages.rulePack.rulesStrings.26>desc_pawn->moving to the left</TalelessImages.rulePack.rulesStrings.26>
-  <TalelessImages.rulePack.rulesStrings.27>desc_pawn->moving to the right</TalelessImages.rulePack.rulesStrings.27>
-  <TalelessImages.rulePack.rulesStrings.28>desc_pawn->sitting on a table</TalelessImages.rulePack.rulesStrings.28>
-  <TalelessImages.rulePack.rulesStrings.29>desc_pawn->seen through a looking glass</TalelessImages.rulePack.rulesStrings.29>
-  <TalelessImages.rulePack.rulesStrings.30>desc_pawn->rendered in silhouette</TalelessImages.rulePack.rulesStrings.30>
-  <TalelessImages.rulePack.rulesStrings.31>desc_pawn->riding on a [Animal] wearing a [Apparel]</TalelessImages.rulePack.rulesStrings.31>
-  <TalelessImages.rulePack.rulesStrings.32>desc_pawn->looking [AdjectiveAny]</TalelessImages.rulePack.rulesStrings.32>
-  <TalelessImages.rulePack.rulesStrings.33>desc_pawn->covered in [Gore]</TalelessImages.rulePack.rulesStrings.33>
-
+  <TalelessImages.rulePack.rulesStrings.24>desc_pawn->terbang di udara</TalelessImages.rulePack.rulesStrings.24>
+  <TalelessImages.rulePack.rulesStrings.25>desc_pawn->tergantung di udara</TalelessImages.rulePack.rulesStrings.25>
+  <TalelessImages.rulePack.rulesStrings.26>desc_pawn->bergerak ke kiri</TalelessImages.rulePack.rulesStrings.26>
+  <TalelessImages.rulePack.rulesStrings.27>desc_pawn->bergerak ke kanan</TalelessImages.rulePack.rulesStrings.27>
+  <TalelessImages.rulePack.rulesStrings.28>desc_pawn->duduk di atas meja</TalelessImages.rulePack.rulesStrings.28>
+  <TalelessImages.rulePack.rulesStrings.29>desc_pawn->terlihat melalui kaca pembesar</TalelessImages.rulePack.rulesStrings.29>
+  <TalelessImages.rulePack.rulesStrings.30>desc_pawn->dirender dalam siluet</TalelessImages.rulePack.rulesStrings.30>
+  <TalelessImages.rulePack.rulesStrings.31>desc_pawn->menunggangi [Animal] mengenakan [Apparel]</TalelessImages.rulePack.rulesStrings.31>
+  <TalelessImages.rulePack.rulesStrings.32>desc_pawn->terlihat [AdjectiveAny]</TalelessImages.rulePack.rulesStrings.32>
+  <TalelessImages.rulePack.rulesStrings.33>desc_pawn->berlumuran [Gore]</TalelessImages.rulePack.rulesStrings.33>
 
 </LanguageData>

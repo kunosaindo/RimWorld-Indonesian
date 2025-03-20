@@ -3,38 +3,37 @@
 
   <!-- Anesthetize -->
 
-  <Anesthetize.label>anesthetize</Anesthetize.label>
-  <Anesthetize.description>Render a creature unconscious by administering general anesthetic.</Anesthetize.description>
-  <Anesthetize.jobString>Anesthetizing.</Anesthetize.jobString>
+  <Anesthetize.label>bius</Anesthetize.label>
+  <Anesthetize.description>Membuat makhluk tidak sadarkan diri dengan memberikan anestesi umum.</Anesthetize.description>
+  <Anesthetize.jobString>Membius.</Anesthetize.jobString>
 
 
   <!-- Euthanasia -->
 
-  <Euthanize.label>euthanize by cut</Euthanize.label>
-  <Euthanize.description>Euthanize a creature by cutting.</Euthanize.description>
-  <Euthanize.jobString>Euthanizing by cutting.</Euthanize.jobString>
+  <Euthanize.label>euthanasia dengan memotong</Euthanize.label>
+  <Euthanize.description>Melakukan euthanasia pada makhluk dengan memotong.</Euthanize.description>
+  <Euthanize.jobString>Melakukan euthanasia dengan memotong.</Euthanize.jobString>
 
 
   <!-- removing hediffs (e.g. diseases) -->
 
-  <ExciseCarcinoma.label>excise carcinoma</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>Excise a carcinoma.</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>Excising carcinoma.</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} has successfully excised {1}'s carcinoma.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.label>memotong carcinoma</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>Memotong carcinoma.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>Memotong carcinoma.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} telah berhasil memotong carcinoma {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
 
 
   <!-- removing body parts -->
 
-  <RemoveBodyPart.label>remove part</RemoveBodyPart.label>
-  <RemoveBodyPart.description>Remove a body part.</RemoveBodyPart.description>
-  <RemoveBodyPart.jobString>Removing body part.</RemoveBodyPart.jobString>
+  <RemoveBodyPart.label>membuang bagian tubuh</RemoveBodyPart.label>
+  <RemoveBodyPart.description>Membuang bagian tubuh.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>Membuang bagian tubuh.</RemoveBodyPart.jobString>
 
 
   <!-- special administer -->
 
-  <AdministerMechSerumHealer.label>administer healer mech serum</AdministerMechSerumHealer.label>
-  <AdministerMechSerumHealer.description>Administer a healer mech serum.</AdministerMechSerumHealer.description>
-  <AdministerMechSerumHealer.jobString>Administering healer mech serum.</AdministerMechSerumHealer.jobString>
-
+  <AdministerMechSerumHealer.label>memberikan serum mech penyembuh</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>Memberikan serum mech penyembuh.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>Memberikan serum mech penyembuh.</AdministerMechSerumHealer.jobString>
 
 </LanguageData>

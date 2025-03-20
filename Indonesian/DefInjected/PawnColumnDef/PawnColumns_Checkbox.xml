@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Slaughter.headerTip>Slaughter</Slaughter.headerTip>
-  <FollowDrafted.headerTip>Follow master while the master is drafted.</FollowDrafted.headerTip>
-  <FollowFieldwork.headerTip>Follow master while the master is doing field work (hunting or taming animals).</FollowFieldwork.headerTip>
-  <Hunt.headerTip>Mark animals to be hunted by your hunters.</Hunt.headerTip>
-  <Tame.headerTip>Tame a wild animal.</Tame.headerTip>
-
+  <Slaughter.headerTip>Penyembelihan</Slaughter.headerTip>
+  <FollowDrafted.headerTip>Ikuti tuan saat tuan sedang dikerahkan.</FollowDrafted.headerTip>
+  <FollowFieldwork.headerTip>Ikuti tuan saat tuan sedang melakukan kerja lapangan (berburu atau menjinakkan hewan).</FollowFieldwork.headerTip>
+  <Hunt.headerTip>Tandai hewan yang akan diburu oleh para pemburu Anda.</Hunt.headerTip>
+  <Tame.headerTip>Jinakkan hewan liar.</Tame.headerTip>
 
 </LanguageData>

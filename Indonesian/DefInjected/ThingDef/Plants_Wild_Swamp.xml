@@ -3,15 +3,22 @@
 
   <Plant_TreeWillow.label>willow tree</Plant_TreeWillow.label>
   <Plant_TreeWillow.description>One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood.</Plant_TreeWillow.description>
+  <Plant_TreeWillow.label>pohon willow</Plant_TreeWillow.label>
+  <Plant_TreeWillow.description>Salah satu pohon rindang yang tumbuh paling cepat. Willow menyediakan kanopi daun yang indah. Sayangnya tidak menghasilkan banyak kayu yang bisa dipakai.</Plant_TreeWillow.description>
 
   <Plant_TreeCypress.label>cypress tree</Plant_TreeCypress.label>
   <Plant_TreeCypress.description>A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood.</Plant_TreeCypress.description>
+  <Plant_TreeCypress.label>pohon cypress</Plant_TreeCypress.label>
+  <Plant_TreeCypress.description>Pohon berdaun jarum tinggi yang sering ditemukan di rawa-rawa. Meskipun pertumbuhannya lambat, menanam pohon ini bisa menguntungkan sebagai investasi jangka panjang yang tidak memerlukan banyak usaha karena menghasilkan banyak kayu yang bisa dipakai.</Plant_TreeCypress.description>
 
   <Plant_TreeMaple.label>maple tree</Plant_TreeMaple.label>
   <Plant_TreeMaple.description>A common medium-sized tree, easily identifiable by its distinct three-pointed leaf.</Plant_TreeMaple.description>
+  <Plant_TreeMaple.label>pohon maple</Plant_TreeMaple.label>
+  <Plant_TreeMaple.description>Pohon berukuran sedang yang umum dijumpai, mudah dikenali dari daunnya yang khas berbentuk tiga ujung.</Plant_TreeMaple.description>
 
   <Plant_Chokevine.label>chokevine</Plant_Chokevine.label>
   <Plant_Chokevine.description>Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark.</Plant_Chokevine.description>
-
+  <Plant_Chokevine.label>tanaman jerat</Plant_Chokevine.label>
+  <Plant_Chokevine.description>Tanaman merambat berduri yang tumbuh bergerombol di tanah. Tanaman jerat sangat memperlambat siapa pun yang berjalan di atasnya. Banyak suku yang secara terpisah memiliki cerita tentang tanaman jerat yang mencekik anak-anak sampai mati di malam hari, sebagai cara menakut-nakuti anak-anak agar pulang sebelum gelap.</Plant_Chokevine.description>
 
 </LanguageData>

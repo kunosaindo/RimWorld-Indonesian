@@ -1,11 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.label>sabuk perisai</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>Alat penangkis proyektil. Akan mencoba menghentikan proyektil atau pecahan yang masuk, tapi tidak berguna melawan serangan jarak dekat atau panas. Mencegah pemakainya menembak keluar, dan langsung mati jika terkena EMP.</Apparel_ShieldBelt.description>
 
-  <Apparel_SmokepopBelt.label>smokepop belt</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on.</Apparel_SmokepopBelt.description>
-
+  <Apparel_SmokepopBelt.label>sabuk asap</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>Alat pertahanan otomatis sekali pakai yang mengeluarkan asap. Jika pemakainya terkena proyektil, akan melepaskan awan asap yang mengaburkan tembakan masuk dan mencegah turret mengunci sasaran.</Apparel_SmokepopBelt.description>
 
 </LanguageData>

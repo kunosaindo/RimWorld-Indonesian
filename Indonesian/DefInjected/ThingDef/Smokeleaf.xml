@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SmokeleafJoint.label>smokeleaf joint</SmokeleafJoint.label>
-  <SmokeleafJoint.description>Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures.</SmokeleafJoint.description>
-  <SmokeleafJoint.ingestible.ingestCommandString>Smoke {0}</SmokeleafJoint.ingestible.ingestCommandString>
-  <SmokeleafJoint.ingestible.ingestReportString>Smoking {0}.</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.label>rokok daun asap</SmokeleafJoint.label>
+  <SmokeleafJoint.description>Daun asap yang disiapkan dalam gulungan kecil untuk dihisap. Obat ini meningkatkan suasana hati, tetapi juga meningkatkan nafsu makan, mengurangi fokus dan memperlambat gerakan. Penggunaan daun asap dapat menghasilkan ketergantungan.\n\nRokok daun asap dapat dibuat di tempat kerajinan tanpa peralatan, dan merupakan perlengkapan tetap dalam banyak budaya tradisional berproduktivitas rendah.</SmokeleafJoint.description>
+  <SmokeleafJoint.ingestible.ingestCommandString>Hisap {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestReportString>Menghisap {0}.</SmokeleafJoint.ingestible.ingestReportString>
 
 
 </LanguageData>

@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Implants -->
+  <!-- Implan -->
 
-  <Joywire.label>joywire</Joywire.label>
-  <Joywire.labelNoun>a joywire</Joywire.labelNoun>
+  <Joywire.label>kawat kegembiraan</Joywire.label>
+  <Joywire.labelNoun>sebuah kawat kegembiraan</Joywire.labelNoun>
 
-  <Painstopper.label>painstopper</Painstopper.label>
-  <Painstopper.labelNoun>a painstopper</Painstopper.labelNoun>
-
+  <Painstopper.label>penghenti rasa sakit</Painstopper.label>
+  <Painstopper.labelNoun>sebuah penghenti rasa sakit</Painstopper.labelNoun>
 
 </LanguageData>

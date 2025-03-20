@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BurnedTree.label>burned tree</BurnedTree.label>
-  <BurnedTree.description>A burned tree stump. It's ugly and yields no usable wood.</BurnedTree.description>
+  <BurnedTree.label>pohon terbakar</BurnedTree.label>
+  <BurnedTree.description>Tunggul pohon yang terbakar. Jelek dan tidak menghasilkan kayu yang bisa dipakai.</BurnedTree.description>
 
-  <Plant_Ambrosia.label>ambrosia bush</Plant_Ambrosia.label>
-  <Plant_Ambrosia.description>A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods.</Plant_Ambrosia.description>
+  <Plant_Ambrosia.label>semak ambrosia</Plant_Ambrosia.label>
+  <Plant_Ambrosia.description>Semak liar langka yang menghasilkan buah ambrosia. Buah ambrosia rasanya lezat dan memberikan efek peningkat suasana hati seperti obat. Ambrosia tidak bisa dibudidayakan, yang membuat kelompok ambrosia liar sangat berharga.\n\nKelangkaan, keindahan, dan keinginan memilikinya adalah alasan mengapa ambrosia dinamai seperti makanan para dewa Yunani kuno.</Plant_Ambrosia.description>
 
 
 </LanguageData>

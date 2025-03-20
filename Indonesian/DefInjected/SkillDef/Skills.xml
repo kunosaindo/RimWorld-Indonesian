@@ -1,53 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Shooting.label>shooting</Shooting.label>
-  <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
-  <Shooting.skillLabel>shooting</Shooting.skillLabel>
+  <Shooting.label>menembak</Shooting.label>
+  <Shooting.description>Pertarungan jarak jauh, baik menggunakan senjata teknologi tinggi maupun rendah.</Shooting.description>
+  <Shooting.skillLabel>menembak</Shooting.skillLabel>
 
-  <Melee.label>melee</Melee.label>
-  <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
-  <Melee.skillLabel>melee</Melee.skillLabel>
+  <Melee.label>bertarung</Melee.label>
+  <Melee.description>Pertarungan jarak dekat, dengan senjata maupun tangan kosong.</Melee.description>
+  <Melee.skillLabel>bertarung</Melee.skillLabel>
 
-  <Construction.label>construction</Construction.label>
-  <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
-  <Construction.skillLabel>construction</Construction.skillLabel>
+  <Construction.label>konstruksi</Construction.label>
+  <Construction.description>Membangun dan membongkar struktur dan perabotan.</Construction.description>
+  <Construction.skillLabel>konstruksi</Construction.skillLabel>
 
-  <Mining.label>mining</Mining.label>
-  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
-  <Mining.skillLabel>mining</Mining.skillLabel>
+  <Mining.label>menambang</Mining.label>
+  <Mining.description>Menggali terowongan dan mengambil sumber daya yang terkubur.</Mining.description>
+  <Mining.skillLabel>menambang</Mining.skillLabel>
 
-  <Cooking.label>cooking</Cooking.label>
-  <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
-  <Cooking.skillLabel>cooking</Cooking.skillLabel>
+  <Cooking.label>memasak</Cooking.label>
+  <Cooking.description>Membuat makanan dari bahan mentah dengan cepat dan tanpa keracunan makanan.</Cooking.description>
+  <Cooking.skillLabel>memasak</Cooking.skillLabel>
 
-  <Plants.label>plants</Plants.label>
-  <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
-  <Plants.skillLabel>plants</Plants.skillLabel>
+  <Plants.label>berkebun</Plants.label>
+  <Plants.description>Menanam, merawat dan memanen tanaman, serta mencari makanan saat bepergian.</Plants.description>
+  <Plants.skillLabel>berkebun</Plants.skillLabel>
 
-  <Animals.label>animals</Animals.label>
-  <Animals.description>Taming, training, and controlling animals.</Animals.description>
-  <Animals.skillLabel>animals</Animals.skillLabel>
+  <Animals.label>beternak</Animals.label>
+  <Animals.description>Menjinakkan, melatih, dan mengendalikan hewan.</Animals.description>
+  <Animals.skillLabel>beternak</Animals.skillLabel>
 
-  <Crafting.label>crafting</Crafting.label>
-  <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
-  <Crafting.skillLabel>crafting</Crafting.skillLabel>
+  <Crafting.label>kerajinan</Crafting.label>
+  <Crafting.description>Membuat berbagai barang termasuk senjata, komponen, dan mengolah sumber daya.</Crafting.description>
+  <Crafting.skillLabel>kerajinan</Crafting.skillLabel>
 
-  <Artistic.label>artistic</Artistic.label>
-  <Artistic.description>Crafting art.</Artistic.description>
-  <Artistic.skillLabel>artistic</Artistic.skillLabel>
+  <Artistic.label>seni</Artistic.label>
+  <Artistic.description>Membuat karya seni.</Artistic.description>
+  <Artistic.skillLabel>seni</Artistic.skillLabel>
 
-  <Medicine.label>medical</Medicine.label>
-  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
-  <Medicine.skillLabel>medical</Medicine.skillLabel>
+  <Medicine.label>medis</Medicine.label>
+  <Medicine.description>Merawat luka dan penyakit serta melakukan operasi.</Medicine.description>
+  <Medicine.skillLabel>medis</Medicine.skillLabel>
 
-  <Social.label>social</Social.label>
-  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
-  <Social.skillLabel>social</Social.skillLabel>
+  <Social.label>sosial</Social.label>
+  <Social.description>Bernegosiasi, meyakinkan, memanipulasi, memimpin, dan menghibur orang lain.</Social.description>
+  <Social.skillLabel>sosial</Social.skillLabel>
 
-  <Intellectual.label>intellectual</Intellectual.label>
-  <Intellectual.description>Researching and drug synthesis.</Intellectual.description>
-  <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
-
+  <Intellectual.label>intelektual</Intellectual.label>
+  <Intellectual.description>Meneliti dan membuat obat-obatan.</Intellectual.description>
+  <Intellectual.skillLabel>intelektual</Intellectual.skillLabel>
 
 </LanguageData>

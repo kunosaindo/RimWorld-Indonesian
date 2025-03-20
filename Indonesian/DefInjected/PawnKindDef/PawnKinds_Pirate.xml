@@ -2,24 +2,18 @@
 <LanguageData>
 
   <!-- Povery tier - drifter -->
-
-  <Drifter.label>drifter</Drifter.label>
-  <Drifter.labelPlural>drifters</Drifter.labelPlural>
-
+  <Drifter.label>pengembara</Drifter.label>
+  <Drifter.labelPlural>para pengembara</Drifter.labelPlural>
 
   <!-- Low tier - scavenger, thrasher -->
+  <Scavenger.label>penembak pengais</Scavenger.label>
+  <Scavenger.labelPlural>penembak pengais</Scavenger.labelPlural>
 
-  <Scavenger.label>scavenger gunner</Scavenger.label>
-  <Scavenger.labelPlural>scavenger gunners</Scavenger.labelPlural>
-
-  <Thrasher.label>scavenger thrasher</Thrasher.label>
-  <Thrasher.labelPlural>scavenger thrashers</Thrasher.labelPlural>
-
+  <Thrasher.label>pengais pemukul</Thrasher.label>
+  <Thrasher.labelPlural>pengais pemukul</Thrasher.labelPlural>
 
   <!-- Mid tier - pirate -->
-
-  <Pirate.label>pirate gunner</Pirate.label>
-  <Pirate.labelPlural>pirate gunners</Pirate.labelPlural>
-
+  <Pirate.label>penembak bajak laut</Pirate.label>
+  <Pirate.labelPlural>penembak bajak laut</Pirate.labelPlural>
 
 </LanguageData>

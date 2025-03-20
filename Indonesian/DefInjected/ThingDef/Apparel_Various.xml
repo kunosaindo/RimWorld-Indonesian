@@ -3,50 +3,46 @@
 
   <!-- Neolithic -->
 
-  <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
-  <Apparel_TribalA.description>A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer.</Apparel_TribalA.description>
+  <Apparel_TribalA.label>pakaian suku</Apparel_TribalA.label>
+  <Apparel_TribalA.description>Pakaian lengkap yang dibuat menggunakan alat-alat zaman batu. Meskipun terlihat primitif, sangat efektif melindungi pemakainya dari cuaca.</Apparel_TribalA.description>
 
-  <Apparel_Parka.label>parka</Apparel_Parka.label>
-  <Apparel_Parka.description>A parka for staying warm in even the coldest of temperatures.</Apparel_Parka.description>
-
+  <Apparel_Parka.label>jaket parka</Apparel_Parka.label>
+  <Apparel_Parka.description>Jaket parka untuk tetap hangat bahkan di suhu paling dingin sekalipun.</Apparel_Parka.description>
 
   <!-- Medieval -->
 
-  <Apparel_Pants.label>pants</Apparel_Pants.label>
-  <Apparel_Pants.description>A simple set of pants.</Apparel_Pants.description>
+  <Apparel_Pants.label>celana</Apparel_Pants.label>
+  <Apparel_Pants.description>Celana biasa.</Apparel_Pants.description>
 
-  <Apparel_BasicShirt.label>T-shirt</Apparel_BasicShirt.label>
-  <Apparel_BasicShirt.description>A simple T-shirt.</Apparel_BasicShirt.description>
+  <Apparel_BasicShirt.label>kaos</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.description>Kaos sederhana.</Apparel_BasicShirt.description>
 
-  <Apparel_CollarShirt.label>button-down shirt</Apparel_CollarShirt.label>
-  <Apparel_CollarShirt.description>A nice-looking collared shirt with buttons.</Apparel_CollarShirt.description>
+  <Apparel_CollarShirt.label>kemeja</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.description>Kemeja berkerah yang rapi dengan kancing.</Apparel_CollarShirt.description>
 
-  <Apparel_Duster.label>duster</Apparel_Duster.label>
-  <Apparel_Duster.description>A long duster coat for blocking the sun and grit of the outdoors.</Apparel_Duster.description>
+  <Apparel_Duster.label>mantel panjang</Apparel_Duster.label>
+  <Apparel_Duster.description>Mantel panjang untuk melindungi dari sinar matahari dan debu di luar ruangan.</Apparel_Duster.description>
 
-  <Apparel_Jacket.label>jacket</Apparel_Jacket.label>
-  <Apparel_Jacket.description>A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather.</Apparel_Jacket.description>
+  <Apparel_Jacket.label>jaket</Apparel_Jacket.label>
+  <Apparel_Jacket.description>Jaket tangguh untuk melindungi dari lecet dan memar, serta menghangatkan di cuaca dingin.</Apparel_Jacket.description>
 
-  <Apparel_PlateArmor.label>plate armor</Apparel_PlateArmor.label>
-  <Apparel_PlateArmor.description>Overlapping solid plates of armor covering the entire body from neck to feet.</Apparel_PlateArmor.description>
-
+  <Apparel_PlateArmor.label>baju zirah</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.description>Lapis baja padat yang menutupi seluruh tubuh dari leher hingga kaki.</Apparel_PlateArmor.description>
 
   <!-- Industrial -->
 
-  <Apparel_FlakVest.label>flak vest</Apparel_FlakVest.label>
-  <Apparel_FlakVest.description>A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs.</Apparel_FlakVest.description>
+  <Apparel_FlakVest.label>rompi anti peluru</Apparel_FlakVest.label>
+  <Apparel_FlakVest.description>Rompi dengan pelat baja di bagian dada dan punggung. Cukup efektif menangkis tembakan dan serangan tusukan ke dada, tapi tidak melindungi anggota tubuh lainnya.</Apparel_FlakVest.description>
 
-  <Apparel_FlakPants.label>flak pants</Apparel_FlakPants.label>
-  <Apparel_FlakPants.description>A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakPants.description>
+  <Apparel_FlakPants.label>celana anti peluru</Apparel_FlakPants.label>
+  <Apparel_FlakPants.description>Celana dengan pelat baja yang dijahit di dalamnya. Meski tidak sekuat baju zirah, memberikan perlindungan efektif dari berbagai serangan sambil tetap nyaman dipakai.</Apparel_FlakPants.description>
 
-  <Apparel_FlakJacket.label>flak jacket</Apparel_FlakJacket.label>
-  <Apparel_FlakJacket.description>A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable.</Apparel_FlakJacket.description>
-
+  <Apparel_FlakJacket.label>jaket anti peluru</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.description>Jaket dari kain tangguh dengan pelat baja yang dijahit di dalamnya. Meski tidak sekuat baju zirah, memberikan perlindungan efektif dari berbagai serangan sambil tetap nyaman dipakai.</Apparel_FlakJacket.description>
 
   <!-- Spacer -->
 
-  <Apparel_PowerArmor.label>marine armor</Apparel_PowerArmor.label>
-  <Apparel_PowerArmor.description>A suit of light powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines.</Apparel_PowerArmor.description>
-
+  <Apparel_PowerArmor.label>baju zirah marinir</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.description>Baju zirah bertenaga ringan. Lapisan pelat plasteel sangat efektif menghentikan serangan, dengan sedikit bagian sendi yang rentan. Sistem bantuan neuro-memetik memungkinkan manusia memakainya dan tetap bergerak dengan mudah.\n\nBaju zirah seperti ini sering digunakan oleh pasukan elit kekaisaran dan marinir penyergap luar angkasa.</Apparel_PowerArmor.description>
 
 </LanguageData>

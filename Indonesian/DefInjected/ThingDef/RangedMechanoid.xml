@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bullet_ChargeBlasterHeavy.label>charge blaster shot</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_ChargeBlasterHeavy.label>tembakan peledak cas berat</Bullet_ChargeBlasterHeavy.label>
 
-  <Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
-  <Gun_ChargeBlasterHeavy.description>A pulse-charged rapid-fire blaster for area suppressive fire.</Gun_ChargeBlasterHeavy.description>
-  <Gun_ChargeBlasterHeavy.tools.0.label>barrel</Gun_ChargeBlasterHeavy.tools.0.label>
+  <Gun_ChargeBlasterHeavy.label>peledak cas berat</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>Peledak tembakan-cepat bermuatan-pulsa untuk penekanan area.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.0.label>laras</Gun_ChargeBlasterHeavy.tools.0.label>
 
-  <Bullet_InfernoCannon.label>inferno cannon shell</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>peluru meriam inferno</Bullet_InfernoCannon.label>
 
-  <Gun_InfernoCannon.label>inferno cannon</Gun_InfernoCannon.label>
-  <Gun_InfernoCannon.description>An incendiary-shot mini-artillery device. It fires a large incendiary warhead.</Gun_InfernoCannon.description>
-  <Gun_InfernoCannon.tools.0.label>barrel</Gun_InfernoCannon.tools.0.label>
-
+  <Gun_InfernoCannon.label>meriam inferno</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>Perangkat artileri-mini dengan tembakan api. Menembakkan hulu ledak pembakar berukuran besar.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.0.label>laras</Gun_InfernoCannon.tools.0.label>
 
 </LanguageData>

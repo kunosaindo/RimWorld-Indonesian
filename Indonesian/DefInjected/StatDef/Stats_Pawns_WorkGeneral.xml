@@ -1,44 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
-  <WorkSpeedGlobal.description>A multiplier on a character's speed at doing any kind of work.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.label>kecepatan kerja global</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.description>Pengali kecepatan karakter dalam melakukan segala jenis pekerjaan.</WorkSpeedGlobal.description>
 
-  <MiningSpeed.label>mining speed</MiningSpeed.label>
-  <MiningSpeed.description>A speed at which this person digs at walls and drills for deep resources.</MiningSpeed.description>
+  <MiningSpeed.label>kecepatan menambang</MiningSpeed.label>
+  <MiningSpeed.description>Kecepatan seseorang dalam menggali dinding dan mengebor sumber daya dalam.</MiningSpeed.description>
 
-  <MiningYield.label>mining yield</MiningYield.label>
-  <MiningYield.description>The percentage of mined resources a miner will produce. This applies to both wall mining and deep drill mining. This doesn't affect the production rate of rock chunks.</MiningYield.description>
+  <MiningYield.label>hasil tambang</MiningYield.label>
+  <MiningYield.description>Persentase sumber daya tambang yang akan dihasilkan penambang. Ini berlaku untuk penambangan dinding dan pengeboran dalam. Ini tidak mempengaruhi tingkat produksi bongkahan batu.</MiningYield.description>
 
-  <SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
-  <SmoothingSpeed.description>A multiplier on the speed at which this person smooths rough stone floors and walls.</SmoothingSpeed.description>
+  <SmoothingSpeed.label>kecepatan menghaluskan</SmoothingSpeed.label>
+  <SmoothingSpeed.description>Pengali kecepatan seseorang dalam menghaluskan lantai dan dinding batu kasar.</SmoothingSpeed.description>
 
-  <ResearchSpeed.label>research speed</ResearchSpeed.label>
-  <ResearchSpeed.description>How fast this person performs research and how quickly they can find things using scanning equipment.</ResearchSpeed.description>
+  <ResearchSpeed.label>kecepatan penelitian</ResearchSpeed.label>
+  <ResearchSpeed.description>Seberapa cepat orang ini melakukan penelitian dan menemukan hal-hal menggunakan peralatan pemindai.</ResearchSpeed.description>
 
-  <AnimalGatherSpeed.label>animal gather speed</AnimalGatherSpeed.label>
-  <AnimalGatherSpeed.description>The speed at which this person milks, shears, and otherwise gathers resources from animals.</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.label>kecepatan mengumpulkan hasil hewan</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.description>Kecepatan seseorang dalam memerah susu, mencukur, dan mengumpulkan sumber daya dari hewan.</AnimalGatherSpeed.description>
 
-  <AnimalGatherYield.label>animal gather yield</AnimalGatherYield.label>
-  <AnimalGatherYield.description>The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal. Higher percentages reduce the chance of wasting the product.</AnimalGatherYield.description>
+  <AnimalGatherYield.label>hasil pengumpulan hewan</AnimalGatherYield.label>
+  <AnimalGatherYield.description>Persentase hasil yang diperoleh seseorang saat mencukur, memerah susu, atau mengumpulkan sumber daya dari hewan hidup. Persentase lebih tinggi mengurangi kemungkinan membuang-buang produk.</AnimalGatherYield.description>
 
-  <PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
-  <PlantWorkSpeed.description>The speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.label>kecepatan kerja tanaman</PlantWorkSpeed.label>
+  <PlantWorkSpeed.description>Kecepatan seseorang dalam menanam dan memanen tanaman.</PlantWorkSpeed.description>
 
-  <PlantHarvestYield.label>plant harvest yield</PlantHarvestYield.label>
-  <PlantHarvestYield.description>The yield this person gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.</PlantHarvestYield.description>
+  <PlantHarvestYield.label>hasil panen tanaman</PlantHarvestYield.label>
+  <PlantHarvestYield.description>Hasil yang didapat seseorang saat memanen tanaman. Hasil rendah memberikan kemungkinan orang ini tidak sengaja membuang-buang hasil panen.</PlantHarvestYield.description>
 
-  <HuntingStealth.label>hunting stealth</HuntingStealth.label>
-  <HuntingStealth.description>This stat reduces the chance of hunted animals attacking the hunter. A 0% score means no reduction. A 100% score means animals never attack.</HuntingStealth.description>
+  <HuntingStealth.label>ketenangan berburu</HuntingStealth.label>
+  <HuntingStealth.description>Statistik ini mengurangi kemungkinan hewan buruan menyerang pemburu. Skor 0% berarti tidak ada pengurangan. Skor 100% berarti hewan tidak pernah menyerang.</HuntingStealth.description>
 
-  <ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
-  <ConstructionSpeed.description>The speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+  <ConstructionSpeed.label>kecepatan konstruksi</ConstructionSpeed.label>
+  <ConstructionSpeed.description>Kecepatan seseorang dalam membangun dan memperbaiki bangunan.</ConstructionSpeed.description>
 
-  <ConstructSuccessChance.label>construct success chance</ConstructSuccessChance.label>
-  <ConstructSuccessChance.description>The chance that this person will succeed in constructing something. Failing means wasting time and resources.</ConstructSuccessChance.description>
+  <ConstructSuccessChance.label>peluang sukses konstruksi</ConstructSuccessChance.label>
+  <ConstructSuccessChance.description>Peluang seseorang akan berhasil dalam membangun sesuatu. Kegagalan berarti membuang-buang waktu dan sumber daya.</ConstructSuccessChance.description>
 
-  <FixBrokenDownBuildingSuccessChance.label>repair success chance</FixBrokenDownBuildingSuccessChance.label>
-  <FixBrokenDownBuildingSuccessChance.description>The chance that this person will successfully repair a broken down building using a component. Failing means wasting time and resources. Note that this only applies to repairing breakdowns, which is different from repairing damage.</FixBrokenDownBuildingSuccessChance.description>
-
+  <FixBrokenDownBuildingSuccessChance.label>peluang sukses perbaikan</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.description>Peluang seseorang akan berhasil memperbaiki bangunan yang rusak menggunakan komponen. Kegagalan berarti membuang-buang waktu dan sumber daya. Perlu diingat ini hanya berlaku untuk memperbaiki kerusakan total, yang berbeda dari memperbaiki kerusakan biasa.</FixBrokenDownBuildingSuccessChance.description>
 
 </LanguageData>

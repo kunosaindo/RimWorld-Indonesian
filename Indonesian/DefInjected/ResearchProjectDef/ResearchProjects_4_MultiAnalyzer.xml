@@ -2,37 +2,36 @@
 <LanguageData>
 
   <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>
-  <MultiAnalyzer.description>Build multi-analyzers which increase research speed and allow higher-level research projects.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Bangun multi-analyzer yang meningkatkan kecepatan penelitian dan memungkinkan proyek penelitian tingkat tinggi.</MultiAnalyzer.description>
 
-  <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>Build ground-penetrating scanners that can detect drillable resources under the surface. Requires advanced components to construct.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>pemindai penembus tanah</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Bangun pemindai penembus tanah yang dapat mendeteksi sumber daya yang dapat dibor di bawah permukaan. Membutuhkan komponen canggih untuk membangunnya.</GroundPenetratingScanner.description>
 
-  <DeepDrilling.label>deep drilling</DeepDrilling.label>
-  <DeepDrilling.description>Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>
+  <DeepDrilling.label>pengeboran dalam</DeepDrilling.label>
+  <DeepDrilling.description>Bangun bor dalam untuk mengekstrak sumber daya dari bawah tanah. Anda memerlukan pemindai penembus tanah untuk menemukan sumber dayanya.</DeepDrilling.description>
 
-  <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>
-  <VitalsMonitor.description>Build vitals monitors which improve medical outcomes when placed next to hospital beds.</VitalsMonitor.description>
+  <VitalsMonitor.label>monitor vital</VitalsMonitor.label>
+  <VitalsMonitor.description>Bangun monitor vital yang meningkatkan hasil medis saat ditempatkan di samping tempat tidur rumah sakit.</VitalsMonitor.description>
 
-  <Fabrication.label>fabrication</Fabrication.label>
-  <Fabrication.description>Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction.</Fabrication.description>
+  <Fabrication.label>fabrikasi</Fabrication.label>
+  <Fabrication.description>Bangun meja fabrikasi, yang mampu mengerjakan proyek berteknologi tinggi mulai dari perakitan komponen hingga konstruksi armor daya.</Fabrication.description>
 
-  <AdvancedFabrication.label>advanced fabrication</AdvancedFabrication.label>
-  <AdvancedFabrication.description>Fabricate advanced components from standard components and other materials.</AdvancedFabrication.description>
+  <AdvancedFabrication.label>fabrikasi tingkat lanjut</AdvancedFabrication.label>
+  <AdvancedFabrication.description>Fabrikasi komponen tingkat lanjut dari komponen standar dan material lainnya.</AdvancedFabrication.description>
 
-  <Cryptosleep.label>cryptosleep casket</Cryptosleep.label>
-  <Cryptosleep.description>Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation.</Cryptosleep.description>
+  <Cryptosleep.label>peti cryptosleep</Cryptosleep.label>
+  <Cryptosleep.description>Konstruksi peti cryptosleep, yang dapat menempatkan makhluk hidup dalam keadaan animasi yang ditangguhkan tanpa batas waktu.</Cryptosleep.description>
 
-  <PoweredArmor.label>powered armor</PoweredArmor.label>
-  <PoweredArmor.description>Build the power armor and power armor helmets. Note that these also require advanced components.</PoweredArmor.description>
+  <PoweredArmor.label>armor daya</PoweredArmor.label>
+  <PoweredArmor.description>Bangun armor daya dan helm armor daya. Perhatikan bahwa ini juga membutuhkan komponen canggih.</PoweredArmor.description>
 
-  <ChargedShot.label>pulse-charged munitions</ChargedShot.label>
-  <ChargedShot.description>Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components.</ChargedShot.description>
+  <ChargedShot.label>amunisi bermuatan pulsa</ChargedShot.label>
+  <ChargedShot.description>Bangun senjata yang menembakkan amunisi bermuatan pulsa untuk kerusakan ekstra. Perhatikan bahwa ini juga membutuhkan komponen canggih.</ChargedShot.description>
 
-  <Bionics.label>bionics</Bionics.label>
-  <Bionics.description>Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach.</Bionics.description>
+  <Bionics.label>bionik</Bionics.label>
+  <Bionics.description>Bangun bagian tubuh bionik berteknologi tinggi untuk mengganti anggota badan dan mata yang hilang. Membutuhkan dokter yang terampil untuk memasangnya.</Bionics.description>
 
-  <SniperTurret.label>uranium slug turret</SniperTurret.label>
-  <SniperTurret.description>Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range.</SniperTurret.description>
-
+  <SniperTurret.label>menara peluru uranium</SniperTurret.label>
+  <SniperTurret.description>Hasilkan menara peluru uranium penembus lapis baja. Ia menembakkan peluru uranium yang merobek plasteel seperti kertas, tetapi kurang efektif dari jarak dekat.</SniperTurret.description>
 
 </LanguageData>

@@ -1,20 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SmokeleafHigh.label>stoned on smokeleaf</SmokeleafHigh.label>
-  <SmokeleafHigh.labelNoun>a smokeleaf high</SmokeleafHigh.labelNoun>
+  <SmokeleafHigh.label>tinggi karena smokeleaf</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>tinggi smokeleaf</SmokeleafHigh.labelNoun>
 
+  <!-- Kecanduan Smokeleaf -->
 
-  <!-- Smokeleaf addiction -->
+  <SmokeleafTolerance.label>toleransi smokeleaf</SmokeleafTolerance.label>
+  <SmokeleafTolerance.stages.0.label>kecil</SmokeleafTolerance.stages.0.label>
+  <SmokeleafTolerance.stages.1.label>kecil</SmokeleafTolerance.stages.1.label>
+  <SmokeleafTolerance.stages.2.label>besar</SmokeleafTolerance.stages.2.label>
+  <SmokeleafTolerance.stages.3.label>masif</SmokeleafTolerance.stages.3.label>
 
-  <SmokeleafTolerance.label>smokeleaf tolerance</SmokeleafTolerance.label>
-  <SmokeleafTolerance.stages.0.label>small</SmokeleafTolerance.stages.0.label>
-  <SmokeleafTolerance.stages.1.label>small</SmokeleafTolerance.stages.1.label>
-  <SmokeleafTolerance.stages.2.label>large</SmokeleafTolerance.stages.2.label>
-  <SmokeleafTolerance.stages.3.label>massive</SmokeleafTolerance.stages.3.label>
-
-  <SmokeleafAddiction.label>smokeleaf dependence</SmokeleafAddiction.label>
-  <SmokeleafAddiction.stages.1.label>withdrawal</SmokeleafAddiction.stages.1.label>
-
+  <SmokeleafAddiction.label>ketergantungan smokeleaf</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>penarikan</SmokeleafAddiction.stages.1.label>
 
 </LanguageData>

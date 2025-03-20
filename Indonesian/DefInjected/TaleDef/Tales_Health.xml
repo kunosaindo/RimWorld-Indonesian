@@ -1,49 +1,49 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Wounded.label>wounded</Wounded.label>
+  <Wounded.label>terluka</Wounded.label>
   <Wounded.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</Wounded.rulePack.rulesStrings.0>
-  <Wounded.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</Wounded.rulePack.rulesStrings.1>
-  <Wounded.rulePack.rulesStrings.2>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</Wounded.rulePack.rulesStrings.2>
-  <Wounded.rulePack.rulesStrings.3>tale_noun->the [wound_name_present] of [VICTIM_nameDef] with a [WEAPON_label]</Wounded.rulePack.rulesStrings.3>
-  <Wounded.rulePack.rulesStrings.4>tale_noun->the [wound_name_present] of [VICTIM_nameDef]</Wounded.rulePack.rulesStrings.4>
+  <Wounded.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dengan [WEAPON_label]</Wounded.rulePack.rulesStrings.1>
+  <Wounded.rulePack.rulesStrings.2>tale_noun->[wound_name_present] [VICTIM_nameDef] oleh [KILLER_nameDef]</Wounded.rulePack.rulesStrings.2>
+  <Wounded.rulePack.rulesStrings.3>tale_noun->[wound_name_present] [VICTIM_nameDef] dengan [WEAPON_label]</Wounded.rulePack.rulesStrings.3>
+  <Wounded.rulePack.rulesStrings.4>tale_noun->[wound_name_present] [VICTIM_nameDef]</Wounded.rulePack.rulesStrings.4>
   <Wounded.rulePack.rulesStrings.5>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</Wounded.rulePack.rulesStrings.5>
   <Wounded.rulePack.rulesStrings.6>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</Wounded.rulePack.rulesStrings.6>
   <Wounded.rulePack.rulesStrings.7>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</Wounded.rulePack.rulesStrings.7>
   <Wounded.rulePack.rulesStrings.8>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</Wounded.rulePack.rulesStrings.8>
-  <Wounded.rulePack.rulesStrings.9>wound_name_past->wounded</Wounded.rulePack.rulesStrings.9>
-  <Wounded.rulePack.rulesStrings.10>wound_name_past->harmed</Wounded.rulePack.rulesStrings.10>
-  <Wounded.rulePack.rulesStrings.11>wound_name_past->hurt</Wounded.rulePack.rulesStrings.11>
-  <Wounded.rulePack.rulesStrings.12>wound_name_past->assaulted</Wounded.rulePack.rulesStrings.12>
-  <Wounded.rulePack.rulesStrings.13>wound_name_past->attacked</Wounded.rulePack.rulesStrings.13>
-  <Wounded.rulePack.rulesStrings.14>wound_name_present->wounding</Wounded.rulePack.rulesStrings.14>
-  <Wounded.rulePack.rulesStrings.15>wound_name_present->harming</Wounded.rulePack.rulesStrings.15>
-  <Wounded.rulePack.rulesStrings.16>wound_name_present->hurting</Wounded.rulePack.rulesStrings.16>
-  <Wounded.rulePack.rulesStrings.17>wound_name_present->assaulting</Wounded.rulePack.rulesStrings.17>
-  <Wounded.rulePack.rulesStrings.18>wound_name_present->attacking</Wounded.rulePack.rulesStrings.18>
+  <Wounded.rulePack.rulesStrings.9>wound_name_past->terluka</Wounded.rulePack.rulesStrings.9>
+  <Wounded.rulePack.rulesStrings.10>wound_name_past->cedera</Wounded.rulePack.rulesStrings.10>
+  <Wounded.rulePack.rulesStrings.11>wound_name_past->sakit</Wounded.rulePack.rulesStrings.11>
+  <Wounded.rulePack.rulesStrings.12>wound_name_past->diserang</Wounded.rulePack.rulesStrings.12>
+  <Wounded.rulePack.rulesStrings.13>wound_name_past->dihajar</Wounded.rulePack.rulesStrings.13>
+  <Wounded.rulePack.rulesStrings.14>wound_name_present->melukai</Wounded.rulePack.rulesStrings.14>
+  <Wounded.rulePack.rulesStrings.15>wound_name_present->mencederai</Wounded.rulePack.rulesStrings.15>
+  <Wounded.rulePack.rulesStrings.16>wound_name_present->menyakiti</Wounded.rulePack.rulesStrings.16>
+  <Wounded.rulePack.rulesStrings.17>wound_name_present->menyerang</Wounded.rulePack.rulesStrings.17>
+  <Wounded.rulePack.rulesStrings.18>wound_name_present->menghajar</Wounded.rulePack.rulesStrings.18>
   <Wounded.rulePack.rulesStrings.19>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</Wounded.rulePack.rulesStrings.19>
   <Wounded.rulePack.rulesStrings.20>with_weapon_optional->[circumstance_group]</Wounded.rulePack.rulesStrings.20>
-  <Wounded.rulePack.rulesStrings.21>circumstance_phrase->seemingly without remorse</Wounded.rulePack.rulesStrings.21>
-  <Wounded.rulePack.rulesStrings.22>circumstance_phrase->with cold efficiency</Wounded.rulePack.rulesStrings.22>
-  <Wounded.rulePack.rulesStrings.23>circumstance_phrase->with passionate rage</Wounded.rulePack.rulesStrings.23>
-  <Wounded.rulePack.rulesStrings.24>circumstance_phrase->with quick, efficient movements</Wounded.rulePack.rulesStrings.24>
-  <Wounded.rulePack.rulesStrings.25>circumstance_phrase->without emotion or expression</Wounded.rulePack.rulesStrings.25>
-  <Wounded.rulePack.rulesStrings.26>circumstance_phrase->out of bleak necessity</Wounded.rulePack.rulesStrings.26>
-  <Wounded.rulePack.rulesStrings.27>circumstance_phrase->in a cowardly, halfhearted way</Wounded.rulePack.rulesStrings.27>
-  <Wounded.rulePack.rulesStrings.28>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</Wounded.rulePack.rulesStrings.28>
-  <Wounded.rulePack.rulesStrings.29>desc_sentence->A [PersonJob] watches silently [side_position].</Wounded.rulePack.rulesStrings.29>
-  <Wounded.rulePack.rulesStrings.30>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</Wounded.rulePack.rulesStrings.30>
-  <Wounded.rulePack.rulesStrings.31>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</Wounded.rulePack.rulesStrings.31>
-  <Wounded.rulePack.rulesStrings.32>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</Wounded.rulePack.rulesStrings.32>
-  <Wounded.rulePack.rulesStrings.33>desc_sentence->[VICTIM_nameDef] is wincing in pain.</Wounded.rulePack.rulesStrings.33>
-  <Wounded.rulePack.rulesStrings.34>desc_sentence->[VICTIM_nameDef] is wincing in agony.</Wounded.rulePack.rulesStrings.34>
-  <Wounded.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</Wounded.rulePack.rulesStrings.35>
-  <Wounded.rulePack.rulesStrings.36>desc_sentence->[KILLER_nameDef] seems satisfied.</Wounded.rulePack.rulesStrings.36>
-  <Wounded.rulePack.rulesStrings.37>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</Wounded.rulePack.rulesStrings.37>
-  <Wounded.rulePack.rulesStrings.38>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</Wounded.rulePack.rulesStrings.38>
-  <Wounded.rulePack.rulesStrings.39>desc_sentence->[KILLER_nameDef] looks triumphant.</Wounded.rulePack.rulesStrings.39>
+  <Wounded.rulePack.rulesStrings.21>circumstance_phrase->tampaknya tanpa rasa penyesalan</Wounded.rulePack.rulesStrings.21>
+  <Wounded.rulePack.rulesStrings.22>circumstance_phrase->dengan efisiensi dingin</Wounded.rulePack.rulesStrings.22>
+  <Wounded.rulePack.rulesStrings.23>circumstance_phrase->dengan amarah yang meluap</Wounded.rulePack.rulesStrings.23>
+  <Wounded.rulePack.rulesStrings.24>circumstance_phrase->dengan gerakan cepat dan efisien</Wounded.rulePack.rulesStrings.24>
+  <Wounded.rulePack.rulesStrings.25>circumstance_phrase->tanpa emosi atau ekspresi</Wounded.rulePack.rulesStrings.25>
+  <Wounded.rulePack.rulesStrings.26>circumstance_phrase->karena kebutuhan yang mendesak</Wounded.rulePack.rulesStrings.26>
+  <Wounded.rulePack.rulesStrings.27>circumstance_phrase->dengan cara pengecut dan setengah hati</Wounded.rulePack.rulesStrings.27>
+  <Wounded.rulePack.rulesStrings.28>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</Wounded.rulePack.rulesStrings.28>
+  <Wounded.rulePack.rulesStrings.29>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</Wounded.rulePack.rulesStrings.29>
+  <Wounded.rulePack.rulesStrings.30>desc_sentence->Darah menggenang di sekitar tubuh [VICTIM_nameDef].</Wounded.rulePack.rulesStrings.30>
+  <Wounded.rulePack.rulesStrings.31>desc_sentence->[VICTIM_nameDef] berlumuran [Gore].</Wounded.rulePack.rulesStrings.31>
+  <Wounded.rulePack.rulesStrings.32>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</Wounded.rulePack.rulesStrings.32>
+  <Wounded.rulePack.rulesStrings.33>desc_sentence->[VICTIM_nameDef] meringis kesakitan.</Wounded.rulePack.rulesStrings.33>
+  <Wounded.rulePack.rulesStrings.34>desc_sentence->[VICTIM_nameDef] meringis tersiksa.</Wounded.rulePack.rulesStrings.34>
+  <Wounded.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] memperlihatkan gigi [KILLER_possessive].</Wounded.rulePack.rulesStrings.35>
+  <Wounded.rulePack.rulesStrings.36>desc_sentence->[KILLER_nameDef] tampak puas.</Wounded.rulePack.rulesStrings.36>
+  <Wounded.rulePack.rulesStrings.37>desc_sentence->[KILLER_nameDef] terlihat tertekan dengan apa yang [KILLER_pronoun] lakukan.</Wounded.rulePack.rulesStrings.37>
+  <Wounded.rulePack.rulesStrings.38>desc_sentence->[KILLER_nameDef] terlihat senang dengan situasinya.</Wounded.rulePack.rulesStrings.38>
+  <Wounded.rulePack.rulesStrings.39>desc_sentence->[KILLER_nameDef] terlihat menang.</Wounded.rulePack.rulesStrings.39>
 
-  <Downed.label>downed</Downed.label>
+  <Downed.label>tumbang</Downed.label>
   <Downed.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</Downed.rulePack.rulesStrings.0>
   <Downed.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</Downed.rulePack.rulesStrings.1>
   <Downed.rulePack.rulesStrings.2>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</Downed.rulePack.rulesStrings.2>
@@ -53,34 +53,34 @@
   <Downed.rulePack.rulesStrings.6>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</Downed.rulePack.rulesStrings.6>
   <Downed.rulePack.rulesStrings.7>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</Downed.rulePack.rulesStrings.7>
   <Downed.rulePack.rulesStrings.8>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</Downed.rulePack.rulesStrings.8>
-  <Downed.rulePack.rulesStrings.9>wound_name_past->incapacitated</Downed.rulePack.rulesStrings.9>
-  <Downed.rulePack.rulesStrings.10>wound_name_past->crippled</Downed.rulePack.rulesStrings.10>
-  <Downed.rulePack.rulesStrings.11>wound_name_past->knocked unconscious</Downed.rulePack.rulesStrings.11>
-  <Downed.rulePack.rulesStrings.12>wound_name_past->disabled</Downed.rulePack.rulesStrings.12>
-  <Downed.rulePack.rulesStrings.13>wound_name_present->incapacitating</Downed.rulePack.rulesStrings.13>
-  <Downed.rulePack.rulesStrings.14>wound_name_present->harming</Downed.rulePack.rulesStrings.14>
-  <Downed.rulePack.rulesStrings.15>wound_name_present->knocking unconscious</Downed.rulePack.rulesStrings.15>
-  <Downed.rulePack.rulesStrings.16>wound_name_present->disabling</Downed.rulePack.rulesStrings.16>
-  <Downed.rulePack.rulesStrings.17>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</Downed.rulePack.rulesStrings.17>
+  <Downed.rulePack.rulesStrings.9>wound_name_past->dilumpuhkan</Downed.rulePack.rulesStrings.9>
+  <Downed.rulePack.rulesStrings.10>wound_name_past->dilemahkan</Downed.rulePack.rulesStrings.10>
+  <Downed.rulePack.rulesStrings.11>wound_name_past->tidak sadarkan diri</Downed.rulePack.rulesStrings.11>
+  <Downed.rulePack.rulesStrings.12>wound_name_past->lumpuh</Downed.rulePack.rulesStrings.12>
+  <Downed.rulePack.rulesStrings.13>wound_name_present->melumpuhkan</Downed.rulePack.rulesStrings.13>
+  <Downed.rulePack.rulesStrings.14>wound_name_present->mencelakai</Downed.rulePack.rulesStrings.14>
+  <Downed.rulePack.rulesStrings.15>wound_name_present->memukul pingsan</Downed.rulePack.rulesStrings.15>
+  <Downed.rulePack.rulesStrings.16>wound_name_present->melumpuhkan</Downed.rulePack.rulesStrings.16>
+  <Downed.rulePack.rulesStrings.17>with_weapon_optional->dengan [WEAPON_label] [circumstance_group]</Downed.rulePack.rulesStrings.17>
   <Downed.rulePack.rulesStrings.18>with_weapon_optional->[circumstance_group]</Downed.rulePack.rulesStrings.18>
-  <Downed.rulePack.rulesStrings.19>circumstance_phrase->seemingly without remorse</Downed.rulePack.rulesStrings.19>
-  <Downed.rulePack.rulesStrings.20>circumstance_phrase->with cold efficiency</Downed.rulePack.rulesStrings.20>
-  <Downed.rulePack.rulesStrings.21>circumstance_phrase->with passionate rage</Downed.rulePack.rulesStrings.21>
-  <Downed.rulePack.rulesStrings.22>circumstance_phrase->with quick, efficient movements</Downed.rulePack.rulesStrings.22>
-  <Downed.rulePack.rulesStrings.23>circumstance_phrase->without emotion or expression</Downed.rulePack.rulesStrings.23>
-  <Downed.rulePack.rulesStrings.24>circumstance_phrase->out of bleak necessity</Downed.rulePack.rulesStrings.24>
-  <Downed.rulePack.rulesStrings.25>circumstance_phrase->in a cowardly, halfhearted way</Downed.rulePack.rulesStrings.25>
-  <Downed.rulePack.rulesStrings.26>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</Downed.rulePack.rulesStrings.26>
-  <Downed.rulePack.rulesStrings.27>desc_sentence->A [PersonJob] watches silently [side_position].</Downed.rulePack.rulesStrings.27>
-  <Downed.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</Downed.rulePack.rulesStrings.28>
-  <Downed.rulePack.rulesStrings.29>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</Downed.rulePack.rulesStrings.29>
-  <Downed.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</Downed.rulePack.rulesStrings.30>
-  <Downed.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] seems satisfied.</Downed.rulePack.rulesStrings.31>
-  <Downed.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</Downed.rulePack.rulesStrings.32>
-  <Downed.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</Downed.rulePack.rulesStrings.33>
-  <Downed.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] looks triumphant.</Downed.rulePack.rulesStrings.34>
+  <Downed.rulePack.rulesStrings.19>circumstance_phrase->tampaknya tanpa rasa penyesalan</Downed.rulePack.rulesStrings.19>
+  <Downed.rulePack.rulesStrings.20>circumstance_phrase->dengan efisiensi dingin</Downed.rulePack.rulesStrings.20>
+  <Downed.rulePack.rulesStrings.21>circumstance_phrase->dengan amarah yang meluap</Downed.rulePack.rulesStrings.21>
+  <Downed.rulePack.rulesStrings.22>circumstance_phrase->dengan gerakan cepat dan efisien</Downed.rulePack.rulesStrings.22>
+  <Downed.rulePack.rulesStrings.23>circumstance_phrase->tanpa emosi atau ekspresi</Downed.rulePack.rulesStrings.23>
+  <Downed.rulePack.rulesStrings.24>circumstance_phrase->karena kebutuhan yang mendesak</Downed.rulePack.rulesStrings.24>
+  <Downed.rulePack.rulesStrings.25>circumstance_phrase->dengan cara pengecut dan setengah hati</Downed.rulePack.rulesStrings.25>
+  <Downed.rulePack.rulesStrings.26>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</Downed.rulePack.rulesStrings.26>
+  <Downed.rulePack.rulesStrings.27>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</Downed.rulePack.rulesStrings.27>
+  <Downed.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</Downed.rulePack.rulesStrings.28>
+  <Downed.rulePack.rulesStrings.29>desc_sentence->Mata [VICTIM_nameDef] tertutup.</Downed.rulePack.rulesStrings.29>
+  <Downed.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] memperlihatkan gigi [KILLER_possessive].</Downed.rulePack.rulesStrings.30>
+  <Downed.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] tampak puas.</Downed.rulePack.rulesStrings.31>
+  <Downed.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] terlihat tertekan dengan apa yang [KILLER_pronoun] lakukan.</Downed.rulePack.rulesStrings.32>
+  <Downed.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] terlihat senang dengan situasinya.</Downed.rulePack.rulesStrings.33>
+  <Downed.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] terlihat menang.</Downed.rulePack.rulesStrings.34>
 
-  <KilledLongRange.label>killed at distance</KilledLongRange.label>
+  <KilledLongRange.label>dibunuh dari jarak jauh</KilledLongRange.label>
   <KilledLongRange.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance</KilledLongRange.rulePack.rulesStrings.0>
   <KilledLongRange.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance with a [WEAPON_label]</KilledLongRange.rulePack.rulesStrings.1>
   <KilledLongRange.rulePack.rulesStrings.2>tale_noun->the long distance [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</KilledLongRange.rulePack.rulesStrings.2>
@@ -88,133 +88,133 @@
   <KilledLongRange.rulePack.rulesStrings.4>image->[KILLER_nameFull] aiming at [VICTIM_nameFull] [with_weapon_optional]</KilledLongRange.rulePack.rulesStrings.4>
   <KilledLongRange.rulePack.rulesStrings.5>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledLongRange.rulePack.rulesStrings.5>
   <KilledLongRange.rulePack.rulesStrings.6>image->[KILLER_nameFull] coldly [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledLongRange.rulePack.rulesStrings.6>
-  <KilledLongRange.rulePack.rulesStrings.7>wound_name_past->murdered</KilledLongRange.rulePack.rulesStrings.7>
-  <KilledLongRange.rulePack.rulesStrings.8>wound_name_past->slain</KilledLongRange.rulePack.rulesStrings.8>
-  <KilledLongRange.rulePack.rulesStrings.9>wound_name_past->slaughtered</KilledLongRange.rulePack.rulesStrings.9>
-  <KilledLongRange.rulePack.rulesStrings.10>wound_name_past->eliminated</KilledLongRange.rulePack.rulesStrings.10>
-  <KilledLongRange.rulePack.rulesStrings.11>wound_name_present->murdering</KilledLongRange.rulePack.rulesStrings.11>
-  <KilledLongRange.rulePack.rulesStrings.12>wound_name_present->slaying</KilledLongRange.rulePack.rulesStrings.12>
-  <KilledLongRange.rulePack.rulesStrings.13>wound_name_present->slaughtering</KilledLongRange.rulePack.rulesStrings.13>
-  <KilledLongRange.rulePack.rulesStrings.14>wound_name_present->eliminating</KilledLongRange.rulePack.rulesStrings.14>
-  <KilledLongRange.rulePack.rulesStrings.15>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</KilledLongRange.rulePack.rulesStrings.15>
+  <KilledLongRange.rulePack.rulesStrings.7>wound_name_past->dibunuh</KilledLongRange.rulePack.rulesStrings.7>
+  <KilledLongRange.rulePack.rulesStrings.8>wound_name_past->tewas</KilledLongRange.rulePack.rulesStrings.8>
+  <KilledLongRange.rulePack.rulesStrings.9>wound_name_past->dibantai</KilledLongRange.rulePack.rulesStrings.9>
+  <KilledLongRange.rulePack.rulesStrings.10>wound_name_past->dimusnahkan</KilledLongRange.rulePack.rulesStrings.10>
+  <KilledLongRange.rulePack.rulesStrings.11>wound_name_present->membunuh</KilledLongRange.rulePack.rulesStrings.11>
+  <KilledLongRange.rulePack.rulesStrings.12>wound_name_present->mengeksekusi</KilledLongRange.rulePack.rulesStrings.12>
+  <KilledLongRange.rulePack.rulesStrings.13>wound_name_present->membantai</KilledLongRange.rulePack.rulesStrings.13>
+  <KilledLongRange.rulePack.rulesStrings.14>wound_name_present->memusnahkan</KilledLongRange.rulePack.rulesStrings.14>
+  <KilledLongRange.rulePack.rulesStrings.15>with_weapon_optional->dengan [WEAPON_label] [circumstance_group]</KilledLongRange.rulePack.rulesStrings.15>
   <KilledLongRange.rulePack.rulesStrings.16>with_weapon_optional->[circumstance_group]</KilledLongRange.rulePack.rulesStrings.16>
-  <KilledLongRange.rulePack.rulesStrings.17>circumstance_phrase->seemingly without remorse</KilledLongRange.rulePack.rulesStrings.17>
-  <KilledLongRange.rulePack.rulesStrings.18>circumstance_phrase->with cold efficiency</KilledLongRange.rulePack.rulesStrings.18>
-  <KilledLongRange.rulePack.rulesStrings.19>circumstance_phrase->from a long distance</KilledLongRange.rulePack.rulesStrings.19>
-  <KilledLongRange.rulePack.rulesStrings.20>circumstance_phrase->from a great height</KilledLongRange.rulePack.rulesStrings.20>
-  <KilledLongRange.rulePack.rulesStrings.21>circumstance_phrase->without emotion or expression</KilledLongRange.rulePack.rulesStrings.21>
-  <KilledLongRange.rulePack.rulesStrings.22>circumstance_phrase->in a cowardly, halfhearted way</KilledLongRange.rulePack.rulesStrings.22>
-  <KilledLongRange.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</KilledLongRange.rulePack.rulesStrings.23>
-  <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->A [PersonJob] watches silently [side_position].</KilledLongRange.rulePack.rulesStrings.24>
-  <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledLongRange.rulePack.rulesStrings.25>
-  <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</KilledLongRange.rulePack.rulesStrings.26>
-  <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledLongRange.rulePack.rulesStrings.27>
-  <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</KilledLongRange.rulePack.rulesStrings.28>
-  <KilledLongRange.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef] seems satisfied.</KilledLongRange.rulePack.rulesStrings.29>
-  <KilledLongRange.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</KilledLongRange.rulePack.rulesStrings.30>
-  <KilledLongRange.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</KilledLongRange.rulePack.rulesStrings.31>
-  <KilledLongRange.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] looks triumphant.</KilledLongRange.rulePack.rulesStrings.32>
+  <KilledLongRange.rulePack.rulesStrings.17>circumstance_phrase->tampaknya tanpa rasa penyesalan</KilledLongRange.rulePack.rulesStrings.17>
+  <KilledLongRange.rulePack.rulesStrings.18>circumstance_phrase->dengan efisiensi dingin</KilledLongRange.rulePack.rulesStrings.18>
+  <KilledLongRange.rulePack.rulesStrings.19>circumstance_phrase->dari jarak jauh</KilledLongRange.rulePack.rulesStrings.19>
+  <KilledLongRange.rulePack.rulesStrings.20>circumstance_phrase->dari ketinggian</KilledLongRange.rulePack.rulesStrings.20>
+  <KilledLongRange.rulePack.rulesStrings.21>circumstance_phrase->tanpa emosi atau ekspresi</KilledLongRange.rulePack.rulesStrings.21>
+  <KilledLongRange.rulePack.rulesStrings.22>circumstance_phrase->dengan cara pengecut dan setengah hati</KilledLongRange.rulePack.rulesStrings.22>
+  <KilledLongRange.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</KilledLongRange.rulePack.rulesStrings.23>
+  <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</KilledLongRange.rulePack.rulesStrings.24>
+  <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</KilledLongRange.rulePack.rulesStrings.25>
+  <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->Mata [VICTIM_nameDef] tertutup.</KilledLongRange.rulePack.rulesStrings.26>
+  <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] berlumuran [Gore].</KilledLongRange.rulePack.rulesStrings.27>
+  <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef] memperlihatkan gigi [KILLER_possessive].</KilledLongRange.rulePack.rulesStrings.28>
+  <KilledLongRange.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef] tampak puas.</KilledLongRange.rulePack.rulesStrings.29>
+  <KilledLongRange.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] terlihat tertekan dengan apa yang [KILLER_pronoun] lakukan.</KilledLongRange.rulePack.rulesStrings.30>
+  <KilledLongRange.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] terlihat senang dengan situasinya.</KilledLongRange.rulePack.rulesStrings.31>
+  <KilledLongRange.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] terlihat menang.</KilledLongRange.rulePack.rulesStrings.32>
 
-  <KilledMelee.label>killed in melee</KilledMelee.label>
-  <KilledMelee.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in close combat</KilledMelee.rulePack.rulesStrings.0>
-  <KilledMelee.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in melee with a [WEAPON_label]</KilledMelee.rulePack.rulesStrings.1>
-  <KilledMelee.rulePack.rulesStrings.2>tale_noun->the melee [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</KilledMelee.rulePack.rulesStrings.2>
-  <KilledMelee.rulePack.rulesStrings.3>tale_noun->the close combat [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</KilledMelee.rulePack.rulesStrings.3>
-  <KilledMelee.rulePack.rulesStrings.4>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.4>
+  <KilledMelee.label>dibunuh dalam pertarungan jarak dekat</KilledMelee.label>
+  <KilledMelee.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dalam pertarungan jarak dekat</KilledMelee.rulePack.rulesStrings.0>
+  <KilledMelee.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dalam pertarungan dengan [WEAPON_label]</KilledMelee.rulePack.rulesStrings.1>
+  <KilledMelee.rulePack.rulesStrings.2>tale_noun->pertarungan [wound_name_present] [VICTIM_nameDef] oleh [KILLER_nameDef]</KilledMelee.rulePack.rulesStrings.2>
+  <KilledMelee.rulePack.rulesStrings.3>tale_noun->pertarungan jarak dekat [wound_name_present] [VICTIM_nameDef] oleh [KILLER_nameDef] dengan [WEAPON_label]</KilledMelee.rulePack.rulesStrings.3>
+  <KilledMelee.rulePack.rulesStrings.4>image->[VICTIM_nameFull] [wound_name_past] oleh [KILLER_nameFull] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.4>
   <KilledMelee.rulePack.rulesStrings.5>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.5>
-  <KilledMelee.rulePack.rulesStrings.6>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.6>
-  <KilledMelee.rulePack.rulesStrings.7>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.7>
-  <KilledMelee.rulePack.rulesStrings.8>wound_name_past->murdered</KilledMelee.rulePack.rulesStrings.8>
-  <KilledMelee.rulePack.rulesStrings.9>wound_name_past->slain</KilledMelee.rulePack.rulesStrings.9>
-  <KilledMelee.rulePack.rulesStrings.10>wound_name_past->slaughtered</KilledMelee.rulePack.rulesStrings.10>
-  <KilledMelee.rulePack.rulesStrings.11>wound_name_past->mutilated</KilledMelee.rulePack.rulesStrings.11>
-  <KilledMelee.rulePack.rulesStrings.12>wound_name_present->murdering</KilledMelee.rulePack.rulesStrings.12>
-  <KilledMelee.rulePack.rulesStrings.13>wound_name_present->slaying</KilledMelee.rulePack.rulesStrings.13>
-  <KilledMelee.rulePack.rulesStrings.14>wound_name_present->slaughtering</KilledMelee.rulePack.rulesStrings.14>
-  <KilledMelee.rulePack.rulesStrings.15>wound_name_present->mutilating</KilledMelee.rulePack.rulesStrings.15>
-  <KilledMelee.rulePack.rulesStrings.16>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</KilledMelee.rulePack.rulesStrings.16>
+  <KilledMelee.rulePack.rulesStrings.6>image->[KILLER_nameFull] dengan brutal [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.6>
+  <KilledMelee.rulePack.rulesStrings.7>image->[VICTIM_nameFull] [wound_name_past] [with_weapon_optional]</KilledMelee.rulePack.rulesStrings.7>
+  <KilledMelee.rulePack.rulesStrings.8>wound_name_past->dibunuh</KilledMelee.rulePack.rulesStrings.8>
+  <KilledMelee.rulePack.rulesStrings.9>wound_name_past->dibantai</KilledMelee.rulePack.rulesStrings.9>
+  <KilledMelee.rulePack.rulesStrings.10>wound_name_past->disembelih</KilledMelee.rulePack.rulesStrings.10>
+  <KilledMelee.rulePack.rulesStrings.11>wound_name_past->dimutilasi</KilledMelee.rulePack.rulesStrings.11>
+  <KilledMelee.rulePack.rulesStrings.12>wound_name_present->membunuh</KilledMelee.rulePack.rulesStrings.12>
+  <KilledMelee.rulePack.rulesStrings.13>wound_name_present->menghabisi</KilledMelee.rulePack.rulesStrings.13>
+  <KilledMelee.rulePack.rulesStrings.14>wound_name_present->membantai</KilledMelee.rulePack.rulesStrings.14>
+  <KilledMelee.rulePack.rulesStrings.15>wound_name_present->memutilasi</KilledMelee.rulePack.rulesStrings.15>
+  <KilledMelee.rulePack.rulesStrings.16>with_weapon_optional->dengan [WEAPON_label] [circumstance_group]</KilledMelee.rulePack.rulesStrings.16>
   <KilledMelee.rulePack.rulesStrings.17>with_weapon_optional->[circumstance_group]</KilledMelee.rulePack.rulesStrings.17>
-  <KilledMelee.rulePack.rulesStrings.18>circumstance_phrase->seemingly without remorse</KilledMelee.rulePack.rulesStrings.18>
-  <KilledMelee.rulePack.rulesStrings.19>circumstance_phrase->with cold efficiency</KilledMelee.rulePack.rulesStrings.19>
-  <KilledMelee.rulePack.rulesStrings.20>circumstance_phrase->with quick, efficient movements</KilledMelee.rulePack.rulesStrings.20>
-  <KilledMelee.rulePack.rulesStrings.21>circumstance_phrase->without emotion or expression</KilledMelee.rulePack.rulesStrings.21>
-  <KilledMelee.rulePack.rulesStrings.22>circumstance_phrase->in a cowardly, halfhearted way</KilledMelee.rulePack.rulesStrings.22>
-  <KilledMelee.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</KilledMelee.rulePack.rulesStrings.23>
-  <KilledMelee.rulePack.rulesStrings.24>desc_sentence->A [PersonJob] watches silently [side_position].</KilledMelee.rulePack.rulesStrings.24>
-  <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMelee.rulePack.rulesStrings.25>
-  <KilledMelee.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</KilledMelee.rulePack.rulesStrings.26>
-  <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMelee.rulePack.rulesStrings.27>
-  <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</KilledMelee.rulePack.rulesStrings.28>
-  <KilledMelee.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef] is covered in [Gore].</KilledMelee.rulePack.rulesStrings.29>
-  <KilledMelee.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</KilledMelee.rulePack.rulesStrings.30>
-  <KilledMelee.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] seems satisfied.</KilledMelee.rulePack.rulesStrings.31>
-  <KilledMelee.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</KilledMelee.rulePack.rulesStrings.32>
-  <KilledMelee.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</KilledMelee.rulePack.rulesStrings.33>
-  <KilledMelee.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] looks triumphant.</KilledMelee.rulePack.rulesStrings.34>
-  <KilledMelee.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] wears a feral expression.</KilledMelee.rulePack.rulesStrings.35>
+  <KilledMelee.rulePack.rulesStrings.18>circumstance_phrase->tampaknya tanpa rasa penyesalan</KilledMelee.rulePack.rulesStrings.18>
+  <KilledMelee.rulePack.rulesStrings.19>circumstance_phrase->dengan efisiensi dingin</KilledMelee.rulePack.rulesStrings.19>
+  <KilledMelee.rulePack.rulesStrings.20>circumstance_phrase->dengan gerakan cepat dan efisien</KilledMelee.rulePack.rulesStrings.20>
+  <KilledMelee.rulePack.rulesStrings.21>circumstance_phrase->tanpa emosi atau ekspresi</KilledMelee.rulePack.rulesStrings.21>
+  <KilledMelee.rulePack.rulesStrings.22>circumstance_phrase->dengan cara pengecut dan setengah hati</KilledMelee.rulePack.rulesStrings.22>
+  <KilledMelee.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</KilledMelee.rulePack.rulesStrings.23>
+  <KilledMelee.rulePack.rulesStrings.24>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</KilledMelee.rulePack.rulesStrings.24>
+  <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</KilledMelee.rulePack.rulesStrings.25>
+  <KilledMelee.rulePack.rulesStrings.26>desc_sentence->Mata [VICTIM_nameDef] tertutup.</KilledMelee.rulePack.rulesStrings.26>
+  <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] berlumuran [Gore].</KilledMelee.rulePack.rulesStrings.27>
+  <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef] dan [KILLER_nameDef] keduanya berlumuran [Gore].</KilledMelee.rulePack.rulesStrings.28>
+  <KilledMelee.rulePack.rulesStrings.29>desc_sentence->[KILLER_nameDef] berlumuran [Gore].</KilledMelee.rulePack.rulesStrings.29>
+  <KilledMelee.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] memperlihatkan gigi [KILLER_possessive].</KilledMelee.rulePack.rulesStrings.30>
+  <KilledMelee.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] tampak puas.</KilledMelee.rulePack.rulesStrings.31>
+  <KilledMelee.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] terlihat tertekan dengan apa yang [KILLER_pronoun] lakukan.</KilledMelee.rulePack.rulesStrings.32>
+  <KilledMelee.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] terlihat senang dengan situasinya.</KilledMelee.rulePack.rulesStrings.33>
+  <KilledMelee.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] terlihat menang.</KilledMelee.rulePack.rulesStrings.34>
+  <KilledMelee.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] menampilkan ekspresi buas.</KilledMelee.rulePack.rulesStrings.35>
 
-  <KilledMajorThreat.label>killed major threat</KilledMajorThreat.label>
+  <KilledMajorThreat.label>membunuh ancaman besar</KilledMajorThreat.label>
   <KilledMajorThreat.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</KilledMajorThreat.rulePack.rulesStrings.0>
-  <KilledMajorThreat.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</KilledMajorThreat.rulePack.rulesStrings.1>
-  <KilledMajorThreat.rulePack.rulesStrings.2>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef]</KilledMajorThreat.rulePack.rulesStrings.2>
-  <KilledMajorThreat.rulePack.rulesStrings.3>tale_noun->the [wound_name_present] of [VICTIM_nameDef] by [KILLER_nameDef] with a [WEAPON_label]</KilledMajorThreat.rulePack.rulesStrings.3>
-  <KilledMajorThreat.rulePack.rulesStrings.4>image->[VICTIM_nameFull] being [wound_name_past] by [KILLER_nameFull] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.4>
+  <KilledMajorThreat.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dengan [WEAPON_label]</KilledMajorThreat.rulePack.rulesStrings.1>
+  <KilledMajorThreat.rulePack.rulesStrings.2>tale_noun->[wound_name_present] [VICTIM_nameDef] oleh [KILLER_nameDef]</KilledMajorThreat.rulePack.rulesStrings.2>
+  <KilledMajorThreat.rulePack.rulesStrings.3>tale_noun->[wound_name_present] [VICTIM_nameDef] oleh [KILLER_nameDef] dengan [WEAPON_label]</KilledMajorThreat.rulePack.rulesStrings.3>
+  <KilledMajorThreat.rulePack.rulesStrings.4>image->[VICTIM_nameFull] sedang [wound_name_past] oleh [KILLER_nameFull] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.4>
   <KilledMajorThreat.rulePack.rulesStrings.5>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.5>
-  <KilledMajorThreat.rulePack.rulesStrings.6>image->[KILLER_nameFull] brutally [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.6>
-  <KilledMajorThreat.rulePack.rulesStrings.7>image->[VICTIM_nameFull] being [wound_name_past] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.7>
-  <KilledMajorThreat.rulePack.rulesStrings.8>wound_name_past->slain</KilledMajorThreat.rulePack.rulesStrings.8>
-  <KilledMajorThreat.rulePack.rulesStrings.9>wound_name_past->defeated</KilledMajorThreat.rulePack.rulesStrings.9>
-  <KilledMajorThreat.rulePack.rulesStrings.10>wound_name_past->overcome</KilledMajorThreat.rulePack.rulesStrings.10>
-  <KilledMajorThreat.rulePack.rulesStrings.11>wound_name_present->slaying</KilledMajorThreat.rulePack.rulesStrings.11>
-  <KilledMajorThreat.rulePack.rulesStrings.12>wound_name_present->defeating</KilledMajorThreat.rulePack.rulesStrings.12>
-  <KilledMajorThreat.rulePack.rulesStrings.13>wound_name_present->overcoming</KilledMajorThreat.rulePack.rulesStrings.13>
-  <KilledMajorThreat.rulePack.rulesStrings.14>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.14>
+  <KilledMajorThreat.rulePack.rulesStrings.6>image->[KILLER_nameFull] dengan brutal [wound_name_present] [VICTIM_nameFull] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.6>
+  <KilledMajorThreat.rulePack.rulesStrings.7>image->[VICTIM_nameFull] sedang [wound_name_past] [with_weapon_optional]</KilledMajorThreat.rulePack.rulesStrings.7>
+  <KilledMajorThreat.rulePack.rulesStrings.8>wound_name_past->dibantai</KilledMajorThreat.rulePack.rulesStrings.8>
+  <KilledMajorThreat.rulePack.rulesStrings.9>wound_name_past->dikalahkan</KilledMajorThreat.rulePack.rulesStrings.9>
+  <KilledMajorThreat.rulePack.rulesStrings.10>wound_name_past->ditaklukkan</KilledMajorThreat.rulePack.rulesStrings.10>
+  <KilledMajorThreat.rulePack.rulesStrings.11>wound_name_present->membantai</KilledMajorThreat.rulePack.rulesStrings.11>
+  <KilledMajorThreat.rulePack.rulesStrings.12>wound_name_present->mengalahkan</KilledMajorThreat.rulePack.rulesStrings.12>
+  <KilledMajorThreat.rulePack.rulesStrings.13>wound_name_present->menaklukkan</KilledMajorThreat.rulePack.rulesStrings.13>
+  <KilledMajorThreat.rulePack.rulesStrings.14>with_weapon_optional->dengan [WEAPON_label] [circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.14>
   <KilledMajorThreat.rulePack.rulesStrings.15>with_weapon_optional->[circumstance_group]</KilledMajorThreat.rulePack.rulesStrings.15>
-  <KilledMajorThreat.rulePack.rulesStrings.16>circumstance_phrase->with cold efficiency</KilledMajorThreat.rulePack.rulesStrings.16>
-  <KilledMajorThreat.rulePack.rulesStrings.17>circumstance_phrase->with quick, efficient movements</KilledMajorThreat.rulePack.rulesStrings.17>
-  <KilledMajorThreat.rulePack.rulesStrings.18>circumstance_phrase->without emotion or expression</KilledMajorThreat.rulePack.rulesStrings.18>
-  <KilledMajorThreat.rulePack.rulesStrings.19>circumstance_phrase->with great heroism</KilledMajorThreat.rulePack.rulesStrings.19>
-  <KilledMajorThreat.rulePack.rulesStrings.20>circumstance_phrase->with incredible strength</KilledMajorThreat.rulePack.rulesStrings.20>
-  <KilledMajorThreat.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</KilledMajorThreat.rulePack.rulesStrings.21>
-  <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->A [PersonJob] watches silently [side_position].</KilledMajorThreat.rulePack.rulesStrings.22>
-  <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMajorThreat.rulePack.rulesStrings.23>
-  <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</KilledMajorThreat.rulePack.rulesStrings.24>
-  <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMajorThreat.rulePack.rulesStrings.25>
-  <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</KilledMajorThreat.rulePack.rulesStrings.26>
-  <KilledMajorThreat.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef]'s corpse towers over [KILLER_nameDef].</KilledMajorThreat.rulePack.rulesStrings.27>
-  <KilledMajorThreat.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef]'s massive corpse covers a [TerrainFeature].</KilledMajorThreat.rulePack.rulesStrings.28>
-  <KilledMajorThreat.rulePack.rulesStrings.29>desc_sentence->[VICTIM_nameDef]'s eyes glow [Color].</KilledMajorThreat.rulePack.rulesStrings.29>
-  <KilledMajorThreat.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] is covered in [Gore].</KilledMajorThreat.rulePack.rulesStrings.30>
-  <KilledMajorThreat.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth.</KilledMajorThreat.rulePack.rulesStrings.31>
-  <KilledMajorThreat.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] seems satisfied.</KilledMajorThreat.rulePack.rulesStrings.32>
-  <KilledMajorThreat.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] looks triumphant.</KilledMajorThreat.rulePack.rulesStrings.33>
-  <KilledMajorThreat.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] looks [AdjectiveBadass].</KilledMajorThreat.rulePack.rulesStrings.34>
-  <KilledMajorThreat.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] is glowing with a heroic aura.</KilledMajorThreat.rulePack.rulesStrings.35>
+  <KilledMajorThreat.rulePack.rulesStrings.16>circumstance_phrase->dengan efisiensi dingin</KilledMajorThreat.rulePack.rulesStrings.16>
+  <KilledMajorThreat.rulePack.rulesStrings.17>circumstance_phrase->dengan gerakan cepat dan efisien</KilledMajorThreat.rulePack.rulesStrings.17>
+  <KilledMajorThreat.rulePack.rulesStrings.18>circumstance_phrase->tanpa emosi atau ekspresi</KilledMajorThreat.rulePack.rulesStrings.18>
+  <KilledMajorThreat.rulePack.rulesStrings.19>circumstance_phrase->dengan kepahlawanan yang luar biasa</KilledMajorThreat.rulePack.rulesStrings.19>
+  <KilledMajorThreat.rulePack.rulesStrings.20>circumstance_phrase->dengan kekuatan yang luar biasa</KilledMajorThreat.rulePack.rulesStrings.20>
+  <KilledMajorThreat.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</KilledMajorThreat.rulePack.rulesStrings.21>
+  <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</KilledMajorThreat.rulePack.rulesStrings.22>
+  <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</KilledMajorThreat.rulePack.rulesStrings.23>
+  <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->Mata [VICTIM_nameDef] tertutup.</KilledMajorThreat.rulePack.rulesStrings.24>
+  <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] berlumuran [Gore].</KilledMajorThreat.rulePack.rulesStrings.25>
+  <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef] dan [KILLER_nameDef] keduanya berlumuran [Gore].</KilledMajorThreat.rulePack.rulesStrings.26>
+  <KilledMajorThreat.rulePack.rulesStrings.27>desc_sentence->Jenazah [VICTIM_nameDef] menjulang di atas [KILLER_nameDef].</KilledMajorThreat.rulePack.rulesStrings.27>
+  <KilledMajorThreat.rulePack.rulesStrings.28>desc_sentence->Jenazah raksasa [VICTIM_nameDef] menutupi [TerrainFeature].</KilledMajorThreat.rulePack.rulesStrings.28>
+  <KilledMajorThreat.rulePack.rulesStrings.29>desc_sentence->Mata [VICTIM_nameDef] bersinar [Color].</KilledMajorThreat.rulePack.rulesStrings.29>
+  <KilledMajorThreat.rulePack.rulesStrings.30>desc_sentence->[KILLER_nameDef] berlumuran [Gore].</KilledMajorThreat.rulePack.rulesStrings.30>
+  <KilledMajorThreat.rulePack.rulesStrings.31>desc_sentence->[KILLER_nameDef] memperlihatkan gigi [KILLER_possessive].</KilledMajorThreat.rulePack.rulesStrings.31>
+  <KilledMajorThreat.rulePack.rulesStrings.32>desc_sentence->[KILLER_nameDef] tampak puas.</KilledMajorThreat.rulePack.rulesStrings.32>
+  <KilledMajorThreat.rulePack.rulesStrings.33>desc_sentence->[KILLER_nameDef] terlihat menang.</KilledMajorThreat.rulePack.rulesStrings.33>
+  <KilledMajorThreat.rulePack.rulesStrings.34>desc_sentence->[KILLER_nameDef] terlihat [AdjectiveBadass].</KilledMajorThreat.rulePack.rulesStrings.34>
+  <KilledMajorThreat.rulePack.rulesStrings.35>desc_sentence->[KILLER_nameDef] bersinar dengan aura kepahlawanan.</KilledMajorThreat.rulePack.rulesStrings.35>
 
-  <KilledCapacity.label>killed</KilledCapacity.label>
+  <KilledCapacity.label>dibunuh</KilledCapacity.label>
   <KilledCapacity.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</KilledCapacity.rulePack.rulesStrings.0>
-  <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</KilledCapacity.rulePack.rulesStrings.1>
-  <KilledCapacity.rulePack.rulesStrings.2>image->[KILLER_nameFull] [cap_removal] [VICTIM_nameFull]'s capacity for [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.2>
-  <KilledCapacity.rulePack.rulesStrings.3>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] by [cap_removal] [VICTIM_possessive] [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.3>
-  <KilledCapacity.rulePack.rulesStrings.4>cap_removal->destroying</KilledCapacity.rulePack.rulesStrings.4>
-  <KilledCapacity.rulePack.rulesStrings.5>cap_removal->eliminating</KilledCapacity.rulePack.rulesStrings.5>
-  <KilledCapacity.rulePack.rulesStrings.6>cap_removal->ending</KilledCapacity.rulePack.rulesStrings.6>
-  <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->slayed</KilledCapacity.rulePack.rulesStrings.7>
-  <KilledCapacity.rulePack.rulesStrings.8>wound_name_past->executed</KilledCapacity.rulePack.rulesStrings.8>
-  <KilledCapacity.rulePack.rulesStrings.9>wound_name_past->assassinated</KilledCapacity.rulePack.rulesStrings.9>
-  <KilledCapacity.rulePack.rulesStrings.10>wound_name_past->eliminated</KilledCapacity.rulePack.rulesStrings.10>
-  <KilledCapacity.rulePack.rulesStrings.11>wound_name_present->slaying</KilledCapacity.rulePack.rulesStrings.11>
-  <KilledCapacity.rulePack.rulesStrings.12>wound_name_present->executing</KilledCapacity.rulePack.rulesStrings.12>
-  <KilledCapacity.rulePack.rulesStrings.13>wound_name_present->assassinating</KilledCapacity.rulePack.rulesStrings.13>
-  <KilledCapacity.rulePack.rulesStrings.14>wound_name_present->eliminating</KilledCapacity.rulePack.rulesStrings.14>
-  <KilledCapacity.rulePack.rulesStrings.15>with_weapon_optional->with a [WEAPON_label] [circumstance_group]</KilledCapacity.rulePack.rulesStrings.15>
+  <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dengan [WEAPON_label]</KilledCapacity.rulePack.rulesStrings.1>
+  <KilledCapacity.rulePack.rulesStrings.2>image->[KILLER_nameFull] [cap_removal] kemampuan [VICTIM_nameFull] untuk [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.2>
+  <KilledCapacity.rulePack.rulesStrings.3>image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] dengan [cap_removal] [VICTIM_possessive] [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.3>
+  <KilledCapacity.rulePack.rulesStrings.4>cap_removal->menghancurkan</KilledCapacity.rulePack.rulesStrings.4>
+  <KilledCapacity.rulePack.rulesStrings.5>cap_removal->melenyapkan</KilledCapacity.rulePack.rulesStrings.5>
+  <KilledCapacity.rulePack.rulesStrings.6>cap_removal->mengakhiri</KilledCapacity.rulePack.rulesStrings.6>
+  <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->dibunuh</KilledCapacity.rulePack.rulesStrings.7>
+  <KilledCapacity.rulePack.rulesStrings.8>wound_name_past->dieksekusi</KilledCapacity.rulePack.rulesStrings.8>
+  <KilledCapacity.rulePack.rulesStrings.9>wound_name_past->dibantai</KilledCapacity.rulePack.rulesStrings.9>
+  <KilledCapacity.rulePack.rulesStrings.10>wound_name_past->dilenyapkan</KilledCapacity.rulePack.rulesStrings.10>
+  <KilledCapacity.rulePack.rulesStrings.11>wound_name_present->membunuh</KilledCapacity.rulePack.rulesStrings.11>
+  <KilledCapacity.rulePack.rulesStrings.12>wound_name_present->mengeksekusi</KilledCapacity.rulePack.rulesStrings.12>
+  <KilledCapacity.rulePack.rulesStrings.13>wound_name_present->membantai</KilledCapacity.rulePack.rulesStrings.13>
+  <KilledCapacity.rulePack.rulesStrings.14>wound_name_present->melenyapkan</KilledCapacity.rulePack.rulesStrings.14>
+  <KilledCapacity.rulePack.rulesStrings.15>with_weapon_optional->dengan [WEAPON_label] [circumstance_group]</KilledCapacity.rulePack.rulesStrings.15>
   <KilledCapacity.rulePack.rulesStrings.16>with_weapon_optional->[circumstance_group]</KilledCapacity.rulePack.rulesStrings.16>
-  <KilledCapacity.rulePack.rulesStrings.17>circumstance_phrase->seemingly without remorse</KilledCapacity.rulePack.rulesStrings.17>
-  <KilledCapacity.rulePack.rulesStrings.18>circumstance_phrase->with cold efficiency</KilledCapacity.rulePack.rulesStrings.18>
-  <KilledCapacity.rulePack.rulesStrings.19>circumstance_phrase->with quick, efficient movements</KilledCapacity.rulePack.rulesStrings.19>
-  <KilledCapacity.rulePack.rulesStrings.20>circumstance_phrase->without emotion or expression</KilledCapacity.rulePack.rulesStrings.20>
-  <KilledCapacity.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</KilledCapacity.rulePack.rulesStrings.21>
-  <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->A [PersonJob] watches silently [side_position].</KilledCapacity.rulePack.rulesStrings.22>
+  <KilledCapacity.rulePack.rulesStrings.17>circumstance_phrase->tampaknya tanpa rasa penyesalan</KilledCapacity.rulePack.rulesStrings.17>
+  <KilledCapacity.rulePack.rulesStrings.18>circumstance_phrase->dengan efisiensi dingin</KilledCapacity.rulePack.rulesStrings.18>
+  <KilledCapacity.rulePack.rulesStrings.19>circumstance_phrase->dengan gerakan cepat dan efisien</KilledCapacity.rulePack.rulesStrings.19>
+  <KilledCapacity.rulePack.rulesStrings.20>circumstance_phrase->tanpa emosi atau ekspresi</KilledCapacity.rulePack.rulesStrings.20>
+  <KilledCapacity.rulePack.rulesStrings.21>desc_sentence->[Quantity_adjphrase] [Animal]s melihat.</KilledCapacity.rulePack.rulesStrings.21>
+  <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</KilledCapacity.rulePack.rulesStrings.22>
   <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledCapacity.rulePack.rulesStrings.23>
   <KilledCapacity.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef]'s eyes are closed.</KilledCapacity.rulePack.rulesStrings.24>
   <KilledCapacity.rulePack.rulesStrings.25>desc_sentence->[KILLER_nameDef] seems satisfied.</KilledCapacity.rulePack.rulesStrings.25>
@@ -222,145 +222,144 @@
   <KilledCapacity.rulePack.rulesStrings.27>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</KilledCapacity.rulePack.rulesStrings.27>
   <KilledCapacity.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef] looks triumphant.</KilledCapacity.rulePack.rulesStrings.28>
 
-  <KilledMortar.label>killed with mortar</KilledMortar.label>
-  <KilledMortar.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</KilledMortar.rulePack.rulesStrings.0>
-  <KilledMortar.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</KilledMortar.rulePack.rulesStrings.1>
-  <KilledMortar.rulePack.rulesStrings.2>image->[KILLER_nameFull] carefully adjusting a firing tube [circumstance_group]</KilledMortar.rulePack.rulesStrings.2>
-  <KilledMortar.rulePack.rulesStrings.3>image->[KILLER_nameFull] looking into the distance [circumstance_group]</KilledMortar.rulePack.rulesStrings.3>
-  <KilledMortar.rulePack.rulesStrings.4>image->[KILLER_nameFull] doing calculations on paper [circumstance_group]</KilledMortar.rulePack.rulesStrings.4>
-  <KilledMortar.rulePack.rulesStrings.5>image->[KILLER_nameFull] testing wind direction [circumstance_group]</KilledMortar.rulePack.rulesStrings.5>
-  <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->while [VICTIM_nameFull] is consumed in a massive explosion</KilledMortar.rulePack.rulesStrings.6>
-  <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->as a shell arcs down towards [VICTIM_nameFull]</KilledMortar.rulePack.rulesStrings.7>
-  <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->while [VICTIM_nameFull] walks around obliviously</KilledMortar.rulePack.rulesStrings.8>
-  <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->as [VICTIM_nameFull] sprints</KilledMortar.rulePack.rulesStrings.9>
-  <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Animal]s look on.</KilledMortar.rulePack.rulesStrings.10>
-  <KilledMortar.rulePack.rulesStrings.11>desc_sentence->A [PersonJob] watches silently [side_position].</KilledMortar.rulePack.rulesStrings.11>
-  <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMortar.rulePack.rulesStrings.12>
-  <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMortar.rulePack.rulesStrings.13>
-  <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[VICTIM_nameDef] is surrounded by explosions.</KilledMortar.rulePack.rulesStrings.14>
-  <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[VICTIM_nameDef] is surrounded by craters.</KilledMortar.rulePack.rulesStrings.15>
-  <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[KILLER_nameDef] seems satisfied.</KilledMortar.rulePack.rulesStrings.16>
-  <KilledMortar.rulePack.rulesStrings.17>desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing.</KilledMortar.rulePack.rulesStrings.17>
-  <KilledMortar.rulePack.rulesStrings.18>desc_sentence->[KILLER_nameDef] looks pleased with the situation.</KilledMortar.rulePack.rulesStrings.18>
-  <KilledMortar.rulePack.rulesStrings.19>desc_sentence->[KILLER_nameDef] looks triumphant.</KilledMortar.rulePack.rulesStrings.19>
+  <KilledMortar.label>dibunuh dengan mortir</KilledMortar.label>
+  <KilledMortar.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] dengan mortir</KilledMortar.rulePack.rulesStrings.0>
+  <KilledMortar.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef] terbunuh oleh artileri milik [KILLER_nameDef]</KilledMortar.rulePack.rulesStrings.1>
+  <KilledMortar.rulePack.rulesStrings.2>image->[KILLER_nameFull] dengan hati-hati menyesuaikan tabung penembak [circumstance_group]</KilledMortar.rulePack.rulesStrings.2>
+  <KilledMortar.rulePack.rulesStrings.3>image->[KILLER_nameFull] memandang ke kejauhan [circumstance_group]</KilledMortar.rulePack.rulesStrings.3>
+  <KilledMortar.rulePack.rulesStrings.4>image->[KILLER_nameFull] melakukan perhitungan di atas kertas [circumstance_group]</KilledMortar.rulePack.rulesStrings.4>
+  <KilledMortar.rulePack.rulesStrings.5>image->[KILLER_nameFull] mengecek arah angin [circumstance_group]</KilledMortar.rulePack.rulesStrings.5>
+  <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->sementara [VICTIM_nameFull] terkena ledakan besar</KilledMortar.rulePack.rulesStrings.6>
+  <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->ketika peluru melengkung turun ke arah [VICTIM_nameFull]</KilledMortar.rulePack.rulesStrings.7>
+  <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->sementara [VICTIM_nameFull] berjalan tanpa menyadari bahaya</KilledMortar.rulePack.rulesStrings.8>
+  <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->ketika [VICTIM_nameFull] sedang berlari</KilledMortar.rulePack.rulesStrings.9>
+  <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] [Animal] menyaksikan.</KilledMortar.rulePack.rulesStrings.10>
+  <KilledMortar.rulePack.rulesStrings.11>desc_sentence->Seorang [PersonJob] melihat dalam diam [side_position].</KilledMortar.rulePack.rulesStrings.11>
+  <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[VICTIM_nameDef] terlihat [AdjectiveAngsty].</KilledMortar.rulePack.rulesStrings.12>
+  <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[VICTIM_nameDef] berlumuran [Gore].</KilledMortar.rulePack.rulesStrings.13>
+  <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[VICTIM_nameDef] dikelilingi ledakan.</KilledMortar.rulePack.rulesStrings.14>
+  <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[VICTIM_nameDef] dikelilingi kawah.</KilledMortar.rulePack.rulesStrings.15>
+  <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[KILLER_nameDef] tampak puas.</KilledMortar.rulePack.rulesStrings.16>
+  <KilledMortar.rulePack.rulesStrings.17>desc_sentence->[KILLER_nameDef] terlihat tertekan dengan apa yang [KILLER_pronoun] lakukan.</KilledMortar.rulePack.rulesStrings.17>
+  <KilledMortar.rulePack.rulesStrings.18>desc_sentence->[KILLER_nameDef] terlihat senang dengan situasinya.</KilledMortar.rulePack.rulesStrings.18>
+  <KilledMortar.rulePack.rulesStrings.19>desc_sentence->[KILLER_nameDef] terlihat menang.</KilledMortar.rulePack.rulesStrings.19>
 
-  <Exhausted.label>exhausted</Exhausted.label>
-  <Exhausted.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] collapsing from exhaustion</Exhausted.rulePack.rulesStrings.0>
-  <Exhausted.rulePack.rulesStrings.1>image->[PAWN_nameFull] collapsing on the ground [circumstance_group]</Exhausted.rulePack.rulesStrings.1>
-  <Exhausted.rulePack.rulesStrings.2>image->[PAWN_nameFull] lying on the ground [circumstance_group]</Exhausted.rulePack.rulesStrings.2>
-  <Exhausted.rulePack.rulesStrings.3>image->[PAWN_nameFull] lying in bed [circumstance_group]</Exhausted.rulePack.rulesStrings.3>
-  <Exhausted.rulePack.rulesStrings.4>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</Exhausted.rulePack.rulesStrings.4>
-  <Exhausted.rulePack.rulesStrings.5>image->[PAWN_nameFull] peacefully sleeping [circumstance_group]</Exhausted.rulePack.rulesStrings.5>
-  <Exhausted.rulePack.rulesStrings.6>circumstance_phrase->with eyes closed</Exhausted.rulePack.rulesStrings.6>
-  <Exhausted.rulePack.rulesStrings.7>circumstance_phrase->with a visible look of exhaustion</Exhausted.rulePack.rulesStrings.7>
-  <Exhausted.rulePack.rulesStrings.8>circumstance_phrase->while covered in sweat</Exhausted.rulePack.rulesStrings.8>
-  <Exhausted.rulePack.rulesStrings.9>circumstance_phrase->and unable to move a muscle</Exhausted.rulePack.rulesStrings.9>
-  <Exhausted.rulePack.rulesStrings.10>desc_sentence->[PAWN_nameDef]'s last project sits nearby, complete.</Exhausted.rulePack.rulesStrings.10>
-  <Exhausted.rulePack.rulesStrings.11>desc_sentence->A marvelous construction surrounds [PAWN_nameDef].</Exhausted.rulePack.rulesStrings.11>
-  <Exhausted.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [PersonJob]s look grateful for [PAWN_nameDef]'s heroic effort.</Exhausted.rulePack.rulesStrings.12>
-  <Exhausted.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase] [PersonJob]s lie nearby in a similar state.</Exhausted.rulePack.rulesStrings.13>
-  <Exhausted.rulePack.rulesStrings.14>desc_sentence->The scene takes place inside a newly-built [Community].</Exhausted.rulePack.rulesStrings.14>
+  <Exhausted.label>kelelahan</Exhausted.label>
+  <Exhausted.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] jatuh karena kelelahan</Exhausted.rulePack.rulesStrings.0>
+  <Exhausted.rulePack.rulesStrings.1>image->[PAWN_nameFull] terjatuh ke tanah [circumstance_group]</Exhausted.rulePack.rulesStrings.1>
+  <Exhausted.rulePack.rulesStrings.2>image->[PAWN_nameFull] berbaring di tanah [circumstance_group]</Exhausted.rulePack.rulesStrings.2>
+  <Exhausted.rulePack.rulesStrings.3>image->[PAWN_nameFull] berbaring di tempat tidur [circumstance_group]</Exhausted.rulePack.rulesStrings.3>
+  <Exhausted.rulePack.rulesStrings.4>image->[PAWN_nameFull] tergeletak di kursi [circumstance_group]</Exhausted.rulePack.rulesStrings.4>
+  <Exhausted.rulePack.rulesStrings.5>image->[PAWN_nameFull] tidur dengan tenang [circumstance_group]</Exhausted.rulePack.rulesStrings.5>
+  <Exhausted.rulePack.rulesStrings.6>circumstance_phrase->dengan mata tertutup</Exhausted.rulePack.rulesStrings.6>
+  <Exhausted.rulePack.rulesStrings.7>circumstance_phrase->dengan wajah yang jelas terlihat lelah</Exhausted.rulePack.rulesStrings.7>
+  <Exhausted.rulePack.rulesStrings.8>circumstance_phrase->dengan tubuh berkeringat</Exhausted.rulePack.rulesStrings.8>
+  <Exhausted.rulePack.rulesStrings.9>circumstance_phrase->dan tidak bisa menggerakkan otot sama sekali</Exhausted.rulePack.rulesStrings.9>
+  <Exhausted.rulePack.rulesStrings.10>desc_sentence->Proyek terakhir [PAWN_nameDef] tergeletak di dekatnya, sudah selesai.</Exhausted.rulePack.rulesStrings.10>
+  <Exhausted.rulePack.rulesStrings.11>desc_sentence->Sebuah bangunan menakjubkan mengelilingi [PAWN_nameDef].</Exhausted.rulePack.rulesStrings.11>
+  <Exhausted.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [PersonJob] terlihat berterima kasih atas usaha heroik [PAWN_nameDef].</Exhausted.rulePack.rulesStrings.12>
+  <Exhausted.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase] [PersonJob] terbaring di dekatnya dalam kondisi serupa.</Exhausted.rulePack.rulesStrings.13>
+  <Exhausted.rulePack.rulesStrings.14>desc_sentence->Adegan ini terjadi di dalam sebuah [Community] yang baru dibangun.</Exhausted.rulePack.rulesStrings.14>
 
-  <IllnessRevealed.label>illness revealed</IllnessRevealed.label>
-  <IllnessRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] being stricken with [ILLNESS_label]</IllnessRevealed.rulePack.rulesStrings.0>
-  <IllnessRevealed.rulePack.rulesStrings.1>image->[PAWN_nameFull] staggering through a field [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.1>
-  <IllnessRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] lying on the ground [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.2>
-  <IllnessRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] lying in bed [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.3>
-  <IllnessRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] lying in a hospital bed [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.4>
-  <IllnessRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] collapsed in a chair [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.5>
-  <IllnessRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.6>
-  <IllnessRevealed.rulePack.rulesStrings.7>circumstance_phrase->and sweating uncontrollably</IllnessRevealed.rulePack.rulesStrings.7>
-  <IllnessRevealed.rulePack.rulesStrings.8>circumstance_phrase->and shivering uncontrollably</IllnessRevealed.rulePack.rulesStrings.8>
-  <IllnessRevealed.rulePack.rulesStrings.9>circumstance_phrase->while both sweating and shivering</IllnessRevealed.rulePack.rulesStrings.9>
-  <IllnessRevealed.rulePack.rulesStrings.10>circumstance_phrase->with cracked dry lips</IllnessRevealed.rulePack.rulesStrings.10>
-  <IllnessRevealed.rulePack.rulesStrings.11>circumstance_phrase->while vomiting</IllnessRevealed.rulePack.rulesStrings.11>
-  <IllnessRevealed.rulePack.rulesStrings.12>circumstance_phrase->with a visible rash</IllnessRevealed.rulePack.rulesStrings.12>
-  <IllnessRevealed.rulePack.rulesStrings.13>circumstance_phrase->while being tended to by a doctor</IllnessRevealed.rulePack.rulesStrings.13>
-  <IllnessRevealed.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] fly-ridden [Animal] corpses surround the area.</IllnessRevealed.rulePack.rulesStrings.14>
-  <IllnessRevealed.rulePack.rulesStrings.15>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</IllnessRevealed.rulePack.rulesStrings.15>
-  <IllnessRevealed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] [PersonJob]s are stricken with the same afflication.</IllnessRevealed.rulePack.rulesStrings.16>
-  <IllnessRevealed.rulePack.rulesStrings.17>desc_sentence->The scene takes place inside a [TreeType] forest.</IllnessRevealed.rulePack.rulesStrings.17>
-  <IllnessRevealed.rulePack.rulesStrings.18>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</IllnessRevealed.rulePack.rulesStrings.18>
+  <IllnessRevealed.label>penyakit terungkap</IllnessRevealed.label>
+  <IllnessRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] terjangkit [ILLNESS_label]</IllnessRevealed.rulePack.rulesStrings.0>
+  <IllnessRevealed.rulePack.rulesStrings.1>image->[PAWN_nameFull] berjalan terhuyung-huyung di lapangan [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.1>
+  <IllnessRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] tergeletak di tanah [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.2>
+  <IllnessRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] berbaring di tempat tidur [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.3>
+  <IllnessRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] berbaring di ranjang rumah sakit [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.4>
+  <IllnessRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] tergeletak di kursi [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.5>
+  <IllnessRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] meringkuk di dekat api unggun [circumstance_group]</IllnessRevealed.rulePack.rulesStrings.6>
+  <IllnessRevealed.rulePack.rulesStrings.7>circumstance_phrase->dan berkeringat tak terkendali</IllnessRevealed.rulePack.rulesStrings.7>
+  <IllnessRevealed.rulePack.rulesStrings.8>circumstance_phrase->dan menggigil tak terkendali</IllnessRevealed.rulePack.rulesStrings.8>
+  <IllnessRevealed.rulePack.rulesStrings.9>circumstance_phrase->sambil berkeringat dan menggigil</IllnessRevealed.rulePack.rulesStrings.9>
+  <IllnessRevealed.rulePack.rulesStrings.10>circumstance_phrase->dengan bibir kering dan pecah-pecah</IllnessRevealed.rulePack.rulesStrings.10>
+  <IllnessRevealed.rulePack.rulesStrings.11>circumstance_phrase->sambil muntah</IllnessRevealed.rulePack.rulesStrings.11>
+  <IllnessRevealed.rulePack.rulesStrings.12>circumstance_phrase->dengan ruam yang terlihat</IllnessRevealed.rulePack.rulesStrings.12>
+  <IllnessRevealed.rulePack.rulesStrings.13>circumstance_phrase->sementara dirawat oleh dokter</IllnessRevealed.rulePack.rulesStrings.13>
+  <IllnessRevealed.rulePack.rulesStrings.14>desc_sentence->Bangkai [Animal] yang dipenuhi lalat [Quantity_adjphrase] berserakan di sekitar area.</IllnessRevealed.rulePack.rulesStrings.14>
+  <IllnessRevealed.rulePack.rulesStrings.15>desc_sentence->[TerrainFeature] berwarna [Color] yang meliuk-liuk [Quantity_adjphrase] mengelilingi tempat kejadian.</IllnessRevealed.rulePack.rulesStrings.15>
+  <IllnessRevealed.rulePack.rulesStrings.16>desc_sentence->[PersonJob] [Quantity_adjphrase] terjangkit penyakit yang sama.</IllnessRevealed.rulePack.rulesStrings.16>
+  <IllnessRevealed.rulePack.rulesStrings.17>desc_sentence->Kejadian ini berlangsung di dalam hutan [TreeType].</IllnessRevealed.rulePack.rulesStrings.17>
+  <IllnessRevealed.rulePack.rulesStrings.18>desc_sentence->[Animal] sekarat [Quantity_adjphrase] tergeletak di tanah.</IllnessRevealed.rulePack.rulesStrings.18>
 
-  <HeatstrokeRevealed.label>heatstroke revealed</HeatstrokeRevealed.label>
-  <HeatstrokeRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] getting heatstroke</HeatstrokeRevealed.rulePack.rulesStrings.0>
-  <HeatstrokeRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] overheating</HeatstrokeRevealed.rulePack.rulesStrings.1>
-  <HeatstrokeRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] trudging through sand [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.2>
-  <HeatstrokeRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] huddled in the shade of a [TerrainFeature] [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.3>
-  <HeatstrokeRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] searching for water [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.4>
-  <HeatstrokeRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] searching for shade [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.5>
-  <HeatstrokeRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] crawling across sun-baked dirt [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.6>
-  <HeatstrokeRevealed.rulePack.rulesStrings.7>circumstance_phrase->with red dry skin</HeatstrokeRevealed.rulePack.rulesStrings.7>
-  <HeatstrokeRevealed.rulePack.rulesStrings.8>circumstance_phrase->and covered in sweat</HeatstrokeRevealed.rulePack.rulesStrings.8>
-  <HeatstrokeRevealed.rulePack.rulesStrings.9>circumstance_phrase->with cracked dry lips</HeatstrokeRevealed.rulePack.rulesStrings.9>
-  <HeatstrokeRevealed.rulePack.rulesStrings.10>circumstance_phrase->while vomiting</HeatstrokeRevealed.rulePack.rulesStrings.10>
-  <HeatstrokeRevealed.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] dessicated [Animal] corpses surround the area.</HeatstrokeRevealed.rulePack.rulesStrings.11>
-  <HeatstrokeRevealed.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef]'s clothes are tattered and torn.</HeatstrokeRevealed.rulePack.rulesStrings.12>
-  <HeatstrokeRevealed.rulePack.rulesStrings.13>desc_sentence->A blazing sun looms in the background.</HeatstrokeRevealed.rulePack.rulesStrings.13>
-  <HeatstrokeRevealed.rulePack.rulesStrings.14>desc_sentence->The scene takes place inside a blazing desert.</HeatstrokeRevealed.rulePack.rulesStrings.14>
-  <HeatstrokeRevealed.rulePack.rulesStrings.15>desc_sentence->The scene appears to take place inside, next to a heater.</HeatstrokeRevealed.rulePack.rulesStrings.15>
-  <HeatstrokeRevealed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] unmoving [Animal]s surround the scene.</HeatstrokeRevealed.rulePack.rulesStrings.16>
-  <HeatstrokeRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</HeatstrokeRevealed.rulePack.rulesStrings.17>
+  <HeatstrokeRevealed.label>sengatan panas terungkap</HeatstrokeRevealed.label>
+  <HeatstrokeRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] terkena sengatan panas</HeatstrokeRevealed.rulePack.rulesStrings.0>
+  <HeatstrokeRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] kepanasan berlebihan</HeatstrokeRevealed.rulePack.rulesStrings.1>
+  <HeatstrokeRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] berjalan tertatih di pasir [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.2>
+  <HeatstrokeRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] meringkuk di bawah naungan [TerrainFeature] [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.3>
+  <HeatstrokeRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] mencari air [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.4>
+  <HeatstrokeRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] mencari tempat berteduh [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.5>
+  <HeatstrokeRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] merayap di tanah yang terpanggang matahari [circumstance_group]</HeatstrokeRevealed.rulePack.rulesStrings.6>
+  <HeatstrokeRevealed.rulePack.rulesStrings.7>circumstance_phrase->dengan kulit kering kemerahan</HeatstrokeRevealed.rulePack.rulesStrings.7>
+  <HeatstrokeRevealed.rulePack.rulesStrings.8>circumstance_phrase->dan bermandikan keringat</HeatstrokeRevealed.rulePack.rulesStrings.8>
+  <HeatstrokeRevealed.rulePack.rulesStrings.9>circumstance_phrase->dengan bibir kering dan pecah-pecah</HeatstrokeRevealed.rulePack.rulesStrings.9>
+  <HeatstrokeRevealed.rulePack.rulesStrings.10>circumstance_phrase->sambil muntah</HeatstrokeRevealed.rulePack.rulesStrings.10>
+  <HeatstrokeRevealed.rulePack.rulesStrings.11>desc_sentence->Bangkai [Animal] yang mengering [Quantity_adjphrase] berserakan di sekitar area.</HeatstrokeRevealed.rulePack.rulesStrings.11>
+  <HeatstrokeRevealed.rulePack.rulesStrings.12>desc_sentence->Pakaian [PAWN_nameDef] compang-camping dan robek.</HeatstrokeRevealed.rulePack.rulesStrings.12>
+  <HeatstrokeRevealed.rulePack.rulesStrings.13>desc_sentence->Matahari yang menyengat muncul di latar belakang.</HeatstrokeRevealed.rulePack.rulesStrings.13>
+  <HeatstrokeRevealed.rulePack.rulesStrings.14>desc_sentence->Kejadian ini berlangsung di padang pasir yang membakar.</HeatstrokeRevealed.rulePack.rulesStrings.14>
+  <HeatstrokeRevealed.rulePack.rulesStrings.15>desc_sentence->Kejadian ini tampaknya terjadi di dalam ruangan, di dekat pemanas.</HeatstrokeRevealed.rulePack.rulesStrings.15>
+  <HeatstrokeRevealed.rulePack.rulesStrings.16>desc_sentence->[Animal] yang tak bergerak [Quantity_adjphrase] mengelilingi tempat kejadian.</HeatstrokeRevealed.rulePack.rulesStrings.16>
+  <HeatstrokeRevealed.rulePack.rulesStrings.17>desc_sentence->[Animal] sekarat [Quantity_adjphrase] tergeletak di tanah.</HeatstrokeRevealed.rulePack.rulesStrings.17>
 
-  <HypothermiaRevealed.label>hypothermia revealed</HypothermiaRevealed.label>
-  <HypothermiaRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] getting hypothermia</HypothermiaRevealed.rulePack.rulesStrings.0>
-  <HypothermiaRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] freezing to death</HypothermiaRevealed.rulePack.rulesStrings.1>
-  <HypothermiaRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] trudging through snow [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.2>
-  <HypothermiaRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.3>
-  <HypothermiaRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.4>
-  <HypothermiaRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.5>
-  <HypothermiaRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.6>
-  <HypothermiaRevealed.rulePack.rulesStrings.7>circumstance_phrase->while [PAWN_possessive] face slowly turns blue</HypothermiaRevealed.rulePack.rulesStrings.7>
-  <HypothermiaRevealed.rulePack.rulesStrings.8>circumstance_phrase->and shivering uncontrollably</HypothermiaRevealed.rulePack.rulesStrings.8>
-  <HypothermiaRevealed.rulePack.rulesStrings.9>circumstance_phrase->while covered in frost</HypothermiaRevealed.rulePack.rulesStrings.9>
-  <HypothermiaRevealed.rulePack.rulesStrings.10>circumstance_phrase->while exhaling clouds of fog</HypothermiaRevealed.rulePack.rulesStrings.10>
-  <HypothermiaRevealed.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] frozen [Animal] corpses surround the area.</HypothermiaRevealed.rulePack.rulesStrings.11>
-  <HypothermiaRevealed.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef]'s clothes are tattered and worn.</HypothermiaRevealed.rulePack.rulesStrings.12>
-  <HypothermiaRevealed.rulePack.rulesStrings.13>desc_sentence->A cold blue moon looms in the background.</HypothermiaRevealed.rulePack.rulesStrings.13>
-  <HypothermiaRevealed.rulePack.rulesStrings.14>desc_sentence->The scene takes place inside a snow-covered [TreeType] forest.</HypothermiaRevealed.rulePack.rulesStrings.14>
-  <HypothermiaRevealed.rulePack.rulesStrings.15>desc_sentence->The scene appears to take place inside a freezer.</HypothermiaRevealed.rulePack.rulesStrings.15>
-  <HypothermiaRevealed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] shivering [Animal]s surround the scene.</HypothermiaRevealed.rulePack.rulesStrings.16>
-  <HypothermiaRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</HypothermiaRevealed.rulePack.rulesStrings.17>
+  <HypothermiaRevealed.label>hipotermia terungkap</HypothermiaRevealed.label>
+  <HypothermiaRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] terkena hipotermia</HypothermiaRevealed.rulePack.rulesStrings.0>
+  <HypothermiaRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] hampir mati kedinginan</HypothermiaRevealed.rulePack.rulesStrings.1>
+  <HypothermiaRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] berjalan tertatih di salju [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.2>
+  <HypothermiaRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] meringkuk di dekat [TerrainFeature] [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.3>
+  <HypothermiaRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] mencari [Apparel] yang hangat [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.4>
+  <HypothermiaRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] berjongkok di dekat api unggun [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.5>
+  <HypothermiaRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] berusaha menyalakan api [circumstance_group]</HypothermiaRevealed.rulePack.rulesStrings.6>
+  <HypothermiaRevealed.rulePack.rulesStrings.7>circumstance_phrase->sementara wajah [PAWN_possessive] perlahan berubah biru</HypothermiaRevealed.rulePack.rulesStrings.7>
+  <HypothermiaRevealed.rulePack.rulesStrings.8>circumstance_phrase->dan menggigil tak terkendali</HypothermiaRevealed.rulePack.rulesStrings.8>
+  <HypothermiaRevealed.rulePack.rulesStrings.9>circumstance_phrase->sambil tertutup es</HypothermiaRevealed.rulePack.rulesStrings.9>
+  <HypothermiaRevealed.rulePack.rulesStrings.10>circumstance_phrase->sambil mengeluarkan uap dari mulutnya</HypothermiaRevealed.rulePack.rulesStrings.10>
+  <HypothermiaRevealed.rulePack.rulesStrings.11>desc_sentence->Bangkai [Animal] beku [Quantity_adjphrase] mengelilingi area tersebut.</HypothermiaRevealed.rulePack.rulesStrings.11>
+  <HypothermiaRevealed.rulePack.rulesStrings.12>desc_sentence->Pakaian [PAWN_nameDef] compang-camping dan usang.</HypothermiaRevealed.rulePack.rulesStrings.12>
+  <HypothermiaRevealed.rulePack.rulesStrings.13>desc_sentence->Bulan biru yang dingin muncul di latar belakang.</HypothermiaRevealed.rulePack.rulesStrings.13>
+  <HypothermiaRevealed.rulePack.rulesStrings.14>desc_sentence->Kejadian ini berlangsung di dalam hutan [TreeType] yang tertutup salju.</HypothermiaRevealed.rulePack.rulesStrings.14>
+  <HypothermiaRevealed.rulePack.rulesStrings.15>desc_sentence->Kejadian ini tampaknya terjadi di dalam freezer.</HypothermiaRevealed.rulePack.rulesStrings.15>
+  <HypothermiaRevealed.rulePack.rulesStrings.16>desc_sentence->[Animal] yang menggigil [Quantity_adjphrase] mengelilingi tempat kejadian.</HypothermiaRevealed.rulePack.rulesStrings.16>
+  <HypothermiaRevealed.rulePack.rulesStrings.17>desc_sentence->[Animal] sekarat [Quantity_adjphrase] tergeletak di tanah.</HypothermiaRevealed.rulePack.rulesStrings.17>
 
-  <ToxicityRevealed.label>toxicity revealed</ToxicityRevealed.label>
-  <ToxicityRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s body becoming toxic</ToxicityRevealed.rulePack.rulesStrings.0>
-  <ToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] being poisoned by toxins</ToxicityRevealed.rulePack.rulesStrings.1>
-  <ToxicityRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] staggering through a field [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.2>
-  <ToxicityRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] lying on the ground [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.3>
-  <ToxicityRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] lying in bed [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.4>
-  <ToxicityRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] crouching next to a fire [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.5>
-  <ToxicityRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] trying to light a fire [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.6>
-  <ToxicityRevealed.rulePack.rulesStrings.7>image->[PAWN_nameFull] mindlessly removing [PAWN_possessive] clothes [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.7>
-  <ToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->and sweating uncontrollably</ToxicityRevealed.rulePack.rulesStrings.8>
-  <ToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->and shivering uncontrollably</ToxicityRevealed.rulePack.rulesStrings.9>
-  <ToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->while both sweating and shivering</ToxicityRevealed.rulePack.rulesStrings.10>
-  <ToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->with cracked dry lips</ToxicityRevealed.rulePack.rulesStrings.11>
-  <ToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->while vomiting</ToxicityRevealed.rulePack.rulesStrings.12>
-  <ToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->with a visible rash</ToxicityRevealed.rulePack.rulesStrings.13>
-  <ToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] twisted [Animal] corpses surround the area.</ToxicityRevealed.rulePack.rulesStrings.14>
-  <ToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef]'s clothes are falling apart.</ToxicityRevealed.rulePack.rulesStrings.15>
-  <ToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->The sky is a murky [Color].</ToxicityRevealed.rulePack.rulesStrings.16>
-  <ToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</ToxicityRevealed.rulePack.rulesStrings.17>
-  <ToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</ToxicityRevealed.rulePack.rulesStrings.18>
-  <ToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</ToxicityRevealed.rulePack.rulesStrings.19>
+  <ToxicityRevealed.label>keracunan terungkap</ToxicityRevealed.label>
+  <ToxicityRevealed.rulePack.rulesStrings.0>tale_noun->tubuh [PAWN_nameDef] mulai keracunan</ToxicityRevealed.rulePack.rulesStrings.0>
+  <ToxicityRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] teracuni oleh racun</ToxicityRevealed.rulePack.rulesStrings.1>
+  <ToxicityRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] terhuyung-huyung di lapangan [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.2>
+  <ToxicityRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] tergeletak di tanah [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.3>
+  <ToxicityRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] berbaring di tempat tidur [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.4>
+  <ToxicityRevealed.rulePack.rulesStrings.5>image->[PAWN_nameFull] meringkuk di dekat api unggun [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.5>
+  <ToxicityRevealed.rulePack.rulesStrings.6>image->[PAWN_nameFull] berusaha menyalakan api [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.6>
+  <ToxicityRevealed.rulePack.rulesStrings.7>image->[PAWN_nameFull] tanpa sadar melepas pakaian [PAWN_possessive] [circumstance_group]</ToxicityRevealed.rulePack.rulesStrings.7>
+  <ToxicityRevealed.rulePack.rulesStrings.8>circumstance_phrase->dan berkeringat tak terkendali</ToxicityRevealed.rulePack.rulesStrings.8>
+  <ToxicityRevealed.rulePack.rulesStrings.9>circumstance_phrase->dan menggigil tak terkendali</ToxicityRevealed.rulePack.rulesStrings.9>
+  <ToxicityRevealed.rulePack.rulesStrings.10>circumstance_phrase->sambil berkeringat dan menggigil</ToxicityRevealed.rulePack.rulesStrings.10>
+  <ToxicityRevealed.rulePack.rulesStrings.11>circumstance_phrase->dengan bibir kering dan pecah-pecah</ToxicityRevealed.rulePack.rulesStrings.11>
+  <ToxicityRevealed.rulePack.rulesStrings.12>circumstance_phrase->sambil muntah</ToxicityRevealed.rulePack.rulesStrings.12>
+  <ToxicityRevealed.rulePack.rulesStrings.13>circumstance_phrase->dengan ruam yang terlihat</ToxicityRevealed.rulePack.rulesStrings.13>
+  <ToxicityRevealed.rulePack.rulesStrings.14>desc_sentence->Bangkai [Animal] yang membusuk [Quantity_adjphrase] mengelilingi area tersebut.</ToxicityRevealed.rulePack.rulesStrings.14>
+  <ToxicityRevealed.rulePack.rulesStrings.15>desc_sentence->Pakaian [PAWN_nameDef] mulai rusak.</ToxicityRevealed.rulePack.rulesStrings.15>
+  <ToxicityRevealed.rulePack.rulesStrings.16>desc_sentence->Langit berwarna [Color] keruh.</ToxicityRevealed.rulePack.rulesStrings.16>
+  <ToxicityRevealed.rulePack.rulesStrings.17>desc_sentence->[TerrainFeature] berwarna [Color] yang membusuk [Quantity_adjphrase] mengelilingi tempat kejadian.</ToxicityRevealed.rulePack.rulesStrings.17>
+  <ToxicityRevealed.rulePack.rulesStrings.18>desc_sentence->Kejadian ini berlangsung di dalam hutan [TreeType] yang membusuk.</ToxicityRevealed.rulePack.rulesStrings.18>
+  <ToxicityRevealed.rulePack.rulesStrings.19>desc_sentence->[Animal] sekarat [Quantity_adjphrase] tergeletak di tanah.</ToxicityRevealed.rulePack.rulesStrings.19>
 
-  <GaveBirth.label>gave birth</GaveBirth.label>
-  <GaveBirth.rulePack.rulesStrings.0>tale_noun->[MOTHER_nameDef] giving birth to [CHILD_nameDef]</GaveBirth.rulePack.rulesStrings.0>
-  <GaveBirth.rulePack.rulesStrings.1>image->[MOTHER_nameFull] giving birth to [circumstance_group]</GaveBirth.rulePack.rulesStrings.1>
-  <GaveBirth.rulePack.rulesStrings.2>image->[MOTHER_nameFull] holding [MOTHER_possessive] [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.2>
-  <GaveBirth.rulePack.rulesStrings.3>image->[MOTHER_nameFull] lying in bed next to [MOTHER_possessive] [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.3>
-  <GaveBirth.rulePack.rulesStrings.4>image->[MOTHER_nameFull] collapsed in a chair with [MOTHER_possessive] [baby] [circumstance_group]</GaveBirth.rulePack.rulesStrings.4>
-  <GaveBirth.rulePack.rulesStrings.5>baby->infant</GaveBirth.rulePack.rulesStrings.5>
-  <GaveBirth.rulePack.rulesStrings.6>baby->newborn</GaveBirth.rulePack.rulesStrings.6>
-  <GaveBirth.rulePack.rulesStrings.7>baby->baby</GaveBirth.rulePack.rulesStrings.7>
-  <GaveBirth.rulePack.rulesStrings.8>circumstance_phrase->[CHILD_nameFull], who is bloody and crying</GaveBirth.rulePack.rulesStrings.8>
-  <GaveBirth.rulePack.rulesStrings.9>circumstance_phrase->[CHILD_nameFull], who is glowing softly [Color]</GaveBirth.rulePack.rulesStrings.9>
-  <GaveBirth.rulePack.rulesStrings.10>circumstance_phrase->[CHILD_nameFull], who is already trying to pull [CHILD_objective]self around</GaveBirth.rulePack.rulesStrings.10>
-  <GaveBirth.rulePack.rulesStrings.11>circumstance_phrase->[CHILD_nameFull], who is looking around with an expression of serenity</GaveBirth.rulePack.rulesStrings.11>
-  <GaveBirth.rulePack.rulesStrings.12>desc_sentence->[Quantity_adjphrase] [Animal]s sleep peacefully nearby.</GaveBirth.rulePack.rulesStrings.12>
-  <GaveBirth.rulePack.rulesStrings.13>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze upon the scene.</GaveBirth.rulePack.rulesStrings.13>
-  <GaveBirth.rulePack.rulesStrings.14>desc_sentence->A [PersonJob]s watches from a distance.</GaveBirth.rulePack.rulesStrings.14>
-  <GaveBirth.rulePack.rulesStrings.15>desc_sentence->The scene takes place inside a newly-built [Community].</GaveBirth.rulePack.rulesStrings.15>
-
+  <GaveBirth.label>melahirkan</GaveBirth.label>
+  <GaveBirth.rulePack.rulesStrings.0>tale_noun->[MOTHER_nameDef] melahirkan [CHILD_nameDef]</GaveBirth.rulePack.rulesStrings.0>
+  <GaveBirth.rulePack.rulesStrings.1>image->[MOTHER_nameFull] melahirkan [circumstance_group]</GaveBirth.rulePack.rulesStrings.1>
+  <GaveBirth.rulePack.rulesStrings.2>image->[MOTHER_nameFull] menggendong [MOTHER_possessive] [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.2>
+  <GaveBirth.rulePack.rulesStrings.3>image->[MOTHER_nameFull] berbaring di tempat tidur di sebelah [MOTHER_possessive] [baby], [circumstance_group]</GaveBirth.rulePack.rulesStrings.3>
+  <GaveBirth.rulePack.rulesStrings.4>image->[MOTHER_nameFull] terduduk lemas di kursi dengan [MOTHER_possessive] [baby] [circumstance_group]</GaveBirth.rulePack.rulesStrings.4>
+  <GaveBirth.rulePack.rulesStrings.5>baby->bayi</GaveBirth.rulePack.rulesStrings.5>
+  <GaveBirth.rulePack.rulesStrings.6>baby->bayi yang baru lahir</GaveBirth.rulePack.rulesStrings.6>
+  <GaveBirth.rulePack.rulesStrings.7>baby->bayinya</GaveBirth.rulePack.rulesStrings.7>
+  <GaveBirth.rulePack.rulesStrings.8>circumstance_phrase->[CHILD_nameFull], yang berlumuran darah dan menangis</GaveBirth.rulePack.rulesStrings.8>
+  <GaveBirth.rulePack.rulesStrings.9>circumstance_phrase->[CHILD_nameFull], yang bersinar lembut warna [Color]</GaveBirth.rulePack.rulesStrings.9>
+  <GaveBirth.rulePack.rulesStrings.10>circumstance_phrase->[CHILD_nameFull], yang sudah mencoba merangkak sendiri</GaveBirth.rulePack.rulesStrings.10>
+  <GaveBirth.rulePack.rulesStrings.11>circumstance_phrase->[CHILD_nameFull], yang melihat sekeliling dengan ekspresi tenang</GaveBirth.rulePack.rulesStrings.11>
+  <GaveBirth.rulePack.rulesStrings.12>desc_sentence->[Animal] [Quantity_adjphrase] tidur dengan damai di dekatnya.</GaveBirth.rulePack.rulesStrings.12>
+  <GaveBirth.rulePack.rulesStrings.13>desc_sentence->[PersonJob] [Quantity_adjphrase] memandangi kejadian tersebut.</GaveBirth.rulePack.rulesStrings.13>
+  <GaveBirth.rulePack.rulesStrings.14>desc_sentence->Seorang [PersonJob] melihat dari kejauhan.</GaveBirth.rulePack.rulesStrings.14>
+  <GaveBirth.rulePack.rulesStrings.15>desc_sentence->Kejadian ini berlangsung di dalam [Community] yang baru dibangun.</GaveBirth.rulePack.rulesStrings.15>
 
 </LanguageData>

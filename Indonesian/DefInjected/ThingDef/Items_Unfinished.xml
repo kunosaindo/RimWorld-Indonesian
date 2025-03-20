@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
-  <UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
-  <UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
-  <UnfinishedArmor.label>unfinished armor</UnfinishedArmor.label>
-  <UnfinishedTechArmor.label>unfinished armor</UnfinishedTechArmor.label>
-  <UnfinishedMetallicTechArmor.label>unfinished armor</UnfinishedMetallicTechArmor.label>
-  <UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
-  <UnfinishedBelt.label>unfinished belt</UnfinishedBelt.label>
-  <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
+  <UnfinishedSculpture.label>patung belum jadi</UnfinishedSculpture.label>
+  <UnfinishedGun.label>senjata api belum jadi</UnfinishedGun.label>
+  <UnfinishedWeapon.label>senjata belum jadi</UnfinishedWeapon.label>
+  <UnfinishedArmor.label>armor belum jadi</UnfinishedArmor.label>
+  <UnfinishedTechArmor.label>armor belum jadi</UnfinishedTechArmor.label>
+  <UnfinishedMetallicTechArmor.label>armor belum jadi</UnfinishedMetallicTechArmor.label>
+  <UnfinishedApparel.label>pakaian belum jadi</UnfinishedApparel.label>
+  <UnfinishedBelt.label>sabuk belum jadi</UnfinishedBelt.label>
+  <UnfinishedComponent.label>komponen belum jadi</UnfinishedComponent.label>
 
 
   <!-- Minified things -->
 
-  <MinifiedThing.label>minified thing</MinifiedThing.label>
+  <MinifiedThing.label>benda yang dikecilkan</MinifiedThing.label>
 
 
 </LanguageData>

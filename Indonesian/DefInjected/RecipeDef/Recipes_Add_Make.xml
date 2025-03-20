@@ -6,403 +6,403 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_GoJuice.label>make go-juice</Make_GoJuice.label>
-  <Make_GoJuice.description>Make go-juice.</Make_GoJuice.description>
-  <Make_GoJuice.jobString>Making go-juice.</Make_GoJuice.jobString>
+  <Make_GoJuice.label>membuat go-juice</Make_GoJuice.label>
+  <Make_GoJuice.description>Membuat go-juice.</Make_GoJuice.description>
+  <Make_GoJuice.jobString>Membuat go-juice.</Make_GoJuice.jobString>
 
-  <Make_Penoxycyline.label>make penoxycyline</Make_Penoxycyline.label>
-  <Make_Penoxycyline.description>Make penoxycyline.</Make_Penoxycyline.description>
-  <Make_Penoxycyline.jobString>Making penoxycyline.</Make_Penoxycyline.jobString>
+  <Make_Penoxycyline.label>membuat penoxycyline</Make_Penoxycyline.label>
+  <Make_Penoxycyline.description>Membuat penoxycyline.</Make_Penoxycyline.description>
+  <Make_Penoxycyline.jobString>Membuat penoxycyline.</Make_Penoxycyline.jobString>
 
-  <Make_Flake.label>make flake</Make_Flake.label>
-  <Make_Flake.description>Make flake.</Make_Flake.description>
-  <Make_Flake.jobString>Making flake.</Make_Flake.jobString>
+  <Make_Flake.label>membuat flake</Make_Flake.label>
+  <Make_Flake.description>Membuat flake.</Make_Flake.description>
+  <Make_Flake.jobString>Membuat flake.</Make_Flake.jobString>
 
 
   <!-- Recipe Users: Campfire, ElectricStove, FueledStove -->
 
-  <Make_PsychiteTea.label>make psychite tea</Make_PsychiteTea.label>
-  <Make_PsychiteTea.description>Make psychite tea.</Make_PsychiteTea.description>
-  <Make_PsychiteTea.jobString>Making psychite tea.</Make_PsychiteTea.jobString>
+  <Make_PsychiteTea.label>membuat teh psychite</Make_PsychiteTea.label>
+  <Make_PsychiteTea.description>Membuat teh psychite.</Make_PsychiteTea.description>
+  <Make_PsychiteTea.jobString>Membuat teh psychite.</Make_PsychiteTea.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_Yayo.label>make yayo</Make_Yayo.label>
-  <Make_Yayo.description>Make yayo.</Make_Yayo.description>
-  <Make_Yayo.jobString>Making yayo.</Make_Yayo.jobString>
+  <Make_Yayo.label>membuat yayo</Make_Yayo.label>
+  <Make_Yayo.description>Membuat yayo.</Make_Yayo.description>
+  <Make_Yayo.jobString>Membuat yayo.</Make_Yayo.jobString>
 
 
   <!-- Recipe Users: CraftingSpot, DrugLab -->
 
-  <Make_SmokeleafJoint.label>make smokeleaf joint</Make_SmokeleafJoint.label>
-  <Make_SmokeleafJoint.description>Make smokeleaf joint.</Make_SmokeleafJoint.description>
-  <Make_SmokeleafJoint.jobString>Making smokeleaf joint.</Make_SmokeleafJoint.jobString>
+  <Make_SmokeleafJoint.label>membuat lintingan smokeleaf</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.description>Membuat lintingan smokeleaf.</Make_SmokeleafJoint.description>
+  <Make_SmokeleafJoint.jobString>Membuat lintingan smokeleaf.</Make_SmokeleafJoint.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_WakeUp.label>make wake-up</Make_WakeUp.label>
-  <Make_WakeUp.description>Make wake-up.</Make_WakeUp.description>
-  <Make_WakeUp.jobString>Making wake-up.</Make_WakeUp.jobString>
+  <Make_WakeUp.label>membuat wake-up</Make_WakeUp.label>
+  <Make_WakeUp.description>Membuat wake-up.</Make_WakeUp.description>
+  <Make_WakeUp.jobString>Membuat wake-up.</Make_WakeUp.jobString>
 
 
   <!-- Recipe Users: TableSculpting -->
 
-  <Make_SculptureSmall.label>make small sculpture</Make_SculptureSmall.label>
-  <Make_SculptureSmall.description>Make small sculpture.</Make_SculptureSmall.description>
-  <Make_SculptureSmall.jobString>Making small sculpture.</Make_SculptureSmall.jobString>
+  <Make_SculptureSmall.label>membuat patung kecil</Make_SculptureSmall.label>
+  <Make_SculptureSmall.description>Membuat patung kecil.</Make_SculptureSmall.description>
+  <Make_SculptureSmall.jobString>Membuat patung kecil.</Make_SculptureSmall.jobString>
 
-  <Make_SculptureLarge.label>make large sculpture</Make_SculptureLarge.label>
-  <Make_SculptureLarge.description>Make large sculpture.</Make_SculptureLarge.description>
-  <Make_SculptureLarge.jobString>Making large sculpture.</Make_SculptureLarge.jobString>
+  <Make_SculptureLarge.label>membuat patung besar</Make_SculptureLarge.label>
+  <Make_SculptureLarge.description>Membuat patung besar.</Make_SculptureLarge.description>
+  <Make_SculptureLarge.jobString>Membuat patung besar.</Make_SculptureLarge.jobString>
 
-  <Make_SculptureGrand.label>make grand sculpture</Make_SculptureGrand.label>
-  <Make_SculptureGrand.description>Make grand sculpture.</Make_SculptureGrand.description>
-  <Make_SculptureGrand.jobString>Making grand sculpture.</Make_SculptureGrand.jobString>
+  <Make_SculptureGrand.label>membuat patung agung</Make_SculptureGrand.label>
+  <Make_SculptureGrand.description>Membuat patung agung.</Make_SculptureGrand.description>
+  <Make_SculptureGrand.jobString>Membuat patung agung.</Make_SculptureGrand.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_SimpleProstheticLeg.label>make prosthetic leg</Make_SimpleProstheticLeg.label>
-  <Make_SimpleProstheticLeg.description>Make prosthetic leg.</Make_SimpleProstheticLeg.description>
-  <Make_SimpleProstheticLeg.jobString>Making prosthetic leg.</Make_SimpleProstheticLeg.jobString>
+  <Make_SimpleProstheticLeg.label>membuat kaki palsu sederhana</Make_SimpleProstheticLeg.label>
+  <Make_SimpleProstheticLeg.description>Membuat kaki palsu sederhana.</Make_SimpleProstheticLeg.description>
+  <Make_SimpleProstheticLeg.jobString>Membuat kaki palsu sederhana.</Make_SimpleProstheticLeg.jobString>
 
-  <Make_SimpleProstheticArm.label>make prosthetic arm</Make_SimpleProstheticArm.label>
-  <Make_SimpleProstheticArm.description>Make prosthetic arm.</Make_SimpleProstheticArm.description>
-  <Make_SimpleProstheticArm.jobString>Making prosthetic arm.</Make_SimpleProstheticArm.jobString>
+  <Make_SimpleProstheticArm.label>membuat lengan palsu sederhana</Make_SimpleProstheticArm.label>
+  <Make_SimpleProstheticArm.description>Membuat lengan palsu sederhana.</Make_SimpleProstheticArm.description>
+  <Make_SimpleProstheticArm.jobString>Membuat lengan palsu sederhana.</Make_SimpleProstheticArm.jobString>
 
-  <Make_SimpleProstheticHeart.label>make prosthetic heart</Make_SimpleProstheticHeart.label>
-  <Make_SimpleProstheticHeart.description>Make prosthetic heart.</Make_SimpleProstheticHeart.description>
-  <Make_SimpleProstheticHeart.jobString>Making prosthetic heart.</Make_SimpleProstheticHeart.jobString>
+  <Make_SimpleProstheticHeart.label>membuat jantung palsu sederhana</Make_SimpleProstheticHeart.label>
+  <Make_SimpleProstheticHeart.description>Membuat jantung palsu sederhana.</Make_SimpleProstheticHeart.description>
+  <Make_SimpleProstheticHeart.jobString>Membuat jantung palsu sederhana.</Make_SimpleProstheticHeart.jobString>
 
-  <Make_CochlearImplant.label>make cochlear implant</Make_CochlearImplant.label>
-  <Make_CochlearImplant.description>Make cochlear implant.</Make_CochlearImplant.description>
-  <Make_CochlearImplant.jobString>Making cochlear implant.</Make_CochlearImplant.jobString>
+  <Make_CochlearImplant.label>membuat implan koklea</Make_CochlearImplant.label>
+  <Make_CochlearImplant.description>Membuat implan koklea.</Make_CochlearImplant.description>
+  <Make_CochlearImplant.jobString>Membuat implan koklea.</Make_CochlearImplant.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_BionicEye.label>make bionic eye</Make_BionicEye.label>
-  <Make_BionicEye.description>Make bionic eye.</Make_BionicEye.description>
-  <Make_BionicEye.jobString>Making bionic eye.</Make_BionicEye.jobString>
+  <Make_BionicEye.label>membuat mata bionik</Make_BionicEye.label>
+  <Make_BionicEye.description>Membuat mata bionik.</Make_BionicEye.description>
+  <Make_BionicEye.jobString>Membuat mata bionik.</Make_BionicEye.jobString>
 
-  <Make_BionicArm.label>make bionic arm</Make_BionicArm.label>
-  <Make_BionicArm.description>Make bionic arm.</Make_BionicArm.description>
-  <Make_BionicArm.jobString>Making bionic arm.</Make_BionicArm.jobString>
+  <Make_BionicArm.label>membuat lengan bionik</Make_BionicArm.label>
+  <Make_BionicArm.description>Membuat lengan bionik.</Make_BionicArm.description>
+  <Make_BionicArm.jobString>Membuat lengan bionik.</Make_BionicArm.jobString>
 
-  <Make_BionicLeg.label>make bionic leg</Make_BionicLeg.label>
-  <Make_BionicLeg.description>Make bionic leg.</Make_BionicLeg.description>
-  <Make_BionicLeg.jobString>Making bionic leg.</Make_BionicLeg.jobString>
+  <Make_BionicLeg.label>membuat kaki bionik</Make_BionicLeg.label>
+  <Make_BionicLeg.description>Membuat kaki bionik.</Make_BionicLeg.description>
+  <Make_BionicLeg.jobString>Membuat kaki bionik.</Make_BionicLeg.jobString>
 
-  <Make_BionicSpine.label>make bionic spine</Make_BionicSpine.label>
-  <Make_BionicSpine.description>Make bionic spine.</Make_BionicSpine.description>
-  <Make_BionicSpine.jobString>Making bionic spine.</Make_BionicSpine.jobString>
+  <Make_BionicSpine.label>membuat tulang belakang bionik</Make_BionicSpine.label>
+  <Make_BionicSpine.description>Membuat tulang belakang bionik.</Make_BionicSpine.description>
+  <Make_BionicSpine.jobString>Membuat tulang belakang bionik.</Make_BionicSpine.jobString>
 
-  <Make_BionicHeart.label>make bionic heart</Make_BionicHeart.label>
-  <Make_BionicHeart.description>Make bionic heart.</Make_BionicHeart.description>
-  <Make_BionicHeart.jobString>Making bionic heart.</Make_BionicHeart.jobString>
+  <Make_BionicHeart.label>membuat jantung bionik</Make_BionicHeart.label>
+  <Make_BionicHeart.description>Membuat jantung bionik.</Make_BionicHeart.description>
+  <Make_BionicHeart.jobString>Membuat jantung bionik.</Make_BionicHeart.jobString>
 
-  <Make_BionicStomach.label>make bionic stomach</Make_BionicStomach.label>
-  <Make_BionicStomach.description>Make bionic stomach.</Make_BionicStomach.description>
-  <Make_BionicStomach.jobString>Making bionic stomach.</Make_BionicStomach.jobString>
+  <Make_BionicStomach.label>membuat perut bionik</Make_BionicStomach.label>
+  <Make_BionicStomach.description>Membuat perut bionik.</Make_BionicStomach.description>
+  <Make_BionicStomach.jobString>Membuat perut bionik.</Make_BionicStomach.jobString>
 
-  <Make_BionicEar.label>make bionic ear</Make_BionicEar.label>
-  <Make_BionicEar.description>Make bionic ear.</Make_BionicEar.description>
-  <Make_BionicEar.jobString>Making bionic ear.</Make_BionicEar.jobString>
+  <Make_BionicEar.label>membuat telinga bionik</Make_BionicEar.label>
+  <Make_BionicEar.description>Membuat telinga bionik.</Make_BionicEar.description>
+  <Make_BionicEar.jobString>Membuat telinga bionik.</Make_BionicEar.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_MedicineIndustrial.label>make medicine</Make_MedicineIndustrial.label>
-  <Make_MedicineIndustrial.description>Make medicine.</Make_MedicineIndustrial.description>
-  <Make_MedicineIndustrial.jobString>Making medicine.</Make_MedicineIndustrial.jobString>
+  <Make_MedicineIndustrial.label>membuat obat-obatan</Make_MedicineIndustrial.label>
+  <Make_MedicineIndustrial.description>Membuat obat-obatan.</Make_MedicineIndustrial.description>
+  <Make_MedicineIndustrial.jobString>Membuat obat-obatan.</Make_MedicineIndustrial.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Shell_HighExplosive.label>make high-explosive shell</Make_Shell_HighExplosive.label>
-  <Make_Shell_HighExplosive.description>Make high-explosive shell.</Make_Shell_HighExplosive.description>
-  <Make_Shell_HighExplosive.jobString>Making high-explosive shell.</Make_Shell_HighExplosive.jobString>
+  <Make_Shell_HighExplosive.label>membuat peluru high-explosive</Make_Shell_HighExplosive.label>
+  <Make_Shell_HighExplosive.description>Membuat peluru high-explosive.</Make_Shell_HighExplosive.description>
+  <Make_Shell_HighExplosive.jobString>Membuat peluru high-explosive.</Make_Shell_HighExplosive.jobString>
 
-  <Make_Shell_Incendiary.label>make incendiary shell</Make_Shell_Incendiary.label>
-  <Make_Shell_Incendiary.description>Make incendiary shell.</Make_Shell_Incendiary.description>
-  <Make_Shell_Incendiary.jobString>Making incendiary shell.</Make_Shell_Incendiary.jobString>
+  <Make_Shell_Incendiary.label>membuat peluru pembakar</Make_Shell_Incendiary.label>
+  <Make_Shell_Incendiary.description>Membuat peluru pembakar.</Make_Shell_Incendiary.description>
+  <Make_Shell_Incendiary.jobString>Membuat peluru pembakar.</Make_Shell_Incendiary.jobString>
 
-  <Make_Shell_EMP.label>make EMP shell</Make_Shell_EMP.label>
-  <Make_Shell_EMP.description>Make EMP shell.</Make_Shell_EMP.description>
-  <Make_Shell_EMP.jobString>Making EMP shell.</Make_Shell_EMP.jobString>
+  <Make_Shell_EMP.label>membuat peluru EMP</Make_Shell_EMP.label>
+  <Make_Shell_EMP.description>Membuat peluru EMP.</Make_Shell_EMP.description>
+  <Make_Shell_EMP.jobString>Membuat peluru EMP.</Make_Shell_EMP.jobString>
 
-  <Make_Shell_Firefoam.label>make firefoam shell</Make_Shell_Firefoam.label>
-  <Make_Shell_Firefoam.description>Make firefoam shell.</Make_Shell_Firefoam.description>
-  <Make_Shell_Firefoam.jobString>Making firefoam shell.</Make_Shell_Firefoam.jobString>
+  <Make_Shell_Firefoam.label>membuat peluru firefoam</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.description>Membuat peluru firefoam.</Make_Shell_Firefoam.description>
+  <Make_Shell_Firefoam.jobString>Membuat peluru firefoam.</Make_Shell_Firefoam.jobString>
 
-  <Make_Apparel_ShieldBelt.label>make shield belt</Make_Apparel_ShieldBelt.label>
-  <Make_Apparel_ShieldBelt.description>Make shield belt.</Make_Apparel_ShieldBelt.description>
-  <Make_Apparel_ShieldBelt.jobString>Making shield belt.</Make_Apparel_ShieldBelt.jobString>
+  <Make_Apparel_ShieldBelt.label>membuat sabuk perisai</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>Membuat sabuk perisai.</Make_Apparel_ShieldBelt.description>
+  <Make_Apparel_ShieldBelt.jobString>Membuat sabuk perisai.</Make_Apparel_ShieldBelt.jobString>
 
-  <Make_Apparel_SmokepopBelt.label>make smokepop belt</Make_Apparel_SmokepopBelt.label>
-  <Make_Apparel_SmokepopBelt.description>Make smokepop belt.</Make_Apparel_SmokepopBelt.description>
-  <Make_Apparel_SmokepopBelt.jobString>Making smokepop belt.</Make_Apparel_SmokepopBelt.jobString>
+  <Make_Apparel_SmokepopBelt.label>membuat sabuk smokepop</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>Membuat sabuk smokepop.</Make_Apparel_SmokepopBelt.description>
+  <Make_Apparel_SmokepopBelt.jobString>Membuat sabuk smokepop.</Make_Apparel_SmokepopBelt.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_CowboyHat.label>make cowboy hat</Make_Apparel_CowboyHat.label>
-  <Make_Apparel_CowboyHat.description>Make cowboy hat.</Make_Apparel_CowboyHat.description>
-  <Make_Apparel_CowboyHat.jobString>Making cowboy hat.</Make_Apparel_CowboyHat.jobString>
+  <Make_Apparel_CowboyHat.label>membuat topi koboi</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>Membuat topi koboi.</Make_Apparel_CowboyHat.description>
+  <Make_Apparel_CowboyHat.jobString>Membuat topi koboi.</Make_Apparel_CowboyHat.jobString>
 
-  <Make_Apparel_BowlerHat.label>make bowler hat</Make_Apparel_BowlerHat.label>
-  <Make_Apparel_BowlerHat.description>Make bowler hat.</Make_Apparel_BowlerHat.description>
-  <Make_Apparel_BowlerHat.jobString>Making bowler hat.</Make_Apparel_BowlerHat.jobString>
+  <Make_Apparel_BowlerHat.label>membuat topi bowler</Make_Apparel_BowlerHat.label>
+  <Make_Apparel_BowlerHat.description>Membuat topi bowler.</Make_Apparel_BowlerHat.description>
+  <Make_Apparel_BowlerHat.jobString>Membuat topi bowler.</Make_Apparel_BowlerHat.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_TribalHeaddress.label>make tribal headdress</Make_Apparel_TribalHeaddress.label>
-  <Make_Apparel_TribalHeaddress.description>Make tribal headdress.</Make_Apparel_TribalHeaddress.description>
-  <Make_Apparel_TribalHeaddress.jobString>Making tribal headdress.</Make_Apparel_TribalHeaddress.jobString>
+  <Make_Apparel_TribalHeaddress.label>membuat hiasan kepala suku</Make_Apparel_TribalHeaddress.label>
+  <Make_Apparel_TribalHeaddress.description>Membuat hiasan kepala suku.</Make_Apparel_TribalHeaddress.description>
+  <Make_Apparel_TribalHeaddress.jobString>Membuat hiasan kepala suku.</Make_Apparel_TribalHeaddress.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_Tuque.label>make tuque</Make_Apparel_Tuque.label>
-  <Make_Apparel_Tuque.description>Make tuque.</Make_Apparel_Tuque.description>
-  <Make_Apparel_Tuque.jobString>Making tuque.</Make_Apparel_Tuque.jobString>
+  <Make_Apparel_Tuque.label>membuat tuque</Make_Apparel_Tuque.label>
+  <Make_Apparel_Tuque.description>Membuat tuque.</Make_Apparel_Tuque.description>
+  <Make_Apparel_Tuque.jobString>Membuat tuque.</Make_Apparel_Tuque.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_WarMask.label>make war mask</Make_Apparel_WarMask.label>
-  <Make_Apparel_WarMask.description>Make war mask.</Make_Apparel_WarMask.description>
-  <Make_Apparel_WarMask.jobString>Making war mask.</Make_Apparel_WarMask.jobString>
+  <Make_Apparel_WarMask.label>membuat topeng perang</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>Membuat topeng perang.</Make_Apparel_WarMask.description>
+  <Make_Apparel_WarMask.jobString>Membuat topeng perang.</Make_Apparel_WarMask.jobString>
 
-  <Make_Apparel_WarVeil.label>make war veil</Make_Apparel_WarVeil.label>
-  <Make_Apparel_WarVeil.description>Make war veil.</Make_Apparel_WarVeil.description>
-  <Make_Apparel_WarVeil.jobString>Making war veil.</Make_Apparel_WarVeil.jobString>
+  <Make_Apparel_WarVeil.label>membuat kerudung perang</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.description>Membuat kerudung perang.</Make_Apparel_WarVeil.description>
+  <Make_Apparel_WarVeil.jobString>Membuat kerudung perang.</Make_Apparel_WarVeil.jobString>
 
 
   <!-- Recipe Users: TableMachining, ElectricSmithy, FueledSmithy -->
 
-  <Make_Apparel_SimpleHelmet.label>make simple helmet</Make_Apparel_SimpleHelmet.label>
-  <Make_Apparel_SimpleHelmet.description>Make simple helmet.</Make_Apparel_SimpleHelmet.description>
-  <Make_Apparel_SimpleHelmet.jobString>Making simple helmet.</Make_Apparel_SimpleHelmet.jobString>
+  <Make_Apparel_SimpleHelmet.label>membuat helm sederhana</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>Membuat helm sederhana.</Make_Apparel_SimpleHelmet.description>
+  <Make_Apparel_SimpleHelmet.jobString>Membuat helm sederhana.</Make_Apparel_SimpleHelmet.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_AdvancedHelmet.label>make advanced helmet</Make_Apparel_AdvancedHelmet.label>
-  <Make_Apparel_AdvancedHelmet.description>Make advanced helmet.</Make_Apparel_AdvancedHelmet.description>
-  <Make_Apparel_AdvancedHelmet.jobString>Making advanced helmet.</Make_Apparel_AdvancedHelmet.jobString>
+  <Make_Apparel_AdvancedHelmet.label>membuat helm tingkat lanjut</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>Membuat helm tingkat lanjut.</Make_Apparel_AdvancedHelmet.description>
+  <Make_Apparel_AdvancedHelmet.jobString>Membuat helm tingkat lanjut.</Make_Apparel_AdvancedHelmet.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Apparel_PowerArmorHelmet.label>make marine helmet</Make_Apparel_PowerArmorHelmet.label>
-  <Make_Apparel_PowerArmorHelmet.description>Make marine helmet.</Make_Apparel_PowerArmorHelmet.description>
-  <Make_Apparel_PowerArmorHelmet.jobString>Making marine helmet.</Make_Apparel_PowerArmorHelmet.jobString>
+  <Make_Apparel_PowerArmorHelmet.label>membuat helm marine</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Membuat helm marine.</Make_Apparel_PowerArmorHelmet.description>
+  <Make_Apparel_PowerArmorHelmet.jobString>Membuat helm marine.</Make_Apparel_PowerArmorHelmet.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench, CraftingSpot -->
 
-  <Make_Apparel_TribalA.label>make tribalwear</Make_Apparel_TribalA.label>
-  <Make_Apparel_TribalA.description>Make tribalwear.</Make_Apparel_TribalA.description>
-  <Make_Apparel_TribalA.jobString>Making tribalwear.</Make_Apparel_TribalA.jobString>
+  <Make_Apparel_TribalA.label>membuat pakaian suku</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>Membuat pakaian suku.</Make_Apparel_TribalA.description>
+  <Make_Apparel_TribalA.jobString>Membuat pakaian suku.</Make_Apparel_TribalA.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_Apparel_Parka.label>make parka</Make_Apparel_Parka.label>
-  <Make_Apparel_Parka.description>Make parka.</Make_Apparel_Parka.description>
-  <Make_Apparel_Parka.jobString>Making parka.</Make_Apparel_Parka.jobString>
+  <Make_Apparel_Parka.label>membuat parka</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>Membuat parka.</Make_Apparel_Parka.description>
+  <Make_Apparel_Parka.jobString>Membuat parka.</Make_Apparel_Parka.jobString>
 
-  <Make_Apparel_Pants.label>make pants</Make_Apparel_Pants.label>
-  <Make_Apparel_Pants.description>Make pants.</Make_Apparel_Pants.description>
-  <Make_Apparel_Pants.jobString>Making pants.</Make_Apparel_Pants.jobString>
+  <Make_Apparel_Pants.label>membuat celana</Make_Apparel_Pants.label>
+  <Make_Apparel_Pants.description>Membuat celana.</Make_Apparel_Pants.description>
+  <Make_Apparel_Pants.jobString>Membuat celana.</Make_Apparel_Pants.jobString>
 
-  <Make_Apparel_BasicShirt.label>make T-shirt</Make_Apparel_BasicShirt.label>
-  <Make_Apparel_BasicShirt.description>Make T-shirt.</Make_Apparel_BasicShirt.description>
-  <Make_Apparel_BasicShirt.jobString>Making T-shirt.</Make_Apparel_BasicShirt.jobString>
+  <Make_Apparel_BasicShirt.label>membuat kaos</Make_Apparel_BasicShirt.label>
+  <Make_Apparel_BasicShirt.description>Membuat kaos.</Make_Apparel_BasicShirt.description>
+  <Make_Apparel_BasicShirt.jobString>Membuat kaos.</Make_Apparel_BasicShirt.jobString>
 
-  <Make_Apparel_CollarShirt.label>make button-down shirt</Make_Apparel_CollarShirt.label>
-  <Make_Apparel_CollarShirt.description>Make button-down shirt.</Make_Apparel_CollarShirt.description>
-  <Make_Apparel_CollarShirt.jobString>Making button-down shirt.</Make_Apparel_CollarShirt.jobString>
+  <Make_Apparel_CollarShirt.label>membuat kemeja berkancing</Make_Apparel_CollarShirt.label>
+  <Make_Apparel_CollarShirt.description>Membuat kemeja berkancing.</Make_Apparel_CollarShirt.description>
+  <Make_Apparel_CollarShirt.jobString>Membuat kemeja berkancing.</Make_Apparel_CollarShirt.jobString>
 
-  <Make_Apparel_Duster.label>make duster</Make_Apparel_Duster.label>
-  <Make_Apparel_Duster.description>Make duster.</Make_Apparel_Duster.description>
-  <Make_Apparel_Duster.jobString>Making duster.</Make_Apparel_Duster.jobString>
+  <Make_Apparel_Duster.label>membuat duster</Make_Apparel_Duster.label>
+  <Make_Apparel_Duster.description>Membuat duster.</Make_Apparel_Duster.description>
+  <Make_Apparel_Duster.jobString>Membuat duster.</Make_Apparel_Duster.jobString>
 
-  <Make_Apparel_Jacket.label>make jacket</Make_Apparel_Jacket.label>
-  <Make_Apparel_Jacket.description>Make jacket.</Make_Apparel_Jacket.description>
-  <Make_Apparel_Jacket.jobString>Making jacket.</Make_Apparel_Jacket.jobString>
+  <Make_Apparel_Jacket.label>membuat jaket</Make_Apparel_Jacket.label>
+  <Make_Apparel_Jacket.description>Membuat jaket.</Make_Apparel_Jacket.description>
+  <Make_Apparel_Jacket.jobString>Membuat jaket.</Make_Apparel_Jacket.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_Apparel_PlateArmor.label>make plate armor</Make_Apparel_PlateArmor.label>
-  <Make_Apparel_PlateArmor.description>Make plate armor.</Make_Apparel_PlateArmor.description>
-  <Make_Apparel_PlateArmor.jobString>Making plate armor.</Make_Apparel_PlateArmor.jobString>
+  <Make_Apparel_PlateArmor.label>membuat baju zirah</Make_Apparel_PlateArmor.label>
+  <Make_Apparel_PlateArmor.description>Membuat baju zirah.</Make_Apparel_PlateArmor.description>
+  <Make_Apparel_PlateArmor.jobString>Membuat baju zirah.</Make_Apparel_PlateArmor.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_FlakVest.label>make flak vest</Make_Apparel_FlakVest.label>
-  <Make_Apparel_FlakVest.description>Make flak vest.</Make_Apparel_FlakVest.description>
-  <Make_Apparel_FlakVest.jobString>Making flak vest.</Make_Apparel_FlakVest.jobString>
+  <Make_Apparel_FlakVest.label>membuat rompi flak</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>Membuat rompi flak.</Make_Apparel_FlakVest.description>
+  <Make_Apparel_FlakVest.jobString>Membuat rompi flak.</Make_Apparel_FlakVest.jobString>
 
-  <Make_Apparel_FlakPants.label>make flak pants</Make_Apparel_FlakPants.label>
-  <Make_Apparel_FlakPants.description>Make flak pants.</Make_Apparel_FlakPants.description>
-  <Make_Apparel_FlakPants.jobString>Making flak pants.</Make_Apparel_FlakPants.jobString>
+  <Make_Apparel_FlakPants.label>membuat celana flak</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>Membuat celana flak.</Make_Apparel_FlakPants.description>
+  <Make_Apparel_FlakPants.jobString>Membuat celana flak.</Make_Apparel_FlakPants.jobString>
 
-  <Make_Apparel_FlakJacket.label>make flak jacket</Make_Apparel_FlakJacket.label>
-  <Make_Apparel_FlakJacket.description>Make flak jacket.</Make_Apparel_FlakJacket.description>
-  <Make_Apparel_FlakJacket.jobString>Making flak jacket.</Make_Apparel_FlakJacket.jobString>
+  <Make_Apparel_FlakJacket.label>membuat jaket flak</Make_Apparel_FlakJacket.label>
+  <Make_Apparel_FlakJacket.description>Membuat jaket flak.</Make_Apparel_FlakJacket.description>
+  <Make_Apparel_FlakJacket.jobString>Membuat jaket flak.</Make_Apparel_FlakJacket.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Apparel_PowerArmor.label>make marine armor</Make_Apparel_PowerArmor.label>
-  <Make_Apparel_PowerArmor.description>Make marine armor.</Make_Apparel_PowerArmor.description>
-  <Make_Apparel_PowerArmor.jobString>Making marine armor.</Make_Apparel_PowerArmor.jobString>
+  <Make_Apparel_PowerArmor.label>membuat armor marine</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Membuat armor marine.</Make_Apparel_PowerArmor.description>
+  <Make_Apparel_PowerArmor.jobString>Membuat armor marine.</Make_Apparel_PowerArmor.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_MeleeWeapon_Mace.label>make mace</Make_MeleeWeapon_Mace.label>
-  <Make_MeleeWeapon_Mace.description>Make mace.</Make_MeleeWeapon_Mace.description>
-  <Make_MeleeWeapon_Mace.jobString>Making mace.</Make_MeleeWeapon_Mace.jobString>
+  <Make_MeleeWeapon_Mace.label>membuat gada</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>Membuat gada.</Make_MeleeWeapon_Mace.description>
+  <Make_MeleeWeapon_Mace.jobString>Membuat gada.</Make_MeleeWeapon_Mace.jobString>
 
-  <Make_MeleeWeapon_Gladius.label>make gladius</Make_MeleeWeapon_Gladius.label>
-  <Make_MeleeWeapon_Gladius.description>Make gladius.</Make_MeleeWeapon_Gladius.description>
-  <Make_MeleeWeapon_Gladius.jobString>Making gladius.</Make_MeleeWeapon_Gladius.jobString>
+  <Make_MeleeWeapon_Gladius.label>membuat gladius</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>Membuat gladius.</Make_MeleeWeapon_Gladius.description>
+  <Make_MeleeWeapon_Gladius.jobString>Membuat gladius.</Make_MeleeWeapon_Gladius.jobString>
 
-  <Make_MeleeWeapon_LongSword.label>make longsword</Make_MeleeWeapon_LongSword.label>
-  <Make_MeleeWeapon_LongSword.description>Make longsword.</Make_MeleeWeapon_LongSword.description>
-  <Make_MeleeWeapon_LongSword.jobString>Making longsword.</Make_MeleeWeapon_LongSword.jobString>
+  <Make_MeleeWeapon_LongSword.label>membuat pedang panjang</Make_MeleeWeapon_LongSword.label>
+  <Make_MeleeWeapon_LongSword.description>Membuat pedang panjang.</Make_MeleeWeapon_LongSword.description>
+  <Make_MeleeWeapon_LongSword.jobString>Membuat pedang panjang.</Make_MeleeWeapon_LongSword.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
 
-  <Make_MeleeWeapon_Club.label>make club</Make_MeleeWeapon_Club.label>
-  <Make_MeleeWeapon_Club.description>Make club.</Make_MeleeWeapon_Club.description>
-  <Make_MeleeWeapon_Club.jobString>Making club.</Make_MeleeWeapon_Club.jobString>
+  <Make_MeleeWeapon_Club.label>membuat pentungan</Make_MeleeWeapon_Club.label>
+  <Make_MeleeWeapon_Club.description>Membuat pentungan.</Make_MeleeWeapon_Club.description>
+  <Make_MeleeWeapon_Club.jobString>Membuat pentungan.</Make_MeleeWeapon_Club.jobString>
 
-  <Make_MeleeWeapon_Knife.label>make knife</Make_MeleeWeapon_Knife.label>
-  <Make_MeleeWeapon_Knife.description>Make knife.</Make_MeleeWeapon_Knife.description>
-  <Make_MeleeWeapon_Knife.jobString>Making knife.</Make_MeleeWeapon_Knife.jobString>
+  <Make_MeleeWeapon_Knife.label>membuat pisau</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>Membuat pisau.</Make_MeleeWeapon_Knife.description>
+  <Make_MeleeWeapon_Knife.jobString>Membuat pisau.</Make_MeleeWeapon_Knife.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_MeleeWeapon_Ikwa.label>make ikwa</Make_MeleeWeapon_Ikwa.label>
-  <Make_MeleeWeapon_Ikwa.description>Make ikwa.</Make_MeleeWeapon_Ikwa.description>
-  <Make_MeleeWeapon_Ikwa.jobString>Making ikwa.</Make_MeleeWeapon_Ikwa.jobString>
+  <Make_MeleeWeapon_Ikwa.label>membuat ikwa</Make_MeleeWeapon_Ikwa.label>
+  <Make_MeleeWeapon_Ikwa.description>Membuat ikwa.</Make_MeleeWeapon_Ikwa.description>
+  <Make_MeleeWeapon_Ikwa.jobString>Membuat ikwa.</Make_MeleeWeapon_Ikwa.jobString>
 
-  <Make_MeleeWeapon_Spear.label>make spear</Make_MeleeWeapon_Spear.label>
-  <Make_MeleeWeapon_Spear.description>Make spear.</Make_MeleeWeapon_Spear.description>
-  <Make_MeleeWeapon_Spear.jobString>Making spear.</Make_MeleeWeapon_Spear.jobString>
+  <Make_MeleeWeapon_Spear.label>membuat tombak</Make_MeleeWeapon_Spear.label>
+  <Make_MeleeWeapon_Spear.description>Membuat tombak.</Make_MeleeWeapon_Spear.description>
+  <Make_MeleeWeapon_Spear.jobString>Membuat tombak.</Make_MeleeWeapon_Spear.jobString>
 
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Gun_Revolver.label>make revolver</Make_Gun_Revolver.label>
-  <Make_Gun_Revolver.description>Make revolver.</Make_Gun_Revolver.description>
-  <Make_Gun_Revolver.jobString>Making revolver.</Make_Gun_Revolver.jobString>
+  <Make_Gun_Revolver.label>membuat revolver</Make_Gun_Revolver.label>
+  <Make_Gun_Revolver.description>Membuat revolver.</Make_Gun_Revolver.description>
+  <Make_Gun_Revolver.jobString>Membuat revolver.</Make_Gun_Revolver.jobString>
 
-  <Make_Gun_Autopistol.label>make autopistol</Make_Gun_Autopistol.label>
-  <Make_Gun_Autopistol.description>Make autopistol.</Make_Gun_Autopistol.description>
-  <Make_Gun_Autopistol.jobString>Making autopistol.</Make_Gun_Autopistol.jobString>
+  <Make_Gun_Autopistol.label>membuat pistol otomatis</Make_Gun_Autopistol.label>
+  <Make_Gun_Autopistol.description>Membuat pistol otomatis.</Make_Gun_Autopistol.description>
+  <Make_Gun_Autopistol.jobString>Membuat pistol otomatis.</Make_Gun_Autopistol.jobString>
 
-  <Make_Gun_MachinePistol.label>make machine pistol</Make_Gun_MachinePistol.label>
-  <Make_Gun_MachinePistol.description>Make machine pistol.</Make_Gun_MachinePistol.description>
-  <Make_Gun_MachinePistol.jobString>Making machine pistol.</Make_Gun_MachinePistol.jobString>
+  <Make_Gun_MachinePistol.label>membuat pistol mesin</Make_Gun_MachinePistol.label>
+  <Make_Gun_MachinePistol.description>Membuat pistol mesin.</Make_Gun_MachinePistol.description>
+  <Make_Gun_MachinePistol.jobString>Membuat pistol mesin.</Make_Gun_MachinePistol.jobString>
 
-  <Make_Gun_IncendiaryLauncher.label>make incendiary launcher</Make_Gun_IncendiaryLauncher.label>
-  <Make_Gun_IncendiaryLauncher.description>Make incendiary launcher.</Make_Gun_IncendiaryLauncher.description>
-  <Make_Gun_IncendiaryLauncher.jobString>Making incendiary launcher.</Make_Gun_IncendiaryLauncher.jobString>
+  <Make_Gun_IncendiaryLauncher.label>membuat peluncur pembakar</Make_Gun_IncendiaryLauncher.label>
+  <Make_Gun_IncendiaryLauncher.description>Membuat peluncur pembakar.</Make_Gun_IncendiaryLauncher.description>
+  <Make_Gun_IncendiaryLauncher.jobString>Membuat peluncur pembakar.</Make_Gun_IncendiaryLauncher.jobString>
 
-  <Make_Gun_BoltActionRifle.label>make bolt-action rifle</Make_Gun_BoltActionRifle.label>
-  <Make_Gun_BoltActionRifle.description>Make bolt-action rifle.</Make_Gun_BoltActionRifle.description>
-  <Make_Gun_BoltActionRifle.jobString>Making bolt-action rifle.</Make_Gun_BoltActionRifle.jobString>
+  <Make_Gun_BoltActionRifle.label>membuat senapan bolt-action</Make_Gun_BoltActionRifle.label>
+  <Make_Gun_BoltActionRifle.description>Membuat senapan bolt-action.</Make_Gun_BoltActionRifle.description>
+  <Make_Gun_BoltActionRifle.jobString>Membuat senapan bolt-action.</Make_Gun_BoltActionRifle.jobString>
 
-  <Make_Gun_PumpShotgun.label>make pump shotgun</Make_Gun_PumpShotgun.label>
-  <Make_Gun_PumpShotgun.description>Make pump shotgun.</Make_Gun_PumpShotgun.description>
-  <Make_Gun_PumpShotgun.jobString>Making pump shotgun.</Make_Gun_PumpShotgun.jobString>
+  <Make_Gun_PumpShotgun.label>membuat senapan pompa</Make_Gun_PumpShotgun.label>
+  <Make_Gun_PumpShotgun.description>Membuat senapan pompa.</Make_Gun_PumpShotgun.description>
+  <Make_Gun_PumpShotgun.jobString>Membuat senapan pompa.</Make_Gun_PumpShotgun.jobString>
 
-  <Make_Gun_ChainShotgun.label>make chain shotgun</Make_Gun_ChainShotgun.label>
-  <Make_Gun_ChainShotgun.description>Make chain shotgun.</Make_Gun_ChainShotgun.description>
-  <Make_Gun_ChainShotgun.jobString>Making chain shotgun.</Make_Gun_ChainShotgun.jobString>
+  <Make_Gun_ChainShotgun.label>membuat senapan rantai</Make_Gun_ChainShotgun.label>
+  <Make_Gun_ChainShotgun.description>Membuat senapan rantai.</Make_Gun_ChainShotgun.description>
+  <Make_Gun_ChainShotgun.jobString>Membuat senapan rantai.</Make_Gun_ChainShotgun.jobString>
 
-  <Make_Gun_HeavySMG.label>make heavy SMG</Make_Gun_HeavySMG.label>
-  <Make_Gun_HeavySMG.description>Make heavy SMG.</Make_Gun_HeavySMG.description>
-  <Make_Gun_HeavySMG.jobString>Making heavy SMG.</Make_Gun_HeavySMG.jobString>
+  <Make_Gun_HeavySMG.label>membuat SMG berat</Make_Gun_HeavySMG.label>
+  <Make_Gun_HeavySMG.description>Membuat SMG berat.</Make_Gun_HeavySMG.description>
+  <Make_Gun_HeavySMG.jobString>Membuat SMG berat.</Make_Gun_HeavySMG.jobString>
 
-  <Make_Gun_LMG.label>make LMG</Make_Gun_LMG.label>
-  <Make_Gun_LMG.description>Make LMG.</Make_Gun_LMG.description>
-  <Make_Gun_LMG.jobString>Making LMG.</Make_Gun_LMG.jobString>
+  <Make_Gun_LMG.label>membuat LMG</Make_Gun_LMG.label>
+  <Make_Gun_LMG.description>Membuat LMG.</Make_Gun_LMG.description>
+  <Make_Gun_LMG.jobString>Membuat LMG.</Make_Gun_LMG.jobString>
 
-  <Make_Gun_AssaultRifle.label>make assault rifle</Make_Gun_AssaultRifle.label>
-  <Make_Gun_AssaultRifle.description>Make assault rifle.</Make_Gun_AssaultRifle.description>
-  <Make_Gun_AssaultRifle.jobString>Making assault rifle.</Make_Gun_AssaultRifle.jobString>
+  <Make_Gun_AssaultRifle.label>membuat senapan serbu</Make_Gun_AssaultRifle.label>
+  <Make_Gun_AssaultRifle.description>Membuat senapan serbu.</Make_Gun_AssaultRifle.description>
+  <Make_Gun_AssaultRifle.jobString>Membuat senapan serbu.</Make_Gun_AssaultRifle.jobString>
 
-  <Make_Gun_SniperRifle.label>make sniper rifle</Make_Gun_SniperRifle.label>
-  <Make_Gun_SniperRifle.description>Make sniper rifle.</Make_Gun_SniperRifle.description>
-  <Make_Gun_SniperRifle.jobString>Making sniper rifle.</Make_Gun_SniperRifle.jobString>
+  <Make_Gun_SniperRifle.label>membuat senapan sniper</Make_Gun_SniperRifle.label>
+  <Make_Gun_SniperRifle.description>Membuat senapan sniper.</Make_Gun_SniperRifle.description>
+  <Make_Gun_SniperRifle.jobString>Membuat senapan sniper.</Make_Gun_SniperRifle.jobString>
 
-  <Make_Gun_Minigun.label>make minigun</Make_Gun_Minigun.label>
-  <Make_Gun_Minigun.description>Make minigun.</Make_Gun_Minigun.description>
-  <Make_Gun_Minigun.jobString>Making minigun.</Make_Gun_Minigun.jobString>
+  <Make_Gun_Minigun.label>membuat minigun</Make_Gun_Minigun.label>
+  <Make_Gun_Minigun.description>Membuat minigun.</Make_Gun_Minigun.description>
+  <Make_Gun_Minigun.jobString>Membuat minigun.</Make_Gun_Minigun.jobString>
 
-  <Make_Weapon_GrenadeFrag.label>make frag grenades</Make_Weapon_GrenadeFrag.label>
-  <Make_Weapon_GrenadeFrag.description>Make frag grenades.</Make_Weapon_GrenadeFrag.description>
-  <Make_Weapon_GrenadeFrag.jobString>Making frag grenades.</Make_Weapon_GrenadeFrag.jobString>
+  <Make_Weapon_GrenadeFrag.label>membuat granat frag</Make_Weapon_GrenadeFrag.label>
+  <Make_Weapon_GrenadeFrag.description>Membuat granat frag.</Make_Weapon_GrenadeFrag.description>
+  <Make_Weapon_GrenadeFrag.jobString>Membuat granat frag.</Make_Weapon_GrenadeFrag.jobString>
 
-  <Make_Weapon_GrenadeMolotov.label>make molotov cocktails</Make_Weapon_GrenadeMolotov.label>
-  <Make_Weapon_GrenadeMolotov.description>Make molotov cocktails.</Make_Weapon_GrenadeMolotov.description>
-  <Make_Weapon_GrenadeMolotov.jobString>Making molotov cocktails.</Make_Weapon_GrenadeMolotov.jobString>
+  <Make_Weapon_GrenadeMolotov.label>membuat koktail molotov</Make_Weapon_GrenadeMolotov.label>
+  <Make_Weapon_GrenadeMolotov.description>Membuat koktail molotov.</Make_Weapon_GrenadeMolotov.description>
+  <Make_Weapon_GrenadeMolotov.jobString>Membuat koktail molotov.</Make_Weapon_GrenadeMolotov.jobString>
 
-  <Make_Weapon_GrenadeEMP.label>make EMP grenades</Make_Weapon_GrenadeEMP.label>
-  <Make_Weapon_GrenadeEMP.description>Make EMP grenades.</Make_Weapon_GrenadeEMP.description>
-  <Make_Weapon_GrenadeEMP.jobString>Making EMP grenades.</Make_Weapon_GrenadeEMP.jobString>
-
-
-  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
-
-  <Make_Bow_Short.label>make short bow</Make_Bow_Short.label>
-  <Make_Bow_Short.description>Make short bow.</Make_Bow_Short.description>
-  <Make_Bow_Short.jobString>Making short bow.</Make_Bow_Short.jobString>
-
-
-  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
-
-  <Make_Pila.label>make pila</Make_Pila.label>
-  <Make_Pila.description>Make pila.</Make_Pila.description>
-  <Make_Pila.jobString>Making pila.</Make_Pila.jobString>
+  <Make_Weapon_GrenadeEMP.label>membuat granat EMP</Make_Weapon_GrenadeEMP.label>
+  <Make_Weapon_GrenadeEMP.description>Membuat granat EMP.</Make_Weapon_GrenadeEMP.description>
+  <Make_Weapon_GrenadeEMP.jobString>Membuat granat EMP.</Make_Weapon_GrenadeEMP.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
 
-  <Make_Bow_Recurve.label>make recurve bow</Make_Bow_Recurve.label>
-  <Make_Bow_Recurve.description>Make recurve bow.</Make_Bow_Recurve.description>
-  <Make_Bow_Recurve.jobString>Making recurve bow.</Make_Bow_Recurve.jobString>
+  <Make_Bow_Short.label>membuat busur pendek</Make_Bow_Short.label>
+  <Make_Bow_Short.description>Membuat busur pendek.</Make_Bow_Short.description>
+  <Make_Bow_Short.jobString>Membuat busur pendek.</Make_Bow_Short.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_Bow_Great.label>make greatbow</Make_Bow_Great.label>
-  <Make_Bow_Great.description>Make greatbow.</Make_Bow_Great.description>
-  <Make_Bow_Great.jobString>Making greatbow.</Make_Bow_Great.jobString>
+  <Make_Pila.label>membuat pila</Make_Pila.label>
+  <Make_Pila.description>Membuat pila.</Make_Pila.description>
+  <Make_Pila.jobString>Membuat pila.</Make_Pila.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, CraftingSpot -->
+
+  <Make_Bow_Recurve.label>membuat busur recurve</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>Membuat busur recurve.</Make_Bow_Recurve.description>
+  <Make_Bow_Recurve.jobString>Membuat busur recurve.</Make_Bow_Recurve.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+
+  <Make_Bow_Great.label>membuat greatbow</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Membuat greatbow.</Make_Bow_Great.description>
+  <Make_Bow_Great.jobString>Membuat greatbow.</Make_Bow_Great.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_Gun_ChargeRifle.label>make charge rifle</Make_Gun_ChargeRifle.label>
-  <Make_Gun_ChargeRifle.description>Make charge rifle.</Make_Gun_ChargeRifle.description>
-  <Make_Gun_ChargeRifle.jobString>Making charge rifle.</Make_Gun_ChargeRifle.jobString>
+  <Make_Gun_ChargeRifle.label>membuat senapan charge</Make_Gun_ChargeRifle.label>
+  <Make_Gun_ChargeRifle.description>Membuat senapan charge.</Make_Gun_ChargeRifle.description>
+  <Make_Gun_ChargeRifle.jobString>Membuat senapan charge.</Make_Gun_ChargeRifle.jobString>
 
-  <Make_Gun_ChargeLance.label>make charge lance</Make_Gun_ChargeLance.label>
-  <Make_Gun_ChargeLance.description>Make charge lance.</Make_Gun_ChargeLance.description>
-  <Make_Gun_ChargeLance.jobString>Making charge lance.</Make_Gun_ChargeLance.jobString>
+  <Make_Gun_ChargeLance.label>membuat tombak charge</Make_Gun_ChargeLance.label>
+  <Make_Gun_ChargeLance.description>Membuat tombak charge.</Make_Gun_ChargeLance.description>
+  <Make_Gun_ChargeLance.jobString>Membuat tombak charge.</Make_Gun_ChargeLance.jobString>
 
 
 </LanguageData>

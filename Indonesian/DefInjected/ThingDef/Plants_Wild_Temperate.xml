@@ -3,35 +3,35 @@
 
   <!-- Carpets -->
 
-  <Plant_Dandelion.label>dandelions</Plant_Dandelion.label>
-  <Plant_Dandelion.description>A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful.</Plant_Dandelion.description>
+  <Plant_Dandelion.label>dandelion</Plant_Dandelion.label>
+  <Plant_Dandelion.description>Bunga kuning kecil yang tumbuh dalam kelompok besar. Meskipun sering dianggap gulma, dandelion yang mekar cukup indah.</Plant_Dandelion.description>
 
   <Plant_Astragalus.label>astragalus</Plant_Astragalus.label>
-  <Plant_Astragalus.description>A small perennial wildflower that grows in alpine climates.</Plant_Astragalus.description>
+  <Plant_Astragalus.description>Bunga liar kecil tahunan yang tumbuh di iklim pegunungan.</Plant_Astragalus.description>
 
-  <Plant_Moss.label>moss</Plant_Moss.label>
-  <Plant_Moss.description>Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant.</Plant_Moss.description>
+  <Plant_Moss.label>lumut</Plant_Moss.label>
+  <Plant_Moss.description>Lumut liar yang tumbuh berkelompok di area dengan cahaya redup dan suhu dingin. Lumut butuh waktu lama untuk tumbuh, tapi sangat tahan terhadap embun beku.</Plant_Moss.description>
 
 
   <!-- Bushes -->
 
-  <Plant_Berry.label>berry bush</Plant_Berry.label>
-  <Plant_Berry.description>A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw.</Plant_Berry.description>
+  <Plant_Berry.label>semak berry</Plant_Berry.label>
+  <Plant_Berry.description>Tanaman liar berbentuk semak yang menghasilkan berry lezat. Berry bisa dimasak, tapi juga enak dimakan mentah.</Plant_Berry.description>
 
 
   <!-- Trees -->
 
-  <Plant_TreeOak.label>oak tree</Plant_TreeOak.label>
-  <Plant_TreeOak.description>A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures.</Plant_TreeOak.description>
+  <Plant_TreeOak.label>pohon ek</Plant_TreeOak.label>
+  <Plant_TreeOak.description>Pohon kayu keras. Ek butuh waktu lama untuk tumbuh, tapi kayunya sangat kuat sehingga 'ek' digunakan sebagai kiasan untuk kekuatan di banyak budaya.</Plant_TreeOak.description>
 
-  <Plant_TreePoplar.label>poplar tree</Plant_TreePoplar.label>
-  <Plant_TreePoplar.description>A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees.</Plant_TreePoplar.description>
+  <Plant_TreePoplar.label>pohon poplar</Plant_TreePoplar.label>
+  <Plant_TreePoplar.description>Pohon kayu lunak yang tumbuh sangat cepat. Sayangnya, kayunya lemah sehingga menghasilkan material yang kurang berguna dibanding pohon kayu keras.</Plant_TreePoplar.description>
 
-  <Plant_TreePine.label>pine tree</Plant_TreePine.label>
-  <Plant_TreePine.description>A large conifer covered with prickly pine cones. It grows in a distinctive conical shape.</Plant_TreePine.description>
+  <Plant_TreePine.label>pohon pinus</Plant_TreePine.label>
+  <Plant_TreePine.description>Pohon berdaun jarum besar yang ditutupi kerucut pinus berduri. Tumbuh dalam bentuk kerucut yang khas.</Plant_TreePine.description>
 
-  <Plant_TreeBirch.label>birch tree</Plant_TreeBirch.label>
-  <Plant_TreeBirch.description>A temperate-biome tree known for its thin, white, paper-like bark.</Plant_TreeBirch.description>
+  <Plant_TreeBirch.label>pohon birch</Plant_TreeBirch.label>
+  <Plant_TreeBirch.description>Pohon bioma beriklim sedang yang dikenal dengan kulitnya yang tipis, putih, dan mirip kertas.</Plant_TreeBirch.description>
 
 
 </LanguageData>

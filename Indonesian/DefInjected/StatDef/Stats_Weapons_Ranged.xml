@@ -1,24 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AccuracyTouch.label>Accuracy (close)</AccuracyTouch.label>
-  <AccuracyTouch.description>The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors.</AccuracyTouch.description>
+  <AccuracyTouch.label>Akurasi (jarak dekat)</AccuracyTouch.label>
+  <AccuracyTouch.description>Akurasi senjata pada jarak 3 sel atau kurang. Kesempatan tembakan untuk mengenai target juga akan dipengaruhi oleh faktor lainnya.</AccuracyTouch.description>
 
-  <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-  <AccuracyShort.description>The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors.</AccuracyShort.description>
+  <AccuracyShort.label>Akurasi (jarak pendek)</AccuracyShort.label>
+  <AccuracyShort.description>Akurasi senjata pada jarak 12 sel. Kesempatan tembakan untuk mengenai target juga akan dipengaruhi oleh faktor lainnya.</AccuracyShort.description>
 
-  <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
-  <AccuracyMedium.description>The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors.</AccuracyMedium.description>
+  <AccuracyMedium.label>Akurasi (jarak menengah)</AccuracyMedium.label>
+  <AccuracyMedium.description>Akurasi senjata pada jarak 25 sel. Kesempatan tembakan untuk mengenai target juga akan dipengaruhi oleh faktor lainnya.</AccuracyMedium.description>
 
-  <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
-  <AccuracyLong.description>The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors.</AccuracyLong.description>
+  <AccuracyLong.label>Akurasi (jarak jauh)</AccuracyLong.label>
+  <AccuracyLong.description>Akurasi senjata pada jarak 40 sel atau lebih. Kesempatan tembakan untuk mengenai target juga akan dipengaruhi oleh faktor lainnya.</AccuracyLong.description>
 
-  <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
-  <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
-  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+  <RangedWeapon_Cooldown.label>waktu jeda tembak</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>Berapa lama waktu yang dibutuhkan untuk pulih setelah menembakkan senjata ini.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>{0} d</RangedWeapon_Cooldown.formatString>
 
-  <RangedWeapon_DamageMultiplier.label>damage multiplier</RangedWeapon_DamageMultiplier.label>
-  <RangedWeapon_DamageMultiplier.description>A damage multiplier applied to projectiles fired from this weapon.</RangedWeapon_DamageMultiplier.description>
-
+  <RangedWeapon_DamageMultiplier.label>pengganda damage</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.description>Pengganda damage yang diterapkan pada proyektil yang ditembakkan dari senjata ini.</RangedWeapon_DamageMultiplier.description>
 
 </LanguageData>

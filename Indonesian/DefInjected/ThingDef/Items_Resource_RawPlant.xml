@@ -1,38 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
-  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+  <RawPotatoes.label>kentang</RawPotatoes.label>
+  <RawPotatoes.description>Kentang mentah.</RawPotatoes.description>
 
-  <RawFungus.label>raw fungus</RawFungus.label>
-  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawFungus.label>jamur</RawFungus.label>
+  <RawFungus.description>Jamur mentah.</RawFungus.description>
 
-  <RawRice.label>rice</RawRice.label>
-  <RawRice.description>Raw rice.</RawRice.description>
+  <RawRice.label>beras</RawRice.label>
+  <RawRice.description>Beras mentah.</RawRice.description>
 
-  <RawAgave.label>agave fruit</RawAgave.label>
-  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <RawAgave.label>buah agave</RawAgave.label>
+  <RawAgave.description>Buah agave mentah.</RawAgave.description>
 
-  <RawCorn.label>corn</RawCorn.label>
-  <RawCorn.description>Raw corn.</RawCorn.description>
+  <RawCorn.label>jagung</RawCorn.label>
+  <RawCorn.description>Jagung mentah.</RawCorn.description>
 
-  <RawBerries.label>berries</RawBerries.label>
-  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
-
+  <RawBerries.label>beri</RawBerries.label>
+  <RawBerries.description>Berbagai macam beri. Enak dimakan, bahkan saat mentah.</RawBerries.description>
 
   <!-- Plant matter (inedible by people) -->
+  <Hay.label>jerami</Hay.label>
+  <Hay.description>Rumput dan tunas kaya nutrisi, dipanen dan dipadatkan untuk disimpan. Jerami adalah makanan hewan yang baik, tapi tidak bisa dimakan manusia.</Hay.description>
 
-  <Hay.label>hay</Hay.label>
-  <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
+  <RawHops.label>hop</RawHops.label>
+  <RawHops.description>Hop mentah. Bahan perasa dan pengawet yang diperlukan untuk membuat bir.</RawHops.description>
 
-  <RawHops.label>hops</RawHops.label>
-  <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
+  <PsychoidLeaves.label>daun psychoid</PsychoidLeaves.label>
+  <PsychoidLeaves.description>Daun tanaman psychoid yang dipotong mentah. Dapat diolah menjadi berbagai bentuk obat perangsang psychite.</PsychoidLeaves.description>
 
-  <PsychoidLeaves.label>psychoid leaves</PsychoidLeaves.label>
-  <PsychoidLeaves.description>Raw cut leaves of a psychoid plant. Can be refined into various form of the stimulant drug psychite.</PsychoidLeaves.description>
-
-  <SmokeleafLeaves.label>smokeleaf leaves</SmokeleafLeaves.label>
-  <SmokeleafLeaves.description>Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joints at a crafting spot.</SmokeleafLeaves.description>
-
+  <SmokeleafLeaves.label>daun smokeleaf</SmokeleafLeaves.label>
+  <SmokeleafLeaves.description>Daun tanaman smokeleaf yang dipotong mentah. Bisa digulung menjadi linting yang bisa dihisap di tempat kerajinan.</SmokeleafLeaves.description>
 
 </LanguageData>

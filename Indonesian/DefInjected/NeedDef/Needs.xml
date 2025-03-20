@@ -1,28 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Mood.label>mood</Mood.label>
-  <Mood.description>Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree.</Mood.description>
+  <Mood.label>suasana hati</Mood.label>
+  <Mood.description>Suasana hati mencerminkan seberapa bahagia atau stres seseorang. Jika suasana hati menjadi terlalu rendah, orang tersebut mungkin mengalami gangguan mental. Bergantung pada seberapa rendah suasana hatinya, seseorang yang mengalami gangguan mental mungkin akan bersembunyi di kamarnya selama sehari, atau bahkan melakukan pembantaian.</Mood.description>
 
-  <Food.label>food</Food.label>
-  <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
+  <Food.label>makanan</Food.label>
+  <Food.description>Makanan adalah jumlah nutrisi yang terakhir kali dikonsumsi oleh makhluk tersebut. Jika mencapai nol, makhluk akan menjadi semakin kekurangan gizi dan akhirnya mati.</Food.description>
 
-  <Rest.label>rest</Rest.label>
-  <Rest.description>Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+  <Rest.label>istirahat</Rest.label>
+  <Rest.description>Istirahat adalah seberapa banyak tidur yang telah didapatkan oleh makhluk tersebut baru-baru ini. Jika mencapai nol, makhluk tersebut akhirnya akan tertidur di tempat.</Rest.description>
 
-  <Joy.label>recreation</Joy.label>
-  <Joy.description>Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+  <Joy.label>rekreasi</Joy.label>
+  <Joy.description>Rekreasi adalah kebutuhan untuk bersenang-senang. Mengulangi jenis kegiatan yang sama membuatnya kurang menyenangkan, sehingga variasi diperlukan.</Joy.description>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+  <Beauty.label>keindahan</Beauty.label>
+  <Beauty.description>Keindahan mencerminkan seberapa menyenangkannya secara visual lingkungan di sekitar seseorang baru-baru ini. Hal-hal yang indah seperti seni meningkatkan keindahan saat dilihat, sedangkan hal-hal yang jelek seperti kotoran dan permukaan batu kasar menguranginya.</Beauty.description>
 
-  <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times.</Comfort.description>
+  <Comfort.label>kenyamanan</Comfort.label>
+  <Comfort.description>Kenyamanan diperoleh dengan duduk atau tidur di perabotan yang nyaman. Hal ini diperoleh saat berbaring di tempat tidur, duduk di kursi sambil bekerja, atau pada waktu-waktu lainnya.</Comfort.description>
 
-  <Outdoors.label>outdoors</Outdoors.label>
-  <Outdoors.description>Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases.</Outdoors.description>
+  <Outdoors.label>luar ruang</Outdoors.label>
+  <Outdoors.description>Luar ruang mengungkapkan kebutuhan untuk tidak selalu berada di dalam ruangan. Hal ini terkikis oleh waktu yang lama di dalam ruangan, terutama di bawah tanah. Nilainya meningkat ketika seseorang menghabiskan waktu di bawah langit terbuka. Ini bukan tentang ukuran ruangan, melainkan kebutuhan untuk keluar sesekali. Kurangnya waktu di luar ruangan merupakan tantangan besar bagi orang-orang yang tinggal di basis bawah tanah.</Outdoors.description>
 
-  <RoomSize.label>room size</RoomSize.label>
-
+  <RoomSize.label>ukuran kamar</RoomSize.label>
 
 </LanguageData>

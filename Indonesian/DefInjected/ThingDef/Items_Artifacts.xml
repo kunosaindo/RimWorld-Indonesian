@@ -1,21 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PsychicInsanityLance.label>psychic insanity lance</PsychicInsanityLance.label>
-  <PsychicInsanityLance.description>A one-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving him into a berserk state. There is a risk of brain damage. It works at long distances, and through walls.</PsychicInsanityLance.description>
-  <PsychicInsanityLance.comps.1.useLabel>Activate</PsychicInsanityLance.comps.1.useLabel>
+  <PsychicInsanityLance.label>tombak kegilaan psikis</PsychicInsanityLance.label>
+  <PsychicInsanityLance.description>Perangkat psikis sekali pakai. Membanjiri pikiran target dengan distorsi persepsi yang mengerikan, membuatnya mengamuk. Ada risiko kerusakan otak. Bekerja dari jarak jauh, dan menembus tembok.</PsychicInsanityLance.description>
+  <PsychicInsanityLance.comps.1.useLabel>Aktifkan</PsychicInsanityLance.comps.1.useLabel>
 
-  <PsychicShockLance.label>psychic shock lance</PsychicShockLance.label>
-  <PsychicShockLance.description>A one-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping him into a state of psychic shock. There is a risk of brain damage. It works at long distances, and through walls.</PsychicShockLance.description>
-  <PsychicShockLance.comps.1.useLabel>Activate</PsychicShockLance.comps.1.useLabel>
+  <PsychicShockLance.label>tombak kejut psikis</PsychicShockLance.label>
+  <PsychicShockLance.description>Perangkat psikis sekali pakai. Mengejutkan pikiran target dengan gambar-gambar kacau, memblokir persepsi yang koheren dan membuatnya jatuh dalam kondisi syok psikis. Ada risiko kerusakan otak. Bekerja dari jarak jauh, dan menembus tembok.</PsychicShockLance.description>
+  <PsychicShockLance.comps.1.useLabel>Aktifkan</PsychicShockLance.comps.1.useLabel>
 
-  <PsychicAnimalPulser.label>psychic animal pulser</PsychicAnimalPulser.label>
-  <PsychicAnimalPulser.description>A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage.</PsychicAnimalPulser.description>
-  <PsychicAnimalPulser.comps.1.useLabel>Activate</PsychicAnimalPulser.comps.1.useLabel>
+  <PsychicAnimalPulser.label>pemancar binatang psikis</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>Perangkat psikis gelombang lebar sekali pakai. Pulsa psikis mengisi pikiran sederhana dengan gambaran menakutkan, membuat semua binatang di wilayah tersebut mengamuk dan memburu manusia.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.comps.1.useLabel>Aktifkan</PsychicAnimalPulser.comps.1.useLabel>
 
-  <PsychicSoothePulser.label>psychic soothe pulser</PsychicSoothePulser.label>
-  <PsychicSoothePulser.description>A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region.</PsychicSoothePulser.description>
-  <PsychicSoothePulser.comps.1.useLabel>Activate</PsychicSoothePulser.comps.1.useLabel>
-
+  <PsychicSoothePulser.label>pemancar penenang psikis</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>Perangkat psikis gelombang lebar sekali pakai. Pulsa psikis menginduksi distorsi persepsi yang memuaskan diri, memberikan peningkatan suasana hati sementara kepada semua orang di wilayah tersebut.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.comps.1.useLabel>Aktifkan</PsychicSoothePulser.comps.1.useLabel>
 
 </LanguageData>

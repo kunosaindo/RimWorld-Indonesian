@@ -2,43 +2,28 @@
 <LanguageData>
 
   <!-- High-explosive -->
-
-  <Shell_HighExplosive.label>high-explosive shell</Shell_HighExplosive.label>
-  <Shell_HighExplosive.description>A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_HighExplosive.description>
-
-  <Bullet_Shell_HighExplosive.label>high-explosive shell</Bullet_Shell_HighExplosive.label>
-
+  <Shell_HighExplosive.label>peluru ledak tinggi</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>Peluru yang diisi dengan bahan peledak berkekuatan tinggi. Bisa ditembakkan dari mortir atau dipasang sebagai jebakan. Meledak jika rusak.</Shell_HighExplosive.description>
+  <Bullet_Shell_HighExplosive.label>peluru ledak tinggi</Bullet_Shell_HighExplosive.label>
 
   <!-- Incendiary -->
-
-  <Shell_Incendiary.label>incendiary shell</Shell_Incendiary.label>
-  <Shell_Incendiary.description>A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Incendiary.description>
-
-  <Bullet_Shell_Incendiary.label>incendiary shell</Bullet_Shell_Incendiary.label>
-
+  <Shell_Incendiary.label>peluru pembakar</Shell_Incendiary.label>
+  <Shell_Incendiary.description>Peluru yang diisi dengan gel mudah terbakar dan bahan peledak kecil. Menyebabkan kebakaran saat meledak. Bisa ditembakkan dari mortir atau dipasang sebagai jebakan. Meledak jika rusak.</Shell_Incendiary.description>
+  <Bullet_Shell_Incendiary.label>peluru pembakar</Bullet_Shell_Incendiary.label>
 
   <!-- EMP -->
-
-  <Shell_EMP.label>EMP shell</Shell_EMP.label>
-  <Shell_EMP.description>A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_EMP.description>
-
-  <Bullet_Shell_EMP.label>EMP shell</Bullet_Shell_EMP.label>
-
+  <Shell_EMP.label>peluru EMP</Shell_EMP.label>
+  <Shell_EMP.description>Peluru yang diisi dengan baterai dan antena, untuk menghasilkan pulsa elektromagnetik saat meledak. Pulsa elektromagnetik sementara melumpuhkan perangkat elektronik dan mekanoid. Bisa ditembakkan dari mortir atau dipasang sebagai jebakan. Meledak jika rusak.</Shell_EMP.description>
+  <Bullet_Shell_EMP.label>peluru EMP</Bullet_Shell_EMP.label>
 
   <!-- Firefoam -->
-
-  <Shell_Firefoam.label>firefoam shell</Shell_Firefoam.label>
-  <Shell_Firefoam.description>A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Firefoam.description>
-
-  <Bullet_Shell_Firefoam.label>firefoam shell</Bullet_Shell_Firefoam.label>
-
+  <Shell_Firefoam.label>peluru busa pemadam</Shell_Firefoam.label>
+  <Shell_Firefoam.description>Peluru bertekanan yang diisi dengan busa pemadam api. Bisa ditembakkan dari mortir atau dipasang sebagai jebakan. Meledak jika rusak.</Shell_Firefoam.description>
+  <Bullet_Shell_Firefoam.label>peluru busa pemadam</Bullet_Shell_Firefoam.label>
 
   <!-- Antigrain warhead -->
-
-  <Shell_AntigrainWarhead.label>antigrain warhead</Shell_AntigrainWarhead.label>
-  <Shell_AntigrainWarhead.description>An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_AntigrainWarhead.description>
-
-  <Bullet_Shell_AntigrainWarhead.label>antigrain warhead</Bullet_Shell_AntigrainWarhead.label>
-
+  <Shell_AntigrainWarhead.label>hulu ledak antigrain</Shell_AntigrainWarhead.label>
+  <Shell_AntigrainWarhead.description>Hulu ledak berteknologi ultra yang ditenagai oleh butiran antimateri. Biasanya digunakan oleh pesawat luar angkasa atau mesin perang dunia berkilau, menciptakan ledakan besar dan memulai kebakaran di sekitar target. Bisa ditembakkan dari mortir atau dipasang sebagai jebakan. Meledak jika rusak.</Shell_AntigrainWarhead.description>
+  <Bullet_Shell_AntigrainWarhead.label>hulu ledak antigrain</Bullet_Shell_AntigrainWarhead.label>
 
 </LanguageData>

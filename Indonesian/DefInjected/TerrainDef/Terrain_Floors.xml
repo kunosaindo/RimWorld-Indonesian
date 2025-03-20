@@ -3,47 +3,47 @@
 
   <!-- Misc -->
 
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly.</Concrete.description>
+  <Concrete.label>beton</Concrete.label>
+  <Concrete.description>Beton kasar. Mudah untuk berjalan di atasnya, murah, dan cepat dibangun, tapi tampak jelek.</Concrete.description>
 
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.label>ubin beton</PavedTile.label>
+  <PavedTile.description>Ubin dari beton. Murah dan nyaman untuk berjalan, tapi biasa saja penampilannya dan butuh waktu untuk membangunnya.</PavedTile.description>
 
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</WoodPlankFloor.description>
+  <WoodPlankFloor.label>lantai kayu</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Lantai dari papan kayu yang memberikan nuansa hangat dan nyaman. Meskipun cepat dipasang, tapi sangat mudah terbakar.</WoodPlankFloor.description>
 
 
   <!-- Tiles -->
 
-  <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness.</MetalTile.description>
+  <MetalTile.label>ubin logam</MetalTile.label>
+  <MetalTile.description>Ubin logam, untuk tampilan ala pesawat luar angkasa. Bagus dipandang, dan permukaannya yang halus membuat lebih mudah dibersihkan.</MetalTile.description>
 
-  <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness.</SilverTile.description>
+  <SilverTile.label>ubin perak</SilverTile.label>
+  <SilverTile.description>Untuk tampilan futuristik yang mewah, ubin perak sangat cocok untuk ruangan mewah. Permukaannya mudah dibersihkan.</SilverTile.description>
 
-  <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them.</GoldTile.description>
+  <GoldTile.label>ubin emas</GoldTile.label>
+  <GoldTile.description>Untuk kemewahan yang berlebihan, tidak ada yang mengalahkan ubin emas. Harganya sangat mahal, tapi luar biasa indah, dan orang-orang akan menganggapmu sangat sombong jika benar-benar tinggal di atasnya.</GoldTile.description>
 
-  <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build.</SterileTile.description>
+  <SterileTile.label>ubin steril</SterileTile.label>
+  <SterileTile.description>Ubin steril dengan kemampuan khusus menjaga kebersihan. Ruangan yang ekstra bersih meningkatkan hasil di rumah sakit dan laboratorium penelitian. Ubin ini sangat lama untuk dipasang.</SterileTile.description>
 
 
   <!-- Carpets -->
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <CarpetRed.label>karpet merah</CarpetRed.label>
+  <CarpetRed.description>Karpet mewah dengan warna merah mawar yang cantik.</CarpetRed.description>
 
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet. Earth tones, dude.</CarpetGreen.description>
+  <CarpetGreen.label>karpet hijau</CarpetGreen.label>
+  <CarpetGreen.description>Karpet hijau yang memberi kesan alami. Warna bumi, bro.</CarpetGreen.description>
 
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <CarpetBlue.label>karpet biru</CarpetBlue.label>
+  <CarpetBlue.description>Karpet mewah yang nyaman dengan warna biru yang sejuk.</CarpetBlue.description>
 
-  <CarpetCream.label>cream carpet</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+  <CarpetCream.label>karpet krem</CarpetCream.label>
+  <CarpetCream.description>Karpet berwarna krem yang mengundang.</CarpetCream.description>
 
-  <CarpetDark.label>dark carpet</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <CarpetDark.label>karpet gelap</CarpetDark.label>
+  <CarpetDark.description>Karpet abu-abu gelap yang terlihat profesional.</CarpetDark.description>
 
 
 </LanguageData>

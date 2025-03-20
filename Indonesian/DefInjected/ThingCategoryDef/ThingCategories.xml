@@ -1,89 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Root.label>root</Root.label>
-
+  <Root.label>akar</Root.label>
 
   <!-- Foods -->
 
-  <Foods.label>foods</Foods.label>
-  <FoodMeals.label>meals</FoodMeals.label>
-  <FoodRaw.label>raw food</FoodRaw.label>
-  <MeatRaw.label>meat</MeatRaw.label>
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
-  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
-  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
-  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
-
+  <Foods.label>makanan</Foods.label>
+  <FoodMeals.label>hidangan</FoodMeals.label>
+  <FoodRaw.label>makanan mentah</FoodRaw.label>
+  <MeatRaw.label>daging</MeatRaw.label>
+  <PlantFoodRaw.label>sayuran</PlantFoodRaw.label>
+  <AnimalProductRaw.label>produk hewani</AnimalProductRaw.label>
+  <EggsUnfertilized.label>telur (non-fertil)</EggsUnfertilized.label>
+  <EggsFertilized.label>telur (fertil)</EggsFertilized.label>
 
   <!-- Manufactured -->
 
-  <Manufactured.label>manufactured</Manufactured.label>
-  <Textiles.label>textiles</Textiles.label>
-  <Leathers.label>leathers</Leathers.label>
-  <Medicine.label>medicine</Medicine.label>
-  <Drugs.label>drugs</Drugs.label>
-  <MortarShells.label>mortar shells</MortarShells.label>
-
+  <Manufactured.label>barang olahan</Manufactured.label>
+  <Textiles.label>tekstil</Textiles.label>
+  <Leathers.label>kulit</Leathers.label>
+  <Medicine.label>obat-obatan</Medicine.label>
+  <Drugs.label>obat-obatan</Drugs.label>
+  <MortarShells.label>peluru mortir</MortarShells.label>
 
   <!-- Raw resources -->
 
-  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
-  <PlantMatter.label>plant matter</PlantMatter.label>
-  <StoneBlocks.label>stone blocks</StoneBlocks.label>
-
+  <ResourcesRaw.label>bahan mentah</ResourcesRaw.label>
+  <PlantMatter.label>bahan tumbuhan</PlantMatter.label>
+  <StoneBlocks.label>balok batu</StoneBlocks.label>
 
   <!-- Items -->
 
-  <Items.label>items</Items.label>
-  <Unfinished.label>unfinished</Unfinished.label>
-  <Artifacts.label>artifacts</Artifacts.label>
-  <BodyParts.label>body parts</BodyParts.label>
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
-  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
-
+  <Items.label>barang</Items.label>
+  <Unfinished.label>belum selesai</Unfinished.label>
+  <Artifacts.label>artefak</Artifacts.label>
+  <BodyParts.label>bagian tubuh</BodyParts.label>
+  <BodyPartsNatural.label>alami</BodyPartsNatural.label>
+  <BodyPartsArtificial.label>buatan</BodyPartsArtificial.label>
 
   <!-- Weapons -->
 
-  <Weapons.label>weapons</Weapons.label>
-  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
-  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
-  <Grenades.label>grenades</Grenades.label>
-
+  <Weapons.label>senjata</Weapons.label>
+  <WeaponsMelee.label>senjata jarak dekat</WeaponsMelee.label>
+  <WeaponsRanged.label>senjata jarak jauh</WeaponsRanged.label>
+  <Grenades.label>granat</Grenades.label>
 
   <!-- Apparel -->
 
-  <Apparel.label>apparel</Apparel.label>
-  <Headgear.label>headgear</Headgear.label>
-
+  <Apparel.label>pakaian</Apparel.label>
+  <Headgear.label>penutup kepala</Headgear.label>
 
   <!-- Buildings -->
 
-  <Buildings.label>buildings</Buildings.label>
-  <BuildingsArt.label>art</BuildingsArt.label>
-  <BuildingsProduction.label>production</BuildingsProduction.label>
-  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
-  <BuildingsPower.label>power</BuildingsPower.label>
-  <BuildingsSecurity.label>security</BuildingsSecurity.label>
-  <BuildingsMisc.label>misc</BuildingsMisc.label>
-  <BuildingsJoy.label>recreation</BuildingsJoy.label>
-  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
-
+  <Buildings.label>bangunan</Buildings.label>
+  <BuildingsArt.label>seni</BuildingsArt.label>
+  <BuildingsProduction.label>produksi</BuildingsProduction.label>
+  <BuildingsFurniture.label>perabotan</BuildingsFurniture.label>
+  <BuildingsPower.label>listrik</BuildingsPower.label>
+  <BuildingsSecurity.label>keamanan</BuildingsSecurity.label>
+  <BuildingsMisc.label>lain-lain</BuildingsMisc.label>
+  <BuildingsJoy.label>hiburan</BuildingsJoy.label>
+  <BuildingsTemperature.label>suhu</BuildingsTemperature.label>
+  <BuildingsSpecial.label>khusus</BuildingsSpecial.label>
 
   <!-- Chunks -->
 
-  <Chunks.label>chunks</Chunks.label>
-  <StoneChunks.label>stone chunks</StoneChunks.label>
-
+  <Chunks.label>serpihan</Chunks.label>
+  <StoneChunks.label>serpihan batu</StoneChunks.label>
 
   <!-- Corpses -->
 
-  <Corpses.label>corpses</Corpses.label>
-  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
-  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
-  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
-
+  <Corpses.label>mayat</Corpses.label>
+  <CorpsesHumanlike.label>mayat manusia</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>bangkai hewan</CorpsesAnimal.label>
+  <CorpsesInsect.label>bangkai serangga</CorpsesInsect.label>
+  <CorpsesMechanoid.label>bangkai mekanoid</CorpsesMechanoid.label>
 
 </LanguageData>

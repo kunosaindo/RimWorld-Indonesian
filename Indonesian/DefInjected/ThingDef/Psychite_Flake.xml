@@ -2,9 +2,8 @@
 <LanguageData>
 
   <Flake.label>flake</Flake.label>
-  <Flake.description>A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies.</Flake.description>
-  <Flake.ingestible.ingestCommandString>Smoke {0}</Flake.ingestible.ingestCommandString>
-  <Flake.ingestible.ingestReportString>Smoking {0}.</Flake.ingestible.ingestReportString>
-
+  <Flake.description>Serbuk putih dari psychite yang bisa dihisap untuk memberikan efek euforia yang singkat tapi kuat. Meskipun murah diproduksi dan sangat nikmat digunakan, zat ini sangat memicu kecanduan. Flake terkenal dapat menghancurkan kehidupan, komunitas, dan seluruh masyarakat.</Flake.description>
+  <Flake.ingestible.ingestCommandString>Hisap {0}</Flake.ingestible.ingestCommandString>
+  <Flake.ingestible.ingestReportString>Menghisap {0}.</Flake.ingestible.ingestReportString>
 
 </LanguageData>

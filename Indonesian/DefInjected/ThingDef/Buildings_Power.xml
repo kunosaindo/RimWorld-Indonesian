@@ -1,66 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <PowerConduit.label>power conduit</PowerConduit.label>
-  <PowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
+  <PowerConduit.label>saluran listrik</PowerConduit.label>
+  <PowerConduit.description>Serangkaian kabel listrik untuk menyalurkan listrik. Dapat dipasang di bawah dinding dan bangunan lainnya.</PowerConduit.description>
   <PowerConduit_Blueprint.label>power conduit (blueprint)</PowerConduit_Blueprint.label>
   <PowerConduit_Frame.label>power conduit (building)</PowerConduit_Frame.label>
   <PowerConduit_Frame.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit_Frame.description>
 
-  <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
-  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
+  <WaterproofConduit.label>saluran tahan air</WaterproofConduit.label>
+  <WaterproofConduit.description>Kabel listrik terisolasi untuk menyalurkan listrik di bawah air dangkal.</WaterproofConduit.description>
   <WaterproofConduit_Blueprint.label>waterproof conduit (blueprint)</WaterproofConduit_Blueprint.label>
   <WaterproofConduit_Frame.label>waterproof conduit (building)</WaterproofConduit_Frame.label>
   <WaterproofConduit_Frame.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit_Frame.description>
 
-  <PowerSwitch.label>power switch</PowerSwitch.label>
-  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
-  <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint.label>
+  <PowerSwitch.label>saklar listrik</PowerSwitch.label>
+  <PowerSwitch.description>Menghidupkan/mematikan aliran listrik.</PowerSwitch.description>
+  <PowerSwitch_Blueprint.label>power switch (blueprint)</PowerSwitch_Blueprint_Blueprint.label>
   <PowerSwitch_Frame.label>power switch (building)</PowerSwitch_Frame.label>
   <PowerSwitch_Frame.description>Switches power on/off.</PowerSwitch_Frame.description>
 
-  <WoodFiredGenerator.label>wood-fired generator</WoodFiredGenerator.label>
-  <WoodFiredGenerator.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator.description>
+  <WoodFiredGenerator.label>generator kayu bakar</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>Menghasilkan listrik dengan mengonsumsi kayu. Harus diisi ulang dengan bahan bakar kayu secara manual.</WoodFiredGenerator.description>
   <WoodFiredGenerator_Blueprint.label>wood-fired generator (blueprint)</WoodFiredGenerator_Blueprint.label>
   <WoodFiredGenerator_Frame.label>wood-fired generator (building)</WoodFiredGenerator_Frame.label>
   <WoodFiredGenerator_Frame.description>Produces power by consuming wood. Must be periodically loaded with wood fuel by hand.</WoodFiredGenerator_Frame.description>
 
-  <ChemfuelPoweredGenerator.label>chemfuel powered generator</ChemfuelPoweredGenerator.label>
-  <ChemfuelPoweredGenerator.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.label>generator bahan bakar kimia</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>Menghasilkan listrik dengan mengonsumsi bahan bakar kimia. Harus diisi ulang secara manual.</ChemfuelPoweredGenerator.description>
   <ChemfuelPoweredGenerator_Blueprint.label>chemfuel powered generator (blueprint)</ChemfuelPoweredGenerator_Blueprint.label>
   <ChemfuelPoweredGenerator_Frame.label>chemfuel powered generator (building)</ChemfuelPoweredGenerator_Frame.label>
   <ChemfuelPoweredGenerator_Frame.description>Produces power by consuming chemfuel. Must be periodically refueled by hand.</ChemfuelPoweredGenerator_Frame.description>
 
-  <WindTurbine.label>wind turbine</WindTurbine.label>
-  <WindTurbine.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</WindTurbine.description>
-  <WindTurbine_Blueprint.label>wind turbine (blueprint)</WindTurbine_Blueprint.label>
-  <WindTurbine_Frame.label>wind turbine (building)</WindTurbine_Frame.label>
-  <WindTurbine_Frame.description>A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.</WindTurbine_Frame.description>
+  <WindTurbine.label>turbin angin</WindTurbine.label>
+  <WindTurbine.description>Generator listrik yang digerakkan oleh angin. Membutuhkan area yang luas dan bersih di depan dan belakang untuk aliran udara yang optimal.</WindTurbine.description>
+  <WindTurbine_Blueprint.label>turbin angin (cetak biru)</WindTurbine_Blueprint.label>
+  <WindTurbine_Frame.label>turbin angin (bangunan)</WindTurbine_Frame.label>
+  <WindTurbine_Frame.description>Generator listrik yang digerakkan oleh angin. Membutuhkan area yang luas dan bersih di depan dan belakang untuk aliran udara yang optimal.</WindTurbine_Frame.description>
 
-  <Battery.label>battery</Battery.label>
-  <Battery.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery.description>
-  <Battery_Blueprint.label>battery (blueprint)</Battery_Blueprint.label>
-  <Battery_Blueprint_Install.label>battery (blueprint)</Battery_Blueprint_Install.label>
-  <Battery_Frame.label>battery (building)</Battery_Frame.label>
-  <Battery_Frame.description>Stores electricity for later use. Charged batteries explode when exposed to rain or fire.</Battery_Frame.description>
+  <Battery.label>baterai</Battery.label>
+  <Battery.description>Menyimpan listrik untuk digunakan nanti. Baterai yang terisi akan meledak jika terkena hujan atau api.</Battery.description>
+  <Battery_Blueprint.label>baterai (cetak biru)</Battery_Blueprint.label>
+  <Battery_Blueprint_Install.label>baterai (cetak biru)</Battery_Blueprint_Install.label>
+  <Battery_Frame.label>baterai (bangunan)</Battery_Frame.label>
+  <Battery_Frame.description>Menyimpan listrik untuk digunakan nanti. Baterai yang terisi akan meledak jika terkena hujan atau api.</Battery_Frame.description>
 
-  <SolarGenerator.label>solar generator</SolarGenerator.label>
-  <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</SolarGenerator.description>
-  <SolarGenerator_Blueprint.label>solar generator (blueprint)</SolarGenerator_Blueprint.label>
-  <SolarGenerator_Frame.label>solar generator (building)</SolarGenerator_Frame.label>
-  <SolarGenerator_Frame.description>Produces electricity from sunlight. Does not work in the dark or under artificial light.</SolarGenerator_Frame.description>
+  <SolarGenerator.label>generator surya</SolarGenerator.label>
+  <SolarGenerator.description>Menghasilkan listrik dari sinar matahari. Tidak berfungsi dalam kegelapan atau di bawah cahaya buatan.</SolarGenerator.description>
+  <SolarGenerator_Blueprint.label>generator surya (cetak biru)</SolarGenerator_Blueprint.label>
+  <SolarGenerator_Frame.label>generator surya (bangunan)</SolarGenerator_Frame.label>
+  <SolarGenerator_Frame.description>Menghasilkan listrik dari sinar matahari. Tidak berfungsi dalam kegelapan atau di bawah cahaya buatan.</SolarGenerator_Frame.description>
 
-  <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
-  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator.description>
-  <GeothermalGenerator_Blueprint.label>geothermal generator (blueprint)</GeothermalGenerator_Blueprint.label>
-  <GeothermalGenerator_Frame.label>geothermal generator (building)</GeothermalGenerator_Frame.label>
-  <GeothermalGenerator_Frame.description>Produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</GeothermalGenerator_Frame.description>
+  <GeothermalGenerator.label>generator panas bumi</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Menghasilkan listrik dari uap panas bumi. Harus ditempatkan di atas sumber uap panas bumi.</GeothermalGenerator.description>
+  <GeothermalGenerator_Blueprint.label>generator panas bumi (cetak biru)</GeothermalGenerator_Blueprint.label>
+  <GeothermalGenerator_Frame.label>generator panas bumi (bangunan)</GeothermalGenerator_Frame.label>
+  <GeothermalGenerator_Frame.description>Menghasilkan listrik dari uap panas bumi. Harus ditempatkan di atas sumber uap panas bumi.</GeothermalGenerator_Frame.description>
 
-  <WatermillGenerator.label>watermill generator</WatermillGenerator.label>
-  <WatermillGenerator.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</WatermillGenerator.description>
-  <WatermillGenerator_Blueprint.label>watermill generator (blueprint)</WatermillGenerator_Blueprint.label>
-  <WatermillGenerator_Frame.label>watermill generator (building)</WatermillGenerator_Frame.label>
-  <WatermillGenerator_Frame.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</WatermillGenerator_Frame.description>
-
+  <WatermillGenerator.label>generator kincir air</WatermillGenerator.label>
+  <WatermillGenerator.description>Menghasilkan listrik dari aliran sungai. Harus ditempatkan dengan rodanya di air yang mengalir. Jika kincir air ditempatkan terlalu dekat satu sama lain, turbulensi yang dihasilkan akan saling mengganggu dan mengurangi produksi listrik.</WatermillGenerator.description>
+  <WatermillGenerator_Blueprint.label>generator kincir air (cetak biru)</WatermillGenerator_Blueprint.label>
+  <WatermillGenerator_Frame.label>generator kincir air (bangunan)</WatermillGenerator_Frame.label>
+  <WatermillGenerator_Frame.description>Menghasilkan listrik dari aliran sungai. Harus ditempatkan dengan rodanya di air yang mengalir. Jika kincir air ditempatkan terlalu dekat satu sama lain, turbulensi yang dihasilkan akan saling mengganggu dan mengurangi produksi listrik.</WatermillGenerator_Frame.description>
 
 </LanguageData>

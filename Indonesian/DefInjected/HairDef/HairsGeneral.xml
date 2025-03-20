@@ -4,27 +4,26 @@
   <Afro.label>afro</Afro.label>
   <Bob.label>bob</Bob.label>
   <Burgundy.label>burgundy</Burgundy.label>
-  <Flowy.label>flowy</Flowy.label>
-  <Long.label>long</Long.label>
+  <Flowy.label>mengalir</Flowy.label>
+  <Long.label>panjang</Long.label>
   <Mohawk.label>mohawk</Mohawk.label>
-  <Mop.label>mop</Mop.label>
-  <Pigtails.label>pigtails</Pigtails.label>
-  <Shaved.label>shaved</Shaved.label>
-  <Spikes.label>spikes</Spikes.label>
-  <Tuft.label>tuft</Tuft.label>
-  <Wavy.label>wavy</Wavy.label>
-  <BraidedKnot.label>braided knot</BraidedKnot.label>
+  <Mop.label>pel</Mop.label>
+  <Pigtails.label>kuncir dua</Pigtails.label>
+  <Shaved.label>dicukur</Shaved.label>
+  <Spikes.label>runcing</Spikes.label>
+  <Tuft.label>jambul</Tuft.label>
+  <Wavy.label>bergelombang</Wavy.label>
+  <BraidedKnot.label>simpul kepang</BraidedKnot.label>
   <Topdog.label>topdog</Topdog.label>
   <Senorita.label>senorita</Senorita.label>
-  <ScorpionTail.label>scorpion tail</ScorpionTail.label>
-  <BriefPonytail.label>brief ponytail</BriefPonytail.label>
-  <Troubadour.label>troubadour</Troubadour.label>
-  <Messy.label>messy</Messy.label>
-  <Princess.label>princess</Princess.label>
-  <Firestarter.label>firestarter</Firestarter.label>
-  <GreasySwoop.label>greasy swoop</GreasySwoop.label>
-  <Curly.label>curly</Curly.label>
+  <ScorpionTail.label>ekor kalajengking</ScorpionTail.label>
+  <BriefPonytail.label>kuncir kuda pendek</BriefPonytail.label>
+  <Troubadour.label>penyair</Troubadour.label>
+  <Messy.label>berantakan</Messy.label>
+  <Princess.label>putri</Princess.label>
+  <Firestarter.label>pemantik api</Firestarter.label>
+  <GreasySwoop.label>sapu berminyak</GreasySwoop.label>
+  <Curly.label>keriting</Curly.label>
   <Scatman.label>scatman</Scatman.label>
-
 
 </LanguageData>

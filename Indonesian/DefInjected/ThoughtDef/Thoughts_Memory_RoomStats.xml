@@ -1,73 +1,72 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AteInImpressiveDiningRoom.stages.3.label>decent dining room</AteInImpressiveDiningRoom.stages.3.label>
-  <AteInImpressiveDiningRoom.stages.3.description>I ate my meal in a decent dining room.</AteInImpressiveDiningRoom.stages.3.description>
-  <AteInImpressiveDiningRoom.stages.4.label>slightly impressive dining room</AteInImpressiveDiningRoom.stages.4.label>
-  <AteInImpressiveDiningRoom.stages.4.description>I ate my meal in a slightly impressive dining room.</AteInImpressiveDiningRoom.stages.4.description>
-  <AteInImpressiveDiningRoom.stages.5.label>somewhat impressive dining room</AteInImpressiveDiningRoom.stages.5.label>
-  <AteInImpressiveDiningRoom.stages.5.description>I ate my meal in an impressive dining room.</AteInImpressiveDiningRoom.stages.5.description>
-  <AteInImpressiveDiningRoom.stages.6.label>very impressive dining room</AteInImpressiveDiningRoom.stages.6.label>
-  <AteInImpressiveDiningRoom.stages.6.description>I ate my meal in a very impressive dining room.</AteInImpressiveDiningRoom.stages.6.description>
-  <AteInImpressiveDiningRoom.stages.7.label>extremely impressive dining room</AteInImpressiveDiningRoom.stages.7.label>
-  <AteInImpressiveDiningRoom.stages.7.description>I ate my meal in an extremely impressive dining room. I could stay there forever.</AteInImpressiveDiningRoom.stages.7.description>
-  <AteInImpressiveDiningRoom.stages.8.label>unbelievably impressive dining room</AteInImpressiveDiningRoom.stages.8.label>
-  <AteInImpressiveDiningRoom.stages.8.description>I ate my meal in an unbelievably impressive dining room. I could stay there forever.</AteInImpressiveDiningRoom.stages.8.description>
-  <AteInImpressiveDiningRoom.stages.9.label>wondrously impressive dining room</AteInImpressiveDiningRoom.stages.9.label>
-  <AteInImpressiveDiningRoom.stages.9.description>I ate my meal in a wonderful dining room. I could stay there forever.</AteInImpressiveDiningRoom.stages.9.description>
+  <AteInImpressiveDiningRoom.stages.3.label>ruang makan lumayan</AteInImpressiveDiningRoom.stages.3.label>
+  <AteInImpressiveDiningRoom.stages.3.description>Aku makan di ruang makan yang lumayan.</AteInImpressiveDiningRoom.stages.3.description>
+  <AteInImpressiveDiningRoom.stages.4.label>ruang makan agak bagus</AteInImpressiveDiningRoom.stages.4.label>
+  <AteInImpressiveDiningRoom.stages.4.description>Aku makan di ruang makan yang agak bagus.</AteInImpressiveDiningRoom.stages.4.description>
+  <AteInImpressiveDiningRoom.stages.5.label>ruang makan mengesankan</AteInImpressiveDiningRoom.stages.5.label>
+  <AteInImpressiveDiningRoom.stages.5.description>Aku makan di ruang makan yang mengesankan.</AteInImpressiveDiningRoom.stages.5.description>
+  <AteInImpressiveDiningRoom.stages.6.label>ruang makan sangat mengesankan</AteInImpressiveDiningRoom.stages.6.label>
+  <AteInImpressiveDiningRoom.stages.6.description>Aku makan di ruang makan yang sangat mengesankan.</AteInImpressiveDiningRoom.stages.6.description>
+  <AteInImpressiveDiningRoom.stages.7.label>ruang makan luar biasa mengesankan</AteInImpressiveDiningRoom.stages.7.label>
+  <AteInImpressiveDiningRoom.stages.7.description>Aku makan di ruang makan yang luar biasa mengesankan. Aku ingin tetap di sini selamanya.</AteInImpressiveDiningRoom.stages.7.description>
+  <AteInImpressiveDiningRoom.stages.8.label>ruang makan tak terbayangkan mengesankan</AteInImpressiveDiningRoom.stages.8.label>
+  <AteInImpressiveDiningRoom.stages.8.description>Aku makan di ruang makan yang tak terbayangkan mengesankannya. Aku ingin tetap di sini selamanya.</AteInImpressiveDiningRoom.stages.8.description>
+  <AteInImpressiveDiningRoom.stages.9.label>ruang makan menakjubkan</AteInImpressiveDiningRoom.stages.9.label>
+  <AteInImpressiveDiningRoom.stages.9.description>Aku makan di ruang makan yang menakjubkan. Aku ingin tetap di sini selamanya.</AteInImpressiveDiningRoom.stages.9.description>
 
-  <JoyActivityInImpressiveRecRoom.stages.3.label>decent rec room</JoyActivityInImpressiveRecRoom.stages.3.label>
-  <JoyActivityInImpressiveRecRoom.stages.3.description>I had fun in a decent rec room.</JoyActivityInImpressiveRecRoom.stages.3.description>
-  <JoyActivityInImpressiveRecRoom.stages.4.label>slightly impressive rec room</JoyActivityInImpressiveRecRoom.stages.4.label>
-  <JoyActivityInImpressiveRecRoom.stages.4.description>I had fun in a nice rec room.</JoyActivityInImpressiveRecRoom.stages.4.description>
-  <JoyActivityInImpressiveRecRoom.stages.5.label>somewhat impressive rec room</JoyActivityInImpressiveRecRoom.stages.5.label>
-  <JoyActivityInImpressiveRecRoom.stages.5.description>I had a great time in an impressive rec room.</JoyActivityInImpressiveRecRoom.stages.5.description>
-  <JoyActivityInImpressiveRecRoom.stages.6.label>very impressive rec room</JoyActivityInImpressiveRecRoom.stages.6.label>
-  <JoyActivityInImpressiveRecRoom.stages.6.description>I had a great time in a very impressive rec room.</JoyActivityInImpressiveRecRoom.stages.6.description>
-  <JoyActivityInImpressiveRecRoom.stages.7.label>extremely impressive rec room</JoyActivityInImpressiveRecRoom.stages.7.label>
-  <JoyActivityInImpressiveRecRoom.stages.7.description>I had a great time in an extremely impressive rec room. I could stay there forever.</JoyActivityInImpressiveRecRoom.stages.7.description>
-  <JoyActivityInImpressiveRecRoom.stages.8.label>unbelievably impressive rec room</JoyActivityInImpressiveRecRoom.stages.8.label>
-  <JoyActivityInImpressiveRecRoom.stages.8.description>I had a great time in an unbelievably impressive rec room. I could stay there forever.</JoyActivityInImpressiveRecRoom.stages.8.description>
-  <JoyActivityInImpressiveRecRoom.stages.9.label>wondrously impressive rec room</JoyActivityInImpressiveRecRoom.stages.9.label>
-  <JoyActivityInImpressiveRecRoom.stages.9.description>I had a great time in a wonderful rec room. I could stay there forever.</JoyActivityInImpressiveRecRoom.stages.9.description>
+  <JoyActivityInImpressiveRecRoom.stages.3.label>ruang rekreasi lumayan</JoyActivityInImpressiveRecRoom.stages.3.label>
+  <JoyActivityInImpressiveRecRoom.stages.3.description>Aku bersenang-senang di ruang rekreasi yang lumayan.</JoyActivityInImpressiveRecRoom.stages.3.description>
+  <JoyActivityInImpressiveRecRoom.stages.4.label>ruang rekreasi agak bagus</JoyActivityInImpressiveRecRoom.stages.4.label>
+  <JoyActivityInImpressiveRecRoom.stages.4.description>Aku bersenang-senang di ruang rekreasi yang bagus.</JoyActivityInImpressiveRecRoom.stages.4.description>
+  <JoyActivityInImpressiveRecRoom.stages.5.label>ruang rekreasi mengesankan</JoyActivityInImpressiveRecRoom.stages.5.label>
+  <JoyActivityInImpressiveRecRoom.stages.5.description>Aku sangat bersenang-senang di ruang rekreasi yang mengesankan.</JoyActivityInImpressiveRecRoom.stages.5.description>
+  <JoyActivityInImpressiveRecRoom.stages.6.label>ruang rekreasi sangat mengesankan</JoyActivityInImpressiveRecRoom.stages.6.label>
+  <JoyActivityInImpressiveRecRoom.stages.6.description>Aku sangat bersenang-senang di ruang rekreasi yang sangat mengesankan.</JoyActivityInImpressiveRecRoom.stages.6.description>
+  <JoyActivityInImpressiveRecRoom.stages.7.label>ruang rekreasi luar biasa mengesankan</JoyActivityInImpressiveRecRoom.stages.7.label>
+  <JoyActivityInImpressiveRecRoom.stages.7.description>Aku sangat bersenang-senang di ruang rekreasi yang luar biasa mengesankan. Aku ingin tetap di sini selamanya.</JoyActivityInImpressiveRecRoom.stages.7.description>
+  <JoyActivityInImpressiveRecRoom.stages.8.label>ruang rekreasi tak terbayangkan mengesankan</JoyActivityInImpressiveRecRoom.stages.8.label>
+  <JoyActivityInImpressiveRecRoom.stages.8.description>Aku sangat bersenang-senang di ruang rekreasi yang tak terbayangkan mengesankannya. Aku ingin tetap di sini selamanya.</JoyActivityInImpressiveRecRoom.stages.8.description>
+  <JoyActivityInImpressiveRecRoom.stages.9.label>ruang rekreasi menakjubkan</JoyActivityInImpressiveRecRoom.stages.9.label>
+  <JoyActivityInImpressiveRecRoom.stages.9.description>Aku sangat bersenang-senang di ruang rekreasi yang menakjubkan. Aku ingin tetap di sini selamanya.</JoyActivityInImpressiveRecRoom.stages.9.description>
 
-  <SleptInBedroom.stages.0.label>awful bedroom</SleptInBedroom.stages.0.label>
-  <SleptInBedroom.stages.0.description>I had to sleep in an awful room.</SleptInBedroom.stages.0.description>
-  <SleptInBedroom.stages.3.label>decent bedroom</SleptInBedroom.stages.3.label>
-  <SleptInBedroom.stages.3.description>I got to sleep in a pretty decent bedroom.</SleptInBedroom.stages.3.description>
-  <SleptInBedroom.stages.4.label>slightly impressive bedroom</SleptInBedroom.stages.4.label>
-  <SleptInBedroom.stages.4.description>I got to sleep in a slightly impressive bedroom. I like it.</SleptInBedroom.stages.4.description>
-  <SleptInBedroom.stages.5.label>impressive bedroom</SleptInBedroom.stages.5.label>
-  <SleptInBedroom.stages.5.description>I slept in an impressive bedroom. It was great.</SleptInBedroom.stages.5.description>
-  <SleptInBedroom.stages.6.label>very impressive bedroom</SleptInBedroom.stages.6.label>
-  <SleptInBedroom.stages.6.description>I slept in a very impressive bedroom. I love it.</SleptInBedroom.stages.6.description>
-  <SleptInBedroom.stages.7.label>extremely impressive bedroom</SleptInBedroom.stages.7.label>
-  <SleptInBedroom.stages.7.description>I slept in an extremely impressive bedroom. It was marvelous.</SleptInBedroom.stages.7.description>
-  <SleptInBedroom.stages.8.label>unbelievably impressive bedroom</SleptInBedroom.stages.8.label>
-  <SleptInBedroom.stages.8.description>I slept in an unbelievably impressive bedroom. It was truly astounding.</SleptInBedroom.stages.8.description>
-  <SleptInBedroom.stages.9.label>wondrously impressive bedroom</SleptInBedroom.stages.9.label>
-  <SleptInBedroom.stages.9.description>I slept in a heavenly bedroom. It was wondrous.</SleptInBedroom.stages.9.description>
+  <SleptInBedroom.stages.0.label>kamar tidur buruk</SleptInBedroom.stages.0.label>
+  <SleptInBedroom.stages.0.description>Aku harus tidur di kamar yang buruk.</SleptInBedroom.stages.0.description>
+  <SleptInBedroom.stages.3.label>kamar tidur lumayan</SleptInBedroom.stages.3.label>
+  <SleptInBedroom.stages.3.description>Aku bisa tidur di kamar yang lumayan bagus.</SleptInBedroom.stages.3.description>
+  <SleptInBedroom.stages.4.label>kamar tidur agak mengesankan</SleptInBedroom.stages.4.label>
+  <SleptInBedroom.stages.4.description>Aku bisa tidur di kamar yang agak mengesankan. Aku suka.</SleptInBedroom.stages.4.description>
+  <SleptInBedroom.stages.5.label>kamar tidur mengesankan</SleptInBedroom.stages.5.label>
+  <SleptInBedroom.stages.5.description>Aku tidur di kamar yang mengesankan. Bagus sekali.</SleptInBedroom.stages.5.description>
+  <SleptInBedroom.stages.6.label>kamar tidur sangat mengesankan</SleptInBedroom.stages.6.label>
+  <SleptInBedroom.stages.6.description>Aku tidur di kamar yang sangat mengesankan. Aku suka sekali.</SleptInBedroom.stages.6.description>
+  <SleptInBedroom.stages.7.label>kamar tidur luar biasa mengesankan</SleptInBedroom.stages.7.label>
+  <SleptInBedroom.stages.7.description>Aku tidur di kamar yang luar biasa mengesankan. Sungguh mengagumkan.</SleptInBedroom.stages.7.description>
+  <SleptInBedroom.stages.8.label>kamar tidur tak terbayangkan mengesankan</SleptInBedroom.stages.8.label>
+  <SleptInBedroom.stages.8.description>Aku tidur di kamar yang tak terbayangkan mengesankannya. Benar-benar menakjubkan.</SleptInBedroom.stages.8.description>
+  <SleptInBedroom.stages.9.label>kamar tidur menakjubkan</SleptInBedroom.stages.9.label>
+  <SleptInBedroom.stages.9.description>Aku tidur di kamar yang seperti surga. Sungguh menakjubkan.</SleptInBedroom.stages.9.description>
 
-  <SleptInBarracks.stages.0.label>awful barrack</SleptInBarracks.stages.0.label>
-  <SleptInBarracks.stages.0.description>I had to sleep in an awful barrack. Not only was it a horrible room, but I also had to share it!</SleptInBarracks.stages.0.description>
-  <SleptInBarracks.stages.1.label>dull barrack</SleptInBarracks.stages.1.label>
-  <SleptInBarracks.stages.1.description>I had to sleep in a dull barrack. Not only that, but I also had to share it with other people.</SleptInBarracks.stages.1.description>
-  <SleptInBarracks.stages.2.label>mediocre barrack</SleptInBarracks.stages.2.label>
-  <SleptInBarracks.stages.2.description>I had to sleep in a mediocre barrack with other people around. I really don't like this.</SleptInBarracks.stages.2.description>
-  <SleptInBarracks.stages.3.label>decent barrack</SleptInBarracks.stages.3.label>
-  <SleptInBarracks.stages.3.description>I slept in a decent barrack, but I really dislike sharing a sleeping space.</SleptInBarracks.stages.3.description>
-  <SleptInBarracks.stages.4.label>slightly impressive barrack</SleptInBarracks.stages.4.label>
-  <SleptInBarracks.stages.4.description>I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others.</SleptInBarracks.stages.4.description>
-  <SleptInBarracks.stages.5.label>impressive barrack</SleptInBarracks.stages.5.label>
-  <SleptInBarracks.stages.5.description>I got to sleep in an impressive barrack. It sucks that I had to share it, though.</SleptInBarracks.stages.5.description>
-  <SleptInBarracks.stages.6.label>very impressive barrack</SleptInBarracks.stages.6.label>
-  <SleptInBarracks.stages.6.description>I slept in a very impressive barrack. I don't even mind sharing it.</SleptInBarracks.stages.6.description>
-  <SleptInBarracks.stages.7.label>extremely impressive barrack</SleptInBarracks.stages.7.label>
-  <SleptInBarracks.stages.7.description>I slept in an extremely impressive barrack. I don't even mind sharing it.</SleptInBarracks.stages.7.description>
-  <SleptInBarracks.stages.8.label>unbelievably impressive barrack</SleptInBarracks.stages.8.label>
-  <SleptInBarracks.stages.8.description>The barrack I slept in was so impressive that I don't even mind sharing it.</SleptInBarracks.stages.8.description>
-  <SleptInBarracks.stages.9.label>wondrously impressive barrack</SleptInBarracks.stages.9.label>
-  <SleptInBarracks.stages.9.description>I slept in a barrack that was simply wondrous. Even sharing such a space makes me happy.</SleptInBarracks.stages.9.description>
-
+  <SleptInBarracks.stages.0.label>barak buruk</SleptInBarracks.stages.0.label>
+  <SleptInBarracks.stages.0.description>Aku harus tidur di barak yang buruk. Bukan hanya kamarnya yang buruk, tapi aku juga harus berbagi!</SleptInBarracks.stages.0.description>
+  <SleptInBarracks.stages.1.label>barak membosankan</SleptInBarracks.stages.1.label>
+  <SleptInBarracks.stages.1.description>Aku harus tidur di barak yang membosankan. Dan harus berbagi dengan orang lain.</SleptInBarracks.stages.1.description>
+  <SleptInBarracks.stages.2.label>barak biasa saja</SleptInBarracks.stages.2.label>
+  <SleptInBarracks.stages.2.description>Aku harus tidur di barak biasa saja dengan orang lain di sekitar. Aku sangat tidak suka ini.</SleptInBarracks.stages.2.description>
+  <SleptInBarracks.stages.3.label>barak lumayan</SleptInBarracks.stages.3.label>
+  <SleptInBarracks.stages.3.description>Aku tidur di barak yang lumayan, tapi aku sangat tidak suka berbagi ruang tidur.</SleptInBarracks.stages.3.description>
+  <SleptInBarracks.stages.4.label>barak agak mengesankan</SleptInBarracks.stages.4.label>
+  <SleptInBarracks.stages.4.description>Aku bisa tidur di barak yang cukup bagus. Tapi aku sangat tidak suka berbagi kamar dengan orang lain.</SleptInBarracks.stages.4.description>
+  <SleptInBarracks.stages.5.label>barak mengesankan</SleptInBarracks.stages.5.label>
+  <SleptInBarracks.stages.5.description>Aku bisa tidur di barak yang mengesankan. Sayang sekali harus berbagi.</SleptInBarracks.stages.5.description>
+  <SleptInBarracks.stages.6.label>barak sangat mengesankan</SleptInBarracks.stages.6.label>
+  <SleptInBarracks.stages.6.description>Aku tidur di barak yang sangat mengesankan. Aku bahkan tidak keberatan berbagi.</SleptInBarracks.stages.6.description>
+  <SleptInBarracks.stages.7.label>barak luar biasa mengesankan</SleptInBarracks.stages.7.label>
+  <SleptInBarracks.stages.7.description>Aku tidur di barak yang luar biasa mengesankan. Aku bahkan tidak keberatan berbagi.</SleptInBarracks.stages.7.description>
+  <SleptInBarracks.stages.8.label>barak tak terbayangkan mengesankan</SleptInBarracks.stages.8.label>
+  <SleptInBarracks.stages.8.description>Barak tempat aku tidur sangat mengesankan sampai aku tidak keberatan berbagi.</SleptInBarracks.stages.8.description>
+  <SleptInBarracks.stages.9.label>barak menakjubkan</SleptInBarracks.stages.9.label>
+  <SleptInBarracks.stages.9.description>Aku tidur di barak yang benar-benar menakjubkan. Berbagi tempat seperti ini bahkan membuatku senang.</SleptInBarracks.stages.9.description>
 
 </LanguageData>

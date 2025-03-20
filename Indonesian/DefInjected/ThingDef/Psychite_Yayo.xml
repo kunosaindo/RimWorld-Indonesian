@@ -2,9 +2,9 @@
 <LanguageData>
 
   <Yayo.label>yayo</Yayo.label>
-  <Yayo.description>A refined powdery preparation of the psychite drug. When snorted, it produces a rapid euphoric high, dramatically reduces the user's need for rest, and suppresses pain. Like all forms of psychite, it is addictive, though it is not as addictive as the cruder flake.\n\nBecause of its high cost and refined appearance, many cultures associate yayo with degenerate wealth. Whether in the throneroom or the boardroom, many hare-brained policy schemes have been developed during yayo-fueled binge parties.</Yayo.description>
-  <Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
-  <Yayo.ingestible.ingestReportString>Snorting {0}.</Yayo.ingestible.ingestReportString>
+  <Yayo.description>Bubuk olahan dari obat psychite. Saat dihirup, menghasilkan eforia yang cepat, secara dramatis mengurangi kebutuhan pengguna untuk beristirahat, dan menekan rasa sakit. Seperti semua bentuk psychite, ini bisa membuat kecanduan, meskipun tidak semudah kecanduan flake yang lebih kasar.\n\nKarena biayanya yang tinggi dan penampilannya yang halus, banyak budaya mengaitkan yayo dengan kemewahan yang merosot. Baik di ruang singgasana atau ruang rapat, banyak skema kebijakan yang tidak masuk akal telah dikembangkan selama pesta mabuk yayo.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>Hirup {0}</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>Menghirup {0}.</Yayo.ingestible.ingestReportString>
 
 
 </LanguageData>
